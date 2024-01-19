@@ -1,0 +1,11 @@
+id: 孚
+solo_componente: 1
+clave: aguilucho
+historia: >-
+  Esto es un componente que parece fácil de recordar: el "niño" (子) de un águila
+  (爫) es un *aguilucho*. 
+componentes:
+  - niño
+  - águila
+como_componente: []
+

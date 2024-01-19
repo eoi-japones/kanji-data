@@ -1,0 +1,17 @@
+id: 爰
+
+clave: bandada_patos
+
+solo_componente: 1
+
+historia: >
+  Vemos un conjunto de patitos que avanzan como si se tratasen de un (一) solo
+  cuerpo, formando un perfecto ejemplo de la amistad (友). Esa fuerza del grupo
+  es tan fuerte como cualquier águila (爫)
+
+componentes:
+  - uno
+  - amigo
+  - águila
+
+como_componente: []

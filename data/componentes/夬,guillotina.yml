@@ -1,0 +1,12 @@
+id: 夬
+clave: guillotina
+historia: >-
+  Vemos una *guillotina* con forma de llave (ユ) cayendo sobre una persona (人)
+  parece que su suerte está decidida. 
+
+componentes:
+  - llave
+  - persona
+como_componente: []
+
+solo_componente: 1

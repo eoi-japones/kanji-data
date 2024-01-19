@@ -1,0 +1,11 @@
+id: 圥
+clave: plantón_de_arroz
+solo_componente: 1
+historia: >-
+  Imagen eterna en Japón, los campesinos arrodillados en la dura tierra (土) con
+  las piernas dolientes (儿) preparando los *plantones* *de* *arroz* que
+  asegurarán su sustento en los futuros meses. 
+componentes:
+  - tierra
+  - piernas
+como_componente: []

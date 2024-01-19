@@ -1,0 +1,8 @@
+id: 戈
+clave: fiesta
+historia: |
+  Vemos flechas (弋) adornadas con un penacho, sinónimo de fiesta. 
+solo_componente: 1
+componentes:
+  - flecha
+como_componente: []

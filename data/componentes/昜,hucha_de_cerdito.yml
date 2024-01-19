@@ -1,0 +1,15 @@
+id: 昜
+
+clave: hucha_de_cerdito
+
+solo_componente: 1
+
+historia: >-
+  No te olvides de meter *cada* *día* (日) una o dos monedas en tu hucha con
+  forma de cochinillo (勿) o cerdito. 
+
+componentes:
+  - día
+  - cochinillo
+
+como_componente: []

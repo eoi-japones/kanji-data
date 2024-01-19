@@ -1,0 +1,12 @@
+id: 禺
+clave: onagasaru
+solo_componente: 1
+historia: >-
+  Un *mono* *legendario* en Japón, su sabiduría era respetada por todos. Al lado
+  de su cerebro (田) los de los humanos eran como de insectos (虫), tenía una
+  larguísima cola que solía enrollar como si de un cinturón (冂) se tratase. 
+componentes:
+  - cerebro
+  - cinturón
+  - insecto
+como_componente: []

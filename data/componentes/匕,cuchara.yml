@@ -1,0 +1,16 @@
+id: 匕
+solo_componente: 1
+clave: cuchara
+historia: >-
+  Vemos la forma de una cuchara. Mírala bien, porque la vas a necesitar para un
+  montón de kanji. 
+
+
+  Además de una cuchara, vista de perfil, este kanji significa, como componente,
+  *sentado* *en* *el* *suelo*. Si te imaginas a alguien cómodamente sentado en
+  el suelo, no te será difícil acordarte de este segundo sentido que tiene este
+  kanji. 
+componentes: []
+como_componente:
+  - 'Sentado_en_el_suelo,匕'
+

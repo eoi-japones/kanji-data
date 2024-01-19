@@ -1,0 +1,14 @@
+id: 𦰩
+clave: espantapájaros
+
+solo_componente: 1
+
+historia: >-
+  Este componente tiene el sentido de un espantapájaros. Tiene una forma
+  humaniforme (夫) a la que le han encajado una boca (口) y unas flores (艹) a modo
+  de sombrero. 
+componentes:
+  - humaniforme
+  - boca
+  - flor
+como_componente: []

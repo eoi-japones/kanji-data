@@ -1,0 +1,15 @@
+id: 喬
+
+clave: ángel
+
+solo_componente: 1
+
+historia: >-
+  ¿Quién puede volar tan alto (高) que hasta llega al mismísimo paraíso (天)? Sólo
+  un ángel puede hacerlo. 
+
+componentes:
+  - paraiso
+  - alto
+
+como_componente: []

@@ -1,0 +1,20 @@
+id: 㑒
+
+solo_componente: 1
+
+clave: punzón
+
+historia: >-
+  En las reuniones () hay que tener cuidado con las cosas que se dicen a las
+  otras personas (人). 
+
+
+  Este componente parece dar ese consejo: antes de hablar precipitadamente en
+  una reunión, ¡atraviesa tu boca (口) con un punzón!
+
+componentes:
+  - reunión
+  - persona
+  - boca
+como_componente: []
+

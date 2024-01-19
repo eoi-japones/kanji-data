@@ -1,0 +1,11 @@
+id: 亽
+clave: reunión
+
+solo_componente: 1
+
+historia: "Buena forma de realizar una reunión: todos somos uno (一) bajo el paraguas (𠆢) de la causa que sea, la que nos lleva a celebrar esa reunión. "
+componentes:
+  - paraguas
+  - uno
+como_componente: []
+

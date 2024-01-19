@@ -1,0 +1,15 @@
+id: 巾
+
+solo_componente: 1
+
+clave: toalla
+
+historia: >
+
+    Es parecido al dibujo de una *toalla* estirada en la playa, con alguien tostándose encima de ella. 
+
+    El propietario de la toalla es tan delgado como un palo (｜) por lo que le sobra toalla por los dos lados.  
+
+componentes: []
+
+como_componente: []

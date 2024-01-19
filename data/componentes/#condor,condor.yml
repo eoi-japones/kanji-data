@@ -1,0 +1,10 @@
+id: '#condor'
+clave: condor
+historia: >-
+  El auténtico rey (王) de la montaña (山), superior al águila (⺤) allí donde
+  mora. 
+componentes:
+  - rey
+  - montaña
+  - águila
+como_componente: []

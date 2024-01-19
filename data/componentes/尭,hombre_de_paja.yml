@@ -1,0 +1,19 @@
+id: 尭
+
+clave: hombre_de_paja
+
+solo_componente: 1
+
+historia: >-
+  Los hombres de paja eran muñecos que se quemaban en los antiguos funerales
+  chinos. 
+
+
+  Aquí vemos a uno salir del pajar (卉) con su dos piernas (儿) dispuesto a huir
+  para salvar su vida. 
+
+componentes:
+  - pajar
+  - piernas
+
+como_componente: []

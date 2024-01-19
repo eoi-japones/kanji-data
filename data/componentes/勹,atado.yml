@@ -1,0 +1,14 @@
+id: 勹
+
+solo_componente: 1
+
+clave: atado
+
+historia: >+
+
+  Con un trozo de tela vemos como se forma una estructura que nos permite atar o empaquetar lo que queramos: libros, comida, gente (esperamos que no...)
+
+componentes: []
+
+como_componente: 
+  - empaquetado,勹

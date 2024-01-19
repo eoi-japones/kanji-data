@@ -1,0 +1,15 @@
+id: 广
+
+clave: cueva
+
+solo_componente: 1
+
+historia: >-
+  En el borde del barranco (厂) hay una cueva y allí, hicieron los hombres
+  antiguos su casa poniéndole un tejado. Vivían en cuevas. 
+
+componentes:
+  - barranco
+
+como_componente: []
+

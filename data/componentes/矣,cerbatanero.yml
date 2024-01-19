@@ -1,0 +1,10 @@
+id: 矣
+clave: cerbatanero
+historia: >-
+  Con el codo (厶) en tensión y el dardo (矢) en la cerbatana, así han quedado
+  inmortalizados los cerbataneros por los siglos de los siglos. 
+solo_componente: 1
+componentes:
+  - codo
+  - dardo
+como_componente: []

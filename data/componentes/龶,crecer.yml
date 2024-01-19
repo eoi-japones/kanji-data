@@ -1,0 +1,14 @@
+id: 龶
+
+clave: crecer
+
+solo_componente: 1
+
+historia: >-
+  Vemos un único tallo que va saliendo de la tierra (土) y ya sacó dos hojitas.
+  Esto es un símbolo perfecto de algo que *crece*
+
+componentes:
+  - tierra
+
+como_componente: []

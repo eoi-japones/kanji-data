@@ -1,0 +1,15 @@
+id: 卉
+
+clave: pajar
+
+solo_componente: 1
+
+historia: >-
+  Vemos tres agujas (十) y nos imaginamos lo difícil que sería buscarlas en un
+  pajar. 
+
+
+  Es un componente que usaremos mucho. 
+componentes:
+  - aguja
+como_componente: []
