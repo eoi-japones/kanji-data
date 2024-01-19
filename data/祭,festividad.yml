@@ -1,0 +1,11 @@
+id: 祭
+clave: festividad
+historia: >-
+  En las festividades de tipo religioso, las de altar (示), la gente debía
+  prepararse antes de conmemorarla, normalmente, absteniéndose de comer carne
+  (肉) y de otros placeres, como los de entrepierna (又).  
+componentes:
+  - altar
+  - entrepierna
+  - carne
+como_componente: []

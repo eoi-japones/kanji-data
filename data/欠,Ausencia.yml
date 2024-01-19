@@ -1,0 +1,9 @@
+id: 欠
+clave: Ausencia
+historia: 'Una persona (人) atada (勹) a un sitio y en ausencia de algo que hacer, bosteza.'
+componentes:
+  - '人,persona'
+  - '勹,atado'
+como_componente:
+  - 'ausencia,欠'
+  - 'bostezar,欠'

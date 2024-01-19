@@ -1,0 +1,8 @@
+id: 休
+clave: Descansar
+historia: 'Bajo un árbol (木), son goku (人) descansa.'
+componentes:
+  - '人,persona'
+  - '木,árbol'
+como_componente:
+  - 'descansar,休'

@@ -1,0 +1,9 @@
+id: 肢
+clave: extremidad
+historia: >-
+  Bueno, nos lo pone fácil este kanji: las extremidades (brazos y piernas) son
+  aquellas partes del cuerpo (月) que más se parecen a ramas (支). 
+componentes:
+  - parte_del_cuerpo
+  - rama
+como_componente: []

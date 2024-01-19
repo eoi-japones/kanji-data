@@ -1,0 +1,14 @@
+id: 西
+clave: Oeste
+historia: >
+  Norte, Sur, Este y ... Oeste. En nuestra forma de contar los puntos cardinales, el oeste siempre viene de cuarto. 
+
+  Es una (一) dirección, la cuarta (四), concretamente. 
+
+  Es componente, le vamos a dar el sentido de *lejano* *oeste*, ya sabéis el de los vaqueros, las pistolas y las espuelas. 
+
+componentes:
+  - 'cuatro'
+  - 'uno'
+como_componente:
+  - 'lejano_oeste,西'

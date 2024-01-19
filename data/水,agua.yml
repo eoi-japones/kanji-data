@@ -1,0 +1,9 @@
+id: 水
+clave: Agua
+historia: >
+
+  Al meter un palo con fuerza en un estanque de *agua* salen gotas alrededor
+  suyo.
+componentes: []
+como_componente:
+  - 'agua,⺡'

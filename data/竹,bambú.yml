@@ -1,0 +1,11 @@
+id: 竹
+clave: bambú
+historia: >-
+  Vemos el pictograma de dos tallos de bambú creciendo. 
+
+
+  El kanji, como componente, suele perder la largura de los tallos y colocarse
+  encima del compuesto (⺮). 
+componentes: []
+como_componente:
+  - 'bambú,⺮'

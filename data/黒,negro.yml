@@ -1,0 +1,13 @@
+id: 黒
+clave: Negro
+historia: >-
+  El inventor de este kanji, 
+
+
+  después de aprobar las odiadas matemáticas, quemó su calculadora (里) en el
+  fuego del hornillo (⺣) de su cocina. Al final sólo quedó un amasijo de color
+  *negro* que da sentido a este kanji. 
+componentes:
+  - calculadora
+  - fuego_de_hornillo
+como_componente: []

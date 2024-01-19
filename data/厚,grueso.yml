@@ -1,0 +1,12 @@
+id: 厚
+clave: grueso
+historia: >-
+  Vemos a un niño (子) que se ha caído por un barranco (厂) y le ha dado el sol
+  (日) durante mucho tiempo. Cuando lo rescatan, su piel está muy gruesa de la
+  insolación. 
+componentes:
+  - niño
+  - sol
+  - barranco
+como_componente: []
+

@@ -1,0 +1,11 @@
+id: 掌
+clave: manipular
+historia: >-
+  A la hora de manipular un retrete exterior () es muy importante tener cuidado
+  de no mancharse las manos (手). Este es el consejo y la observación que hace
+  esta kanji: "Nadie puede manipular un retrete exterior sin mancharse las
+  manos". 
+componentes:
+  - retrete_exterior
+  - mano
+como_componente: []

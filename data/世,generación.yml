@@ -1,0 +1,6 @@
+id: 世
+clave: generación
+historia: 'Una generación son 30 años, es decir, tres dieces (十) encadenados. '
+componentes:
+  - diez
+como_componente: []

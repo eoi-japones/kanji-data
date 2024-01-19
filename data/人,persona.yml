@@ -1,0 +1,13 @@
+id: 人
+
+clave: Persona
+
+historia: >
+    
+    Es el dibujo de una *persona* que vemos a lo lejos, sólo se distinguen el torso y las piernas.
+
+componentes: []
+
+como_componente:
+
+    - son_goku,亻

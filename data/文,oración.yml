@@ -1,0 +1,15 @@
+id: 文
+clave: oración
+historia: >-
+  Las oraciones en japonés suelen resultar complejas; así que tendemos a pensar
+  ¡que cruz! y así se expresa en el kanji. 
+
+
+  Pero si las trabajamos un poco, nos convertiremos llegaremos a ser "dandies",
+  de chistera (亠) y hacer lo que queramos con ellas. 
+
+
+  Le vamos a dar, a este kanji, el sentido como componente de *a* *cuadros*. 
+componentes: []
+como_componente:
+  - 'a_cuadros, 文'

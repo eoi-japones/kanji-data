@@ -1,0 +1,9 @@
+id: 央
+clave: centro
+historia: >-
+  Vemos a un San Bernardo (大) al que se le coloca una carga (en forma de caja)
+  para que la transporte. Es muy importante que quede en el *centro* de gravedad
+  puesto que, de lo contrario, el animal no podrá transportarla adecuadamente.  
+componentes:
+  - san_bernardo
+como_componente: []

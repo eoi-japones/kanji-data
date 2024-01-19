@@ -1,0 +1,15 @@
+id: 泣
+
+clave: llorar
+
+# otras_claves: 
+
+historia: >
+    
+    Si el jarrón chino (立), una reliquia valiosa de nuestra familia, se rompe *lloraremos* tanto la pérdida que nuestras lágrimas (氵) inundarán el suelo.
+
+componentes:
+    - agua
+    - jarrón
+
+como_componente: []

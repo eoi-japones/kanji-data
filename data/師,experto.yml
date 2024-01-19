@@ -1,0 +1,8 @@
+id: 師
+clave: experto
+historia: "Vemos a un virtuoso (師) que, si bien está ahora en el techo (一) de su arte, tuvo a buen seguro unos comienzos mucho más humildes. \n\nDe ahí la toalla (巾) que representa cuando este experto estaba *en* *pañales*. "
+componentes:
+  - virtuoso
+  - techo
+  - toalla
+como_componente: []

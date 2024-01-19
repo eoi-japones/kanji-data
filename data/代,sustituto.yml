@@ -1,0 +1,10 @@
+id: 代
+clave: sustituto
+historia: >-
+  Imagínate a Goku (亻)  volando por el aire, no te será difícil pensar que el
+  único sustituto para esa imagen sería el de una flecha (弋) que surca el
+  espacio. 
+componentes:
+  - son_goku
+  - flecha
+como_componente: []

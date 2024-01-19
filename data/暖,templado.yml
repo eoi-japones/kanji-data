@@ -1,0 +1,9 @@
+id: 暖
+clave: templado
+historia: >-
+  Vemos una bandada_de_patos (爰) que deciden migrar a zonas más *templadas*
+  donde haya un mejor sol (日).
+componentes:
+  - bandada_patos
+  - sol
+como_componente: []

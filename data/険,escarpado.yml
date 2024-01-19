@@ -1,0 +1,16 @@
+id: 険
+clave: escarpado
+historia: >-
+  Un terreno escarpado está lleno de rocas, con pendientes muy pronunciadas y de
+  muy difícil acceso. 
+
+
+  Podemos pensar en el *Naranjo* *de* *Bulnes* como ejemplo de terreno
+  escarpado: ¡parece que la cúspide (阝) se modeló con un punzón (㑒)!
+
+
+  ¡A pesar de esto, hay quien lo ha escalado!
+componentes:
+  - cúspide
+  - punzón
+como_componente: []

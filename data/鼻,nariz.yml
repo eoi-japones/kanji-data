@@ -1,0 +1,15 @@
+id: 鼻
+
+clave: Nariz
+
+historia: >
+    
+    A las momias les quitan por la *nariz* (自) el cerebro (田), así que lo primero que hace cuando revive es metérselo de nuevo con ambas manos (廾) otra vez por la *nariz*.
+
+componentes: 
+    
+    - nariz_(componente)
+    - cerebro
+    - ambas_manos
+
+como_componente: []

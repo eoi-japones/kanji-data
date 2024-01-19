@@ -1,0 +1,14 @@
+id: 猫
+
+clave: Gato
+
+historia: >
+    
+    La jauría protege el plantón de los gatos.
+	
+componentes:
+    
+    - jauría
+    - plantón
+
+como_componente: []

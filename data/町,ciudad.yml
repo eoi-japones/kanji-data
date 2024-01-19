@@ -1,0 +1,13 @@
+id: 町
+clave: Ciudad
+historia: >-
+  Vemos una pequeña e idílica ciudad japonesa; la primera calle (丁) de la ciudad
+  comienza justo al terminar un campo de arroz (田) 
+
+
+  La ciudad empieza, entonces, donde termina el campo. 
+componentes:
+  - Campo_de_arroz
+  - Calle
+como_componente: []
+

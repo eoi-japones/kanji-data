@@ -1,0 +1,12 @@
+id: 爪
+clave: garras
+historia: >-
+  Es el pictograma de unas garras listas para clavarse en una presa o en el
+  cuerpo de un enemigo. 
+
+
+  Como componente, le vamos a dar el sentido de un animal que tiene poderosas
+  garras: *el* *águila* y adoptará una forma diferente: (爫).
+componentes: []
+como_componente:
+  - 'águila,爫'

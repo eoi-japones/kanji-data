@@ -1,0 +1,12 @@
+id: 引
+clave: tirar
+historia: >-
+  Se refiere al verbo opuesto al de *empujar*. 
+
+
+  Si tiramos de un arco (弓) por los dos extremos se pone tenso hasta adoptar la
+  forma de un palo (#bastón).
+componentes:
+  - arco
+  - palo
+como_componente: []

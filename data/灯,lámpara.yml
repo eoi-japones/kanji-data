@@ -1,0 +1,10 @@
+id: 灯
+clave: lámpara
+historia: >+
+  Cuando se inventó este kanji, las lámparas aún eran algún tipo de fuego (火),
+  ya fuera una candela o una vela... anclada, o clavada (丁) a la pared o techo.
+
+componentes:
+  - fuego
+  - clavo
+como_componente: []

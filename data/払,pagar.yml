@@ -1,0 +1,11 @@
+id: 払
+clave: pagar
+historia: >-
+  En España decimos de alguien que *no paga*, que "le das la mano y te coge el
+  brazo", los japoneses dicen que el "aprovechado" que no paga le das un dedo
+  (⺘) y te coge hasta el codo (厶). De esta forma recordaréis al gorrón que no
+  *paga*.
+componentes:
+  - ⺘
+  - 厶
+como_componente: []

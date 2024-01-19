@@ -1,0 +1,7 @@
+id: 跡
+clave: rastro
+historia: "Si tenemos una pata de palo (𧾷) uno de los muchos inconvenientes es que se puede seguir nuestro rastro fácilmente, como si se tratase de recoger manzanas rojas del suelo (亦)."
+componentes:
+  - pata_de_palo
+  - manzana_roja
+como_componente: []

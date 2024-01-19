@@ -1,0 +1,8 @@
+id: 森
+clave: Bosque
+historia: |
+
+  Si vemos árboles (木) por todos lados, es que estamos en un *bosque*.
+componentes:
+  - árbol
+como_componente: []

@@ -1,0 +1,11 @@
+id: 余
+clave: excesivo
+historia: >-
+  Antiguamente, se empleaba un dicho para expresar que algo era *excesivo*, se
+  decía: "no necesitas hacer una reunión (亽) de mástiles de madera (朩) para
+  cazar animales pequeños". Con el tiempo se codificó la historia en este kanji
+  para expresar algo innecesario o exagerado. 
+componentes:
+  - reunión
+  - mástiles_de_madera
+como_componente: []

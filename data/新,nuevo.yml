@@ -1,0 +1,10 @@
+id: 新
+clave: nuevo
+historia: >-
+  Son varias las revoluciones sucedidas en Chile (亲), el peor error de todas
+  ellas es decir que van a construir un *nuevo* *Chile* a través del hacha (斤) o
+  sea, a través de medios violentos. 
+componentes:
+  - chile
+  - hacha
+como_componente: []

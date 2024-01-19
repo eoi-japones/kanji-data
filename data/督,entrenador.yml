@@ -1,0 +1,11 @@
+id: 督
+clave: entrenador
+historia: >-
+  Un consejo para ser un buen entrenador: hay que mantener una cierta distancia
+  con tus jugadores al mismo tiempo que te preocupas por ellos; más que un padre
+  trata de ser un tío (叔) para ellos y procurar observarlos con ojos (目)
+  cercanos y la vez lejanos y no te equivocarás. 
+componentes:
+  - tío
+  - ojo
+como_componente: []

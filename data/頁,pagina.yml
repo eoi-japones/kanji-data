@@ -1,0 +1,11 @@
+id: 頁
+clave: pagina
+historia: >-
+  Vemos una almeja (貝) que contiene *una* (一) sola página, una gota (丶) de
+  sabiduría que se nos ofrece. 
+
+
+  Este kanji tiene otro significado como componente: el de *cabeza*
+componentes: []
+como_componente:
+  - 'cabeza,頁'

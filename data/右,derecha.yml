@@ -1,0 +1,13 @@
+id: 右
+
+clave: derecha
+
+historia: >
+    
+    A mi lado derecho una boca (口) susurró 
+componentes: 
+    
+    - a_tu_lado
+    - boca
+
+como_componente: []

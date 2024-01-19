@@ -1,0 +1,11 @@
+id: 鳥
+clave: pájaro
+historia: >-
+  Este kanji evoca la imagen de un pájaro ideal: de color blanco (白) que vuela
+  majestuosamente mientras las plumas de su cola se agitan como fuego de
+  hornillo (⺣). 
+componentes:
+  - blanco
+  - fuego_de_hornillo
+como_componente: []
+

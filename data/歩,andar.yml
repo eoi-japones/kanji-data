@@ -1,0 +1,9 @@
+id: 歩
+clave: andar
+historia: >-
+  Vemos una huella (止) y un poco (少) más adelante otra, y otra y otra...  señal
+  de que alguien ha estado *andando* por ahí. 
+componentes:
+  - huella
+  - poco
+como_componente: []

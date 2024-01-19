@@ -1,0 +1,19 @@
+id: 金
+
+clave: oro
+
+otras_claves: metal
+
+historia: >
+    
+    El *oro* es un *metal* muy preciado, por lo que está muy sujeto a falsificaciones.
+    Para poder distinguir si se encontraba bajo el paraguas (𠆢) del poder real el rey (王) le hacía dos marcas (丶) a cada lado con su propio cetro.
+
+componentes:
+    - paraguas
+    - rey
+    - gota
+
+como_componente:
+    - oro,金
+    - metal,金

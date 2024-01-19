@@ -1,0 +1,17 @@
+id: 魚
+
+clave: Pescado
+
+historia: >
+    
+  El hombre que siembra el campo lleva atados los pescados hacia el fogón.
+  
+componentes: 
+
+  - atado
+  - campo_de_arroz 
+  - fuego
+	
+como_componente:
+    
+  - pescado,魚

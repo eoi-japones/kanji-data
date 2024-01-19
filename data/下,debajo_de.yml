@@ -1,0 +1,15 @@
+id: 下
+
+clave: Debajo_de
+
+historia: >
+    
+    La vara del adivino (卜) está *debajo* *de* el techo (一). Como está debajo, el palito del lateral se inclina un poco.
+
+componentes:
+    
+    - techo
+    - varita_de_adivino
+
+como_componente:
+    - abajo,下

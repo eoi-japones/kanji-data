@@ -1,0 +1,10 @@
+id: 各
+clave: cada_uno
+historia: >-
+  Cada uno tiene su propia forma de andar (夂) y su forma de expresarse por su
+  boca (口).
+componentes:
+  - piernas_andantes
+  - boca
+como_componente: []
+

@@ -1,0 +1,14 @@
+id: 皆
+
+clave: Todos
+
+historia: >
+    
+    Si comparamos a todas las personas veremos que todos tenemos el pelo blanco al envejecer.
+	
+componentes:
+    
+    - comparar
+    - blanco
+
+como_componente: []

@@ -1,0 +1,15 @@
+id: 上
+
+clave: Encima_de
+
+historia: >
+          
+    La vara del adivino (卜) está *encima de* el suelo (一).
+    El adivino sujeta la vara con firmeza, por eso el palito se ve recto.
+
+componentes:
+    - suelo
+    - varita_de_adivino
+
+como_componente:
+    - arriba,上

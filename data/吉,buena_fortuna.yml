@@ -1,0 +1,14 @@
+id: 吉
+clave: Buena_fortuna
+historia: >-
+  Antiguamente, se consideraba de muy *buena* *fortuna* que un samurai (士)
+  otorgase de su propia boca (口) bendiciones a alguien. 
+
+
+  Como componente, vamos a darle el sentido de spray, de los que se usan para
+  pintar algo o hacer graffitis. 
+componentes:
+  - samurai
+  - boca
+como_componente:
+  - 'spray,吉'

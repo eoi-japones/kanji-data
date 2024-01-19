@@ -1,0 +1,16 @@
+id: 鯨
+
+clave: Ballena
+
+historia: >
+
+  La ballena es el pez (魚) capital (京).	
+
+componentes: 
+    
+  - pescado
+  - capital
+
+como_componente:
+    
+  - ballena,鯨

@@ -1,0 +1,9 @@
+id: 国
+clave: País
+historia: |
+  Un país encierra (囗) una joya (玉), su gente y su cultura.
+componentes:
+  - '囗,encerrar'
+  - '玉,joya'
+como_componente:
+  - 'pais,国'

@@ -1,0 +1,13 @@
+id: 由
+clave: por_lo_que
+historia: >-
+  En este kanji vemos un brote saliendo de un campo de arroz (田). Nos recuerda
+  la razón o *por* *lo* *que* se crean plantas de arroz: para tener brotes que
+  se conviertan en plantas y después, obviamente, en arroz. 
+
+
+  Como componente, este kanji significará brote.
+componentes:
+  - campo_de_arroz
+como_componente:
+  - 'brote,由'

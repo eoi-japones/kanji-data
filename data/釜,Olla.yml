@@ -1,0 +1,19 @@
+id: 釜
+clave: Olla
+historia: >-
+  Una olla tradicional japonesa *かま*. 
+
+
+  Estaban hechas de pesado metal (金) y era el momento en que la familia se
+  reunía en torno a ella para comer. 
+
+
+  El padre (父) era el que servía la comida. 
+
+
+  En el kanji se aprovecha el componente de padre para hacer el paraguas del
+  kanji de metal. 
+componentes:
+  - padre
+  - metal
+como_componente: []

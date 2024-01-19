@@ -1,0 +1,15 @@
+id: 王
+
+clave: rey 
+
+# otras_claves: 
+
+historia: >
+    
+    Es el pictograma de un *cetro*, que representa el poder del *Rey*
+
+componentes: []
+
+como_componente:
+    - rey,王
+    - cetro,王

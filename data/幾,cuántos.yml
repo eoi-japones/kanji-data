@@ -1,0 +1,17 @@
+id: 幾
+clave: cuántos
+historia: >-
+  Antiguamente, en las fiestas se solían llevar capullos de seda cosidos para
+  demostrar estatus y rango social. 
+
+
+  Este kanji intenta dar respuesta a una importante pregunta: ¿*Cuántos*
+  capullos (幺) de seda necesita cada persona (人) en una gran fiesta (戈)?. 
+
+
+  La respuesta es que, son *dos* capullos (幺幺) por persona. 
+componentes:
+  - capullo
+  - fiesta
+  - persona
+como_componente: []

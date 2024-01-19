@@ -1,0 +1,15 @@
+id: 犬
+
+clave: Perro
+
+historia: >
+    El San Bernardo es un perro tan grande(大), que cualquier otro *perro* se ve como una pequeña gota (丶) a su lado.
+    Pero como el San Bernardo es un perro muy bonachón, sube al otro perro a su espalda para que se sienta tan grande cómo él.
+
+componentes:
+  - san_bernardo
+  - gota
+
+como_componente: 
+  - jauria,⺨ 
+

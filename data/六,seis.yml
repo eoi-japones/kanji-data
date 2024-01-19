@@ -1,0 +1,16 @@
+id: 六
+
+clave: seis
+
+historia: >
+    
+    Cuando las PATAS del conejo asoman por la CHISTERA del mago 
+    nos quedamos "locos" 「 ろく 」 con el truco.
+    
+
+componentes:
+
+    - chistera
+    - patas
+
+como_componente: []

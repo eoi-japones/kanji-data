@@ -1,0 +1,12 @@
+id: 再
+clave: de_nuevo
+historia: >-
+  Vemos que, de nuevo, el monarca se ha dejado el cinturón (冂) con la
+  importantísima joya (玉) de la realeza olvidado por ahí. 
+
+
+  Cuando los siervos del palacio lo ven, exclaman "oh no ¡de nuevo!"
+componentes:
+  - cinturón
+  - joya
+como_componente: []

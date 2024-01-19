@@ -1,0 +1,9 @@
+id: 化
+clave: cambio
+historia: >-
+  En la historia de Songoku (⺅) *Puar* y *Oolong* resultan muy útiles puesto que
+  pueden *cambiar* su forma en cualquier objeto, incluida una cuchara (匕).
+componentes:
+  - songoku
+  - cuchara
+como_componente: []

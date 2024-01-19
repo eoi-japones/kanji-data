@@ -1,0 +1,14 @@
+id: 粗
+clave: chapuza
+historia: >+
+  Una chapuza terrible para los japoneses, dado su respeto por el arroz (米),
+  sería apilarlo en cualquier sitio sin tener en cuenta su importancia. 
+
+
+  Cualquier cosa que no sea apilar el arroz en una estantería (且) es una
+  chapuza. 
+
+componentes:
+  - arroz
+  - estantería
+como_componente: []

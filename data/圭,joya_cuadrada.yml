@@ -1,0 +1,16 @@
+id: 圭
+clave: joya_cuadrada
+historia: >-
+  Este kanji nos habla de un tipo de joyas con forma cuadrada muy típicas de
+  Asia. 
+
+
+  La idea es que, para producirlas se necesita una enorme presión. Por eso se
+  producen en las profundidades entre dos enormes masas de tierra (土).
+
+
+  Como componente le damos el sentido de *hiedra*. 
+componentes:
+  - tierra
+como_componente:
+  - 'hiedra,圭'

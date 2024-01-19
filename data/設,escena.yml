@@ -1,0 +1,25 @@
+id: 設
+clave: escena
+historia: >
+  ¿No os habéis hecho nunca esta pregunta?
+
+
+  ¿Qué es lo que más apreciáis en una **escena** (de una película o serie)?  
+
+
+  ¿Los efectos especiales o los diálogos brillantes?
+
+
+  Parece que este kanji nos invita a reflexionar sobre esto: ¿qué importa más en
+  una escena? 
+
+
+  Quizá sean los efectos, como los misiles (殳) en una película de acción. 
+
+
+  O puede que sean las ingeniosas palabras (言) que ponen en boca de los
+  protagonistas. 
+componentes:
+  - misil
+  - palabras
+como_componente: []

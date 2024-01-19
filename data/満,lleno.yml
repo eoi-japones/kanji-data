@@ -1,0 +1,11 @@
+id: 満
+clave: lleno
+historia: |-
+  El agua (氵) y las flores (艹) son necesarias para alegrar cualquier jardín. 
+
+  Ambos (両) son necesarios para que podamos decir que nuestro jardín está *lleno*. 
+componentes:
+  - agua
+  - flor
+  - ambos
+como_componente: []

@@ -1,0 +1,15 @@
+id: 学
+
+clave: Estudiar
+
+historia: > 
+
+    Un niño en la escuela, estudia
+
+componentes: 
+
+    - edificio_escolar
+	
+    - Niño
+
+como_componente: []

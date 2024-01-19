@@ -1,0 +1,14 @@
+id: 既
+clave: previamente
+historia: >-
+  Cuando compramos algo muy muy caro, procuramos olvidar rápidamente el precio
+  que pagamos por ello. 
+
+
+  Hay que hacer ese esfuerzo, de lo contrario, cada vez que veamos el artículo
+  nos atragantaremos (旡) pensando en la "pasta gansa" (艮) que *previamente*
+  habías pagado por él. 
+componentes:
+  - atragantarse
+  - pasta_gansa
+como_componente: []

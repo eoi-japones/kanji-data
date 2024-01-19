@@ -1,0 +1,9 @@
+id: 帰
+clave: Regresar
+historia: Al acabar la guerra el guerrero (士) cambia su lanza (刈) por una escoba (ヨ) y un delantal (巾).
+componentes:
+  - '刈,lanza'
+  - 'ヨ,escoba'
+  - '巾,delantal'
+como_componente:
+  - 'regresar,帰'

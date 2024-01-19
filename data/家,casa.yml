@@ -1,0 +1,10 @@
+id: 家
+clave: casa
+historia: >-
+  Normalmente, en las antiguas *casas* gallegas, los cerdos (豕) y demás ganado
+  vivían en la parte de abajo para que el calor subiese hasta cerca del tejado
+  (宀) donde vivía la gente. 
+componentes:
+  - tejado_casa
+  - cerdo
+como_componente: []

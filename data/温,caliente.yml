@@ -1,0 +1,12 @@
+id: 温
+clave: caliente
+historia: >+
+  Este kanji nos recuerda un fenómeno físico: si dejamos al sol (日) un plato (皿)
+  con líquido (氵) en su superficie, a medida que el plato se *caliente* por
+  efecto de la luz solar, se irá evaporando el líquido que esté sobre el mismo. 
+
+componentes:
+  - sol
+  - gotas
+  - plato
+como_componente: []

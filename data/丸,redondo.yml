@@ -1,0 +1,14 @@
+id: 丸
+
+clave: redondo
+
+historia: >
+    
+    Al número NUEVE (九) le falta sólo una gotita para ser un número REDONDO (el 10).
+
+componentes:
+
+    - nueve
+    - gota
+
+como_componente: []

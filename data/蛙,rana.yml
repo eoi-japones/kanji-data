@@ -1,0 +1,10 @@
+id: 蛙
+clave: rana
+historia: >+
+  Una rana es, básicamente, un devorador de bichos (虫) a los que suele esperar
+  desde una hiedra (圭) para darse un festín. 
+
+componentes:
+  - insecto
+  - hiedra
+como_componente: []

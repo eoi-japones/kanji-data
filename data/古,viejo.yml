@@ -1,0 +1,16 @@
+id: 古
+
+clave: Viejo
+
+historia: >
+    
+  Los viejos hablan como si tuvisen diez (十)　bocas (口)。
+	
+componentes: 
+    
+  - diez
+  - boca
+
+como_componente:
+    
+  - viejo,古

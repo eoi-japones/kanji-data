@@ -1,0 +1,16 @@
+id: 拝
+clave: venerar
+historia: >+
+  En los sitios de culto, para favorecer y facilitar la *veneración* a los
+  dioses, se suelen utilizar distintos aromas. 
+
+
+  Así, por ejemplo, en Asia, es muy común impregnarse los dedos (扌) de aromas de
+  distintos arbustos (丰) que están colgando del techo (一) a tal efecto en los
+  centros de culto y veneración. 
+
+componentes:
+  - dedo
+  - arbustos
+  - techo
+como_componente: []

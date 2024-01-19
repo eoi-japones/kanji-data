@@ -1,0 +1,16 @@
+id: 刃
+
+clave: filo
+
+# otras_claves: 
+
+historia: >
+    
+    Si pasas el dedo por el filo de la espada (刀), correrá una gota (丶) de sangre
+
+componentes:
+
+    - espada
+    - gota
+
+como_componente: []

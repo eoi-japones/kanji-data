@@ -1,0 +1,14 @@
+id: 皇
+
+clave: Emperador
+
+historia: >
+    
+    El rey que viste de blanco.
+	
+componentes:
+    
+    - blanco
+    - rey
+
+como_componente: []

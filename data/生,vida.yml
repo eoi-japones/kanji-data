@@ -1,0 +1,15 @@
+id: 生
+
+clave: vida
+
+# otras_claves: 
+
+historia: >
+    
+    Una hoja (丶) nace como una gota que crece (龶), representando la *vida* y como se abre paso.
+
+componentes:
+    - gota
+    - crecer
+
+como_componente: []

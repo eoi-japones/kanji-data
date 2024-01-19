@@ -1,0 +1,16 @@
+id: 洗
+
+clave: lavar
+
+# otras_claves: 
+
+historia: >
+    
+    Estamos dando un paseo por el campo en un día caluroso y llegamos a un estanque, pero hay una vaca que le ha echado ya el ojo. Así que nosotros cogemos el agua (⺡) antes (先) de que se *lave* la vaca en él y lo ensucie todo.
+
+componentes: 
+    
+    - agua
+    - delante
+
+como_componente: []

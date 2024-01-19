@@ -1,0 +1,18 @@
+id: 氷
+clave: Hielo
+historia: >-
+  Si nos fijamos en nuestro congelador, vemos que hay estrellas que nos muestran
+  su potencia frigorífica. 
+
+
+  Esas estrellas están hechas de gotas (丶) de agua (水) congelada. 
+
+
+  Una estrella es el símbolo del *hielo*. 
+
+como_componente:
+  - hielo,冫
+
+componentes:
+  - agua
+  - gota

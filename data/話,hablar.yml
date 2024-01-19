@@ -1,0 +1,16 @@
+id: 話
+
+clave: hablar
+
+# otras_claves:
+
+historia: >
+    
+    *Hablar* es expresar (訁) cosas usando la lengua (舌).
+
+    
+componentes:
+    - decir
+    - lengua
+
+como_componente: []

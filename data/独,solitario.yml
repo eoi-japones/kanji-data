@@ -1,0 +1,9 @@
+id: 独
+clave: solitario
+historia: >-
+  Un perro solitario que se ve expulsado de su jauría (⺨) no puede cazar y se
+  verá obligado a subsistir a base de bichos e insectos (虫).
+componentes:
+  - jauría
+  - insecto
+como_componente: []

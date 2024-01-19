@@ -1,0 +1,16 @@
+id: 舌
+
+clave: lengua
+
+# otras_claves:
+
+historia: >
+    
+    Mil (千) bocas (口) esperan por una *lengua* para poder hablar.
+
+    
+componentes:
+    - mil
+    - boca
+
+como_componente: []

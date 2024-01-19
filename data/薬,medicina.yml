@@ -1,0 +1,17 @@
+id: 薬
+clave: medicina
+historia: >+
+  Desde el principio de los tiempos, el ser humano ha utilizado diversas plantas
+  y sus flores (⺾) como medicina. 
+
+
+  La música (楽) se dice que tiene también un efecto terapéutico. 
+
+
+  La medicina oriental considera que una combinación de flores (⺾) y música (楽)
+  es la mejor medicina.
+
+componentes:
+  - flor
+  - medicina
+como_componente: []

@@ -1,0 +1,10 @@
+id: 島
+clave: isla
+historia: >-
+  En lo alto de la única montaña (山) de una isla, se ha posado un pájaro (鳥)
+  que, precisamente por estar posado, pierde el efecto de hornillo de las plumas
+  de su cola. 
+componentes:
+  - pájaro
+  - montaña
+como_componente: []

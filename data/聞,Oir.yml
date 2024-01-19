@@ -1,0 +1,8 @@
+id: 聞
+clave: Oir
+historia: Oímos al abrir las puertas de nuestros oídos.
+componentes:
+  - '門,puertas_de_ciudad'
+  - '耳,oreja'
+como_componente:
+  - 'oir,聞'

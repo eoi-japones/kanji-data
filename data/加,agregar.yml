@@ -1,0 +1,13 @@
+id: 加
+clave: agregar
+historia: >+
+  Estamos haciendo un esfuerzo terrible (力) y alguien viene a agregar su "ayuda"
+  mediante ánimos verbales (口). ¡Venga! ¡Fuerza!
+
+  ¡Como si eso nos fuese a ayudar! En vez de tanto animar de boquilla (口) que
+  nos agreguen su apoyo mediante fuerza (力). 
+
+componentes:
+  - fuerza
+  - boca
+como_componente: []

@@ -1,0 +1,19 @@
+id: 机
+
+clave: escritorio
+
+otras_claves: mesa
+
+historia: >
+    
+    En un *escritorio* de madera (木) lleno de papeles entró el viento (几), haciendo que todos volaran por la habitación.
+	
+componentes: 
+    
+    - madera
+    - viento
+    
+
+como_componente:
+    - escritorio,机
+    - mesa,机

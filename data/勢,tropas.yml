@@ -1,0 +1,11 @@
+id: 勢
+clave: tropas
+historia: >-
+  Kanji bélico: el grueso o lo gordo (丸) de una fuerza (力) militar necesita,
+  para subsistir, el equivalente a un vivero (坴). Eso más el tiempo para que se
+  convierta en alimento. 
+componentes:
+  - vivero
+  - redondo
+  - fuerza
+como_componente: []

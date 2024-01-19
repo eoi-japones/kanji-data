@@ -1,0 +1,10 @@
+id: 沸
+clave: hervir
+historia: >-
+  Una de las medidas que se le suelen aplicar a los billetes de dólar (弗) es la
+  de hervirlos en agua (⺡) a una temperatura secreta. De esa forma son mucho más
+  difíciles de falsificar. 
+componentes:
+  - símbolo_del_dólar
+  - agua
+como_componente: []

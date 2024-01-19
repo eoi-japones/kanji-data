@@ -1,0 +1,14 @@
+id: 返
+clave: devolver
+historia: >-
+  Para fijar este kanji, podemos pensar en este tipo de tiendas online que hacen
+  que *devolver* algo que compramos en ellas sea un camino (辶) imposible.  
+
+
+  Ponen plazos incumplibles, requisitos imposibles... nos dicen que los
+  productos comprados en sus tiendas se pueden *devolver* pero al final el
+  camino que nos marcan es la anti (反) devolución. 
+componentes:
+  - camino
+  - anti
+como_componente: []

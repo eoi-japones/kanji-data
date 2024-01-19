@@ -1,0 +1,9 @@
+id: 決
+clave: decisión
+historia: >-
+  Con gotas de sudor (氵) vemos la guillotina (夬) cayendo hacia nosotros...
+  parece que está *decidido* nuestro destino
+componentes:
+  - gotas
+  - guillotina
+como_componente: []

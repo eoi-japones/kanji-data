@@ -1,0 +1,10 @@
+id: 週
+clave: Semana
+historia: >-
+  Al igual que el camino que traza el giro de una vasija, la semana es una ruta
+  circular.
+componentes:
+  - camino
+  - vasija
+como_componente:
+  - 'semana,週'

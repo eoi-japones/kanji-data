@@ -1,0 +1,10 @@
+id: 音
+clave: Sonido
+historia: >-
+  Cuando un jarrón se rompe, el sonido que genera nos persigue durante todo el
+  día.
+componentes:
+  - '立,jarrón'
+  - '日,día'
+como_componente:
+  - 'sonido,音'

@@ -1,0 +1,10 @@
+id: 預
+clave: depósito
+historia: >-
+  No debemos hacer depósito de antemano (予), primero empleemos la cabeza (頁) y
+  después podremos determinar si podemos o no hacer depósito de nuestra
+  confianza en la persona o institución de la que se trate. 
+componentes:
+  - de_antemano
+  - cabeza
+como_componente: []

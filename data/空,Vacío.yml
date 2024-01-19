@@ -1,0 +1,9 @@
+id: 空
+clave: Vacío
+historia: >-
+  Todas las técnicas (工) para hacer agujeros (穴) se basan en crear *vacíos* en
+  la superficie de la que se trate. 
+componentes:
+  - agujero
+  - técnica
+como_componente: []

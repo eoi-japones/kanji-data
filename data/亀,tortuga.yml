@@ -1,0 +1,9 @@
+id: 亀
+clave: Tortuga
+historia: 'Son dos conchas con forma de sol (日) atadas　(勹), y un pequeño rabo (乙).'
+componentes:
+  - '勹,atado'
+  - '日,sol'
+  - '乙,rabo'
+como_componente:
+  - 'tortuga,亀'

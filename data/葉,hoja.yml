@@ -1,0 +1,12 @@
+historia: >-
+  Cada generación (世) de hojas de un árbol (木) surge para permitirle vivir y,
+  culmina, normalmente, con la aparición de las flores (艹) que marcarán el
+  inicio de un nuevo ciclo. 
+id: 葉
+clave: hoja
+componentes:
+  - flor
+  - generación
+  - árbol
+como_componente: []
+

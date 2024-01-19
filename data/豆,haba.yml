@@ -1,0 +1,13 @@
+id: 豆
+clave: haba
+historia: >-
+  Vemos un *tarro* lleno de habas. Esto le da sentido a este kanji. 
+
+
+  Pictográficamente, se parece a una mesa, y ese será el sentido que le demos a
+  este kanji como componente. 
+componentes: []
+como_componente:
+  - 'alubia,豆'
+  - 'soja,豆'
+  - 'mesa,豆'

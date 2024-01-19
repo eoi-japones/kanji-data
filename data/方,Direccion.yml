@@ -1,0 +1,10 @@
+id: 方
+clave: Direccion
+historia: >-
+  De las diez mil direcciones que podemos tomar en la vida, acabos recorriendo
+  solo una.
+componentes:
+  - gota
+  - '万,diez_mil'
+como_componente:
+  - 'direccion,万'

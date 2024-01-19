@@ -1,0 +1,11 @@
+id: 乙
+clave: entrañas_pescado
+historia: >-
+  Este kanji es el pictograma de un anzuelo que, muchas veces, queda enredado en
+  las *entrañas* *del* *pescado* que lo muerde. 
+
+
+  Como componente, le vamos a dar el sentido de *anzuelo*. 
+componentes: []
+como_componente:
+  - 'anzuelo,乙'

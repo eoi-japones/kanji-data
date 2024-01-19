@@ -1,0 +1,15 @@
+id: 旦
+
+clave: Amanecer
+
+historia: > 
+
+    Cuando el sol (日) sale del suelo (一) es que está amaneciendo
+
+componentes: 
+
+    - Sol
+	
+    - Suelo
+
+como_componente: []

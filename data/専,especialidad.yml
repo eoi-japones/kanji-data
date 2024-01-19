@@ -1,0 +1,11 @@
+id: 専
+clave: especialidad
+historia: >-
+  Una especialidad es, según este kanji, un mínimo de diez (十) campos del saber
+  (田) pegados (寸) para formar eso, la *especialidad* que queramos, o que nos
+  imaginemos.  
+componentes:
+  - diez
+  - campo_de_arroz
+  - pegado_a
+como_componente: []

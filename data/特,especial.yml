@@ -1,0 +1,13 @@
+id: 特
+clave: especial
+historia: >-
+  El budismo predica el respeto a los animales, proviene de la India donde, como
+  todo el mundo sabe las vacas (牛) son sagradas. 
+
+
+  Así que, podemos decir que, en los templos budistas (寺) las vacas reciben un
+  trato *especial*. 
+componentes:
+  - vaca
+  - templo_budista
+como_componente: []

@@ -1,0 +1,13 @@
+id: 宿
+clave: hostal
+historia: >-
+  Los hostales japoneses están preparados para alojar hasta 100 (百)  personas
+  (人). 
+
+
+  Eso es un hostal: una casa (宀) preparada para albergar hasta 100 personas. 
+componentes:
+  - casa
+  - persona
+  - cien
+como_componente: []

@@ -1,0 +1,14 @@
+id: 糸
+clave: hilo
+historia: >-
+  El hilo, se medía antiguamente en codos (ム) lo cual se quedaba pequeño (小)
+  para la cantidad de metros que había que controlar. De ahí que se incrementase
+  la unidad de medida a dos codos (二).
+
+
+  Si unes todos los componentes, tendrás este compuesto de hilo. 
+componentes:
+  - codo
+  - pequeño
+  - dos
+como_componente: []

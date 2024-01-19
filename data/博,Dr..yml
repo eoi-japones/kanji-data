@@ -1,0 +1,10 @@
+id: 博
+clave: Dr.
+historia: >-
+  Un Dr. es alguien cuya especialidad (専) son las agujas (十) y no nos olvidemos
+  de la gota (丶) que marca el punto de la abreviatura. 
+componentes:
+  - especialidad
+  - aguja
+  - gota
+como_componente: []

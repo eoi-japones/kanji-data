@@ -1,0 +1,8 @@
+id: 茶
+clave: té
+historia: "Sabemos que el té proviene de las hojas del arbusto del té (Camellia sinensis). Lo que es menos conocido, es que también produce deliciosas flores (⺾) que se deben proteger. Para ello se colocan pequeños paraguas (\uD840\uDDA2) sostenidos por mástiles de madera (朩) colocados para proteger tan delicado y precioso bien. "
+componentes:
+  - flor
+  - paraguas
+  - mástiles_de_madera
+como_componente: []

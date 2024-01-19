@@ -1,0 +1,13 @@
+id: 兄
+
+clave: Hermano_mayor
+
+historia: >
+    
+    Para el hermano pequeño, el *hermano* *mayor* es siempre una boca (口) que le grita mucho y unas piernas (儿) que lo patean.
+
+componentes:
+    - boca
+    - piernas
+
+como_componente: []

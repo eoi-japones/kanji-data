@@ -1,0 +1,15 @@
+id: 吾
+
+clave: yo_interior
+
+# otras_claves: 
+
+historia: >
+    
+    Nuestro *yo interior* se comunica con el exterior con 5 (五) bocas (口).
+
+componentes:
+    - cinco
+    - boca
+
+como_componente: []

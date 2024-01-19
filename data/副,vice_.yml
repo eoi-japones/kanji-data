@@ -1,0 +1,13 @@
+id: 副
+clave: vice_
+historia: >-
+  El prefijo *vice_* hace referencia a un subalterno (vicepresidente,
+  vicedirector...) de tal manera que siempre se lleva una parte de la riqueza
+  (畐) de su superior. 
+
+
+  Normalmente, era a cambio de prestar sus servicios de espada o *sable* (刂). 
+componentes:
+  - riqueza
+  - espada
+como_componente: []

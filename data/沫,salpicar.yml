@@ -1,0 +1,8 @@
+id: 沫
+clave: Salpicar
+historia: Al caminar hacia al mar llegas al extremo (末) en que te salpica (氵)　
+componentes:
+  - '氵,agua'
+  - '末,extremo'
+como_componente:
+  - 'salpicar,沫'

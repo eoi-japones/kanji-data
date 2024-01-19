@@ -1,0 +1,13 @@
+id: 勿
+clave: 'no'
+historia: >-
+  Vemos un *no* muy fuerte y rotundo, tan absoluto que realmente es un atado (勹)
+  de dos 'no' en katakana (ノ). Esto quiere decir, NO y NO. 
+
+
+  Como componente, le vamos a dar el sentido pictórico de cochinillo por su
+  parecido con el componente de cerdo (豕).
+componentes:
+  - atado
+como_componente:
+  - 'cochinillo,勿'

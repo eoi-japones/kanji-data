@@ -1,0 +1,9 @@
+id: 外
+clave: exterior
+historia: >-
+  Los amantes de *Harry* *Potter* ya lo saben, las varitas mágicas (卜) no se
+  pueden usar fuera de *Hogwarts*, y muchísimo menos por la noche (夕). 
+componentes:
+  - varita_de_adivino
+  - noche
+como_componente: []

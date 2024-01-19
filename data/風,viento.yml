@@ -1,0 +1,8 @@
+id: 風
+clave: viento
+historia: "¡Asquerosos *jejenes*!\n\nGotas (丶) de insecto (虫) movidos por cualquier ventolera (\uD841\uDE28). "
+componentes:
+  - gota
+  - insecto
+  - ventolera
+como_componente: []

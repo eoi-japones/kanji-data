@@ -1,0 +1,11 @@
+id: 直
+clave: directamente
+historia: >-
+  Este kanji nos recuerda una realidad cotidiana: enhebrar una aguja (十) o
+  empatar un anzuelo (乙) a ojo (目) y *directamente* es algo muy difícil,
+  reservado únicamente para los expertos.   
+componentes:
+  - aguja
+  - ojo
+  - anzuelo
+como_componente: []

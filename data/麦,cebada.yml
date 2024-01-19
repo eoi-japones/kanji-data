@@ -1,0 +1,10 @@
+id: 麦
+clave: cebada
+historia: >-
+  La cebada es un alimento excepcional e importantísimo tanto para animales como
+  para personas. Si la comes regularmente, crecerás (龶) fuerte y tus piernas
+  andantes (夂) te llevarán a cualquier parte que quieras ir. 
+componentes:
+  - crecer
+  - piernas_andantes
+como_componente: []

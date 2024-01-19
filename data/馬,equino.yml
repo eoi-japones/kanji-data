@@ -1,0 +1,10 @@
+id: 馬
+clave: equino
+historia: >-
+  Con las crines moviéndose libremente y fuego (灬) en el firme, la estampa de la
+  libertad. 
+  Como componente, le daremos el sentido de *caballeriza*. 
+componentes:
+  - fuego_de_hornillo
+como_componente: 
+  - 'caballeriza,馬'

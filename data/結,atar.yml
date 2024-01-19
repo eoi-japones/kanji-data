@@ -1,0 +1,15 @@
+id: 結
+clave: atar
+historia: >-
+  Este kanji nos enseña cual es la buena forma de atar:
+
+
+  Primero, con hilo (糸) realizamos el atado propiamente dicho, después aplicamos
+  spray (吉) para que no se desate.
+
+
+  Las cosas quedan atadas y bien atadas de esta manera.
+componentes:
+  - hilo
+  - spray
+como_componente: []

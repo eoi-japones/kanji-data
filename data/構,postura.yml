@@ -1,0 +1,12 @@
+id: 構
+clave: postura
+historia: >-
+  Bueno, la postura al hacer de vientre debe ser lo más cómoda posible.
+
+
+  ¡Obviamente, en las antiguas bacinicas (冓) de madera (木) eso no era muy
+  posible! 
+componentes:
+  - bacinica
+  - madera
+como_componente: []

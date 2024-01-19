@@ -1,0 +1,7 @@
+id: 泡
+clave: burbuja
+historia: 'Eso es una burbuja: agua (氵) que envuelve (包) algo: normalmente aire. '
+componentes:
+  - agua
+  - envolver
+como_componente: []

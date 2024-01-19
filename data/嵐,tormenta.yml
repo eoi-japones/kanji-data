@@ -1,0 +1,9 @@
+id: 嵐
+clave: tormenta
+historia: |+
+  Fácil de definir: la tormenta es viento (風) que viene de la montaña (山). 
+
+componentes:
+  - viento
+  - montaña
+como_componente: []

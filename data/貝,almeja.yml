@@ -1,0 +1,16 @@
+id: 貝
+
+clave: Almeja
+
+historia: >
+
+    Una *almeja* con un sólo ojo (目) que nos persigue con sus patitas (ハ).
+
+    Recordad que, en las sociedades primitivas, se empleaban las conchas como medio de cambio. Este kanji, significará también, dinero o moneda. 
+
+componentes:
+    - ojo
+    - patas
+
+como_componente:
+    - moneda,貝

@@ -1,0 +1,16 @@
+id: 丁
+
+clave: calle
+
+# otras_claves: 
+
+historia: >
+    
+    En las calles hay un cartel clavado que señala qué calle es.
+
+componentes: []
+
+como_componente:
+    - clavo,丁
+    - cartel,丁
+    - calle,丁

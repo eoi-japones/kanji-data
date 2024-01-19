@@ -1,0 +1,14 @@
+id: 主
+clave: amo
+historia: >-
+  Cada cual es amo de su propio hogar, o un "rey" en su casa. Esto es, somos
+  como gotas (丶) de reyes (王) en nuestra casa. 
+
+
+  Como componente, nos va a interesar darle a este kanji el significado de
+  candelabro. 
+componentes:
+  - gota
+  - rey
+como_componente:
+  - 'candelabro,主'

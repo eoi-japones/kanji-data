@@ -1,0 +1,11 @@
+id: 干
+clave: secar
+historia: >-
+  Esto es el pictograma de un tendedero. Se ven perfectamente el poste y las
+  cuerdas donde se colgarán las  prendas para que sequen. 
+
+
+  Es componente, le vamos a dar el sentido de *tendedero*
+componentes: []
+como_componente:
+  - 'tendedero,干'

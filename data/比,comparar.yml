@@ -1,0 +1,8 @@
+id: 比
+clave: Comparar
+historia: |
+  Para comparar dos cosas pruebo una cucharada (匕) de cada una.
+componentes:
+  - '匕,cuchara'
+como_componente:
+  - 'comparar,比'

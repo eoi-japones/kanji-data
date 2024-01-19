@@ -1,0 +1,9 @@
+id: 隅
+clave: esquina
+historia: >-
+  "Hasta llegar a la cúspide (阝)  busca, en cada *esquina*, la sabiduría de
+  onagasaru (禺), para que te guíe hacia tu objetivo".  
+componentes:
+  - cúspide
+  - onagasaru
+como_componente: []

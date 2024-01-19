@@ -1,0 +1,15 @@
+id: 覚
+
+clave: Memorizar
+
+historia: > 
+
+    En la escuela () nos enseñan a memorizar, es decir, a ver (見) cosas que no están presentes
+
+componentes: 
+
+    - Edificio_escolar
+	
+    - Ver
+
+como_componente: []

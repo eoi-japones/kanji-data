@@ -1,0 +1,13 @@
+id: 艮
+
+clave: Plata
+
+historia: Por un poco de plata la gente vuela a darse patadas.
+
+componentes: []
+
+como_componente:
+
+  - 'plata,艮'
+  - 'bueno,艮'
+  - 'parar,艮'

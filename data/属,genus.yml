@@ -1,0 +1,15 @@
+id: 属
+clave: genus
+historia: >-
+  Nos estamos refiriendo al género como categoría taxonómica (donde se agrupan
+  familia y especie). 
+
+
+  Los jejenes  (䖝) son los abanderados (尸) de un genus que sirve de cinturón (冂)
+  para un conjunto de animales que se alimentan de néctar, secreciones y, por
+  supuesto de nuestra sangre. 
+componentes:
+  - bandera
+  - jejenes
+  - cinturon
+como_componente: []

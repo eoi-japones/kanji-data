@@ -1,0 +1,11 @@
+id: 駐
+clave: aparcar
+historia: >-
+  Hoy en día tenemos pinturas fluorescentes y luces que nos ayudan a aparcar.
+  Antiguamente, para aparcar a los equinos (馬), se solía iluminar el lugar con
+  candelabros (主).
+componentes:
+  - equino
+  - candelabro
+como_componente: []
+

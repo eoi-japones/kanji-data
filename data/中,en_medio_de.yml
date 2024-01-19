@@ -1,0 +1,20 @@
+id: 中
+
+clave: En_medio_de
+
+historia: >
+    Te encuentras enfermo, tu madre quiere que tomes la medicina (de sabor HORRIBLE)
+
+    Tu boca (口) se transforma en una línea firme que nadie puede abrir por más ruegos, insultos y coscorrones te dedique tu madre...
+
+    Al final desesperada te pone un palo en el medio de la boca para que la abras...
+
+componentes: 
+
+    - boca
+
+como_componente:
+    - dentro_de,中
+    - centro,中
+    - china,中
+

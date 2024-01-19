@@ -1,0 +1,14 @@
+id: 年
+
+clave: Año
+
+historia: >
+    
+    Cada año una persona lleva a las vacas hasta los pastos.
+	
+componentes:
+    
+    - vaca
+    - persona
+
+como_componente: []

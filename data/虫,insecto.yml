@@ -1,0 +1,20 @@
+id: 虫
+
+clave: Insecto
+
+historia: >
+
+   Pregunta interesante, ¿Qué es lo que va por el suelo (一), tiene forma de gota y está siempre en el medio (中) de todo molestando? 
+
+   Pues los bichos o insectos
+
+componentes:
+
+    - En_medio_de
+
+    - Suelo
+
+    - Gota
+
+como_componente: []
+

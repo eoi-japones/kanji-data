@@ -1,0 +1,11 @@
+id: 捕
+clave: capturar
+historia: >-
+  Lo primero que hace la perrera municipal cuando *captura* a un perro perdido
+  es averiguar si tiene una chapa identificativa (甫), si la tiene, con mucho
+  cuidado la coge entre sus dedos (扌) para ver la dirección de los dueños y
+  poder devolverles a su cánido. 
+componentes:
+  - chapa_de_perro
+  - dedo
+como_componente: []

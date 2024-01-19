@@ -1,0 +1,13 @@
+id: 買
+
+clave: Comprar
+
+historia: >
+
+    A la hora de *hacer* *compras* hay que tener mucho ojo (目) con dónde ponemos nuestras monedas (貝)
+
+componentes:
+    - ojo
+    - moneda
+
+como_componente: []

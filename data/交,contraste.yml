@@ -1,0 +1,15 @@
+id: 交
+
+clave: contraste
+
+# otras_claves: 
+
+historia: >
+    
+    La chistera (亠) de tu padre (父) marcará tu contraste social
+
+componentes:    
+   - chistera
+   - padre
+
+como_componente: []

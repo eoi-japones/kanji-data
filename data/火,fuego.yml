@@ -1,0 +1,11 @@
+id: 火
+clave: Fuego
+historia: |
+
+  Vemos a una persona (人) en llamas mientras se consume. 
+  El fuego acaba con ella (historia un poco tétrica).
+componentes:
+  - persona
+como_componente:
+  - 'hoguera,火'
+  - 'fuego_de_hornillo,⺣'

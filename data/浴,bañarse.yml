@@ -1,0 +1,9 @@
+id: 浴
+clave: bañarse
+historia: >-
+  Vemos un valle (谷) en el que el  agua (⺡) baja por la ladera, como si se
+  *bañase*.
+componentes:
+  - agua
+  - valle
+como_componente: []

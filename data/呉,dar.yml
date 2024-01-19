@@ -1,0 +1,8 @@
+id: 呉
+clave: dar
+historia: "Una de las herramientas () que nos da más trabajo es el berbiquí (𠃑). La prueba está en como ponemos la boca (口) cuando lo empleamos. \n\nDe ahí el dicho, ¡das más trabajo que un berbiquí!. "
+componentes:
+  - herramienta
+  - berbiquí
+  - boca
+como_componente: []

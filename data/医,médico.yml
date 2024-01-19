@@ -1,0 +1,13 @@
+id: 医
+clave: médico
+historia: >-
+  Todo médico guarda en una caja (匚) un dardo (矢) especial para administrar sus
+  medicinas. 
+
+
+  De ahí el sentido de este kanji y la razón de su consagración como kanji para
+  médico. 
+componentes:
+  - caja
+  - dardo
+como_componente: []

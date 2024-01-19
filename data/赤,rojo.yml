@@ -1,0 +1,13 @@
+id: 赤
+clave: rojo
+historia: >-
+  Todo lo que quedó de su terrible duelo con katanas (刀) fue un pequeño (小)
+  charco *rojo* en el terreno (土). 
+
+   Como componente, a este kanji le vamos a dar el sentido de una *manzana* roja y hermosa. 
+componentes:
+  - katana
+  - pequeño
+  - tierra
+como_componente:
+  - 'manzana,亦'

@@ -1,0 +1,17 @@
+id: 円
+clave: Circulo
+historia: >+
+  Este kanji significa círculo o redondo.
+
+
+  Para recordarlo pensamos en una vitrina (冂)  y un señor delante de ella con un
+  palo (｜) que sólo deja acercarse a la gente de uno (一) en uno,
+
+   si alguien se pasa de listo le pone la cara redonda, te la deja plana y con forma de círculo.   
+
+componentes:
+  - vitrina
+  - palo
+  - uno
+como_componente: []
+

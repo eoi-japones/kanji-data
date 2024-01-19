@@ -1,0 +1,17 @@
+id: 漁
+
+clave: Pescar
+
+historia: >
+    
+  Pescar es sacar el pescado (魚) del agua (⺡)
+  
+componentes: 
+    
+  - agua
+  - pescado
+    
+
+como_componente:
+
+  - pescar,漁	

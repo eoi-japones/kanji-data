@@ -1,0 +1,23 @@
+id: 疑
+clave: duda
+historia: >-
+  En un zoo (疋) a la hora de darles comida, medicina a los animales, te puede
+  surgir la *duda* de si sin peligrosos o no. 
+
+
+  Esto es, de si hay que alimentarlos con cuchara (匕) o mejor, primero, les
+  lanzamos un dardo (矢) tranquilizante y después entramos a darles lo que
+  necesiten. 
+
+
+  Para estar seguros, normalmente, hay que fijarse en la marca que se deja con
+  un tampón (龴) avisándonos de si es necesario o no. 
+
+
+  Así, salimos de *dudas*.   
+componentes:
+  - zoo
+  - tampon
+  - cuchara
+  - dardo
+como_componente: []

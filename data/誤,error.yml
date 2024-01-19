@@ -1,0 +1,12 @@
+id: 誤
+clave: error
+historia: >-
+  "El que mucho habla, mucho hierra". 
+
+
+  Esto es, es el que se da (呉) a las palabras (言), haciendo un uso excesivo de
+  ellas, comete muchos *errores*. 
+componentes:
+  - palabras
+  - dar
+como_componente: []

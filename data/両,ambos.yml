@@ -1,0 +1,11 @@
+id: 両
+clave: ambos
+historia: >-
+  Tanto la pala (凵) como los clavos (丁), son instrumentos necesarios para el
+  jardinero, por eso *ambos* están siempre presentes en su cinturón (冂).
+componentes:
+  - clavo
+  - pala
+  - cinturón
+como_componente: []
+

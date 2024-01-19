@@ -1,0 +1,14 @@
+id: 好
+
+clave: Gustar
+
+historia: >
+    
+    Da *gusto*, es muy agradable ver a una mujer (女) paseando con su niño (子).
+
+
+componentes:
+    - mujer
+    - niño
+
+como_componente: []

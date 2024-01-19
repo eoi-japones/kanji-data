@@ -1,0 +1,13 @@
+id: 来
+clave: venir
+historia: >-
+  Hay que pensar en un animal terrible, salvaje y violento, con unos inmensos
+  cuernos (丷) que *viene* hacia ti. 
+
+
+  El animal no ha llegado todavía (未) pero viene, se acerca, y con él la
+  desgracia y, probablemente, la muerte. 
+componentes:
+  - cuernos
+  - todavía
+como_componente: []

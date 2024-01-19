@@ -1,0 +1,15 @@
+id: 殻
+clave: cáscara
+historia: >-
+  Un samurai (士)  sabe que lo único que no es superfluo (冗) es su honor. 
+
+
+  No dudará en dejarse hacer pedazos, si la ocasión lo requiere, puesto que sabe
+  que su cuerpo y esta vida no es más que una **cáscara** que no tiene
+  importancia alguna. Así que, ni siquiera un misil (殳) lo arredra cuando su
+  honor está en juego. 
+componentes:
+  - samurai
+  - superfluo
+  - misil
+como_componente: []

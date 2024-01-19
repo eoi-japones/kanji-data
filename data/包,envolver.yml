@@ -1,0 +1,10 @@
+id: 包
+clave: envolver
+historia: >-
+  La sierpe (己) envuelve a su presa empaquetándola (勹) para después devorarla.
+  El que inventó este kanji se inspiró, por tanto, en la forma de envolver de
+  las sierpes.  
+componentes:
+  - empaquetado
+  - sierpe
+como_componente: []

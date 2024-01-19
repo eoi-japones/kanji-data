@@ -1,0 +1,19 @@
+id: 可
+
+clave: posible
+
+# otras_claves: 
+
+historia: >
+    
+    Si gritas (口) con suficiente fuerza, clavar　(丁) cualquier cosa es *posible*
+    
+    Como componente funciona como *tiburón*, porque los dientes en sus bocas (口) parecen clavos (丁).
+
+componentes:
+    - clavo
+    - boca
+
+como_componente:
+    - tiburón,可
+    - posible,可

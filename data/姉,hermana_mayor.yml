@@ -1,0 +1,10 @@
+id: 姉
+clave: hermana_mayor
+historia: >
+
+  La hermana mayor es una mujer (女) ya lo suficientemente madura como para ir al
+  mercado (市) bajo la confianza paterna.
+componentes:
+  - mujer
+  - mercado
+como_componente: []

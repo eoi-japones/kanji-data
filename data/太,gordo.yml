@@ -1,0 +1,11 @@
+id: 太
+clave: Gordo
+historia: |-
+  Cuando el San Bernardo está contento, saca su gorda lengua para demostrarlo.
+
+  Hay que diferenciarlo del kanji de perro.
+componentes:
+  - '大,grande'
+  - '丶,gota'
+como_componente:
+  - 'gordo,太'

@@ -1,0 +1,9 @@
+id: 妹
+clave: hermana_menor
+historia: |
+
+  La hermana menor es una mujer (女) que todavía (未) tiene que crecer.
+componentes:
+  - mujer
+  - todavía
+como_componente: []

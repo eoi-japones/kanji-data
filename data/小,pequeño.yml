@@ -1,0 +1,12 @@
+id: 小
+
+clave: Pequeño
+
+historia: >
+    Si tiramos el bastón al estanque de agua con menos fuerza salen sólo dos *pequeñas* gotas.
+
+componentes: []
+
+como_componente: 
+  - 'pequeño,⺌'
+

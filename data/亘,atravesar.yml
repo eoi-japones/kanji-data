@@ -1,0 +1,14 @@
+id: 亘
+
+clave: Atravesar
+
+historia: > 
+
+    Vemos al sol (日) atravesar el firmamento desde el suelo (一) hasta el techo (一)
+
+componentes: 
+    - techo
+    - sol
+    - suelo
+
+como_componente: []

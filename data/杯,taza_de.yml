@@ -1,0 +1,18 @@
+clave: taza_de
+id: 杯
+historia: >-
+  Imaginémonos el líquido más asqueroso que podamos imaginarnos (dejamos al
+  estudiante la elección de ese líquido). 
+
+
+  Ahora pensemos que nos lo ofrecen en una bellísima taza de madera (木)
+  tallada. 
+
+
+  Aún que esté en un contenedor tan hermoso, ¿os lo beberíais? *Negativo* (不).
+  Por muy hermosa que sea la taza, es segura vuestra negativa a beber el
+  asqueroso líquido que os ofrecen. 
+componentes:
+  - madera
+  - negativo
+como_componente: []

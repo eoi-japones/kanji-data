@@ -1,0 +1,13 @@
+id: 挨
+clave: acercamiento
+historia: >-
+  Unos exploradores en la selva, se encuentran con sus desconfiados moradores.
+  Armados con cerbatanas, les intiman a que no se acerquen. 
+
+
+  Con un signo del dedo (扌) el cerbatanero (矣) advierte que, otro acercamiento
+  de los exploradores sería fatal.
+componentes:
+  - codo
+  - dardo
+como_componente: []

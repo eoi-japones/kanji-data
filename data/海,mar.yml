@@ -1,0 +1,12 @@
+id: 海
+clave: mar
+historia: >-
+  Este kanji nos habla de algo que parece lógico: ¿De dónde provienen todas (毎)
+  las gotas de agua (⺡)? 
+
+
+  Pues, al final, provienen todas del *mar*.
+componentes:
+  - agua
+  - todos_los
+como_componente: []

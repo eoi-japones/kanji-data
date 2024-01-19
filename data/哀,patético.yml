@@ -1,0 +1,8 @@
+id: 哀
+clave: patético
+historia: "Vemos a un patético personaje con una chistera (亠) y aires de grandeza, soltando grandilocuencias por su boca (口), pero realmente vestido con andrajos (𧘇). \n"
+componentes:
+  - chistera
+  - boca
+  - andrajos
+como_componente: []

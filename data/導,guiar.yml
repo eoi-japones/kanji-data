@@ -1,0 +1,9 @@
+id: 導
+clave: guiar
+historia: >-
+  El hecho de que alguien nos *guíe* supone que nos pegamos (寸) al camino (道)
+  que este último elija. 
+componentes:
+  - camino
+  - pegamento
+como_componente: []

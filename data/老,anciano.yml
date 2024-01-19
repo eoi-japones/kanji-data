@@ -1,0 +1,24 @@
+id: 老
+clave: anciano
+historia: >-
+  Cuando una persona es *anciana*, está cada vez más cerca de la tierra (土) a
+  donde volverá pronto ("polvo eres y en polvo te convertirás"). 
+
+
+  Necesita un bastón ( #bastón ) que se ve inclinado para denotar que lo
+  emplea. 
+
+
+  Y ya, al final de su vida, necesita ser alimentado con cuchara (匕) como si de
+  un bebé se tratase. 
+
+
+  A este kanji le vamos a dar el sentido de *anciano* *maestro* cuando adopte
+  esta forma: 耂. Ha perdido la cuchara porque, ¡creédme! ¡se puede alimentar
+  solo!.
+componentes:
+  - tierra
+  - bastón
+  - cuchara
+como_componente:
+  - 'anciano_maestro,耂'

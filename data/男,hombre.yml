@@ -1,0 +1,9 @@
+id: 男
+clave: hombre
+historia: |
+
+  El *hombre* en el campo de arroz (田) presta su fuerza (力).
+componentes:
+  - campo_de_arroz
+  - fuerza
+como_componente: []

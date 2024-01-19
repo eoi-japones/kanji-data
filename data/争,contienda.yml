@@ -1,0 +1,9 @@
+clave: contienda
+id: 争
+historia: >-
+  Vemos el resultado de una *contienda* o pelea, probablemente en un ambiente
+  rural, puesto que alguien ha quedado empaquetado (勹) en rastrillos. 
+componentes:
+  - empaquetado
+  - rastrillo
+como_componente: []

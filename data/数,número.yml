@@ -1,0 +1,11 @@
+id: 数
+clave: número
+historia: >-
+  El número de mujeres (女) que podía mantener, a base de arroz (米),  un señor
+  antiguo, un capataz (攵), era un símbolo de su poder y estatus.  
+componentes:
+  - mujer
+  - arroz
+  - capataz
+como_componente: []
+

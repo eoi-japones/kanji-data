@@ -1,0 +1,15 @@
+id: 寸
+clave: medida
+historia: >+
+  Se trata de una antigua medida de distancia que pueden ser una décima parte de
+  otra medida antigua (el shaku)
+
+
+  Es decir, es una gota (丶) de diez (十) 
+
+componentes:
+  - gota
+  - diez
+como_componente:
+  - 'pegado_a,寸'
+

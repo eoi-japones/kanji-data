@@ -1,0 +1,12 @@
+id: 板
+clave: tabla
+historia: >-
+  ¿Cuál es la razón de que tantos y tantos árboles (木) sean talados cada año?
+
+
+  Pues la principal es para su conversión en *tablas*. Así que la tabla, en
+  muchos sentidos es el anti (反) árboles (木). 
+componentes:
+  - árbol
+  - anti
+como_componente: []

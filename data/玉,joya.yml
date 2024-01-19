@@ -1,0 +1,14 @@
+id: 玉
+
+clave: Joya
+
+historia: >
+    
+    Es una gota que adorna el cetro del rey.
+	
+componentes:
+    
+    - gota
+
+como_componente: 
+  - "bola,𤣩"

@@ -1,0 +1,17 @@
+clave: señal
+id: 標
+historia: >-
+  Pensemos en un grupo de ladrones o pícaros del bosque. 
+
+
+  A pesar de lo que pueda parecer, tenían una especie de democracia. Para dar su
+  voto (票) solían hacer una *señal* en un árbol manifestando su acuerdo o
+  desacuerdo con una determinada decisión. 
+
+
+  Se contaban las señales dejadas en el árbol y se adoptaba la medida por
+  acuerdo. 
+componentes:
+  - árbol
+  - voto
+como_componente: []

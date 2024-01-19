@@ -1,0 +1,12 @@
+id: 立
+
+clave: de_pie
+
+historia: >
+    El *jarrón* está *de pie*.
+
+componentes: []
+
+como_componente: 
+    - jarrón,立
+

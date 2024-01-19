@@ -1,0 +1,14 @@
+id: 曜
+clave: dia_de_la_semana
+historia: >-
+  Vemos a un avestruz (隹) que es tan tan presumida que tiene que teñirse las
+  alas (ヨ) de colores para cada día (日) de la semana. 
+
+
+  Así, en función del color de alas que lleva cada *día* *de* *la* *semana*, sus
+  compañeras saben si están a lunes, martes...
+componentes:
+  - dia
+  - avestruz
+  - alas
+como_componente: []

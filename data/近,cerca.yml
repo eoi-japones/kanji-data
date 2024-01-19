@@ -1,0 +1,12 @@
+id: 近
+clave: cerca
+historia: >-
+  Cuando en el camino (辶) preguntamos si algo está cerca, aquí podemos responder
+  "Está a tiro de piedra"....
+
+
+  Bueno, ellos , cuando algo está *cerca* os dicen "Está a tiro de hacha" (斤). 
+componentes:
+  - camino
+  - hacha
+como_componente: []

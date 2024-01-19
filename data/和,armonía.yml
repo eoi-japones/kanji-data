@@ -1,0 +1,16 @@
+id: 和
+
+clave: armonía
+
+# otras_claves:
+
+historia: >
+    
+    Para mantener la *armonía* en un país hay que asegurarse de que no falte trigo (禾) en ninguna boca (口).
+
+    
+componentes:
+    - trigo
+    - boca
+
+como_componente: []

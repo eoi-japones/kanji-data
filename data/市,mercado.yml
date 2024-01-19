@@ -1,0 +1,10 @@
+id: 市
+clave: mercado
+historia: >
+
+  Los hombres de chistera (亠) cubren con una toalla (冂) las mentiras del
+  *mercado*.
+componentes:
+  - chistera
+  - toalla
+como_componente: []

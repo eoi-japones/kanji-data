@@ -1,0 +1,7 @@
+id: 七
+clave: siete
+historia: |
+  Es el pictograma de un siete al revés.
+componentes: []
+como_componente:
+  - 'Cortar_en_pedazos,七'

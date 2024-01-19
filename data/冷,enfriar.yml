@@ -1,0 +1,12 @@
+id: 冷
+clave: enfriar
+historia: >-
+  Este kanji nos da un buen consejo: antes de ejecutar las órdenes (令) que nos
+  den, es mejor que dejemos *enfriar* nuestros ánimos hasta que se vuelvan de
+  hielo (冫). El buen ejecutor de órdenes es frío como el hielo. Antes de cumplir
+  órdenes ¡enfríate! 
+componentes:
+  - hielo
+  - órdenes
+como_componente: []
+

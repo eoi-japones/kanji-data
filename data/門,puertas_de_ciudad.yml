@@ -1,0 +1,12 @@
+id: 門
+
+clave: Puertas_de_ciudad
+
+historia: >
+    
+  Los dos grandes portones que dan paso a la ciudad.
+	
+componentes: []
+
+como_componente:
+  - verja,門 

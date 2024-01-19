@@ -1,0 +1,14 @@
+id: 許
+
+clave: permitir
+
+# otras_claves: 
+
+historia: >
+    
+    El jinete utiliza todo su cuerpo para expresar (訁) sus intenciones al caballo (午), y el caballo le *permite* llevarlas a cabo.
+
+componentes:
+    - caballo
+
+como_componente: []

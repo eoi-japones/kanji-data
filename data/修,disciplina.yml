@@ -1,0 +1,12 @@
+id: 修
+clave: disciplina
+historia: >-
+  Vemos a Songoku (⺅) sometido a la férrea disciplina de Mutenroushi que actúa
+  como un capataz (夂), golpeándolo con el bastón (丨) si es necesario para darle
+  la forma (彡) de un guerrero insuperable. 
+componentes:
+  - persona
+  - capataz
+  - palo
+  - forma
+como_componente: []

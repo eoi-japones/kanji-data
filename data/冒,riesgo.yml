@@ -1,0 +1,13 @@
+id: 冒
+
+clave: Riesgo
+
+historia: >
+    
+    Si miramos al sol (日) directamente con los ojos (目), sin protejerlos, corremos el *riesgo* de quedarnos ciegos.
+
+componentes:
+    - sol
+    - ojo
+
+como_componente: []

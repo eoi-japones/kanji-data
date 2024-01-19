@@ -1,0 +1,12 @@
+id: 巻
+clave: pergamino
+historia: >-
+  Los pergaminos antiguos estaban hechos de piel de sierpe (己) y se necesitaba
+  una entera para hacer cada cuarto (龹) de un pergamino normal. 
+
+
+  ¡Imagínate cuantas sierpes necesitaríamos para hacer un pergamino grande!
+componentes:
+  - cuarto
+  - sierpe
+como_componente: []

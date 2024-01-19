@@ -1,0 +1,8 @@
+id: 一
+clave: uno
+historia: Es un uno romano (I) que giramos 90º.
+componentes: []
+como_componente:
+  - 'uno,一'
+  - 'suelo,一'
+  - 'techo,一'

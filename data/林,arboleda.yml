@@ -1,0 +1,12 @@
+id: 林
+
+clave: Arboleda
+
+historia: >
+    
+    Dos árboles (木) no son suficientes para ser un bosque; como mucho son una *arboleda*.
+
+componentes:
+    - árbol
+
+como_componente: []

@@ -1,0 +1,7 @@
+id: 走
+clave: correr
+historia: "Vemos que después de una carrera, donde muchos participantes se han pasado el tiempo *corriendo*, el terreno (土) está tan estropeado que necesita unos arreglos (𤴓)."
+componentes:
+  - arreglo
+  - tierra
+como_componente: []

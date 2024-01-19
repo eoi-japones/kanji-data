@@ -1,0 +1,7 @@
+id: 表
+clave: superficie
+historia: "Vemos a alguien vestido con andrajos (𧘇) en los que, poco a poco, van saliendo a la *superficie*, digamos que \"crecimientos\" (龶) de cosas extrañas. \n\n"
+componentes:
+  - crecer
+  - andrajos
+como_componente: []

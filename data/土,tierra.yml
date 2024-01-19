@@ -1,0 +1,13 @@
+id: 土
+
+clave: Tierra
+
+historia: >
+    
+    Un zahorí utiliza su aguja (十) para buscar agua bajo el suelo (一). Son capaces de hacer esto gracias a su conexión con la *tierra*.
+
+componentes:
+    - aguja
+    - suelo
+
+como_componente: []

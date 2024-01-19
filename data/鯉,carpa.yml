@@ -1,0 +1,11 @@
+id: 鯉
+clave: carpa
+historia: >-
+  La carpa es un pez (魚) casi mitológico al que se le atribuyen una inteligencia
+  y sabiduría asombrosas. Por eso se dice que es el único pez que podría usar
+  una calculadora (里) . 
+componentes:
+  - pescado
+  - calculadora
+como_componente: []
+

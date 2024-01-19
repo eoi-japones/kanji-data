@@ -1,0 +1,14 @@
+id: 左
+
+clave: Izquierda
+
+historia: >
+    
+    Los zurdos tienen una gran técnica (エ) con su lado  izquierdo
+
+componentes: 
+    
+    - técnica
+    - a_tu_lado
+
+como_componente: []

@@ -1,0 +1,12 @@
+id: 書
+clave: escribir
+historia: >-
+  Este kanji lo inventó alguien que sufrió la dificultad de escribir los
+  caracteres sino-japoneses. Vemos a un esforzado escribiente con el pincel (聿)
+  intentado escribir mientras la lengua del profesor que dicta se agita de
+  manera incontenible en su boca (日).
+componentes:
+  - pincel
+  - lengua_agitándose_dentro_de_una_boca
+como_componente: []
+

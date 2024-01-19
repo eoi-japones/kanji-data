@@ -1,0 +1,20 @@
+id: 厘
+
+clave: Rin
+
+historia: >-
+  ¿Cuánto vale una calculadora (里) que se nos cae por un barranco (厂)? Pues
+  nada. 
+
+
+  Esto nos enseña este kanji - rin, que valía antiguamente un 0.0001 de un yen
+  (unos 0.000001 céntimos) más o menos.
+
+  Una calculadora caída por un barranco vale... un rin
+
+como_componente: []
+
+componentes: 
+
+  - 'calculadora,里'
+  - 'barranco,厂'

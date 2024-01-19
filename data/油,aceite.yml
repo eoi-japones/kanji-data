@@ -1,0 +1,10 @@
+id: 油
+clave: aceite
+historia: >-
+  Este kanji nos habla de algo obvio: el aceite tiene una consistencia parecida
+  al agua (氵) y se hace a partir de brotes (由).
+componentes:
+  - agua
+  - brote
+como_componente: []
+

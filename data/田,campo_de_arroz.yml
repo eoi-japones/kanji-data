@@ -1,0 +1,10 @@
+id: 田
+clave: Campo_de_arroz
+historia: >
+  Es un dibujo de una parcela de un *campo* *de* *arroz* dividida perfectamente en
+  cuatro.
+
+  También es lobulado, como un *cerebro*.
+componentes: []
+como_componente:
+  - 'cerebro,田'

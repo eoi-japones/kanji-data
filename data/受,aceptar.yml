@@ -1,0 +1,11 @@
+id: 受
+clave: aceptar
+historia: >-
+  Si vamos a un gallinero () veremos como sus habitantes comienzan a corretear a
+  nuestro alrededor, peligrosamente cerca de nuestra entrepierna (又) y
+  *aceptarán* casi cualquier cosa que les demos. 
+componentes:
+  - gallinero
+  - entrepierna
+como_componente: []
+

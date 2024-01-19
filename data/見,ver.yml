@@ -1,0 +1,13 @@
+id: 見
+
+clave: Ver
+
+historia: >
+
+    Hay que tener mucho ojo (目) para distinguir entre las patitas (ハ) de la almeja (貝) y las piernas (儿) del kanji de *ver*.
+
+componentes:
+    - ojo
+    - piernas
+
+como_componente: []

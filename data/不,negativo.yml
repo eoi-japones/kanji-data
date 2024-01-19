@@ -1,0 +1,11 @@
+id: 不
+clave: negativo
+historia: >-
+  Este kanji se compone de techo (一), persona (人) y gota de (丶), se podría
+  realizar una historia. No obstante, dada su recurrencia en muchos kanjis,
+  quizá sea mejor *memorizarlo* tal cual es. 
+componentes:
+  - techo
+  - persona
+  - gota
+como_componente: []

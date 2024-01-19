@@ -1,0 +1,8 @@
+id: 物
+clave: Cosa
+historia: Una vaca no es una cosa cualquiera. Es lo más importante para un granjero.
+componentes:
+  - '牛,vaca'
+  - '勿,no'
+como_componente:
+  - 'cosa,物'

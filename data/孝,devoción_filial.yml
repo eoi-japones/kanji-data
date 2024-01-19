@@ -1,0 +1,19 @@
+id: 孝
+clave: devoción_filial
+historia: >-
+  Este es un componente complejo, pero muy útil. 
+
+
+  Nos predica cuál debería ser el sentimiento que tenemos como niños (子) cuando
+  nos encontramos con un anciano (耂) maestro, cargado de años y de experiencia. 
+
+
+  Deberíamos sentir un respeto y devoción hacia él similar a la que sentirían
+  sus propios *hijos*.
+
+
+  De ahí el sentido de *devoción* *filial*. 
+componentes:
+  - niño
+  - anciano_maestro
+como_componente: []

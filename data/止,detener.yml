@@ -1,0 +1,11 @@
+id: 止
+clave: detener
+historia: >-
+  Vemos el pictograma de una huella marcada en el suelo. lugar donde alguien se
+  ha *detenido*. 
+
+
+  Como componente, le vamos a dar el sentido de *huella*. 
+componentes: []
+como_componente: 
+  - "止,huella" 

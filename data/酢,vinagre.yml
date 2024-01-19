@@ -1,0 +1,14 @@
+id: 酢
+clave: Vinagre
+historia: >-
+  Todos sabemos que cualquier bebida alcohólica se puede "cortar" y, decimos
+  entonces, que está "avinagrado". 
+
+
+  Cuando se realiza de forma controlada, se corta como con una sierra (乍) la
+  botella de sake (酉) para tener un vinagre muy, muy especial. 
+componentes:
+  - sierra
+  - botella_de_sake
+como_componente: []
+

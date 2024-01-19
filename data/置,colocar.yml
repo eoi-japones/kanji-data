@@ -1,0 +1,10 @@
+id: 置
+clave: colocar
+historia: >-
+  ¿Quién no lo ha intentado? Colocar o poner algo en un sitio al vuelo: a
+  *"ojo"* (目) y *directamente* (直), (pensad en colgar un sombrero, "encestar una
+  pelota de papel"...) el problema es que suele salir bastante mal. 
+componentes:
+  - ojo
+  - directamente
+como_componente: []

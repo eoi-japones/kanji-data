@@ -1,0 +1,14 @@
+id: 教
+clave: enseñar
+historia: >-
+  La *enseñanza* es una de las más nobles artes (y también de las cosas más
+  complicadas que se pueden hacer). 
+
+
+  Este kanji parece decirnos que, para enseñar, hay que ser capaz de inspirar
+  devoción filial (孝) en nuestros alumnos y no caer en la trampa de ser un
+  tiránico capataz (攵) con ellos. 
+componentes:
+  - devocion_filial
+  - capataz
+como_componente: []

@@ -1,0 +1,12 @@
+id: 情
+clave: sentimientos
+historia: >-
+  De entre los sentimientos más comunes, hay uno claro: "to feel blue", estar
+  abatido, y eso es lo que se transmite en este kanji. 
+
+
+  Sentimiento, estado mental (忄) de color azul (青). 
+componentes:
+  - estado_mental
+  - azul
+como_componente: []

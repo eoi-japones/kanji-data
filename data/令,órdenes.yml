@@ -1,0 +1,11 @@
+id: 令
+clave: órdenes
+historia: >-
+  Las órdenes que se transmitían y que se daban en la reuniones (亽) secretas,
+  tenían como una forma de validez el tampón (卩) que se usaba para sellarlas.
+  Las órdenes de las reuniones no eran válidas sin el consiguiente sellado por
+  el tampón correcto. De ahí el sentido de *órdenes*
+componentes:
+  - reunión
+  - tampón
+como_componente: []

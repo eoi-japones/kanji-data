@@ -1,0 +1,13 @@
+id: 投
+clave: lanzar
+historia: >-
+  Antiguamente, el dominio de las armas requería de un largo camino de
+  preparación y entrenamiento. 
+
+
+  Pero, si pensamos en las armas modernas, la cosa cambia. Hoy en día,
+  cualquiera puede **lanzar** un misil (殳) usando un simple dedo (扌). 
+componentes:
+  - misil
+  - dedo
+como_componente: []

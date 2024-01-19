@@ -1,0 +1,10 @@
+id: 景
+clave: paisaje
+historia: >-
+  El paisaje de ver surgir el sol (日) iluminando una capital (京) es algo
+  inolvidable. 
+componentes:
+  - sol
+  - capital
+como_componente: []
+

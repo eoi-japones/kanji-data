@@ -1,0 +1,9 @@
+id: 安
+clave: relajo
+historia: >-
+  No conocemos la razón, pero el inventor de este kanji estableció que, sólo
+  alcanzaba el relajo estando con su mujer (女) en casa (宀). 
+componentes:
+  - mujer
+  - tejado_casa
+como_componente: []

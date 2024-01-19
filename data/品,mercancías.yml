@@ -1,0 +1,13 @@
+id: 品
+
+clave: mercancías
+
+historia: > 
+
+    Cuando una familia numerosa se va de camping y la madre saca las mercancías aparecen un montón de bocas (口) "por todos los lados" dispuestas a comérselas.
+
+componentes: 
+
+    - boca
+
+como_componente: []

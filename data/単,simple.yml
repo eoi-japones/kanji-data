@@ -1,0 +1,15 @@
+id: 単
+clave: simple
+historia: >-
+  Siempre maravilla ver como caza el búho (⺍). Parece tan simple: vuela desde lo
+  alto y coge a sus presas con una precisión increíble. No se le escaparía ni
+  una aguja (十).  
+
+
+  Para ello, el búho emplea su inteligente cerebro (田), lo controla todo y sólo
+  ataca en el momento justo. ¡Parece simple pero no lo es!
+componentes:
+  - búho
+  - aguja
+  - cerebro
+como_componente: []

@@ -1,0 +1,10 @@
+id: 汗
+clave: sudor
+historia: >-
+  A veces estamos tan tan *sudados* que para secar todas esas gotas (氵) lo mejor
+  sería que nos colgasen un rato en un tendedero (干), para así librarnos de todo
+  ese sudor. 
+componentes:
+  - agua
+  - tendedero
+como_componente: []

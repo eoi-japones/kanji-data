@@ -1,0 +1,13 @@
+id: 客
+clave: invitado
+historia: >
+  El protocolo exige que a los invitados se les trate de una determinada manera
+  en las ocasiones públicas. 
+
+
+  No obstante, en nuestra *casa* (宀),  la forma de tratar a los invitados
+  difiere en *cada* *uno* (各) de nosotros. 
+componentes:
+  - cada_uno
+  - tejado_casa
+como_componente: []

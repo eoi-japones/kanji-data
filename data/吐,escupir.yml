@@ -1,0 +1,13 @@
+id: 吐
+
+clave: Escupir
+
+historia: > 
+
+    Si tienes tierra (土) en la boca (口) debes *escupirla*
+
+componentes: 
+    - boca
+    - tierra
+
+como_componente: []

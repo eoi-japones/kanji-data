@@ -1,0 +1,7 @@
+id: 行
+clave: Ir
+historia: Un caminante se dirige a su camino.
+componentes:
+  - caminante
+como_componente:
+  - 'ir,行'

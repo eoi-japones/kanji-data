@@ -1,0 +1,14 @@
+id: 贈
+clave: regalo
+historia: >-
+  Cualquier aumento (曽) de sueldo, y por lo tanto de las *monedas* (貝) que
+  recibimos se puede ver como un *regalo*.
+
+  Pero, ¡cuidado!, en todo aumento de sueldo puede haber condiciones que no
+  hayamos visto. 
+
+  Hay que prestar atención a los regalos para que no estén envenenados. 
+componentes:
+  - aumento
+  - almeja
+como_componente: []

@@ -1,0 +1,11 @@
+id: 牛
+clave: Vaca
+historia: |
+
+  El dibujo de una vaca.
+
+componentes: []
+
+como_componente: 
+  - vaca,⺧
+como_componente: []

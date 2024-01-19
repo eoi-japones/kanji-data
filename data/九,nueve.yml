@@ -1,0 +1,16 @@
+id: 九
+
+clave: nueve
+
+historia: >
+    
+    Es como un bateador con su bate de béisbol. En un partido de béisbol
+    hay nueve jugadores sobre el terreno de juego.
+
+componentes: []
+
+como_componente:
+
+    - jugador_de_beisbol,九
+    - bate,九
+    - equipo_de_beisbol,九

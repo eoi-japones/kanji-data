@@ -1,0 +1,9 @@
+id: 速
+clave: rápido
+historia: >-
+  ¡Rápido, rápido, rápido! Recorre el camino (辶) con el manojo (束) de hierbas
+  curativas que pueden salvar al enfermo. 
+componentes:
+  - camino
+  - manojo
+como_componente: []

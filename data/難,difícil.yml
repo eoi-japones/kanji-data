@@ -1,0 +1,7 @@
+id: 難
+clave: difícil
+historia: "La dura y difícil vida de un espantapájaros (𦰩) que se dedica a espantar avestruces (隹). ¡Eso sí que es difícil!\n"
+componentes:
+  - espantapájaros
+  - avestruz
+como_componente: []
