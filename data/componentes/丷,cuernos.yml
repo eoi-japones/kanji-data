@@ -3,7 +3,7 @@ clave: Cuernos
 historia: >-
   Tenemos el pictograma de dos cuernos que surgen como dos gotas (丶) de la
   cabeza de algún animal... o persona...
-solo_componente: true
+solo_componente: 1
 componentes:
   - gota
 como_componente: []
