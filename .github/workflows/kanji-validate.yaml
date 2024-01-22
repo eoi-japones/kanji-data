@@ -17,5 +17,5 @@ jobs:
         uses: actions/github-script@v4
         with:
           script: |
-            const script = require('./.github/validar-schema.js')
+            const script = require('../validar-schema.js')
             script({core, context})
