@@ -2,6 +2,7 @@ name: Validación de ficheros de kanji
 
 on:
   pull_request:
+  workflow_dispatch:
 
 env:
   DATA_DIR: data
