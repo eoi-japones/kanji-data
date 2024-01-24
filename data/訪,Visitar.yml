@@ -1,0 +1,9 @@
+﻿id: 訪
+clave: Visitar
+historia: >-
+  En Japón, visitar a alguien es tan complicado que necesito una brújula para
+  encontrar las palabras.
+componentes:
+  - palabras
+  - brújula
+como_componente: []

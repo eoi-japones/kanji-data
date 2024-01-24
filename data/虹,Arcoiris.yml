@@ -1,0 +1,7 @@
+﻿id: 虹
+clave: Arcoiris
+historia: La técnica del arco iris fue usada en los insectos.
+componentes:
+  - insecto
+  - técnica
+como_componente: []

@@ -1,0 +1,7 @@
+﻿id: 池
+clave: Estanque
+historia: Las gotas de veneno del moribundo escorpión forman un estanque.
+componentes:
+  - agua
+  - escorpión
+como_componente: []

@@ -1,0 +1,9 @@
+﻿id: 棟
+clave: Caballete
+historia: >-
+  El caballete del tejado japonés debe ser de madera y estar orientado hacia el
+  este.
+componentes:
+  - árbol
+  - este
+como_componente: []

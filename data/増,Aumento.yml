@@ -1,0 +1,7 @@
+﻿id: 増
+clave: Aumento
+historia: El aumento de tierra edificable es necesario en Japón.
+componentes:
+  - tierra
+  - aumento
+como_componente: []
