@@ -1,0 +1,7 @@
+﻿id: 廷
+clave: Tribunal
+historia: Los porteadores (壬) de la justicia la estiran (廴) en el tribunal.
+componentes:
+  - estirar
+  - porteador
+como_componente: []
