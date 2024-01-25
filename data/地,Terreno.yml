@@ -1,0 +1,9 @@
+﻿id: 地
+clave: Terreno
+historia: >-
+  Ve pendiente de la tierra (土), como si fueses un escorpión (也), para conocer bien el
+  terreno.
+componentes:
+  - tierra
+  - escorpión
+como_componente: []
