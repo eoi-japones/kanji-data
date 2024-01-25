@@ -1,0 +1,7 @@
+﻿id: 壬
+clave: Porteador
+historia: Al samurái le cae una gota por el esfuerzo de cargar con el peso.
+componentes:
+  - gota
+  - samurái
+como_componente: []
