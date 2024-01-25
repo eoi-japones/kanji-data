@@ -1,0 +1,7 @@
+﻿id: 凍
+clave: Helado
+historia: Los orientales (東) tienen fama de ser fríos como el hielo (冫). Helados.
+componentes:
+  - hielo
+  - este
+como_componente: []
