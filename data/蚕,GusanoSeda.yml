@@ -1,7 +1,0 @@
-﻿id: 蚕
-clave: GusanoSeda
-historia: Mira el cielo con ganas de ser una mariposa (insecto) y poder surcarlo.
-componentes:
-  - cielo
-  - insecto
-como_componente: []
