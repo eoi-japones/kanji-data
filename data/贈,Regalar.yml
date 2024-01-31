@@ -1,9 +1,0 @@
-﻿id: 贈
-clave: Regalar
-historia: >-
-  Ha aumentado tanto la dificultad de hacer un regalo que lo mejor es recurrir a
-  las monedas. 
-componentes:
-  - monedas
-  - aumento
-como_componente: []
