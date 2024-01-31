@@ -1,0 +1,8 @@
+﻿clave: Placenta
+id: 胞
+historia: Parte del cuerpo (月) que envuelve (包) a otro ser humano.
+solo_componente: 0
+componentes:
+  - Parte del cuerpo
+  - Envolver
+como_componente: []

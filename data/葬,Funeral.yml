@@ -1,0 +1,11 @@
+﻿id: 葬
+clave: Funeral
+historia: >-
+  Para conmemorar su muerte (死), llevo flores (艹) y junto ambas manos (廾) en una
+  plegaria.
+solo_componente: 0
+componentes:
+  - Flores
+  - Muerte
+  - Dos manos
+como_componente: []

@@ -1,0 +1,8 @@
+﻿id: 裳
+clave: Falda
+historia: "La mejor ropa (衣) que se puede llevar al retrete exterior (\uD86E\uDE60), pues es fácil de subir y bajar."
+solo_componente: 0
+componentes:
+  - Retrete exterior
+  - Ropa
+como_componente: []

@@ -1,0 +1,7 @@
+﻿id: 皮
+clave: Pellejo
+historia: Pictograma de una rama (支) colgando del pellejo.
+solo_componente: 0
+componentes:
+  - Rama
+como_componente: []

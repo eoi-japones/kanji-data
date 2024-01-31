@@ -1,0 +1,10 @@
+﻿clave: Cumplir
+id: 逐
+historia: >-
+  Cuando ves al porquero volver con sus cerdos (豕) por el camino (辶), sabes que
+  ha cumplido con su deber.
+solo_componente: 0
+componentes:
+  - Camino
+  - Cerdo
+como_componente: []

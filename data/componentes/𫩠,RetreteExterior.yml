@@ -1,0 +1,9 @@
+﻿id: 𫩠
+clave: RetreteExterior
+historia: Mi boca (口) esboza una expresión de alivio al ver su pequeño (⺌) tejado (宀).
+solo_componente: 1
+componentes:
+  - Pequeño
+  - Tejado
+  - Boca
+como_componente: []

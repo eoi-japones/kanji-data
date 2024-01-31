@@ -1,0 +1,8 @@
+﻿id: 常
+clave: Normal
+historia: "No es normal que haya una toalla (巾) en el retrete exterior (\uD86E\uDE60). De haberla... ¡desconfía! ¡No la uses!"
+solo_componente: 0
+componentes:
+  - Retrete exterior
+  - Toalla
+como_componente: []

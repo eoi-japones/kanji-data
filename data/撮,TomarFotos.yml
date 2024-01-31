@@ -1,0 +1,10 @@
+﻿id: 撮
+clave: TomarFotos
+historia: >-
+  Para tomar una foto, tienes que darle al dedo (扌) en el momento de máximo (最)
+  interés.
+solo_componente: 0
+componentes:
+  - Dedo
+  - Máximo
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 瞬
+clave: Pestañeo
+historia: >-
+  Con los ojos (目) protegidos bajo el nido (爫) de las gafas de sol (舛), no me ves
+  ni pestañear.
+solo_componente: 0
+componentes:
+  - Ojo
+  - Nido águilas
+  - Gafas de sol
+como_componente: []

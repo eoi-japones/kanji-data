@@ -1,0 +1,10 @@
+﻿id: 取
+clave: Tomar
+historia: >-
+  Al tomar esposa o marido se debe confiar en lo que escuchas por la oreja (耳), no en lo
+  que sientes en la entrepierna (又).
+solo_componente: 0
+componentes:
+  - Oreja
+  - Entrepierna
+como_componente: []

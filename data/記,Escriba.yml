@@ -1,0 +1,8 @@
+﻿clave: Escriba
+id: 記
+historia: El escriba domina las palabras (言) con la astucia de una sierpe (己), dándoles el sentido que le conviene.
+solo_componente: 0
+componentes:
+  - Palabras
+  - Sierpe
+como_componente: []

@@ -1,0 +1,8 @@
+﻿id: 波
+clave: Ola
+historia: El pellejo (皮) de agua (氵) erizado es una ola.
+solo_componente: 0
+componentes:
+  - Agua
+  - Pellejo
+como_componente: []
