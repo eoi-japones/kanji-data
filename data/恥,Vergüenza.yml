@@ -1,0 +1,10 @@
+﻿id: 恥
+clave: Vergüenza
+historia: >-
+  Siento tanta vergüenza que siento como el corazón (心) se me sale por las
+  orejas (耳).
+solo_componente: 0
+componentes:
+  - Oreja
+  - Corazón
+como_componente: []

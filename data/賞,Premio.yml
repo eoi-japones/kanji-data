@@ -1,0 +1,8 @@
+﻿id: 賞
+clave: Premio
+historia: "Por ser el único retrete exterior limpio (\uD86E\uDE60), le otorgan un premio en metálico (貝)."
+solo_componente: 0
+componentes:
+  - Retrete exterior
+  - Monedas
+como_componente: []

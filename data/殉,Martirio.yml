@@ -1,0 +1,8 @@
+﻿id: 殉
+clave: Martirio
+historia: El martirio de que me machaquen todos los huesos (歹) un decamerón (旬) entero.
+solo_componente: 0
+componentes:
+  - Hueso
+  - Decamerón
+como_componente: []

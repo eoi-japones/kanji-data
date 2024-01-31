@@ -1,0 +1,10 @@
+﻿id: 裂
+clave: Ruptura
+historia: >-
+  Si aparece una hilera (列) de agujeros en la ropa (衣), pronto se generará la
+  ruptura.
+solo_componente: 0
+componentes:
+  - Hilera
+  - Ropa
+como_componente: []

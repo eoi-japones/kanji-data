@@ -1,0 +1,8 @@
+﻿id: 舛
+clave: GafasSol
+historia: 'Tras la intensa noche (夕), sus gafas (㐄) de flipado se rompieron.'
+solo_componente: 1
+componentes:
+  - Noche
+  - Gafas
+como_componente: []

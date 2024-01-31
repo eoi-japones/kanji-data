@@ -1,0 +1,10 @@
+﻿id: 婆
+clave: Abuelita
+historia: >-
+  La venerable abuelita es una mujer (女) que ha recibido el impacto de las olas
+  (波) del tiempo con elegancia.
+solo_componente: 0
+componentes:
+  - Ola
+  - Mujer
+como_componente: []

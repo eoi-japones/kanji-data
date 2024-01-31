@@ -1,0 +1,8 @@
+﻿clave: Catarata
+id: 滝
+historia: El dragón (竜) sale tras la catarata (氵).
+solo_componente: 0
+componentes:
+  - Agua
+  - Dragón
+como_componente: []

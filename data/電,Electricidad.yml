@@ -1,0 +1,10 @@
+﻿clave: Electricidad
+id: 電
+historia: >-
+  La electricidad está presente en ciertas anguilas, además de en días de lluvia
+  (雨) y tormenta.
+solo_componente: 0
+componentes:
+  - Lluvia
+  - Anguila
+como_componente: []

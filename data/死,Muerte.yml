@@ -1,0 +1,10 @@
+﻿id: 死
+clave: Muerte
+historia: >-
+  Al morir sólo quedan nuestros huesos (歹), así que saboreemos las cucharadas
+  (匕) de la vida.
+solo_componente: 0
+componentes:
+  - Hueso
+  - Cuchara
+como_componente: []

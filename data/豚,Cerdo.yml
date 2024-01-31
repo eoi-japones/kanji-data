@@ -1,0 +1,8 @@
+﻿clave: Cerdo
+id: 豚
+historia: El cerdo suele estar compuesto de carne (月) de cerdo (豕).
+solo_componente: 0
+componentes:
+  - 'Parte del cuerpo, carne'
+  - Cerdo
+como_componente: []
