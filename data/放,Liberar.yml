@@ -1,0 +1,7 @@
+﻿id: 放
+clave: Liberar
+historia: El capataz (攵) de esclavos le señala la dirección (方) de su libertad.
+componentes:
+  - 'dirección, brújula'
+  - capataz
+como_componente: []
