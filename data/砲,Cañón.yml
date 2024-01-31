@@ -1,6 +1,6 @@
 ﻿clave: Cañón
 id: 砲
-historia: El cañón envuelve (包) la roca proyectil (石).
+historia: El cañón envuelve (包) la roca proyectil (石) imprimiéndole su fuerza y aceleración.
 solo_componente: 0
 componentes:
   - Piedra
