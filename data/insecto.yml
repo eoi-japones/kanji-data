@@ -1,0 +1,6 @@
+id: insecto
+clave: 虫
+historia: >
+    Los que son como gotas y están "dentro" del suelo por todas partes.
+componentes: Dentro + Suelo + Gota
+como_componente: []

@@ -1,0 +1,6 @@
+id: arena
+clave: 砂
+historia: >
+    La mejor arena es la que tiene pocas rocas.
+componentes: Roca +&nbsp;Poco
+como_componente: []
