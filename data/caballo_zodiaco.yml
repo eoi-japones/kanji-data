@@ -2,5 +2,5 @@ id: caballo_zodiaco
 clave: 午
 historia: >
     Vaca aplastada, sin el cuerno.
-componentes: 
+componentes: ['']
 como_componente: []

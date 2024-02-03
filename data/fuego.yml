@@ -2,5 +2,5 @@ id: fuego
 clave: 火
 historia: >
     Una hogera chisporreteando.<br>Forma alternativa: un hornillo.
-componentes: 
+componentes: ['']
 como_componente: []

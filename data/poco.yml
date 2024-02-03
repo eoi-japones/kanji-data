@@ -2,5 +2,5 @@ id: poco
 clave: 少
 historia: >
     Intento escribir en pequeño, pero se me va un poco la mano.
-componentes: Pequeño + (katakana)
+componentes: ['Pequeño', '(katakana)']
 como_componente: []

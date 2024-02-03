@@ -2,5 +2,5 @@ id: rey
 clave: 王
 historia: >
     Cetro apoyado en el suelo.
-componentes: 
+componentes: ['']
 como_componente: []

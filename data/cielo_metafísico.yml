@@ -2,5 +2,5 @@ id: cielo_metafísico
 clave: 天
 historia: >
     Los más grandes ascienden.
-componentes: <span style="color: rgb(170, 0, 0);">Techo</span> + Grande
+componentes: ['<span style="color: rgb(170, 0, 0);">Techo</span>', 'Grande']
 como_componente: []

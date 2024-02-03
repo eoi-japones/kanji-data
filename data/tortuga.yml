@@ -2,5 +2,5 @@ id: tortuga
 clave: 亀
 historia: >
     La tortuga está apretujada entre dos caparazones, escondida de los anzuelos.
-componentes: <span style="color: rgb(170, 0, 0);">Atado</span> + 2&nbsp;× Sol + <span style="color: rgb(170, 0, 0);">Anzuelo</span>
+componentes: ['<span style="color: rgb(170, 0, 0);">Atado</span>', '2&nbsp;× Sol', '<span style="color: rgb(170, 0, 0);">Anzuelo</span>']
 como_componente: []

@@ -28,5 +28,5 @@ AnkiDroidJS.ankiTtsSpeak('冋');"
 <a href="https://jisho.org/search/冋">Buscar en Jisho</a
 historia: >
     
-componentes: 
+componentes: ['']
 como_componente: []

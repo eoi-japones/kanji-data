@@ -2,5 +2,5 @@ id: roca
 clave: 石
 historia: >
     
-componentes: 
+componentes: ['']
 como_componente: []

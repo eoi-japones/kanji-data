@@ -2,5 +2,5 @@ id: padre
 clave: 父
 historia: >
     
-componentes: 
+componentes: ['']
 como_componente: []

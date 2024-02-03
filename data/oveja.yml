@@ -2,5 +2,5 @@ id: oveja
 clave: 羊
 historia: >
     De la oveja lo que no se aprovecha son los cuernos y la cola. El resto se le da al rey.
-componentes: 
+componentes: ['']
 como_componente: []

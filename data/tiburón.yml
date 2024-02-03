@@ -2,5 +2,5 @@ id: tiburón
 clave: 鮫
 historia: >
     Hay contraste de poder importante entre un tiburón y otros peces.
-componentes: Pez + Contraste social
+componentes: ['Pez', 'Contraste social']
 como_componente: []

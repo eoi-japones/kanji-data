@@ -2,5 +2,5 @@ id: contraste_socialasociación
 clave: 交
 historia: >
     Gran contraste social dependiendo del dinero de tu padre, si lleva chistera o no.<br><span style="color: rgb(170, 0, 0);">Como componente: Entremezclar.</span>
-componentes: <span style="color: rgb(170, 0, 0);">Chistera</span> + Padre
+componentes: ['<span style="color: rgb(170, 0, 0);">Chistera</span>', 'Padre']
 como_componente: []

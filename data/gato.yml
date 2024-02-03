@@ -2,5 +2,5 @@ id: gato
 clave: 猫
 historia: >
     La mejor forma de acabar con el gato es sembrándolo con perros.
-componentes: <span style="color: rgb(170, 0, 0);">Jauría de perros</span> + Sembrar
+componentes: ['<span style="color: rgb(170, 0, 0);">Jauría de perros</span>', 'Sembrar']
 como_componente: []

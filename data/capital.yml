@@ -2,5 +2,5 @@ id: capital
 clave: 京
 historia: >
     
-componentes: <span style="color: rgb(170, 0, 0);">Tapa de pota</span> + Boca + Pequeño
+componentes: ['<span style="color: rgb(170, 0, 0);">Tapa de pota</span>', 'Boca', 'Pequeño']
 como_componente: []

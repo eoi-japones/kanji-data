@@ -2,5 +2,5 @@ id: caballo_animal
 clave: 馬
 historia: >
     Crines al viento como si fuesen fuego.
-componentes: 
+componentes: ['']
 como_componente: []

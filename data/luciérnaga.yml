@@ -2,5 +2,5 @@ id: luciérnaga
 clave: 蛍
 historia: >
     El insecto con más luces en la escuela.
-componentes: <span style="color: rgb(170, 0, 0);">Techo de escuela</span> + Insecto
+componentes: ['<span style="color: rgb(170, 0, 0);">Techo de escuela</span>', 'Insecto']
 como_componente: []
