@@ -2,5 +2,5 @@ id: uno
 clave: 一
 historia: >
     Número romano I, girado 90º.<br><span style="color: rgb(170, 0, 0);">Como componente:<br>- si está arriba: techo.<br>- si está abajo: suelo.</span>
-componentes: 
+componentes: ['']
 como_componente: []

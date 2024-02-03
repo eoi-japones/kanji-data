@@ -2,5 +2,5 @@ id: claro
 clave: 明
 historia: >
     Los astros que aclaran el día y la noche.
-componentes: Sol + Luna
+componentes: ['Sol', 'Luna']
 como_componente: []
