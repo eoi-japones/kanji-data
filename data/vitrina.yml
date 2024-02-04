@@ -1,32 +1,6 @@
 id: vitrina
-clave: rina
-
-<hr id=answer>
-
-<tts service="android" voice="ja_JP"><div class='kanji'>冋</div></tts>
-
-<span class="ankitts">[anki:play:a:0]</span>
-
-<button
-  class="ankidroidTtsButton"
-  onclick="
-AnkiDroidJS.ankiTtsSpeak('冋');"
->
-  Play TTS
-</button>
-
-<hr>
-
-
-
-<hr>
-
-
-
-<hr>
-
-<a href="https://jisho.org/search/冋">Buscar en Jisho</a
+clave: 冋
 historia: >
-    
+
 componentes: ['']
 como_componente: []
