@@ -1,6 +1,6 @@
 id: puente
 clave: 橋
 historia: >
-    
-componentes: ['Árbol', '<span style="color: rgb(170, 0, 0);">Ángel</span>']
+  El puente de los ángeles es de madera
+componentes: ['Árbol', 'Ángel']
 como_componente: []

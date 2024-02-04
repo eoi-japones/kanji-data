@@ -1,6 +1,6 @@
 id: mosquito
 clave: 蚊
 historia: >
-    El insecto que te pica y te deja a cuadros.
-componentes: ['Insecto', '<span style="color: rgb(170, 0, 0);">A cuadros</span>']
+    El insecto que te pica y te deja la piel a cuadros.
+componentes: ['Insecto', 'A cuadros']
 como_componente: []

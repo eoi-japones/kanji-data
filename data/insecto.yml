@@ -1,6 +1,6 @@
 id: insecto
 clave: 虫
 historia: >
-    Los que son como gotas y están "dentro" del suelo por todas partes.
-componentes: ['Dentro', 'Suelo', 'Gota']
+    Los que son como gotas y están "por el medio" del suelo por todas partes.
+componentes: ['en_medio_de', 'Suelo', 'Gota']
 como_componente: []

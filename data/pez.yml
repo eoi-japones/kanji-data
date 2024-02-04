@@ -1,6 +1,6 @@
 id: pez
 clave: 魚
 historia: >
-    
-componentes: ['<span style="color: rgb(170, 0, 0);">Atado</span>', 'Campo de arroz', 'Fuego']
+  El pescador hace un atado con los pescados, cruza el campo de arroz donde vive y lo prepara en el fuego del hornillo
+componentes: ['Atado', 'Campo de arroz', 'Fuego']
 como_componente: []

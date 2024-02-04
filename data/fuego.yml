@@ -1,6 +1,8 @@
 id: fuego
 clave: 火
 historia: >
-    Una hogera chisporreteando.<br>Forma alternativa: un hornillo.
+  "Una hoguera chisporreteando.
+  Historia alternativa: una persona agitando sus brazos porque está quemándose.
+  Forma alternativa: un hornillo."
 componentes: ['']
 como_componente: []
