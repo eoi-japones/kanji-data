@@ -1,5 +1,5 @@
-id: sembrar
-clave: 苗
+id: 苗
+clave: sembrar
 historia: >
     Sembrar un campo de flores.
 componentes: ['<span style="color: rgb(170, 0, 0);">Flor</span>', 'Campo de arroz']

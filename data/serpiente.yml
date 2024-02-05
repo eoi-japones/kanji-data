@@ -1,5 +1,5 @@
-id: serpiente
-clave: 蛇
+id: 蛇
+clave: serpiente
 historia: >
     En las casas de Australia tienen serpientes como mascota, con lenguas como cucharas.
 componentes: ['Insecto', 'Techo', 'Cuchara']

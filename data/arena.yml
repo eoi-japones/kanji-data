@@ -1,5 +1,5 @@
-id: arena
-clave: 砂
+id: 砂
+clave: arena
 historia: >
     La mejor arena es la que tiene pocas rocas.
 componentes: ['Roca +&nbsp;Poco']

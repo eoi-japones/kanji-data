@@ -1,5 +1,5 @@
-id: luciérnaga
-clave: 蛍
+id: 蛍
+clave: luciérnaga
 historia: >
     El insecto con más luces en la escuela.
 componentes: ['<span style="color: rgb(170, 0, 0);">Techo de escuela</span>', 'Insecto']

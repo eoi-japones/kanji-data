@@ -1,5 +1,5 @@
-id: tiburón
-clave: 鮫
+id: 鮫
+clave: tiburón
 historia: >
     Hay contraste de poder importante entre un tiburón y otros peces.
 componentes: ['Pez', 'Contraste social']

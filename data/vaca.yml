@@ -1,5 +1,5 @@
-id: vaca
-clave: 牛
+id: 牛
+clave: vaca
 historia: >
     Pictograma de una vaca aplastada, con su cuerno visible
 componentes: ['']

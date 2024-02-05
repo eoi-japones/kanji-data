@@ -1,5 +1,5 @@
-id: insecto
-clave: 虫
+id: 虫
+clave: insecto
 historia: >
     Los que son como gotas y están "por el medio" del suelo por todas partes.
 componentes: ['en_medio_de', 'Suelo', 'Gota']

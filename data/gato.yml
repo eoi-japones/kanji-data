@@ -1,5 +1,5 @@
-id: gato
-clave: 猫
+id: 猫
+clave: gato
 historia: >
     La mejor forma de acabar con el gato es sembrándolo con perros.
 componentes: ['<span style="color: rgb(170, 0, 0);">Jauría de perros</span>', 'Sembrar']

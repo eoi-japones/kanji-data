@@ -1,5 +1,5 @@
-id: ballena
-clave: 鯨
+id: 鯨
+clave: ballena
 historia: >
   Pez tan grande como una capital
 componentes: ['Pez', 'Capital']

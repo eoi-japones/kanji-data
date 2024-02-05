@@ -1,5 +1,5 @@
-id: padre
-clave: 父
+id: 父
+clave: padre
 historia: >
     
 componentes: ['']

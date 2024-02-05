@@ -1,5 +1,5 @@
-id: mosquito
-clave: 蚊
+id: 蚊
+clave: mosquito
 historia: >
     El insecto que te pica y te deja la piel a cuadros.
 componentes: ['Insecto', 'A cuadros']

@@ -1,5 +1,5 @@
-id: mujer
-clave: 女
+id: 女
+clave: mujer
 historia: >
   Una mujer bailando con su kimono
 componentes: ['']
