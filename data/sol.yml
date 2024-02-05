@@ -1,6 +1,8 @@
-id: sol
-clave: 日
+id: 日
+clave: sol
 historia: >
-    Sol de los Teletubbies, con una sonrisa.<br>Alternativo: día.<br><span style="color: rgb(170, 0, 0);">Como componente: lengua agitándose dentro de una boca.</span>
+    "Sol de los Teletubbies, con una (一) sonrisa en la boca (口).
+    Alternativo: día.
+    Como componente: lengua agitándose dentro de una boca."
 componentes: ['Boca', 'Uno']
 como_componente: []
