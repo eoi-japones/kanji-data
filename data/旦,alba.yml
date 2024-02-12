@@ -1,0 +1,6 @@
+id: 旦
+clave: alba
+historia: >
+    El Sol asoma desde el suelo durante el alba.
+componentes: ['Sol', '<span style="color: rgb(170, 0, 0);">Suelo</span>']
+como_componente: []

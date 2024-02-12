@@ -1,0 +1,6 @@
+id: 品
+clave: mercancía
+historia: >
+    Llega la mercancía y por todas partes hay bocas que alimentar.
+componentes: ['Boca&nbsp;× 3']
+como_componente: []
