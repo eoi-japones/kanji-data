@@ -1,6 +1,0 @@
-id: 魚
-clave: pez
-historia: >
-  El pescador hace un atado con los pescados, cruza el campo de arroz donde vive y lo prepara en el fuego del hornillo
-componentes: ['Atado', 'Campo de arroz', 'Fuego']
-como_componente: []
