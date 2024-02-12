@@ -1,0 +1,6 @@
+id: 聴
+clave: escuchar
+historia: >
+    Escucha bien quien usa los oídos, clavando la vista y abriendo el corazón.
+componentes: ['Oído', '<span style="color: rgb(170, 0, 0);">Clavo</span>', '<span style="color: rgb(170, 0, 0);">Ojo tumbado</span>', 'Corazón']
+como_componente: []

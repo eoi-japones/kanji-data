@@ -1,0 +1,6 @@
+id: 曼
+clave: mandala
+historia: >
+    <span style="color: rgb(170, 0, 0);">Tras un día viendo mandalas, te mareas y te duelen las piernas de tenerlas cruzadas.</span>
+componentes: ['Día', '<span style="color: rgb(170, 0, 0);">Ojo tumbado</span>', '<span style="color: rgb(170, 0, 0);">Entrepierna</span>']
+como_componente: []
