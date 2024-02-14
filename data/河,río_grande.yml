@@ -1,8 +1,0 @@
-﻿id: 河
-historia: ¿Cuál es el agua (氵) donde no puede haber tiburones (可)? Un río grande.
-clave: río_grande
-solo_componente: 0
-componentes:
-  - '氵,agua'
-  - '可,tiburón'
-como_componente: []
