@@ -1,0 +1,10 @@
+﻿id: 培
+historia: >-
+  Para cultivar fresas, se pone una capa de plástico bajo la tierra (土), que
+  sirve como mordaza (咅) para el calor.
+clave: cultivar
+solo_componente: 0
+componentes:
+  - '咅,mordaza'
+  - '土,tierra'
+como_componente: []

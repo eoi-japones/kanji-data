@@ -1,10 +1,9 @@
 id: 音
 clave: Sonido
 historia: >-
-  Cuando un jarrón se rompe, el sonido que genera nos persigue durante todo el
-  día.
+  Una persona con la lengua agitándose dentro de la boca es capaz de romper un jarrón chino gracias al sonido.
 componentes:
   - '立,jarrón'
-  - '日,día'
+  - '日,lengua agitándose dentro de una boca'
 como_componente:
   - 'sonido,音'

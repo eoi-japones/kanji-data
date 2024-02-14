@@ -1,0 +1,11 @@
+﻿id: 資
+historia: >-
+  A las deudas se responde con los bienes presentes y pasados. Con las
+  siguientes (次) monedas (貝) que consigas, pagarás los bienes (o deudas) que no
+  pagaste.
+clave: bienes
+solo_componente: 0
+componentes:
+  - '次,siguiente'
+  - '貝,moneda'
+como_componente: []

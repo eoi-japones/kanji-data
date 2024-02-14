@@ -1,0 +1,8 @@
+﻿id: 賠
+historia: Una compensación son las monedas (貝) que te doy y que sirven como mordaza (咅).
+clave: compensación
+solo_componente: 0
+componentes:
+  - '咅,mordaza'
+  - '貝,monedas'
+como_componente: []
