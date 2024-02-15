@@ -1,0 +1,10 @@
+﻿id: 努
+clave: esfuerzo
+historia: >-
+  Tengo que hacer un gran esfuerzo para no abalanzarme y usar la fuerza (力)
+  contra ese tipejo (奴).
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - '奴,tipejo'
+como_componente: []

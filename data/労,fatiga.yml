@@ -1,0 +1,10 @@
+﻿id: 労
+clave: fatiga
+historia: >-
+  El esfuerzo (力) excesivo en el edificio escolar () hace que a los estudiantes
+  les entre una fatiga crónica.
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - edicio_escolar
+como_componente: []

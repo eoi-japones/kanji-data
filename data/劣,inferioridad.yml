@@ -1,0 +1,10 @@
+﻿id: 劣
+clave: inferioridad
+historia: >-
+  Tus pocos (少) músculos y tu escasa fuerza (力) al lado de la de otros, hacen
+  que tengas un sentimiento de inferioridad.
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - '少,poco'
+como_componente: []

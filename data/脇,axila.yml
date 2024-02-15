@@ -1,0 +1,10 @@
+﻿id: 脇
+clave: axila
+historia: >-
+  La parte del cuerpo (月) que no puede tocarse alguien que tiene músculos por
+  todas partes (力) es la axila.
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - '月,parte_del_cuerpo'
+como_componente: []

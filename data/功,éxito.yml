@@ -1,0 +1,8 @@
+﻿id: 功
+clave: éxito
+historia: 'A la hora de conseguir el éxito, más vale maña, o técnica (工) que fuerza (力).'
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - '工,técnica'
+como_componente: []
