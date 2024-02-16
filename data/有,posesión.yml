@@ -1,6 +1,6 @@
 id: 有
 clave: posesión
-historia: "En el caso de estar bajo una *posesión* demoníaca, la mejor solución es poner a nuestro lado (\uD840\uDC87) un buen filete de carne (月) y dejar que se vaya \"madurando\". \n\nAl final, el olor desprendido hará que incluso el demonio más aguerrido escape y se acabará la posesión. "
+historia: "En el caso de estar bajo una *posesión* demoníaca, la mejor solución es poner a nuestro lado () un buen filete de carne (月) y dejar que se vaya \"madurando\". \n\nAl final, el olor desprendido hará que incluso el demonio más aguerrido escape y se acabará la posesión. "
 componentes:
   - a_tu_lado
   - carne
