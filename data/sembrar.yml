@@ -1,6 +1,6 @@
 id: 苗
 clave: sembrar
 historia: >
-    Sembrar un campo de flores.
-componentes: ['<span style="color: rgb(170, 0, 0);">Flor</span>', 'Campo de arroz']
+    Sembrar un campo (田) de flores (艹).
+componentes: ['Flor', 'Campo de arroz']
 como_componente: []
