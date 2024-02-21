@@ -1,0 +1,6 @@
+id: 蚊
+clave: mosquito
+historia: >
+    El insecto (虫) que te pica y te deja la piel a cuadros (文).
+componentes: ['Insecto', 'A cuadros']
+como_componente: []
