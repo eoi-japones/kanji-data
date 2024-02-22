@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  app:
+    build:
+      dockerfile: tools/Dockerfile
+    environment:
+      DATA_DIR: /library/data
+      OUTPUT_FILE: /library/docs/kanji.json
+    volumes:
+      - .:/library
