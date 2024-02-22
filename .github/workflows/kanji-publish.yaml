@@ -18,7 +18,4 @@ jobs:
         with:
           script: |
             require('.github/merge.js')
-      - name: publicar
-        run: |
-          mv kanji.data
           
