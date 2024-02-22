@@ -1,0 +1,10 @@
+﻿id: 剖
+historia: >-
+  Al ayudante del mago hay que ponerle una mordaza (咅) para que no grite cuando
+  le van a partir por la mitad con dos sables (刂).
+clave: dividir
+solo_componente: 0
+componentes:
+  - '咅,mordaza'
+  - '刂,sables'
+como_componente: []

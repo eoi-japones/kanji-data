@@ -1,0 +1,9 @@
+﻿id: 諮
+historia: Consultar consiste en preguntar las palabras (訁) de una segunda boca (口)
+clave: consultar
+solo_componente: 0
+componentes:
+  - '欠,carencia'
+  - '訁,palabras'
+  - '口,boca'
+como_componente: []

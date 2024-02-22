@@ -1,0 +1,10 @@
+﻿id: 歌
+historia: >-
+  Si estáis encerrados con dos tiburones (可), más os vale empezar a cantar
+  canciones y que no tengan carencia (欠) de interés.
+clave: canción
+solo_componente: 0
+componentes:
+  - '欠,carencia'
+  - '可,tiburón'
+como_componente: []

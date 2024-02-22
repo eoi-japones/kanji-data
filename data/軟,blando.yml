@@ -1,0 +1,10 @@
+﻿id: 軟
+historia: >-
+  Es importante que los asientos de tu coche (車) no sean blandos, si no te
+  quedarás dormido y tu carencia (欠) de atención causará un accidente.
+clave: blando
+solo_componente: 0
+componentes:
+  - '欠,carencia'
+  - '車,coche'
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 咅
+historia: >-
+  Si te colocan un jarrón chino (立) en la boca (口), resulta la mejor de las
+  mordazas. 
+clave: mordaza
+solo_componente: 1
+componentes:
+  - '立,jarrón_chino'
+  - '口,boca'
+como_componente: []
