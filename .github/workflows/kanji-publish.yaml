@@ -8,7 +8,7 @@ env:
 
 jobs:
 
-  validar:
+  publicar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,5 +17,5 @@ jobs:
         uses: actions/github-script@v4
         with:
           script: |
-            require('.github/merge.js')
+            require('.github/merger.js')
           
