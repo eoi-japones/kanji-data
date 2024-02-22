@@ -3,19 +3,40 @@ name: Merge de ficheros de kanji
 on:
   workflow_dispatch:
 
-env:
-  DATA_DIR: data
+    env:
+      DATA_DIR: data
 
 jobs:
 
   publicar:
+    env:
+      proyecto: kanji-data
+      git_user: 'github-actions'
+      git_email: 'github-actions@github.com'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: npm install js-yaml
       - name: Empaquetar kanjis
-        uses: actions/github-script@v4
-        with:
-          script: |
-            require('.github/merger.js')
-          
+	uses: actions/github-script@v4
+	with:
+	  script: |
+	    require('.github/merger.js')
+      - name: Calcular nombre de rama
+	id: step-branch
+	run: echo "::set-output name=branch::$(echo new-release/kanjis"
+
+      - name: Commit Message
+	id: step-commit_message
+	run: echo "::set-output name=commit_message::'Publicar kanjis'"
+
+      - name: Create branch with changes
+	run: |
+	  git config --global user.name ${{ env.git_user }}
+	  git config --global user.email ${{ env.git_email }}
+	  git checkout -b ${{ steps.step-branch.outputs.branch }}
+	  mv .github/kanji.data ./docs
+	  git add docs
+	  git commit -m "${{steps.step-commit_message.outputs.commit_message}}"
+	  git push origin ${{ steps.step-branch.outputs.branch }}
+
