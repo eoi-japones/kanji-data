@@ -1,0 +1,10 @@
+﻿id: 試
+clave: Examen
+historia: >-
+  Hay que tener cuidado con el estilo (式) de las palabras (言) que usamos durante
+  un examen, pues del mismo depende que aprobemos.
+solo_componente: 0
+componentes:
+  - '式,estilo'
+  - '言,palabras'
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 減
+clave: Menguar
+historia: >-
+  Tu caldero de agua (氵), ante un desfile (戌) de bocas (口) que lo único que
+  quieren es beber de él, no puede hacer más que menguar.
+solo_componente: 0
+componentes:
+  - '戌,desfile'
+  - '口,boca'
+  - '氵,agua'
+como_componente: []

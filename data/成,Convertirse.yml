@@ -1,0 +1,10 @@
+﻿id: 成
+clave: Convertirse
+historia: >-
+  Si en un pasacalles (戊) alguien saca una katana (刀), solo puede convertirse en
+  una cosa...
+solo_componente: 0
+componentes:
+  - '戊,pasacalles'
+  - '刀,katana'
+como_componente: []

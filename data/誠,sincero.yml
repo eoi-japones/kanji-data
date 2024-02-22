@@ -1,0 +1,10 @@
+﻿id: 誠
+clave: sincero
+historia: >-
+  Una persona sincera es aquella cuyas palabras (言) se convierten (成) en
+  realidad.
+solo_componente: 0
+componentes:
+  - '成,convertirse'
+  - '言,palabras'
+como_componente: []

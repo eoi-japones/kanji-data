@@ -1,0 +1,10 @@
+﻿id: 城
+clave: Castillo
+historia: >-
+  Resulta increíble la capacidad que tiene el hombre para hacer que un trozo de
+  tierra (土) se convierta (成) en un castillo.
+solo_componente: 0
+componentes:
+  - '成,convertirse'
+  - '土,tierra'
+como_componente: []
