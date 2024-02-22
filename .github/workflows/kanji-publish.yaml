@@ -22,7 +22,7 @@ jobs:
             require('.github/merger.js')
       - name: Calcular nombre de rama
         id: step-branch
-        run: echo "::set-output name=branch::echo new-release/kanjis"
+        run: echo "::set-output name=branch::new-release/kanjis"
 
       - name: Commit Message
         id: step-commit_message
