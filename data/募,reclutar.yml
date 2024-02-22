@@ -1,0 +1,10 @@
+﻿id: 募
+clave: reclutar
+historia: >-
+  En el cementerio (莫), ante la tumba de un amigo injustamente asesinado, juras
+  reclutar una fuerza (力) de personas para vengarle.
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - '莫,cementerio'
+como_componente: []

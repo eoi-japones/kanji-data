@@ -1,0 +1,8 @@
+﻿id: 吊
+clave: ahorcar
+historia: Si una persona se ahorca con una toalla (巾) se te queda la boca abierta (口)
+solo_componente: 0
+componentes:
+  - '巾,toalla'
+  - '口,boca'
+como_componente: []

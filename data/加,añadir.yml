@@ -1,0 +1,11 @@
+﻿id: 加
+clave: añadir
+historia: >-
+  Cuidado, este es el único kanji en el que el componente de fuerza (力) toma
+  sentido sonoro y va a la izquierda. Por eso añadimos una boca (口) a la
+  derecha, sorprendida.
+solo_componente: 0
+componentes:
+  - '力,fuerza'
+  - '口,boca'
+como_componente: []
