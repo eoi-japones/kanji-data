@@ -33,7 +33,7 @@ jobs:
           git config --global user.name ${{ env.git_user }}
           git config --global user.email ${{ env.git_email }}
           git checkout -b ${{ steps.step-branch.outputs.branch }}
-          mv .github/kanji.data ./docs
+          mv ./kanji.data ./docs
           git add docs
           git commit -m "${{steps.step-commit_message.outputs.commit_message}}"
           git push origin ${{ steps.step-branch.outputs.branch }}
