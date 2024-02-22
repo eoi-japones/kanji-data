@@ -1,0 +1,21 @@
+name: Merge de ficheros de kanji
+
+on:
+  workflow_dispatch:
+
+env:
+  DATA_DIR: data
+
+jobs:
+
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install js-yaml
+      - name: Empaquetar kanjis
+        uses: actions/github-script@v4
+        with:
+          script: |
+            require('.github/merge.js')
+          
