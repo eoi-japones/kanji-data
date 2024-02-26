@@ -1,6 +1,6 @@
 id: 唱
 clave: canto
 historia: >
-    Una boca dirige y las otras cantan.
-componentes: ['Boca', '<span style="color: rgb(170, 0, 0);">2&nbsp;× Lengua moviendo en boca</span>']
+    Una boca (口) dirige y las otras cantan (日).
+componentes: ['Boca', 'Lengua moviendo en boca']
 como_componente: []

@@ -1,6 +1,7 @@
 id: 早
 clave: amanecer
 historia: >
-    Sale el Sol por la mañana y derrite la escarcha.<br><span style="color: rgb(170, 0, 0);">Como componente: temprano; girasol.</span>
+    Sale el Sol (日) por la mañana y derrite la escarcha.
+    Como componente: temprano; girasol.
 componentes: ['Sol', '10']
 como_componente: []
