@@ -1,6 +1,0 @@
-id: 音
-clave: sonido
-historia: >
-    Al gritar en un tono tan alto, se rompe el jarrón chino.
-componentes: ['<span style="color: rgb(170, 0, 0);">Jarrón chino</span>', '<span style="color: rgb(170, 0, 0);">Lengua agitando en boca</span>']
-como_componente: []

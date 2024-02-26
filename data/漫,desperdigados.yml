@@ -1,6 +1,6 @@
 id: 漫
 clave: desperdigados
 historia: >
-    Tras una inundación, se encuentran mandalas desperdigados flotando sobre el agua.
-componentes: ['Agua', '<span style="color: rgb(170, 0, 0);">Mandala</span>']
+    Tras una inundación, se encuentran mandalas (曼) desperdigados flotando sobre el agua (氵) .
+componentes: ['Agua', 'Mandala']
 como_componente: []

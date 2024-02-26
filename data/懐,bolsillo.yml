@@ -1,6 +1,6 @@
 id: 懐
 clave: bolsillo
 historia: >
-    La chica fija la mirada en el chico que le gusta y, con el corazón en un puño, se saca del bolsillo de sus ropajes una carta de amor.
-componentes: ['Corazón (espiritual)', '<span style="color: rgb(170, 0, 0);">Clavo</span>', '<span style="color: rgb(170, 0, 0);">Ojo tumbado</span>', 'Ropa']
+    La chica fija (十) la mirada (目) en el chico que le gusta y, con el corazón (忄) en un puño, se saca del bolsillo de sus ropajes (衣) una carta de amor.
+componentes: ['Corazón', 'Clavo', 'Ojo tumbado', 'Ropa']
 como_componente: []

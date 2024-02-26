@@ -1,6 +1,6 @@
 id: 敢
 clave: osadía
 historia: >
-    Marineros poniéndose un clavo en el oído para demostrar su osadía al capataz.
-componentes: ['<span style="color: rgb(170, 0, 0);">Clavo</span>', 'Oído', '<span style="color: rgb(170, 0, 0);">Capataz</span>']
+    Marineros poniéndose un clavo (エ) en el oído (耳) para demostrar su osadía al capataz (攵).
+componentes: ['Clavo', 'Oído', 'Capataz']
 como_componente: []
