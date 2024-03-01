@@ -1,0 +1,11 @@
+id: 称
+clave: alabanza
+historia: >-
+  Solaire of Astora, el poderoso guerrero (武) de la luz (明) solar, alababa al
+  sol (日)
+solo_componente: 0
+componentes:
+  - Guerrero
+  - Luz
+  - Sol
+como_componente: []
