@@ -1,0 +1,8 @@
+id:
+clave: solicitud
+historia: >
+  En ciertas mafias, encontrarte una flecha () con unos pocos granos de arroz () a los pies de tu puerta quiere decir que hay una solicitud de muerte sobre tu cabeza
+componentes:
+  - flecha
+  - granos_arroz
+como_componente: []

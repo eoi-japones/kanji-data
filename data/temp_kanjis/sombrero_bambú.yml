@@ -1,0 +1,8 @@
+id:
+clave: sombrero_bambú
+historia: >
+  Para ponerte un sombrero de bambú () tienes que estar de pie ()
+componentes:
+  - bambú
+  - estar_de_pie
+como_componente: []

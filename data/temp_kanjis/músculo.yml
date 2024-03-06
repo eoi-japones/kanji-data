@@ -1,0 +1,9 @@
+id:
+clave: músculo
+historia: >
+  El músculo es la parte del cuerpo () con la que hacemos fuerza () y es duro como el tronco del bambú ()
+componentes:
+  - bambú
+  - parte_cuerpo
+  - fuerza
+como_componente: []

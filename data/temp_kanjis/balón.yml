@@ -1,0 +1,8 @@
+id:
+clave: balón
+historia: >
+  Solicitar () al rey () un balón
+componentes:
+  - solicitar
+  - rey
+como_componente: []

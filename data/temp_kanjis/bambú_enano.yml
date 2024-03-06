@@ -1,0 +1,8 @@
+id:
+clave: bambú_enano
+historia: >
+  Las nuevas plantas de bambú () enano crecen cada pocas generaciones ()
+componentes:
+  - bambú
+  - generación
+como_componente: []
