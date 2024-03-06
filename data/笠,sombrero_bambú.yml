@@ -1,7 +1,7 @@
-id:
+id: 笠
 clave: sombrero_bambú
 historia: >
-  Para ponerte un sombrero de bambú () tienes que estar de pie ()
+  Para ponerte un sombrero de bambú (⺮) tienes que estar de pie (立)
 componentes:
   - bambú
   - estar_de_pie

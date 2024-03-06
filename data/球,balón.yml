@@ -1,7 +1,7 @@
-id:
+id: 球
 clave: balón
 historia: >
-  Solicitar () al rey () un balón
+  Solicitar (求) al rey (王) un balón
 componentes:
   - solicitar
   - rey
