@@ -1,7 +1,7 @@
 id: 類
 clave: tipo_de
 historia: >
-  En E.E.U.U (米) el tipo de perro a la cabeza (頁) de las encuestas es el San Bernardo (大)
+  En E.E.U.U (米) el tipo de perro a la cabeza (頁) de las encuestas de perros favoritos es el San Bernardo (大)
 componentes:
   - eeuu
   - san_bernardo
