@@ -1,13 +1,7 @@
 id: 間
-
-clave: Intervalo
-
-historia: >
-  Mientras el sol (日) esté en lo alto, la puertas de la ciudad (門) estarán abiertas.
-
+clave: intervalo
+historia: El intervalo de tiempo durante el que se pasa por las puertas de la ciudad (門) es de todo el día (日).
 componentes:
-    
   - puertas_de_ciudad
   - sol
-
 como_componente: []
