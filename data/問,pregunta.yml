@@ -1,0 +1,7 @@
+id: 問
+clave: pregunta
+historia: Para cruzar las puertas (門), te piden que digas (口) una clave.
+componentes:
+  - puertas_de_ciudad
+  - boca
+como_componente: []
