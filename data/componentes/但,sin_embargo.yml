@@ -1,0 +1,10 @@
+﻿id: 但
+clave: sin_embargo
+historia: >-
+  Una persona (亻) puede pensar que hoy no va a poder más, sin embargo por el
+  amanecer (旦) será otro día.
+solo_componente: 0
+componentes:
+  - persona
+  - amanecer
+como_componente: []

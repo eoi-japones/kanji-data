@@ -1,0 +1,11 @@
+﻿id: 算
+clave: calcular
+historia: >-
+  Un arquitecto calcula a ojo (目) y con las dos manos (廾) la cantidad de bambú
+  (⺮) que va a necesitar para construir la infraestructura
+solo_componente: 0
+componentes:
+  - bambú
+  - ojo
+  - manos_abiertas
+como_componente: []

@@ -1,0 +1,12 @@
+﻿id: 築
+clave: fabricar
+historia: >-
+  La técnica (工) de fabricar con madera (木) es mediocre (凡) en comparación con
+  el uso de bambú (⺮).
+solo_componente: 0
+componentes:
+  - bambú
+  - técnica
+  - mediocre
+  - árbol
+como_componente: []

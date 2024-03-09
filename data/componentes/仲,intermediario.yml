@@ -1,0 +1,8 @@
+﻿id: 仲
+clave: intermediario
+historia: La persona (亻) que está en el medio (亻).
+solo_componente: 0
+componentes:
+  - persona
+  - en_medio_de
+como_componente: []
