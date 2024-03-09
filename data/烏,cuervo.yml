@@ -1,0 +1,7 @@
+﻿id: 烏
+clave: cuervo
+historia: Un cuervo es un pájaro que nunca va a poder ser blanco (白 sin trazo central).
+solo_componente: 0
+componentes:
+  - pájaro
+como_componente: []
