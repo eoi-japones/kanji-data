@@ -1,9 +1,0 @@
-id: 一
-clave: uno
-historia: >
-  "Número romano I, girado 90º.
-  Como componente:
-    - si está arriba: techo.
-    - si está abajo: suelo."
-componentes: ['']
-como_componente: []
