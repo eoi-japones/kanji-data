@@ -1,11 +1,11 @@
 id: 分
 
-clave: dividir
+clave: parte
 
 # otras_claves: 
 
 historia: >-
-   El paso de la espada (刀) divide
+   El paso de la espada (刀) *parte* un elemento que se divide. 
 
 componentes:
     - espada
