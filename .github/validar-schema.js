@@ -10,6 +10,8 @@ const kanjiValidation = Ajv.compile(kanjiSchema)
 
 walk()
 
+const clavesUnicas = {}
+
 async function walk(dir = process.env["DATA_DIR"]){
   
   await Promise.all(
@@ -79,6 +81,15 @@ async function walk(dir = process.env["DATA_DIR"]){
     if(!kanjiValidation(kanjiData)){
 
       throw JSON.stringify(kanjiValidation.errors, null, 4)
+    }
+
+    if(clavesUnicas[kanjiData.clave]){
+
+      throw `Clave repetida: ${kanjiData.clav}`
+    }
+    else{
+
+      clavesUnicas[kanjiData.clave]
     }
 
   }
