@@ -1,0 +1,8 @@
+id: 箱
+clave: caja
+historia: >
+  Tiras de bambú (⺮) inter(相) conectadas hacen buenas cajas
+componentes:
+  - bambú
+  - inter-
+como_componente: []

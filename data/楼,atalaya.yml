@@ -1,0 +1,9 @@
+id: 楼
+clave: atalaya
+historia: >
+  La atalaya es una torre de madera (木) donde las mujeres (女) vigilaban que nadie robase el arroz (米)
+componentes:
+  - árbol
+  - arroz
+  - mujer
+como_componente: []
