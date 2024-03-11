@@ -85,11 +85,11 @@ async function walk(dir = process.env["DATA_DIR"]){
 
     if(clavesUnicas[kanjiData.clave]){
 
-      throw `Clave repetida: ${kanjiData.clav}`
+      throw `Clave repetida: "${kanjiData.clave}"`
     }
     else{
 
-      clavesUnicas[kanjiData.clave]
+      clavesUnicas[kanjiData.clave] = true
     }
 
   }
