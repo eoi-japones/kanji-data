@@ -1,0 +1,11 @@
+﻿id: 佐
+clave: asistente
+historia: >-
+  Si tenemos a alguien que es nuestra mano derecha, no podemos olvidar a la
+  persona (亻) que tenemos a nuestra izquierda (左), que puede ser nuestro
+  asistente.
+solo_componente: 0
+componentes:
+  - persona
+  - izquierda
+como_componente: []

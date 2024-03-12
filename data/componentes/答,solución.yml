@@ -1,0 +1,10 @@
+﻿id: 答
+clave: solución
+historia: >-
+  Típico juego japonés con piezas hechas de bambú (⺮) cuya solución depende de
+  cómo las encajes (合).
+solo_componente: 0
+componentes:
+  - bambú
+  - encajar
+como_componente: []

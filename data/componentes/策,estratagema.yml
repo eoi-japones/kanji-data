@@ -1,0 +1,11 @@
+﻿id: 策
+clave: estratagema
+historia: >-
+  Un bambú (⺮) especial que no es capaz de sostenerse por sí mismo, por lo que
+  su estratagema se basa en amarrarse a un árbol (木) a modo de cinturón (冂) para sobrevivir.
+solo_componente: 0
+componentes:
+  - bambú
+  - árbol
+  - cinturón
+como_componente: []
