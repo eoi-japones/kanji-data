@@ -1,0 +1,10 @@
+﻿id: 茂
+clave: Exuberante
+historia: >-
+  Un pasacalles (戊) que sucede en la fiesta de las flores (艹) tiene tal cantidad
+  de hermosos colores que resulta exuberante.
+solo_componente: 0
+componentes:
+  - '戊,pasacalles'
+  - '艹,flor'
+como_componente: []

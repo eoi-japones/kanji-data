@@ -1,0 +1,11 @@
+﻿id: 式
+clave: Estilo
+historia: >-
+  Pensamos en los cables de grandes puentes. Con su estilo arquitectónico, la
+  técnica (工) que han tenido que usar para construirlos es lanzar flechas (弋)
+  con los cables atados para sujetarlos.
+solo_componente: 0
+componentes:
+  - '弋,flecha'
+  - '工,técnica'
+como_componente: []

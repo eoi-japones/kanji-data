@@ -1,0 +1,10 @@
+﻿id: 威
+clave: Intimidar
+historia: >-
+  Un desfile (戌) de mujeres (女) que están defendiendo sus derechos no se intimidan
+  ante nada.
+solo_componente: 0
+componentes:
+  - '戌,desfile'
+  - '女,mujer'
+como_componente: []

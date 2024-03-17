@@ -1,0 +1,11 @@
+﻿id: 賊
+clave: Bandido
+historia: >-
+  Los bandidos, para robar las monedas (貝) de la gente, esperan a que estén de
+  fiesta (戈) y van con sus ganzúas en forma de aguja (十) a entrar en las casas.
+solo_componente: 0
+componentes:
+  - '貝,monedas'
+  - '戈,fiesta'
+  - '十,aguja'
+como_componente: []

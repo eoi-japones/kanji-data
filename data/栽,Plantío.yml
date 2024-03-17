@@ -1,0 +1,10 @@
+﻿id: 栽
+clave: Plantío
+historia: >-
+  Tras la vendimia (𢦏) lo primero que se hace es el plantío de nuevos árboles
+  (木) o cepas.
+solo_componente: 0
+componentes:
+  - '𢦏,vendimia'
+  - '木,árbol'
+como_componente: []

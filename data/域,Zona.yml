@@ -1,0 +1,12 @@
+﻿id: 域
+clave: Zona
+historia: >-
+  Cuando el Papa de Roma llega a una nueva zona, se celebra una fiesta (戈) y lo primero
+  (一) que hace es besar con su boca (口) la tierra (土) que pisa.
+solo_componente: 0
+componentes:
+  - '土,tierra'
+  - '戈,fiesta'
+  - '口,boca'
+  - '一,uno'
+como_componente: []

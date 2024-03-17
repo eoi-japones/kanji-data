@@ -1,0 +1,8 @@
+﻿id: 戌
+clave: Desfile
+historia: Un desfile es un pasacalles (戊) donde la gente va de uno (一) en uno.
+solo_componente: 1
+componentes:
+  - '戊,pasacalles'
+  - '一,uno'
+como_componente: []

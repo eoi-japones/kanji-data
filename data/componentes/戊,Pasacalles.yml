@@ -1,0 +1,10 @@
+﻿id: 戊
+clave: Pasacalles
+historia: >-
+  Un pasacalles es una fiesta (戈) que sucede entre edificios altos como
+  barrancos (⼚).
+solo_componente: 1
+componentes:
+  - '戈,fiesta'
+  - '⼚,barranco'
+como_componente: []

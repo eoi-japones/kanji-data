@@ -1,0 +1,10 @@
+﻿id: 載
+clave: Cargar
+historia: >-
+  Tras la vendimia (𢦏) hay que cargar todas las uvas en grandes automóviles (車)
+  para llevarlas a procesar.
+solo_componente: 0
+componentes:
+  - '𢦏,vendimia'
+  - '車,coche'
+como_componente: []

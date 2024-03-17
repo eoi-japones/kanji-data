@@ -1,0 +1,8 @@
+﻿id: 𢦏
+clave: Vendimia
+historia: La vendimia es la fiesta (戈) más cercana la tierra (土).
+solo_componente: 1
+componentes:
+  - '戈,fiesta'
+  - '土,tierra'
+como_componente: []
