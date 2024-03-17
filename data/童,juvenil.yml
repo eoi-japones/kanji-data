@@ -1,0 +1,10 @@
+﻿id: 童
+clave: juvenil
+historia: >-
+  Una persona juvenil es aquella que está encima (立) de su calculadora (里) todo
+  el día
+solo_componente: 0
+componentes:
+  - '立,de_pie'
+  - '里,calculadora'
+como_componente: []

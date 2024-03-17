@@ -1,0 +1,11 @@
+﻿id: 孰
+clave: abusón
+historia: >-
+  Xigante, de Doreamon, era un niño (子) muy alto (高) y redondo (丸). Además, era
+  un abusón
+solo_componente: 1
+componentes:
+  - '高,alto'
+  - '子,niño'
+  - '丸,redondo'
+como_componente: []
