@@ -1,12 +1,10 @@
 id: 位
 clave: rango
-historia: >-
-  El rango de los enemigos que se enfrentaban a SonGoku  (亻) fue aumentando a
-  medida que la historia avanzaba. 
-
-
-  Aún así no podemos obviar que, a pesar de su rango muy inferior, el enemigo
-  que metía  la gente en un jarrón (立) fue uno de los mejores y más divertidos. 
+historia: |2-
+    El rango de los enemigos que se enfrentaban a SonGoku (亻) fue aumentando a medida que la historia avanzaba.
+    Aún así no podemos obviar que, a pesar de su rango muy inferior, el enemigo que metía la gente en un jarrón (立) fue uno de los mejores y más divertidos.
+solo_componente: 0
 componentes:
   - son_goku
+  - jarrón
 como_componente: []
