@@ -1,0 +1,10 @@
+id: 訓
+clave: instrucciones
+historia: >-
+  Cruzar el río (川) es tan complicado que necesitas que alguien te diga de
+  palabra (言) las instrucciones.
+solo_componente: 0
+componentes:
+  - palabra
+  - río
+como_componente: []
