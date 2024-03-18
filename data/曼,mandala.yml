@@ -2,5 +2,5 @@ id: 曼
 clave: mandala
 historia: >
     Tras un día (日) viendo (目) mandalas, te mareas y te duelen las piernas (又) de tenerlas cruzadas.
-componentes: ['Día', 'Ojo tumbado', 'Entrepierna']
+componentes: ['día', 'ojo', 'entrepierna']
 como_componente: []

@@ -2,5 +2,5 @@ id: 職
 clave: puesto_de_trabajo
 historia: >
     El buen trabajador es el que se mantiene en su puesto de trabajo aún con barullo (耳, 音, 戈) .
-componentes: ['Oído', 'Sonido', 'Fiesta']
+componentes: ['oreja', 'sonido', 'fiesta']
 como_componente: []
