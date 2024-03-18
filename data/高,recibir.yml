@@ -1,0 +1,8 @@
+﻿id: 高
+clave: recibir
+historia: Los niños (子) que reciben más atención son siempre los más altos (高)
+solo_componente: 0
+componentes:
+  - '高,alto'
+  - '子,niño'
+como_componente: []

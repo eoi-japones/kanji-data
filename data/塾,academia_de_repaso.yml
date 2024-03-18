@@ -1,0 +1,10 @@
+﻿id: 塾
+clave: academia_de_repaso
+historia: >-
+  En las academias de repaso de Japón, ponen a correr a los abusones (孰) por la
+  tierra (土) hasta que aprenden a comportarse
+solo_componente: 0
+componentes:
+  - '孰,abusón'
+  - '土,tierra'
+como_componente: []

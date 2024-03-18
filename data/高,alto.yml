@@ -1,0 +1,12 @@
+﻿id: 高
+clave: alto
+historia: >-
+  Un hombre con un gran sombrero de copa (亠) deja a todos anonadados con el
+  discurso que sale de su boca (口). Está expuesto ante todos como si estuviese
+  en una vitrina (冋), ya que el lugar desde el que habla está muy, muy alto.
+solo_componente: 0
+componentes:
+  - '亠,sombrero_de_copa'
+  - '冋,vitrina'
+  - '口,boca'
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 涼
+clave: refrescante
+historia: >-
+  Durante el verano, en las grandes capitales (京) hace mucho calor. Cualquier
+  tipo de agua (氵) resulta muy refrescante.
+solo_componente: 0
+componentes:
+  - '京,capital'
+  - '氵,agua'
+como_componente: []

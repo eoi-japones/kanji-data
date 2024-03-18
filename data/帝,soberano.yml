@@ -1,0 +1,12 @@
+﻿id: 帝
+clave: soberano
+historia: >-
+  Un soberano de pie (立) es todo majestad y grandeza. Sin embargo, bajo la
+  corona (冖) es solo un hombre, y tras bambalinas todo son toallas (巾) limpiando
+  los desperfectos de sus acciones
+solo_componente: 0
+componentes:
+  - '立,de_pie'
+  - '冖,corona'
+  - '巾,toalla'
+como_componente: []

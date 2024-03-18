@@ -1,0 +1,10 @@
+﻿id: 嬌
+clave: atractiva
+historia: >-
+  Pensamos en una mujer (女) muy atractiva, cuyo aspecto parece el de un
+  auténtico ángel (喬)
+solo_componente: 0
+componentes:
+  - '女,mujer'
+  - '喬,ángel'
+como_componente: []

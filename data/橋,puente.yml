@@ -1,0 +1,10 @@
+﻿id: 橋
+clave: puente
+historia: >-
+  El ponti degli angeli, o puente de los ángeles (喬) es un puente muy famoso
+  hecho completamente de madera (木)
+solo_componente: 0
+componentes:
+  - '木,madera'
+  - '喬,ángel'
+como_componente: []
