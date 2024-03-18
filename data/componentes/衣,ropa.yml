@@ -1,0 +1,7 @@
+id: 衣
+clave: ropa
+historia: >
+    
+solo_componente: 1
+componentes: []
+como_componente: ['capa', 'bufanda']
