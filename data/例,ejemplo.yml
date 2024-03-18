@@ -1,0 +1,10 @@
+﻿id: 例
+clave: ejemplo
+historia: >-
+  Un profesor que se encarga de poner a varias personas (亻) en una hilera (列) a
+  modo de ejemplo para los demás.
+solo_componente: 0
+componentes:
+  - persona
+  - hilera
+como_componente: []

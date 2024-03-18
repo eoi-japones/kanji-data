@@ -1,11 +1,8 @@
-id: 仕
+﻿id: 仕
 clave: atender
-historia: >-
-  La forma en que una *persona* *japonesa* atiende a sus ocupaciones y labores
-  suele ser algo que impresiona a los extranjeros. Dicen que está inspirada en
-  los *samuráis* (士) japoneses que dedicaban su vida a la atención de sus
-  ideales. 
+historia: El samurai (士) es una persona (亻) que atiende a otras mediante sus servicios.
+solo_componente: 0
 componentes:
-  - persona_japonesa
+  - persona
   - samurai
 como_componente: []
