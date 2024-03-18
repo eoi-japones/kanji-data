@@ -1,0 +1,6 @@
+id: 旦
+clave: alba
+historia: >
+    El Sol (日) asoma desde el suelo (一) durante el alba.
+componentes: ['Sol', 'Suelo']
+como_componente: []
