@@ -1,0 +1,8 @@
+﻿id: 伏
+clave: postrar
+historia: Un perro (犬) domesticado se postra ante una persona (亻).
+solo_componente: 0
+componentes:
+  - persona
+  - perro
+como_componente: []

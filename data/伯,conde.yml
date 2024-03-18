@@ -1,0 +1,10 @@
+﻿id: 伯
+clave: conde
+historia: >-
+  La persona (亻) noble que, aún no pudiendo hablar con palomas blancas (白) como
+  el emperador, hace lo que está en sus manos para apoyarlo.
+solo_componente: 0
+componentes:
+  - persona
+  - blanco
+como_componente: []

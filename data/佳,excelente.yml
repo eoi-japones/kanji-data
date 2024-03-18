@@ -1,0 +1,10 @@
+﻿id: 佳
+clave: excelente
+historia: >-
+  La excelencia de una persona (亻) en Japón se celebra regalándole una joya
+  cuadrada (圭): un ojo de gato.
+solo_componente: 0
+componentes:
+  - persona
+  - joya_cuadrada
+como_componente: []

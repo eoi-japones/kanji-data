@@ -1,0 +1,12 @@
+﻿id: 悠
+clave: remoto
+historia: >-
+  Una persona (亻) mayor con bastón (｜), que en algún profundo lugar de su
+  corazón (心) recuerda cuando cuando aún era capataz (攵).
+solo_componente: 0
+componentes:
+  - persona
+  - bastón
+  - capataz
+  - corazón
+como_componente: []

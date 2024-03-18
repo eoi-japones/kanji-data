@@ -1,0 +1,10 @@
+﻿id: 件
+clave: caso
+historia: >-
+  El curioso caso iniciado por una persona (亻) que perdió su vaca (牛) para
+  siempre al colarse ésta en el patio de su vecino torero.
+solo_componente: 0
+componentes:
+  - persona
+  - vaca
+como_componente: []

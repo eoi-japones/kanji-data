@@ -1,0 +1,8 @@
+﻿id: 信
+clave: fe
+historia: Tienes fe en otra persona (亻) cuando crees en sus palabras (言).
+solo_componente: 0
+componentes:
+  - persona
+  - palabra
+como_componente: []

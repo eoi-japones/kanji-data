@@ -1,0 +1,8 @@
+﻿id: 仏
+clave: Buda
+historia: 'Antes que hacerle daño a otra persona (亻), Buda se cortaría el codo (厶).'
+solo_componente: 0
+componentes:
+  - persona
+  - codo
+como_componente: []
