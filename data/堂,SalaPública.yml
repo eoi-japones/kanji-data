@@ -1,6 +1,6 @@
 ﻿id: 堂
 clave: SalaPública
-historia: "En los terrenos (土) de la sala pública, está el retrete exterior (\uD86E\uDE60)."
+historia: "En los terrenos (土) de la sala pública, está el retrete exterior ()."
 solo_componente: 0
 componentes:
   - Retrete exterior
