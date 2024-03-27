@@ -4,20 +4,34 @@ const path = require("path")
 
 const output_file = process.env["OUTPUT_FILE"] || './kanji.data'
 
-walk()
+const f = []
+
+walk().then(() => escribirEnFichero(f)).then(() => {
+
+  console.log(`Escrito en ${output_file}`)
+
+}).catch((err) => {
+
+  throw `Error merge: ${err}`
+})
 
 async function escribirEnFichero(datos){
 
   return new Promise((ok, ko) => {
 
-    fs.appendFile(output_file, JSON.stringify(yaml.load(datos)) + "\n", 'utf-8', (err) => {
-
+    fs.appendFile(output_file, JSON.stringify(datos), 'utf-8', (err) => {
       if(err)
-        return ko(`Escribiendo: ${err}`)
+        return ko(err)
       else
         return ok()
     })
   })
+}
+
+async function acumularParaFichero(datos){
+
+  f.push(yaml.load(datos))
+
 }
 
 async function walk(dir = process.env["DATA_DIR"]){
@@ -30,13 +44,8 @@ async function walk(dir = process.env["DATA_DIR"]){
 
     })
 
-  ).catch((err) => {
+  )
 
-    console.error(err)
-
-    throw err
-
-  })
 
 }
 
@@ -65,8 +74,9 @@ async function walk(dir = process.env["DATA_DIR"]){
 
           try{
           
-            escribirEnFichero(data)
-      
+            acumularParaFichero(data)
+
+            ok()
           }
           catch(err){
 
