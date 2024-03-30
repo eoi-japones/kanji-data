@@ -46,3 +46,14 @@ Base de datos de kanjis.
    ![7](https://github.com/eoi-japones/kanji-data/assets/157161139/842c2d20-6bf6-46de-bce2-df753cfebd5f)
 
 NOTA: Al haber subido los .yaml, GitHub ya te dará la opción de crear una pull request al entrar en la organización.
+
+## Créditos
+
+### Imágenes
+
+Portada: <a href="https://www.freepik.com/free-vector/vector-japanese-kanji-brush-calligraphy-text-translation-success-examination_44145747.htm#fromView=search&page=1&position=20&uuid=867c9878-d038-4bfa-b98f-78e95f17f8c0">Image by callmetak</a> on Freepik
+
+
+## Licencia
+
+Kanjis © 2024 by Comunidad de estudio de Kanjis de la EOI de Vigo is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
