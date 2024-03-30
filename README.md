@@ -56,4 +56,4 @@ Portada: <a href="https://www.freepik.com/free-vector/vector-japanese-kanji-brus
 
 ## Licencia
 
-Kanjis © 2024 by Comunidad de estudio de Kanjis de la EOI de Vigo is licensed under CC BY-NC-ND 4.0
+Kanjis © 2024 by Comunidad de estudio de Kanjis de la EOI de Vigo is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
