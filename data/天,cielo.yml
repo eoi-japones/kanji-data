@@ -1,11 +1,14 @@
 id: 天
-clave: Paraiso
+clave: Cielo
 historia: >+
   Es una historia para reflexionar. Nos dice que, por muy grande (大) que sea uno
   (一) al final el cielo siempre está por encima de nosotros. 
 
 
   Por muy grandes que seamos, somos todos uno bajo el cielo. 
+
+como_componente:
+  - Paraiso,天
 
 componentes:
   - uno
