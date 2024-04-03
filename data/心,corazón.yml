@@ -4,5 +4,7 @@ historia: |-
   El el pictograma de un corazón funcionando. 
 
   Imagina un corazón bombeando la sangre y las gotas que lo forman. 
-componentes: []
+como_componente: []
+componentes:
+  - Gota
 
