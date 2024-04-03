@@ -2,6 +2,7 @@ id: 救
 clave: salvación
 historia: >
   "La solicitud (求) que hace todo empleado a su capataz (攵) cuando hay despidos masivos es la misma: 'sálvame a mi'"
+como_componente: []
 componentes:
   - solicitar
   - capataz
