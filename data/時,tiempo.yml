@@ -1,6 +1,6 @@
 id: 時
 
-clave: hora
+clave: Tiempo
 
 historia: >
     
@@ -13,4 +13,3 @@ componentes:
 
 como_componente:
     - hora,時
-    - tiempo,時
