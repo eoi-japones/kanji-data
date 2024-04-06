@@ -1,0 +1,10 @@
+﻿id: 停
+clave: parada
+historia: >-
+  En todo pabellón (亭) hay al menos una parada donde una persona (亻) se pueda
+  tomar un descanso.
+solo_componente: 0
+componentes:
+  - persona
+  - pabellón
+como_componente: []

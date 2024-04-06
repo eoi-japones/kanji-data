@@ -1,0 +1,10 @@
+﻿id: 倒
+clave: derrocamiento
+historia: >-
+  Para poder llegar a derrocar un estado, una persona (亻) de mérito debe facer
+  (致) todo cuanto esté en su poder.
+solo_componente: 0
+componentes:
+  - persona
+  - facer
+como_componente: []
