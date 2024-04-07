@@ -1,9 +1,10 @@
 ﻿id: 倒
 clave: derrocamiento
 historia: >-
-  Cualquier persona (亻) puede llegar (到) a derrocar un estado por mérito propio.
+  Cualquier persona (亻), por mérito propio, puede causar la llegada (到) del
+  derrocamiento de un estado.
 solo_componente: 0
 componentes:
   - persona
-  - llegar
+  - llegada
 como_componente: []
