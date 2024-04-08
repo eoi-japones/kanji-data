@@ -4,16 +4,22 @@ const path = require("path")
 const ajv = require("ajv")
 
 const kanjiSchema = require("../schemas/kanji.schema.json")
+const grupoSchema = require("../schemas/grupo.schema.json")
 
 const Ajv = new ajv()
 const kanjiValidation = Ajv.compile(kanjiSchema)
+const grupoValidation = Ajv.compile(grupoSchema)
 
-walk()
+walk(process.env["DATA_DIR"])
+
+walk(process.env["META_DIR"])
 
 const clavesUnicas = {}
 
 async function walk(dir = process.env["DATA_DIR"]){
   
+  console.log(`DIR ${dir}`)
+
   await Promise.all(
 
     (await leerDir(dir)).map((entrada) => {
@@ -32,6 +38,17 @@ async function walk(dir = process.env["DATA_DIR"]){
 
 }
 
+  function determinarTipo(entrada){
+
+      const dir = path.basename(path.dirname(entrada))
+
+      return (dir == "data" || dir == "componentes") ? "KANJI" :
+          (dir == "grupos") ? "GRUPO" :
+          (dir == "iters") ? "ITER" : 
+           "DESCONOCIDO"
+
+  }
+
   function procesarEntrada(entrada){
 
     if(entrada.tipo == "d")
@@ -42,7 +59,7 @@ async function walk(dir = process.env["DATA_DIR"]){
 
   function procesarFichero(entrada){
 
-    if(entrada.match(/\.yaml|\.yml$/)){
+    if(entrada.match(/\.yaml$|\.yml$/)){
 
       return new Promise((ok, ko) => {
 
@@ -53,13 +70,16 @@ async function walk(dir = process.env["DATA_DIR"]){
             return `Leyendo ${entrada}: ${err}`
           }
 
-          console.log(`Validando fichero de kanji ${entrada}`)
 
           try{
            
             data = yaml.load(data)
 
-            validarFichero(data)
+            tipo = determinarTipo(entrada)
+
+            console.log(`Validando fichero de ${tipo} ${entrada}`)
+
+            validarFichero(data, tipo)
 
           }
           catch(err){
@@ -76,11 +96,17 @@ async function walk(dir = process.env["DATA_DIR"]){
 
   }
 
-  function validarFichero(kanjiData){
+  function validarFichero(kanjiData, tipo){
 
-    if(!kanjiValidation(kanjiData)){
+    const validador = (tipo === "KANJI") ? kanjiValidation : grupoValidation;
 
-      throw JSON.stringify(kanjiValidation.errors, null, 4)
+    if(!validador(kanjiData)){
+
+      throw JSON.stringify(validador.errors, null, 4)
+    }
+
+    if(tipo == "GRUPO"){
+        return
     }
 
     if(clavesUnicas[kanjiData.clave]){

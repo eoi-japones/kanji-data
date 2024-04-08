@@ -1,0 +1,67 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+      
+        "type": "string",
+        "description": "Identificador del grupo"
+      },
+
+      "nombre": {
+      
+        "type": "string",
+        "description": "Nombre del grupo extendido"
+      },
+
+      "descripcion": {
+      
+        "type": "string",
+        "description": "la descripción del grupo"
+      },
+
+      "integrantes": {
+      
+          "type": "array",
+
+          "items": {
+          
+              "type": "string"
+          }
+      },
+
+      "auxiliares": {
+      
+          "type": "array",
+
+          "items": {
+          
+              "type": "object",
+
+              "properties": {
+                
+                  "id": {
+                    
+                      "type": "string"
+                  
+                  },
+
+                  "para": {
+                  
+                      "type": "string"
+                  }
+              
+              },
+
+              "additionalProperties": false,
+
+              "required": ["id", "para"]
+          }
+      }
+
+    },
+
+    "additionalProperties": false,
+
+    "required": ["id", "nombre", "integrantes", "auxiliares"]
+}
