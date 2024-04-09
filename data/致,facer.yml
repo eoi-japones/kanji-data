@@ -1,0 +1,10 @@
+﻿id: 致
+clave: facer
+historia: >-
+  Para mostrarle al capataz (夂) el clímax (至) de tu trabajo, hablas de ello en
+  tono de "facer", con honorífico y denotando un mayor grado de humildad.
+solo_componente: 0
+componentes:
+  - clímax
+  - capataz
+como_componente: []

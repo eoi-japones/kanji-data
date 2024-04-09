@@ -1,0 +1,11 @@
+﻿id: 到
+clave: llegada
+historia: >-
+  El clímax (至) de cualquier buena historia de aventuras coincide con la
+  **llegada** del momento en el que héroe se encuentra entre la espada (刂) y
+  la pared.
+solo_componente: 0
+componentes:
+  - clímax
+  - espada
+como_componente: []

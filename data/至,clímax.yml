@@ -1,0 +1,11 @@
+﻿id: 至
+clave: clímax
+historia: >-
+  El clímax es el punto de mayor tensión narrativa en el cual uno pasa
+  repentinamente de estar en una tierra (土) llena de posibilidades a verse
+  acorralado contra una pared (一), (厶).
+solo_componente: 0
+componentes:
+  - pared
+  - tierra
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 我
+clave: ego
+historia: >-
+  Una buena forma de animar tu ego es montándote una fiesta (弋) de la mejor
+  forma que se te ocurra, incluso con tu propia mano (手).
+solo_componente: 0
+componentes:
+  - mano
+  - fiesta
+como_componente: []

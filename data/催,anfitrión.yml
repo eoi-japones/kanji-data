@@ -1,0 +1,11 @@
+﻿id: 催
+clave: anfitrión
+historia: >-
+  Cuando un ermitaño (仙) te invita a su morada e intenta hacer de buen anfitrión
+  contando unos chistes pésimos y lamentables, enseguida percibes que tiene la
+  misma gracia que una avestruz (隹).
+solo_componente: 0
+componentes:
+  - ermitaño
+  - avestruz
+como_componente: []

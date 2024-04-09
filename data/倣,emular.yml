@@ -1,0 +1,10 @@
+﻿id: 倣
+clave: emular
+historia: >-
+  Algunas personas (亻) habitantes de pueblos oprimidos emularon a Espartaco para
+  llegar a conseguir su liberación (放).
+solo_componente: 0
+componentes:
+  - persona
+  - liberar
+como_componente: []

@@ -1,0 +1,12 @@
+﻿historia: >-
+  Para llegar a lo más alto (高) del pabellón, en cualquier competición, es
+  necesario sufrir un calvario de clavos (亅) y solo unos pocos elegidos se
+  coronarán (冖).
+clave: pabellón
+id: 亭
+solo_componente: 0
+componentes:
+  - alto
+  - corona
+  - clavo
+como_componente: []

@@ -1,0 +1,8 @@
+﻿id: 貞
+clave: recto
+historia: Solo un mago con su varita (卜) sería capaz de poner a una almeja (貝) a andar.
+solo_componente: 0
+componentes:
+  - varita
+  - almeja
+como_componente: []

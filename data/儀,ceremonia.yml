@@ -1,0 +1,10 @@
+﻿historia: >-
+  Una ceremonia es lo ideal para conseguir sacar a las personas (亻) de su zona
+  de comfort y que puedan lucir sus mejores virtudes (義).
+id: 儀
+clave: ceremonia
+solo_componente: 0
+componentes:
+  - persona
+  - virtud
+como_componente: []

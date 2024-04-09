@@ -1,0 +1,10 @@
+﻿id: 義
+clave: virtud
+historia: >-
+  Una de las virtudes de las ovejas (羊) es que pueden dejar a un lado su ego (我)
+  para pensar en el bien de la manada.
+solo_componente: 0
+componentes:
+  - oveja
+  - ego
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 偵
+clave: espiar
+historia: >-
+  Incluso ante la mayor señal de engaño y teniendo todas las posibilidades de
+  espiar sin ser descubierta, una persona (亻) con una moral recta (貞) debe ser
+  capaz de evitar la tentación.
+solo_componente: 0
+componentes:
+  - persona
+  - recto
+como_componente: []

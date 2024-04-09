@@ -1,0 +1,10 @@
+﻿id: 億
+clave: cien_millones
+historia: >-
+  Ninguna persona (亻) mundana se puede siquiera hacer a la idea (意) de lo que es
+  una cifra tan gigantesca como puede ser cien millones.
+solo_componente: 0
+componentes:
+  - persona
+  - idea
+como_componente: []
