@@ -6,9 +6,17 @@ const output_file = process.env["OUTPUT_FILE"] || './kanji.data'
 
 const f = []
 
-walk().then(() => escribirEnFichero(f)).then(() => {
+walk().then(() => {
 
-  console.log(`Escrito en ${output_file}`)
+    return walk(process.env["META_DIR"])
+
+}).then(() => {
+
+    return escribirEnFichero(f)
+
+}).then(() => {
+
+    console.log(`Escrito en ${output_file}`)
 
 }).catch((err) => {
 
@@ -28,11 +36,23 @@ async function escribirEnFichero(datos){
   })
 }
 
-async function acumularParaFichero(datos){
+async function acumularParaFichero(datos, tipo){
 
-  f.push(yaml.load(datos))
+  const d = yaml.load(datos)
+
+  switch(tipo){
+
+      case "GRUPO":
+          d.kind = "kanji.eoi/grupo"
+          d.version = "v1"
+      break
+
+  }
+
+  f.push(d)
 
 }
+
 
 async function walk(dir = process.env["DATA_DIR"]){
   
@@ -57,9 +77,20 @@ async function walk(dir = process.env["DATA_DIR"]){
       return procesarFichero(entrada.ruta)
   }
 
+  function determinarTipo(entrada){
+
+      const dir = path.basename(path.dirname(entrada))
+
+      return (dir == "data" || dir == "componentes") ? "KANJI" :
+          (dir == "grupos") ? "GRUPO" :
+          (dir == "iters") ? "ITER" : 
+           "DESCONOCIDO"
+
+  }
+
   function procesarFichero(entrada){
 
-    if(entrada.match(/\.yaml|\.yml$/)){
+    if(entrada.match(/\.yaml$|\.yml$/)){
 
       return new Promise((ok, ko) => {
 
@@ -73,8 +104,10 @@ async function walk(dir = process.env["DATA_DIR"]){
           console.log(`procesando fichero de kanji ${entrada}`)
 
           try{
+
+            tipo = determinarTipo(entrada)
           
-            acumularParaFichero(data)
+            acumularParaFichero(data, tipo)
 
             ok()
           }
