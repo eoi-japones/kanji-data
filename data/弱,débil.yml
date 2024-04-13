@@ -1,0 +1,10 @@
+﻿id: 弱
+clave: débil
+historia: >-
+  En un juego de rol, dos jugadores utilizan arcos (弓) de hielo (冫) para
+  ralentizar al enemigo, volviéndolo débil frente a sus adversarios.
+solo_componente: 0
+componentes:
+  - arco
+  - hielo
+como_componente: []

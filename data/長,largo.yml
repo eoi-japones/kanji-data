@@ -1,0 +1,12 @@
+﻿id: 長
+clave: largo
+historia: >-
+  Cuando el pelo (镸) está lo suficientemente largo, necesitas horquillas (mitad
+  inferior del kanji) para mantenerlo en su sitio y evitar que se desboque como
+  un caballo con su crin al viento (mitad superior del kanji).
+solo_componente: 1
+componentes:
+  - pelo
+  - horquilla
+como_componente:
+  - 'pelo,镸'

@@ -1,0 +1,10 @@
+﻿id: 強
+clave: fuerte
+historia: >-
+  Los insectos (虫) son los animales más fuertes que hay, porque con pocos
+  recursos son capaces de sobrevivir hasta en los hábitats más extensos (弘).
+solo_componente: 0
+componentes:
+  - extenso
+  - insecto
+como_componente: []
