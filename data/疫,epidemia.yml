@@ -1,0 +1,8 @@
+﻿id: 疫
+clave: epidemia
+historia: Una epidemia es una enfermedad (疒) que se transmite rápida como un misil (殳).
+solo_componente: 1
+componentes:
+  - enfermedad
+  - misil
+como_componente: []

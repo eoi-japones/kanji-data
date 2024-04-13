@@ -1,0 +1,11 @@
+﻿id: 吏
+clave: funcionario
+historia: >-
+  El derecho administrativo ayuda a mantener una a una (一) las bocas (口) de
+  todos los funcionarios bajo el brazo de la ley (丶),(ノ).
+solo_componente: 1
+componentes:
+  - uno
+  - boca
+  - bajo_el_brazo
+como_componente: []

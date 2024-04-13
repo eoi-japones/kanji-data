@@ -1,0 +1,10 @@
+﻿id: 侮
+clave: mofarse_de
+historia: >-
+  Todas las (毎) personas (亻) tenemos algún detalle ridículo. Piénsalo bien antes
+  de mofarte de alguien por ello.
+solo_componente: 1
+componentes:
+  - persona
+  - todos_los
+como_componente: []

@@ -1,0 +1,8 @@
+﻿id: 痴
+clave: estúpido
+historia: La enfermedad (疒) del que no sabe (知) es ser estúpido.
+solo_componente: 1
+componentes:
+  - enfermedad
+  - saber
+como_componente: []

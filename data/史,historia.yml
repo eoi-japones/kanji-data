@@ -1,0 +1,10 @@
+﻿id: 史
+clave: historia
+historia: >-
+  La historia la cuentan los ganadores. Vendrá siempre de las bocas (口) de
+  quienes están bajo el brazo del poder (丶),(ノ).
+solo_componente: 1
+componentes:
+  - boca
+  - bajo_el_brazo
+como_componente: []

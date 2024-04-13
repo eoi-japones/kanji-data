@@ -1,0 +1,11 @@
+﻿id: 畝
+clave: surco
+historia: >-
+  El dandi (亠) del campo de arroz (田) es el que es capaz de hacer surcos de
+  cultivo que sean duraderos (久) por mucho tiempo.
+solo_componente: 1
+componentes:
+  - chistera
+  - campo_de_arroz
+  - duradero
+como_componente: []
