@@ -1,0 +1,10 @@
+﻿id: 競
+clave: disputa
+historia: >-
+  Dos adolescentes (兄) de pie (立) uno frente al otro, son una clara señal de que
+  está teniendo lugar una disputa
+solo_componente: 0
+componentes:
+  - '兄,adolescente'
+  - '立,de_pie'
+como_componente: []
