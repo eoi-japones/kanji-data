@@ -1,0 +1,14 @@
+id: numeros_2
+
+nombre: "Números II"
+
+descripcion: >
+
+  Vamos a completar la definición de números que dimos en la lección anterior con tres números más
+
+miembros:
+  - 白
+  - 百
+  - 千
+  - 勹
+  - 万

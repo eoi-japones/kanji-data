@@ -1,0 +1,14 @@
+id: personas_2
+
+nombre: "Personas II"
+
+descripcion: >
+
+  Vamos a continuar con las personas, introduciendo unos cuantos miembros más de la familia.
+
+
+miembros:
+
+  - 姉
+  - 妹
+

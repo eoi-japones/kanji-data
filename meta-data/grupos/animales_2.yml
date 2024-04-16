@@ -1,0 +1,17 @@
+id: animales_2
+
+nombre: "Animales II"
+
+descripcion: >
+
+  Hablamos de otro grupo de animales en esta lección. 
+
+integrantes: 
+  - 魚
+  - 漁
+  - 鯨
+  - 鯉
+  - 鮮
+ # - 鮫
+
+auxiliares: []

@@ -1,0 +1,17 @@
+id: partes_cuerpo_1
+
+nombre: "Cuerpo Humano I"
+
+descripcion: >
+
+    Conjunto de kanjis que constituyen partes básicas del cuerpo
+
+orden: 1
+
+miembros:
+
+    - 口
+    - ハ
+    - 儿 
+    - 目
+    - 心

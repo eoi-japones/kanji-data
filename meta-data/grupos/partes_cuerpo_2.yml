@@ -1,0 +1,19 @@
+id: partes_cuerpo_2
+
+nombre: "Cuerpo Humano II"
+
+descripcion: >
+
+    Continuamos con otras partes del cuerpo, las centradas en nuestra cabeza.  
+
+orden: 1
+
+miembros:
+
+    - 自
+    - 廾
+    - 鼻
+    - 豆
+    - 頭
+    - 首
+    
