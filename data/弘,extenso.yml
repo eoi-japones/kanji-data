@@ -1,0 +1,10 @@
+﻿id: 弘
+clave: extenso
+historia: >-
+  Lo extenso que eres capaz de abordar disparando con un arco (弓) lo puedes
+  medir por codos (厶).
+solo_componente: 0
+componentes:
+  - arco
+  - codo
+como_componente: []

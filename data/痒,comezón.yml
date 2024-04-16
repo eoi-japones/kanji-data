@@ -1,0 +1,10 @@
+﻿id: 痒
+clave: comezón
+historia: >-
+  La peor enfermedad (疒) que puede tener una oveja (羊), como una sentencia de
+  muerte, es la comezón. Son incapaces de rascarse con tanta lana.
+solo_componente: 1
+componentes:
+  - enfermedad
+  - oveja
+como_componente: []

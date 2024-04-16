@@ -1,0 +1,9 @@
+﻿id: 疒
+clave: enfermedad
+historia: >-
+  Una cueva donde se encuentra recluido un grupo de gente con una grave
+  enfermedad. Para ahuyentar a los curiosos y evitar la propagación, se marca la
+  entrada con un par de estacas.
+solo_componente: 1
+componentes: []
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 弔
+clave: pésame
+historia: >-
+  Cuando se iba a dar el pésame, estaba muy mal visto llevar consigo cualquier
+  arma, como un arco (弓). Por ese motivo, era habitual dejarlo en la entrada,
+  colgado de una vara (｜).
+solo_componente: 0
+componentes:
+  - arco
+  - palo
+como_componente: []
