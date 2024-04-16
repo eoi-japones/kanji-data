@@ -1,0 +1,8 @@
+﻿id: 痘
+clave: viruela
+historia: La enfermedad (疒) que se guardó en tarros de habas (豆).
+solo_componente: 1
+componentes:
+  - enfermedad
+  - haba
+como_componente: []

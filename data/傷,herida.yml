@@ -1,0 +1,9 @@
+﻿id: 傷
+clave: herida
+historia: "Una persona (亻) reclinada (\uD840\uDC89), cubriéndose su herida como si protegiese una frágil hucha de cerdito (易)."
+solo_componente: 1
+componentes:
+  - persona
+  - reclinar
+  - hucha_de_cerdito
+como_componente: []

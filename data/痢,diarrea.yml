@@ -1,0 +1,10 @@
+﻿id: 痢
+clave: diarrea
+historia: >-
+  Una enfermedad (疒) que actúa en tu beneficio (利), librándote de agentes
+  peligrosos en tu cuerpo.
+solo_componente: 1
+componentes:
+  - enfermedad
+  - beneficio
+como_componente: []
