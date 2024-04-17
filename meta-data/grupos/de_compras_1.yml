@@ -13,7 +13,7 @@ integrantes:
   - 売
   - 払
 
-auxiliares: []
+auxiliares: 
   - id: 厶
     para: 払
   - id: ⺘
