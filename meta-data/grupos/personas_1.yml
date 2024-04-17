@@ -8,14 +8,15 @@ descripcion: >
 
 orden: 5
 
-miembros:
+integrantes:
 
   - 人
-  - 力
   - 男
   - 女
   - 子
   - 父
   - 母
   - 兄
-
+auxiliares: 
+  - id: 力
+    para: 男
