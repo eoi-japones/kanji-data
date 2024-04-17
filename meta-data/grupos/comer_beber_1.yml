@@ -1,0 +1,18 @@
+id: comer_beber_1
+
+nombre: "Comer y Beber I"
+
+descripcion: >
+
+  Dedicaremos esta lección a introducir algunos de los kanjis necesarios para expresar la ingesta de alimentos y líquidos. 
+
+integrantes:
+
+  - 食
+  - 飲
+
+auxiliares:
+  - id: 欠
+    para: 飲
+  - id: 艮
+    para: 良

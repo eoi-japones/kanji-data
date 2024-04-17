@@ -1,0 +1,15 @@
+id: animales_1
+
+nombre: "Animales I"
+
+descripcion: >
+
+  Vamos a describir unos cuantos animales que vamos a necesitar de ahora en adelante
+
+integrantes:
+  - 犬
+  - 牛
+  - 午
+  - 貝  
+
+auxiliares: []

@@ -1,0 +1,19 @@
+id: lugares_2
+
+nombre: "Lugares II"
+
+descripcion: >
+
+  Vamos a aumentar nuestro número de lugares para poder construir los siguientes grupos de kanji
+
+integrantes:
+
+  - 寺
+  - 市
+
+auxiliares: 
+  - id: 巾
+    para: 市
+  - id: 寸
+    para: 寺
+  

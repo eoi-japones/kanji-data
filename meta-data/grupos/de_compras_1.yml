@@ -1,0 +1,24 @@
+id: de_compras_1
+
+nombre: "De compras I"
+
+descripcion: >
+
+  Introducimos algunos de los kanjis básicos relativos a pagar, comprar y vender. Es importante el componente *dedo*, que vamos a introducir por primera vez, y que nos acompañará durante todo nuestro viaje. 
+
+integrantes:
+  - 店
+  - 金
+  - 買
+  - 売
+  - 払
+
+auxiliares: 
+  - id: 厶
+    para: 払
+  - id: ⺘
+    para: 払
+  - id: 冖
+    para: 売
+  - id: 广
+    para: 店

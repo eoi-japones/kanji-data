@@ -1,0 +1,19 @@
+id: agua_2
+
+nombre: "Agua II"
+
+descripcion: >
+ 
+ Vamos a introducir nuevos kanjis relacionados con el agua. 
+
+integrantes:
+ - 永
+ - 海
+ - 津
+ - 泳
+ - 河
+ - 洋
+
+auxiliares:
+  - id: 可
+    para: 河
