@@ -8,10 +8,12 @@ descripcion: >
 
 orden: 5
 
-miembros:
+integrantes:
 
   - 北
   - 東
   - 西
+
+auxiliares: []
 #  - 南
 
