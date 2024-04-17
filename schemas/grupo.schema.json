@@ -20,6 +20,14 @@
         "description": "la descripción del grupo"
       },
 
+      "icono": {
+      
+         "type": "string",
+
+         "description": "Un icono descriptivo del grupo"
+      
+      },
+
       "integrantes": {
       
           "type": "array",
