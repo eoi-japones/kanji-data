@@ -7,8 +7,10 @@ descripcion: >
   Vamos a continuar con las personas, introduciendo unos cuantos miembros más de la familia.
 
 
-miembros:
+integrantes:
 
   - 姉
   - 妹
+
+auxiliares: []
 
