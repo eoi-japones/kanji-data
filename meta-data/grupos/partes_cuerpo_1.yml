@@ -1,17 +1,14 @@
 id: partes_cuerpo_1
+nombre: "Partes del cuerpo (I)"
+descripcion: |
+  Esta lección, *muy básica* presenta una serie de kanjis fundamentales que corresponden a distintas partes del cuerpo. 
 
-nombre: "Cuerpo Humano I"
+integrantes:
+  - 口
+  - ハ
+  - 儿
+  - 目
+  - 心
 
-descripcion: >
+auxiliares: []
 
-    Conjunto de kanjis que constituyen partes básicas del cuerpo
-
-orden: 1
-
-miembros:
-
-    - 口
-    - ハ
-    - 儿 
-    - 目
-    - 心
