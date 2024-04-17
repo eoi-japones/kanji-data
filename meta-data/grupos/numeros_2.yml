@@ -6,9 +6,11 @@ descripcion: >
 
   Vamos a completar la definición de números que dimos en la lección anterior con tres números más
 
-miembros:
+integrantes:
   - 白
   - 百
   - 千
-  - 勹
   - 万
+auxiliares: 
+  - id: 勹
+    para: 万

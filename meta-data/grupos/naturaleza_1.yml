@@ -8,7 +8,7 @@ descripcion: >
 
 orden: 3
 
-miembros:
+integrantes:
 
     - 日
     - 月
@@ -20,3 +20,4 @@ miembros:
     - 木
     - 林
     - 森
+auxiliares: []
