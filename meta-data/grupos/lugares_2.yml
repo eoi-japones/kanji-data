@@ -6,9 +6,14 @@ descripcion: >
 
   Vamos a aumentar nuestro número de lugares para poder construir los siguientes grupos de kanji
 
-miembros:
+integrantes:
 
-  - 巾
-  - 寸
   - 寺
   - 市
+
+auxiliares: 
+  - id: 巾
+    para: 市
+  - id: 寸
+    para: 寺
+  
