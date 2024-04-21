@@ -1,0 +1,10 @@
+﻿id: 費
+clave: gasto
+historia: >-
+  La única moneda (貝) internacional es el dólar (弗). En cualquier sitio vas a
+  poder realizar tus gastos con ella.
+solo_componente: 0
+componentes:
+  - símbolo_de_dólar
+  - almeja
+como_componente: []

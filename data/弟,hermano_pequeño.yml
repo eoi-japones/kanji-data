@@ -1,0 +1,11 @@
+﻿id: 弟
+clave: hermano_pequeño
+historia: >-
+  Aunque no se les vean los cuernos (丷), muchos hermanos pequeños no sentirán
+  ningún remordimiento por cometer cualquier clase de diablura, y menos aún si
+  se sacan algún dólar (弗) con ello.
+solo_componente: 0
+componentes:
+  - cuernos
+  - símbolo_de_dólar
+como_componente: []
