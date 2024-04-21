@@ -1,0 +1,11 @@
+﻿id: 彦
+clave: chico_guapo
+historia: >-
+  Miras hacia arriba y sobre el barranco (厂) ves la masculina forma (彡) del
+  heroico chico guapo, de pie (立) y capaz ante todo.
+solo_componente: 1
+componentes:
+  - de_pie
+  - barranco
+  - forma
+como_componente: []

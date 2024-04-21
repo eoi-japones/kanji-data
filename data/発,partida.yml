@@ -1,0 +1,11 @@
+﻿id: 発
+clave: partida
+historia: >-
+  A los pies de los tipis (癶) se veían las piernas (儿) entrelazadas de dos (二)
+  personas. Eran las mujeres con los maridos antes de su partida a la guerra.
+solo_componente: 1
+componentes:
+  - tipi
+  - dos
+  - piernas
+como_componente: []

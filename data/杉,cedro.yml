@@ -1,0 +1,8 @@
+﻿id: 杉
+clave: cedro
+historia: El cedro suele ser considerado el árbol (木) con la forma (彡) más perfecta.
+solo_componente: 1
+componentes:
+  - árbol
+  - forma
+como_componente: []
