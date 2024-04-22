@@ -1,0 +1,6 @@
+id: 看
+clave: vigilar
+historia: >
+    Para vigilar a alguien hay que tenerlo a mano (手) y a la vista (目).
+componentes: ['mano', 'ojo']
+como_componente: []

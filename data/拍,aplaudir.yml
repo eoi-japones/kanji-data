@@ -1,0 +1,6 @@
+id: 拍
+clave: aplaudir
+historia: >
+    Los dedos (⺘) aletean como una paloma blanca (白) al aplaudir.
+componentes: ['dedo', 'paloma_blanca']
+como_componente: []
