@@ -1,0 +1,6 @@
+id: 州
+clave: estado
+historia: >
+    Las gotas (丶) no se atreven a saltar las fronteras entre ríos (川).
+componentes: ['rio', 'gota']
+como_componente: []

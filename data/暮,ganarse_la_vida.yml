@@ -1,0 +1,6 @@
+id: 暮
+clave: ganarse_la_vida
+historia: >
+    Un enterrador se gana la vida pasando el día (日) en el cementerio (莫).
+componentes: ['cementerio', 'dia']
+como_componente: []

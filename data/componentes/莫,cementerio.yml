@@ -1,0 +1,6 @@
+id: 莫
+clave: cementerio
+historia: >
+    Al llevar flores (艹) al cementerio pasas el día (日) recordando los seres queridos junto a un san bernardo (大) protector.
+componentes: ['flor', 'dia', 'san_bernardo']
+como_componente: []

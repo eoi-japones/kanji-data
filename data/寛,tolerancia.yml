@@ -1,0 +1,6 @@
+id: 寛
+clave: tolerancia
+historia: >
+    Un hombre con tan poca tolerancia que no soportaba ni ver (見) las flores (艹) de su casa (宀).
+componentes: ['tejado_casa', 'flor', 'ver']
+como_componente: []

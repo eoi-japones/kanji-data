@@ -1,0 +1,6 @@
+id: 株
+clave: acciones_de_bolsa
+historia: >
+    Los accionistas de bolsa quieren que sus acciones crezcan robustas como un árbol (木) para nunca caer en números rojos (朱).
+componentes: ['arbol', 'enrojecer']
+como_componente: []
