@@ -4,3 +4,4 @@ historia: >
     Los astros que aclaran el día (日) y la noche (月).
 componentes: ['Sol', 'Luna']
 como_componente: []
+solo_componente: 0
