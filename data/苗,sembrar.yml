@@ -1,7 +1,21 @@
 id: 苗
+
 clave: sembrar
-historia: >
-    Sembrar un campo (田) de flores (艹).
-componentes: ['Flor', 'Campo de arroz']
-como_componente: []
+
+historia: >-
+   
+   Sembrar un campo de arroz (田) para que se cubra de flores (艹).
+
+   También le damos el sentido de *plantón*. Los plantones son "plantitas" que está esperando para ser transplantados. 
+
+   En el caso del arroz, estos plantones se sabe que están listos para pasarse al campo de arroz (田) cuando les empiezan a salir flores (艹). 
+
+componentes:
+    
+    - flor 
+    - campo_de_arroz
+
+como_componente: 
+  - 苗,plantón
+
 solo_componente: 0
