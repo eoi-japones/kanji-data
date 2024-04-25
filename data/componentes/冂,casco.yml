@@ -2,12 +2,10 @@ id: 冂
 
 solo_componente: 1
 
-clave: casco
+clave: '*casco'
 
 historia: >
- 
     Es el pictograma de un casco.
-	
 componentes: []
 
 como_componente: []

@@ -1,5 +1,5 @@
 id: 冓
-clave: bacinica
+clave: '*bacinica'
 historia: "Este componente es bastante gráfico: si comes mucho apio (\uD840\uDC0E) pronto te verás de nuevo (再) en la bacinica. "
 solo_componente: 1
 componentes:

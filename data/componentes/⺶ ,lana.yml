@@ -2,7 +2,7 @@ id: ⺶
 
 solo_componente: 1
 
-clave: lana
+clave: '*lana'
 
 historia: >
     El pelo de la oveja se puede trabajar para conseguir un  *hilo de lana*.

@@ -1,9 +1,8 @@
 id: "𠂆"
-clave: arrastrar
+clave: '*arrastrar'
 historia: >-
   Se trata de un componente en el que vemos a alguien que se está resistiendo
   mientras se le *arrastra*. 
-
 
   Hay que diferenciarlo del componente de barranco (厂) que es parecido pero no igual: ¡compáralos!.
 

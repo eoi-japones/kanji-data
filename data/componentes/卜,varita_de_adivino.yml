@@ -2,10 +2,9 @@ id: 卜
 
 solo_componente: 1
 
-clave: varita_de_adivino
+clave: '*varita_de_adivino'
 
 historia: >
- 
     Es el dibujo de una varita de adivino.
 
 componentes: []

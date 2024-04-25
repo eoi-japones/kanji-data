@@ -1,5 +1,5 @@
 id: 匚
-clave: _caja
+clave: '*caja'
 solo_componente: 1
 historia: >-
   Vemos una caja medio volcada. Las cosas que guardaba se han esparcido por el

@@ -2,7 +2,7 @@ id: 几
 
 solo_componente: 1
 
-clave: _viento
+clave: '*viento'
 
 historia: >
     El trazo del viento

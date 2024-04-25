@@ -2,7 +2,7 @@ id: 辶
 
 solo_componente: 1
 
-clave: camino
+clave: '*camino'
 
 historia: >
  

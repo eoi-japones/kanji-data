@@ -1,12 +1,11 @@
 id: 厂
 
-clave: barranco
+clave: '*barranco'
 
 solo_componente: 1
 
 historia: |-
   Pictograma de un barranco. 
-
   ¡Cuidado con despeñarse!
 
 componentes: []

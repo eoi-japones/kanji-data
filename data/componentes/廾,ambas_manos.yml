@@ -1,5 +1,5 @@
 id: 廾
-clave: ambas_manos
+clave: '*ambas_manos'
 historia: 'Vemos la representación de dos manos juntas, en forma de cáliz. '
 componentes: []
 como_componente: []

@@ -1,10 +1,9 @@
 id: 殳
 solo_componente: 1
-clave: misil
+clave: '*misil'
 historia: >-
   Se trata del componente de una antigua arma china (el shu). Como no es muy
   conocida, le vamos a dar el sentido de un arma moderna: un misil. 
-
 
   Vemos que es algo que viaja, rápido como el viento (几) y alcanza al enemigo
   dándole un golpe certero, casi como si le diésemos una patada en la
