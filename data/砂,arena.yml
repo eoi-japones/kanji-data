@@ -4,3 +4,4 @@ historia: >
     La mejor arena es la que tiene pocas (少) rocas (石).
 componentes: ['Roca', 'Poco']
 como_componente: []
+solo_componente: 0
