@@ -3,7 +3,7 @@ clave: sombra
 historia: >-
   Una sombra bien proyectada es capaz de reflejar la forma (彡) de cualquier
   paisaje (景).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - paisaje
   - forma

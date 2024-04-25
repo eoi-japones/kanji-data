@@ -3,7 +3,7 @@ clave: ascender
 historia: >-
   Dentro de un tipi (癶) ves sobre una mesa hay un sospechoso tarro de habas (豆).
   Si las consumes, seguro que te harán ascender.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - tipi
   - haba

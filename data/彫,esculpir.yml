@@ -3,7 +3,7 @@ clave: esculpir
 historia: >-
   Cuando esculpes un objeto, las partes más difíciles de dar forma (彡) son las
   circunféricas (周).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - circunferencia
   - forma
