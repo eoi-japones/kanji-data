@@ -1,18 +1,9 @@
 id: 日
-clave: Sol
+clave: sol
 historia: >
-  Cuando hace un *día* de *sol* brillante se nos alegra mucho la cara.
-
-  Por eso es habitual dibujarlo como una cara muy sonriente. Por ejemplo, lo
-  hacen en Los Teletubbies, en Dr. Slump, en Soul Eater, o los niños pequeños
-  cuando dibujan.
-
-  ¡Lo hacen incluso en los kanji! El *sol* es como una gran boca (口) con una
-  línea en el medio para hacer la sonrisa.
-
-  De sol a sol pasa un *día*.
-componentes:
-  - boca
-  - 'lengua_agitándose_dentro_de_una_boca,日'
-  - 'día,日'
+    "Sol de los Teletubbies, con una (一) sonrisa en la boca (口).
+    Alternativo: día.
+    Como componente: lengua agitándose dentro de una boca."
+componentes: ['Boca', 'Uno']
 como_componente: []
+solo_componente: 0
