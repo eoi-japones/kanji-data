@@ -12,3 +12,5 @@ componentes:
   - rey
 como_componente:
   - 'candelabro,主'
+
+solo_componente: 0 
