@@ -3,4 +3,5 @@ id: 耳
 historia: Es el pictograma de una oreja.
 componentes: []
 como_componente:
-  - 'oreja,耳'
+  - oreja,耳
+solo_componente: 0

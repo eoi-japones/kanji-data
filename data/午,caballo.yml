@@ -1,13 +1,8 @@
 id: 午
-
 clave: caballo
+historia: |
 
-# otras_claves: 
-
-historia: >
-    
-    Una vaca (牛) sin cuernos
-
+  Una vaca (牛) sin cuernos
 componentes: []
-
 como_componente: []
+solo_componente: 0

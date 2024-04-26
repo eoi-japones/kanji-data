@@ -1,6 +1,9 @@
 id: 唱
 clave: canto
-historia: >
-    Una boca (口) dirige y las otras cantan (日).
-componentes: ['boca', 'lengua_agitándose_dentro_de_una_boca']
+historia: |
+  Una boca (口) dirige y las otras cantan (日).
+componentes:
+  - boca
+  - lengua_agitándose_dentro_de_una_boca
 como_componente: []
+solo_componente: 0

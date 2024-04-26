@@ -1,12 +1,8 @@
 id: 子
-
 clave: Niño
+historia: |
 
-historia: >
-    
-    Los *niños* japoneses son muy cabezones, así que siempre caen boca abajo.
-
-
+  Los *niños* japoneses son muy cabezones, así que siempre caen boca abajo.
 componentes: []
-
 como_componente: []
+solo_componente: 0

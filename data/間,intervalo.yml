@@ -1,13 +1,10 @@
 id: 間
-
 clave: Intervalo
-
 historia: >
-  Mientras el sol (日) esté en lo alto, la puertas de la ciudad (門) estarán abiertas.
-
+  Mientras el sol (日) esté en lo alto, la puertas de la ciudad (門) estarán
+  abiertas.
 componentes:
-    
   - puertas_de_ciudad
   - sol
-
 como_componente: []
+solo_componente: 0

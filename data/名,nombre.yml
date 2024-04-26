@@ -1,15 +1,12 @@
 id: 名
-
 clave: nombre
-
-# otras_claves: 
-
 historia: >
-    
-    Durante toda la noche (夕) el chamán de la tribu piensa el *nombre* de un recién nacido y a la mañana siguiente se lo dice, para que lo escuche él el primero, se lo dice a la boca (口).
 
+  Durante toda la noche (夕) el chamán de la tribu piensa el *nombre* de un
+  recién nacido y a la mañana siguiente se lo dice, para que lo escuche él el
+  primero, se lo dice a la boca (口).
 componentes:
-    - noche
-    - boca
-
+  - noche
+  - boca
 como_componente: []
+solo_componente: 0

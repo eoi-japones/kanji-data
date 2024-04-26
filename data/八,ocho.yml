@@ -1,11 +1,8 @@
 id: 八
-
 clave: ocho
+historia: |
 
-historia: >
- 
-    Sin historia
-
+  Sin historia
 componentes: []
-
 como_componente: []
+solo_componente: 0

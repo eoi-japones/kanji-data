@@ -11,4 +11,5 @@ componentes:
   - samurai
   - boca
 como_componente:
-  - 'spray,吉'
+  - spray,吉
+solo_componente: 0

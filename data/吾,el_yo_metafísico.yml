@@ -1,6 +1,9 @@
 id: 吾
 clave: el_yo_metafísico
-historia: >
-    Cinco (五) bocas (口) para expresarse con los cinco sentidos.
-componentes: ['cinco', 'boca']
+historia: |
+  Cinco (五) bocas (口) para expresarse con los cinco sentidos.
+componentes:
+  - cinco
+  - boca
 como_componente: []
+solo_componente: 0

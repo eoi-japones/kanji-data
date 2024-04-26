@@ -1,14 +1,12 @@
 id: 語
-
 clave: idioma
-
 historia: >
-    
-    Un *idioma* es un conjunto de palabras (訁) que se emplean para expresar lo que le ocurre en el  yo interior (吾).
 
+  Un *idioma* es un conjunto de palabras (訁) que se emplean para expresar lo que
+  le ocurre en el  yo interior (吾).
 componentes:
-    - palabras
-    - yo_interior
-
+  - palabras
+  - yo_interior
 como_componente:
-    - lenguaje,語
+  - lenguaje,語
+solo_componente: 0

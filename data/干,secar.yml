@@ -8,4 +8,5 @@ historia: >-
   Es componente, le vamos a dar el sentido de *tendedero*
 componentes: []
 como_componente:
-  - 'tendedero,干'
+  - tendedero,干
+solo_componente: 0

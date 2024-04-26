@@ -1,13 +1,10 @@
 id: 本
-
 clave: Libro
-
 historia: >
-    
-    Al árbol (木) le pego un corte para hacer un *libro*.
-    El *origen* del conocimiento está en los libros.
 
+  Al árbol (木) le pego un corte para hacer un *libro*. El *origen* del
+  conocimiento está en los libros.
 componentes: []
-
 como_componente:
-    - origen,本
+  - origen,本
+solo_componente: 0

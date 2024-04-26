@@ -1,16 +1,12 @@
 id: 言
-
 clave: decir
-
-# otras_claves: 
-
 historia: >
-    
-    Cuando *decimos* cosas con la boca (口) hacemos ondas de sonido que se reflejan en este kanji.
 
+  Cuando *decimos* cosas con la boca (口) hacemos ondas de sonido que se reflejan
+  en este kanji.
 componentes:
-    - boca
-
+  - boca
 como_componente:
-    - palabras,訁
-    - expresar,訁
+  - palabras,訁
+  - expresar,訁
+solo_componente: 0

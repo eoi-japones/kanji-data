@@ -10,4 +10,5 @@ componentes:
   - pequeño
   - tierra
 como_componente:
-  - 'manzana,亦'
+  - manzana,亦
+solo_componente: 0

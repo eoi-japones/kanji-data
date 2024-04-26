@@ -9,8 +9,7 @@ historia: >+
 
 como_componente:
   - Paraiso,天
-
 componentes:
   - uno
   - grande
-
+solo_componente: 0

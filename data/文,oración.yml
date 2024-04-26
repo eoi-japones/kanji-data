@@ -12,4 +12,5 @@ historia: >-
   Le vamos a dar, a este kanji, el sentido como componente de *a* *cuadros*. 
 componentes: []
 como_componente:
-  - 'a_cuadros, 文'
+  - a_cuadros, 文
+solo_componente: 0

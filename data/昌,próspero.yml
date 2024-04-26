@@ -1,12 +1,9 @@
 id: 昌
-
 clave: Próspero
+historia: |
 
-historia: >
-    
-    No hay nada más *próspero* que un día (日) soleado (日).
-
+  No hay nada más *próspero* que un día (日) soleado (日).
 componentes:
-    - sol
-
+  - sol
 como_componente: []
+solo_componente: 0

@@ -1,10 +1,11 @@
-﻿id: 激
+id: 激
 clave: Violento
 historia: >-
-  El violento juego de liberar (放) una paloma blanca (白) y hacerla caer al agua ( 氵) por
-  medio de un disparo.
+  El violento juego de liberar (放) una paloma blanca (白) y hacerla caer al agua
+  ( 氵) por medio de un disparo.
 componentes:
   - agua
   - paloma blanca
   - liberar
 como_componente: []
+solo_componente: 0

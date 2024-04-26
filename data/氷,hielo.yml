@@ -9,10 +9,9 @@ historia: >-
 
 
   Una estrella es el símbolo del *hielo*. 
-
 como_componente:
   - hielo,冫
-
 componentes:
   - agua
   - gota
+solo_componente: 0

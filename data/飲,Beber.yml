@@ -2,7 +2,8 @@ id: 飲
 clave: Beber
 historia: En ausencia de algo que comer solo podemos beber.
 componentes:
-  - '食,comer'
-  - '欠,ausencia'
+  - 食,comer
+  - 欠,ausencia
 como_componente:
-  - 'beber,飲'
+  - beber,飲
+solo_componente: 0

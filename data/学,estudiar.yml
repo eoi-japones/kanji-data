@@ -1,15 +1,10 @@
 id: 学
-
 clave: Estudiar
+historia: |
 
-historia: > 
-
-    Un niño en la escuela, estudia
-
-componentes: 
-
-    - edificio_escolar
-
-    - Niño
-
+  Un niño en la escuela, estudia
+componentes:
+  - edificio_escolar
+  - Niño
 como_componente: []
+solo_componente: 0

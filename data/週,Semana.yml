@@ -7,4 +7,5 @@ componentes:
   - camino
   - vasija
 como_componente:
-  - 'semana,週'
+  - semana,週
+solo_componente: 0

@@ -1,11 +1,9 @@
 id: 末
-
 clave: Extremo
-
 historia: >
-  A este árbol le crecen las ramas superiores hasta el extremo de que se doblan sobre las inferiores.
-
+  A este árbol le crecen las ramas superiores hasta el extremo de que se doblan
+  sobre las inferiores.
 componentes: []
-
 como_componente:
   - extremo,末
+solo_componente: 0

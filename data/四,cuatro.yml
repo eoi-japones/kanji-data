@@ -1,14 +1,11 @@
 id: 四
-
 clave: cuatro
+historia: >
 
-historia: > 
-
-    Si te dan una patada en la boca (口) con las piernas (儿) te quedan cuatro dientes.
-
-componentes: 
-
-    - boca
-    - piernas
-
+  Si te dan una patada en la boca (口) con las piernas (儿) te quedan cuatro
+  dientes.
+componentes:
+  - boca
+  - piernas
 como_componente: []
+solo_componente: 0

@@ -1,8 +1,15 @@
 id: 谷
 clave: valle
-historia: "Entrar (入) en la boca (口) de un valle siempre da esa sensación de inseguridad, de que podrían emboscarnos desde ambos lados. \n\nNos da ganas de tener un paraguas (𠆢) como para protegernos y evitar ese sentimiento de estar desvalidos.  "
+historia: >-
+  Entrar (入) en la boca (口) de un valle siempre da esa sensación de inseguridad,
+  de que podrían emboscarnos desde ambos lados. 
+
+
+  Nos da ganas de tener un paraguas (𠆢) como para protegernos y evitar ese
+  sentimiento de estar desvalidos.  
 componentes:
   - entrar
   - boca
   - paraguas
 como_componente: []
+solo_componente: 0

@@ -1,16 +1,11 @@
 id: 計
-
 clave: proyecto
-
-# otras_claves:
-
 historia: >
-    
-    Un *proyecto* de arquitectura se expresa (訁) con dibujos, que hacemos con un compás (十).
 
-    
+  Un *proyecto* de arquitectura se expresa (訁) con dibujos, que hacemos con un
+  compás (十).
 componentes:
-    - decir
-    - diez
-
+  - decir
+  - diez
 como_componente: []
+solo_componente: 0

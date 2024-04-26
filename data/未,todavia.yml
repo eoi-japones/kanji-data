@@ -1,13 +1,10 @@
 id: 未
-
 clave: todavía
-
 historia: >
-    
-    Es un arbol joven que *todavía* tiene que crecer, por eso las ramas superiores se ven como si no tuvieran hojas.
 
-componentes: 
-
- - árbol
-
+  Es un arbol joven que *todavía* tiene que crecer, por eso las ramas superiores
+  se ven como si no tuvieran hojas.
+componentes:
+  - árbol
 como_componente: []
+solo_componente: 0

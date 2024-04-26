@@ -1,14 +1,9 @@
 id: 大
-
 clave: Grande
-
-historia: >
-    Una persona (人) estirando los brazos se ve mucho más *grande*.
-
+historia: |
+  Una persona (人) estirando los brazos se ve mucho más *grande*.
 componentes:
-    - persona
-
-como_componente: 
-
-    - san_bernardo,大
-
+  - persona
+como_componente:
+  - san_bernardo,大
+solo_componente: 0

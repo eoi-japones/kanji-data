@@ -1,13 +1,10 @@
 id: 朋
-
 clave: Compañero
+historia: >
 
-historia: > 
-
-    Cuando Adán vió a Eva y se dió cuenta de que Dios le había dado una compañera exclamó Carne de mi carne
-
-componentes: 
-
-    - Parte_del_cuerpo
-
+  Cuando Adán vió a Eva y se dió cuenta de que Dios le había dado una compañera
+  exclamó Carne de mi carne
+componentes:
+  - Parte_del_cuerpo
 como_componente: []
+solo_componente: 0

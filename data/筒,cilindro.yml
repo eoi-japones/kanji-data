@@ -1,8 +1,9 @@
-id: 筒 
+id: 筒
 clave: cilindro
-historia: >
+historia: |
   El bambú (⺮) está formado por cilindros parecidos (同)
 componentes:
   - bambú
   - parecido
 como_componente: []
+solo_componente: 0

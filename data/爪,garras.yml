@@ -9,4 +9,5 @@ historia: >-
   garras: *el* *águila* y adoptará una forma diferente: (爫).
 componentes: []
 como_componente:
-  - 'águila,爫'
+  - águila,爫
+solo_componente: 0

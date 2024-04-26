@@ -1,12 +1,10 @@
 id: 首
-
 clave: Cuello
-
 historia: >
-  Al final del largo cuello de una jirafa vemos dos cuernos (丷) y una nariz (自) .
-
+  Al final del largo cuello de una jirafa vemos dos cuernos (丷) y una nariz (自)
+  .
 componentes:
   - cuernos
   - uno_mismo
-
 como_componente: []
+solo_componente: 0

@@ -1,8 +1,9 @@
 id: 笹
 clave: bambú_enano
-historia: >
+historia: |
   Las nuevas plantas de bambú (⺮) enano crecen cada pocas generaciones (世)
 componentes:
   - bambú
   - generación
 como_componente: []
+solo_componente: 0

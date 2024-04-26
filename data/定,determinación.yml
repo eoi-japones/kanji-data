@@ -1,7 +1,11 @@
 id: 定
 clave: determinación
-historia: "Este kanji nos habla de la *determinación*, del firme propósito de la realización de algo. Por ejemplo, los arreglos  (𤴓) que tanto necesita nuestra casa (宀)."
+historia: >-
+  Este kanji nos habla de la *determinación*, del firme propósito de la
+  realización de algo. Por ejemplo, los arreglos  (𤴓) que tanto necesita
+  nuestra casa (宀).
 componentes:
   - arreglo
   - tejado_casa
 como_componente: []
+solo_componente: 0

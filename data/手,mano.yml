@@ -1,11 +1,8 @@
 id: 手
-
 clave: Mano
+historia: |
 
-historia: >
-    
-    Es el pictograma de una mano.
-
+  Es el pictograma de una mano.
 componentes: []
-
 como_componente: []
+solo_componente: 0

@@ -1,14 +1,11 @@
 id: 美
-
 clave: Belleza
-
 historia: >
-    
-    No sabemos en que estaban pensando los chinos cuando crearon este kanji, pero su concepto de *belleza* es una oveja (羊) muy grande (大).
 
+  No sabemos en que estaban pensando los chinos cuando crearon este kanji, pero
+  su concepto de *belleza* es una oveja (羊) muy grande (大).
 componentes:
-    
-    - oveja
-    - grande
-
+  - oveja
+  - grande
 como_componente: []
+solo_componente: 0

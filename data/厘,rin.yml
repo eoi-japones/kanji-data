@@ -1,7 +1,5 @@
 id: 厘
-
 clave: Rin
-
 historia: >-
   ¿Cuánto vale una calculadora (里) que se nos cae por un barranco (厂)? Pues
   nada. 
@@ -11,10 +9,8 @@ historia: >-
   (unos 0.000001 céntimos) más o menos.
 
   Una calculadora caída por un barranco vale... un rin
-
 como_componente: []
-
-componentes: 
-
-  - 'calculadora,里'
-  - 'barranco,厂'
+componentes:
+  - calculadora,里
+  - barranco,厂
+solo_componente: 0

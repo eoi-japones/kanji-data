@@ -1,15 +1,12 @@
 id: 時
-
 clave: Tiempo
-
 historia: >
-    
-    Viendo el sol (日), un monje en el templo budista (寺) reflexiona sobre el paso del tiempo.
 
-    
+  Viendo el sol (日), un monje en el templo budista (寺) reflexiona sobre el paso
+  del tiempo.
 componentes:
-    - sol
-    - templo_budista
-
+  - sol
+  - templo_budista
 como_componente:
-    - hora,時
+  - hora,時
+solo_componente: 0

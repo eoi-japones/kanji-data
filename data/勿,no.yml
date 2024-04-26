@@ -10,4 +10,5 @@ historia: >-
 componentes:
   - atado
 como_componente:
-  - 'cochinillo,勿'
+  - cochinillo,勿
+solo_componente: 0

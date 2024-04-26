@@ -1,7 +1,11 @@
 id: 脈
 clave: venas
-historia: "Es la parte del cuerpo (月) más ramificada (𠂢). \n\nO al menos es lo que nos cuenta este kanji. "
+historia: |-
+  Es la parte del cuerpo (月) más ramificada (𠂢). 
+
+  O al menos es lo que nos cuenta este kanji. 
 componentes:
   - luna
   - ramificar
 como_componente: []
+solo_componente: 0

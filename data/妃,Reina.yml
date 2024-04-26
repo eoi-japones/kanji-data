@@ -1,7 +1,8 @@
-﻿id: 妃
+id: 妃
 clave: Reina
 historia: La reina Cleopatra (女) murió debido a la mordedura de una sierpe (己).
 componentes:
   - mujer
   - sierpe
 como_componente: []
+solo_componente: 0

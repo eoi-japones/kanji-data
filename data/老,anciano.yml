@@ -21,4 +21,5 @@ componentes:
   - bastón
   - cuchara
 como_componente:
-  - 'anciano_maestro,耂'
+  - anciano_maestro,耂
+solo_componente: 0

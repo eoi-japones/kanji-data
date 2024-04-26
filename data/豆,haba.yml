@@ -8,6 +8,7 @@ historia: >-
   este kanji como componente. 
 componentes: []
 como_componente:
-  - 'alubia,豆'
-  - 'soja,豆'
-  - 'mesa,豆'
+  - alubia,豆
+  - soja,豆
+  - mesa,豆
+solo_componente: 0

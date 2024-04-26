@@ -1,15 +1,11 @@
 id: 胃
-
 clave: Estómago
+historia: >
 
-historia: > 
-
-    Da igual el hambre que tengan, la parte del cuerpo (月) que usan las personas para pensar es el cerebro (田) y no el estómago.
-
-componentes: 
-
-    - Parte_del_cuerpo
-
-    - Campo_de_arroz
-
+  Da igual el hambre que tengan, la parte del cuerpo (月) que usan las personas
+  para pensar es el cerebro (田) y no el estómago.
+componentes:
+  - Parte_del_cuerpo
+  - Campo_de_arroz
 como_componente: []
+solo_componente: 0

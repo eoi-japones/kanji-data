@@ -1,16 +1,12 @@
 id: 自
-
 clave: Uno_mismo
-
 historia: >
-    
-    Para referirme a *mí* *mismo* en Japón me señalo la *nariz*, es decir, la gota que tengo delante de los ojos (目).
 
-componentes: 
-    
-    - gota
-    - ojo
-
-
+  Para referirme a *mí* *mismo* en Japón me señalo la *nariz*, es decir, la gota
+  que tengo delante de los ojos (目).
+componentes:
+  - gota
+  - ojo
 como_componente:
-    - nariz_(componente),自
+  - nariz_(componente),自
+solo_componente: 0

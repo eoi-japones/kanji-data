@@ -10,4 +10,5 @@ historia: >-
 componentes:
   - campo_de_arroz
 como_componente:
-  - 'brote,由'
+  - brote,由
+solo_componente: 0
