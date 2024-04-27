@@ -3,6 +3,7 @@ clave: Comparar
 historia: |
   Para comparar dos cosas pruebo una cucharada (匕) de cada una.
 componentes:
-  - '匕,cuchara'
+  - 匕,cuchara
 como_componente:
-  - 'comparar,比'
+  - comparar,比
+solo_componente: 0

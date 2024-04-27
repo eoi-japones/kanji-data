@@ -4,4 +4,5 @@ historia: Un caminante se dirige a su camino.
 componentes:
   - caminante
 como_componente:
-  - 'ir,行'
+  - ir,行
+solo_componente: 0

@@ -1,14 +1,10 @@
 id: 差
-
 clave: distinción
+historia: |
 
-historia: >
-    
-    Saber hilar lana con gran técnica (エ) es símbolo de *distinción*.
-
-componentes: 
-    
-    - lana
-    - técnica
-
+  Saber hilar lana con gran técnica (エ) es símbolo de *distinción*.
+componentes:
+  - lana
+  - técnica
 como_componente: []
+solo_componente: 0

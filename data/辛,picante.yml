@@ -11,4 +11,5 @@ componentes:
   - de_pie
   - aguja
 como_componente:
-  - 'chile,亲'
+  - chile,亲
+solo_componente: 0

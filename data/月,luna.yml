@@ -1,19 +1,16 @@
 id: 月
-
 clave: luna
-
 historia: >
 
-    La LUNA es como el sol (日) pero en mujer, es decir, con coletas.
-    
-    - El ciclo lunar dura un mes, es por eso que también significa *MES*.
-    - Dios creó a la mujer a partir de una parte del cuerpo del hombre, por eso también significa *PARTE* *DEL* *CUERPO*.
+  La LUNA es como el sol (日) pero en mujer, es decir, con coletas.
 
-componentes: 
+  - El ciclo lunar dura un mes, es por eso que también significa *MES*. - Dios
+  creó a la mujer a partir de una parte del cuerpo del hombre, por eso también
+  significa *PARTE* *DEL* *CUERPO*.
+componentes:
   - sol
-
-como_componente: 
-
-    - mes,月
-    - parte_del_cuerpo,月
-    - carne,肉
+como_componente:
+  - mes,月
+  - parte_del_cuerpo,月
+  - carne,肉
+solo_componente: 0

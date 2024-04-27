@@ -1,15 +1,10 @@
 id: 校
-
 clave: escuela
+historia: |
 
-# otras_claves: 
-
-historia: >
-    
-    La escuela es el tronco (木) de la sociedad, pues evita el contraste (交) social
-
+  La escuela es el tronco (木) de la sociedad, pues evita el contraste (交) social
 componentes:
-    - arbol
-    - contraste
-
+  - arbol
+  - contraste
 como_componente: []
+solo_componente: 0

@@ -1,8 +1,10 @@
 id: 笑
 clave: risa
 historia: >
-  El bambú (⺮) se ríe de los que piensan que es una planta pequeña cuando está creciendo, porque sabe que eventualmente llegará a tocar el cielo (天)
+  El bambú (⺮) se ríe de los que piensan que es una planta pequeña cuando está
+  creciendo, porque sabe que eventualmente llegará a tocar el cielo (天)
 componentes:
   - bambú
   - cielo
 como_componente: []
+solo_componente: 0

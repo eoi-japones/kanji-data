@@ -1,9 +1,11 @@
 id: 粋
 clave: chic
 historia: >
-  En E.E.U.U. (米) lo más chic son los jugadores de béisbol (九) que pueden llegar a ganar más de 10 (十) millones de dólares por temporada
+  En E.E.U.U. (米) lo más chic son los jugadores de béisbol (九) que pueden llegar
+  a ganar más de 10 (十) millones de dólares por temporada
 componentes:
   - eeuu
   - bate_béisbol
   - diez
 como_componente: []
+solo_componente: 0

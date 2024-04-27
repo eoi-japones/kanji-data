@@ -1,9 +1,10 @@
-﻿id: 蝶
+id: 蝶
 clave: Mariposa
 historia: >-
-  La mariposa es el insecto (虫) que da color a las hojas (葉) de los árboles. Sustituye a
-  las mismas flores.
+  La mariposa es el insecto (虫) que da color a las hojas (葉) de los árboles.
+  Sustituye a las mismas flores.
 componentes:
   - insecto
   - hoja
 como_componente: []
+solo_componente: 0

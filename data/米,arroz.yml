@@ -5,4 +5,5 @@ historia: >-
   denota la importancia de este kanji en China y Japón. 
 componentes: []
 como_componente:
-  - 'granos_de_arroz,米'
+  - granos_de_arroz,米
+solo_componente: 0

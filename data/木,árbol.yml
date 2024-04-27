@@ -1,18 +1,16 @@
 id: 木
-
 clave: árbol
-
 historia: >
 
-    Dibujo de un *árbol* .
+  Dibujo de un *árbol* .
 
-    También le daremos el sentido de *madera* .
+  También le daremos el sentido de *madera* .
 
-    Cuando las partes del árbol aparecen desensambladas, le vamos a dar un nuevo sentido, *mástiles* *de* *madera* .
-
+  Cuando las partes del árbol aparecen desensambladas, le vamos a dar un nuevo
+  sentido, *mástiles* *de* *madera* .
 componentes: []
-
 como_componente:
-    - árbol,木
-    - madera,木
-    - mástiles_de_madera,朩
+  - árbol,木
+  - madera,木
+  - mástiles_de_madera,朩
+solo_componente: 0

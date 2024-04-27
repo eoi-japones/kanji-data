@@ -1,6 +1,0 @@
-id: 苗
-clave: sembrar
-historia: >
-    Sembrar un campo (田) de flores (艹).
-componentes: ['Flor', 'Campo de arroz']
-como_componente: []

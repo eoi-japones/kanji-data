@@ -2,7 +2,8 @@ id: 雪
 clave: Nieve
 historia: La nieve es la lluvia que se puede barrer.
 componentes:
-  - '雨,lluvia'
+  - 雨,lluvia
   - escoba
 como_componente:
-  - 'nieve,雪'
+  - nieve,雪
+solo_componente: 0

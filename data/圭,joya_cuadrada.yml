@@ -13,4 +13,5 @@ historia: >-
 componentes:
   - tierra
 como_componente:
-  - 'hiedra,圭'
+  - hiedra,圭
+solo_componente: 0

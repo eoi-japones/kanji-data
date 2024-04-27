@@ -6,4 +6,5 @@ historia: >
   suyo.
 componentes: []
 como_componente:
-  - 'agua,⺡'
+  - agua,⺡
+solo_componente: 0

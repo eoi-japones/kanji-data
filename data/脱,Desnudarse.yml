@@ -1,7 +1,8 @@
-﻿id: 脱
+id: 脱
 clave: Desnudarse
 historia: Al ver su carne (月) desnuda le sale el diablo (兑).
 componentes:
-  - 'parte del cuerpo, carne'
+  - parte del cuerpo, carne
   - diablo
 como_componente: []
+solo_componente: 0

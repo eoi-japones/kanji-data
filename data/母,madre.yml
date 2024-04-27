@@ -1,14 +1,12 @@
 id: 母
-
 clave: Madre
-
 historia: >
-    
-    Cuando una mujer va a ser *madre* se nota porque su barriga se vuelve más grande.
-    Además, la madre tiene que amamantar al futuro bebé.
-    Esto se refleja en el kanji de *madre*, que es parecido al de mujer (女), pero más grande y con dos gotas que representan los pechos.
 
+  Cuando una mujer va a ser *madre* se nota porque su barriga se vuelve más
+  grande. Además, la madre tiene que amamantar al futuro bebé. Esto se refleja
+  en el kanji de *madre*, que es parecido al de mujer (女), pero más grande y con
+  dos gotas que representan los pechos.
 componentes: []
-
 como_componente:
-    - madreperla,毋
+  - madreperla,毋
+solo_componente: 0

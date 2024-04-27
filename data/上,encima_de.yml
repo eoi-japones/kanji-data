@@ -12,3 +12,5 @@ componentes:
 
 como_componente:
     - arriba,上
+
+solo_componente: 0

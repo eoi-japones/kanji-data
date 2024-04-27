@@ -1,16 +1,10 @@
 id: 蛇
-
 clave: Serpiente
-
-historia: >-
-  Es el animal que caza y prueba (匕) los insectos (虫) en casa ().
-
-componentes: 
-    
+historia: Es el animal que caza y prueba (匕) los insectos (虫) en casa ().
+componentes:
   - insecto
   - tejado_de_casa
   - cuchara
-
 como_componente:
-    
   - serpiente,蛇
+solo_componente: 0

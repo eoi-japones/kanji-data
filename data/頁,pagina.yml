@@ -8,4 +8,5 @@ historia: >-
   Este kanji tiene otro significado como componente: el de *cabeza*
 componentes: []
 como_componente:
-  - 'cabeza,頁'
+  - cabeza,頁
+solo_componente: 0

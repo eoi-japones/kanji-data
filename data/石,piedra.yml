@@ -1,15 +1,12 @@
 id: 石
-
 clave: Piedra
-
 historia: >
-    
-    En medio del barranco se encuentra la boca (口) de la cueva de Alí Babá, pero una gran *piedra* bloquea la entrada.
-    Para poder pasar hay que gritar a la piedra "¡Ábrete Sésamo!", y la *piedra* se apartará.
 
-componentes: 
-    
-    - barranco
-    - boca
-
+  En medio del barranco se encuentra la boca (口) de la cueva de Alí Babá, pero
+  una gran *piedra* bloquea la entrada. Para poder pasar hay que gritar a la
+  piedra "¡Ábrete Sésamo!", y la *piedra* se apartará.
+componentes:
+  - barranco
+  - boca
 como_componente: []
+solo_componente: 0

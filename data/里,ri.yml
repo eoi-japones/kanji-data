@@ -6,4 +6,5 @@ historia: |-
   Como componente, la vamos a traducir como calculadora. 
 componentes: []
 como_componente:
-  - 'calculadora,里'
+  - calculadora,里
+solo_componente: 0

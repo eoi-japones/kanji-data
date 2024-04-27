@@ -7,5 +7,6 @@ historia: >-
 
   Como componente, le vamos a dar el sentido de *huella*. 
 componentes: []
-como_componente: 
-  - "止,huella" 
+como_componente:
+  - 止,huella
+solo_componente: 0

@@ -7,5 +7,6 @@ historia: |
 componentes:
   - persona
 como_componente:
-  - 'hoguera,火'
-  - 'fuego_de_hornillo,⺣'
+  - hoguera,火
+  - fuego_de_hornillo,⺣
+solo_componente: 0

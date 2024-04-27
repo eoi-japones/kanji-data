@@ -1,14 +1,10 @@
 id: 活
-
 clave: Animado
+historia: |
 
-historia: > 
-
-    Cuando te salen filipillos de la lengua es que estas charlando animadamente
-
-componentes: 
-
-    - Gotas
-    - Lengua
-
+  Cuando te salen filipillos de la lengua es que estas charlando animadamente
+componentes:
+  - Gotas
+  - Lengua
 como_componente: []
+solo_componente: 0

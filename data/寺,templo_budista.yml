@@ -1,16 +1,10 @@
 id: 寺
-
 clave: templo_budista
+historia: |
 
-# otras_claves: 
-
-historia: >
-    
-    Un hermoso *templo* *budista* ha salido pegado a (寸) la tierra (土).
-
-    
+  Un hermoso *templo* *budista* ha salido pegado a (寸) la tierra (土).
 componentes:
-    - pegado_a
-    - tierra
-
+  - pegado_a
+  - tierra
 como_componente: []
+solo_componente: 0

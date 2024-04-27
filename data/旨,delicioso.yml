@@ -1,14 +1,10 @@
 id: 旨
-
 clave: Delicioso
+historia: |
 
-historia: >
-    
-    Podría estar todo el día probando de este delicioso plato
-
+  Podría estar todo el día probando de este delicioso plato
 componentes:
-    
-    - cuchara
-    - sol
-
+  - cuchara
+  - sol
 como_componente: []
+solo_componente: 0

@@ -1,15 +1,10 @@
 id: 字
-
 clave: Letra/Carácter
+historia: |
 
-historia: > 
-
-    Un niño en su casa solo practica kanji y estudia las letras
-
-componentes: 
-
-    - tejado_casa
-
-    - niño
-
+  Un niño en su casa solo practica kanji y estudia las letras
+componentes:
+  - tejado_casa
+  - niño
 como_componente: []
+solo_componente: 0

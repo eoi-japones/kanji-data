@@ -1,8 +1,14 @@
 id: 足
 clave: pie
-historia: "Parece que este kanji es un poco amenazante y encima barriobajero: \"como te olvides de mí te voy a hacer un arreglo (𤴓) en la boca (口)\".\n\nComo componente, le vamos a dar el sentido de pata de palo (𧾷)"
+historia: >-
+  Parece que este kanji es un poco amenazante y encima barriobajero: "como te
+  olvides de mí te voy a hacer un arreglo (𤴓) en la boca (口)".
+
+
+  Como componente, le vamos a dar el sentido de pata de palo (𧾷)
 componentes:
   - boca
   - arreglo
 como_componente:
-  - "pata_de_palo,𧾷"
+  - pata_de_palo,𧾷
+solo_componente: 0

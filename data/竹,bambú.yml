@@ -8,4 +8,5 @@ historia: >-
   encima del compuesto (⺮). 
 componentes: []
 como_componente:
-  - 'bambú,⺮'
+  - bambú,⺮
+solo_componente: 0

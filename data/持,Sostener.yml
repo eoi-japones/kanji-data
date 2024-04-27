@@ -2,7 +2,8 @@ id: 持
 clave: Sostener
 historia: Un monje (寺) bien entrenado puede sostenerse sobre una sola mano (手).
 componentes:
-  - '手,mano'
-  - '寺,templo_budista'
+  - 手,mano
+  - 寺,templo_budista
 como_componente:
-  - 'sostener,持'
+  - sostener,持
+solo_componente: 0

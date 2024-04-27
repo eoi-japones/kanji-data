@@ -1,7 +1,8 @@
-﻿id: 説
+id: 説
 clave: Rumor
 historia: Los rumores son aquellas palabras (言) detrás de las que está el diablo (兑).
 componentes:
   - palabras
   - diablo
 como_componente: []
+solo_componente: 0

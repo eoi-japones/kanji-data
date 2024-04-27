@@ -1,8 +1,9 @@
 id: 体
 clave: Cuerpo
-historia: 'Para son goku (人), su cuerpo es como un libro abierto (本).'
+historia: Para son goku (人), su cuerpo es como un libro abierto (本).
 componentes:
-  - '人,persona'
-  - '本,libro'
+  - 人,persona
+  - 本,libro
 como_componente:
-  - 'cuerpo,体'
+  - cuerpo,体
+solo_componente: 0

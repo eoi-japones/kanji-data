@@ -1,9 +1,11 @@
 id: 様
-clave: -sama, don
+clave: '-sama, don'
 historia: >
-  Alguien a quien llaman don (o con el que utilizan -sama en Japón) es invariablemente alguien con mucha madera (木), ganado (羊) o cultivos (米)
+  Alguien a quien llaman don (o con el que utilizan -sama en Japón) es
+  invariablemente alguien con mucha madera (木), ganado (羊) o cultivos (米)
 componentes:
   - árbol
   - oveja
   - granos_arroz
 como_componente: []
+solo_componente: 0

@@ -1,7 +1,13 @@
 id: 毎
 clave: Todos_los
-historia: "Todos, y todas, reclinamos (𠂉) nuestras cabezas en nuestras madres (母). \n\nSin importar lo relevante que pueda resultar un personaje, *todos* ellos reclinan sus cabezas en sus madres.  "
+historia: >-
+  Todos, y todas, reclinamos (𠂉) nuestras cabezas en nuestras madres (母). 
+
+
+  Sin importar lo relevante que pueda resultar un personaje, *todos* ellos
+  reclinan sus cabezas en sus madres.  
 componentes:
   - madre
   - reclinar
 como_componente: []
+solo_componente: 0

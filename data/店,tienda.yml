@@ -1,16 +1,12 @@
 id: 店
-
 clave: Tienda
-
 historia: >-
-  La primera tienda de la historia fue la cueva (广) donde el adivino (卜) anunciaba (口)　tu futuro.
-
-componentes: 
-    
+  La primera tienda de la historia fue la cueva (广) donde el adivino (卜)
+  anunciaba (口)　tu futuro.
+componentes:
   - cueva
   - vara_de_adivino
   - boca
-
 como_componente:
-    
   - tienda,店
+solo_componente: 0

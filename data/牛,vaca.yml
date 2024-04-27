@@ -1,10 +1,7 @@
 id: 牛
 clave: Vaca
-historia: >-
-  El dibujo de una vaca.
-
+historia: El dibujo de una vaca.
 componentes: []
-
-como_componente: 
+como_componente:
   - vaca,⺧
-
+solo_componente: 0

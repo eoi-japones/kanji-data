@@ -1,17 +1,13 @@
 id: 先
-
 clave: delante
-
 historia: >
-    
-    En un disfraz de vaca (牛) las mejores piernas (儿) para llevar son las de *delante*.
 
-componentes: 
-    
-    - vaca
-    - piernas
-
+  En un disfraz de vaca (牛) las mejores piernas (儿) para llevar son las de
+  *delante*.
+componentes:
+  - vaca
+  - piernas
 como_componente:
-    
-    - antes,先
-    - delante,先
+  - antes,先
+  - delante,先
+solo_componente: 0

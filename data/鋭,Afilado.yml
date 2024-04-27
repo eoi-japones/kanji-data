@@ -1,7 +1,8 @@
-﻿id: 鋭
+id: 鋭
 clave: Afilado
 historia: El metal (金) está tan afilado porque lo cargó el diablo (兑).
 componentes:
   - metal
   - diablo
 como_componente: []
+solo_componente: 0

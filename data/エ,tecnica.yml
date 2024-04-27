@@ -11,3 +11,5 @@ componentes: []
 como_componente: 
     - viga,エ
     - técnica,エ
+
+solo_componente: 0

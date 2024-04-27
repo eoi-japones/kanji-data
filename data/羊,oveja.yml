@@ -1,13 +1,11 @@
 id: 羊
-
 clave: Oveja
-
 historia: >
-    
-    Es el pictograma de una *oveja* vista desde arriba. Se distingue porque tiene un par de cuernos, cuatro patas y rabo.
-    Además se nota el cuerpo gordito y mullidito por la lana que tiene hacia el final.
 
+  Es el pictograma de una *oveja* vista desde arriba. Se distingue porque tiene
+  un par de cuernos, cuatro patas y rabo. Además se nota el cuerpo gordito y
+  mullidito por la lana que tiene hacia el final.
 componentes:
-    - cuernos
-
+  - cuernos
 como_componente: []
+solo_componente: 0

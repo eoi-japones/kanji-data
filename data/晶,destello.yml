@@ -2,5 +2,6 @@ id: 晶
 clave: destello
 historia: >
     Sol (日) por todos lados, destelleando de forma cegadora.
-componentes: ['Sol', 'Sol', 'Sol']
+componentes: ['Sol']
 como_componente: []
+solo_componente: 1

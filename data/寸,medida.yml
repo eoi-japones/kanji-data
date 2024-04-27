@@ -11,5 +11,5 @@ componentes:
   - gota
   - diez
 como_componente:
-  - 'pegado_a,寸'
-
+  - pegado_a,寸
+solo_componente: 0

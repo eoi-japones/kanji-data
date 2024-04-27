@@ -1,19 +1,14 @@
 id: 可
-
 clave: posible
-
-# otras_claves: 
-
 historia: >
-    
-    En la película tiburón, un personaje dice que bajando al fondo del mar,
-    encontró un diente del tamaño de un vaso. Con una boca (口) así, con dientes
-    como clavos (丁) todo es posible.
 
+  En la película tiburón, un personaje dice que bajando al fondo del mar,
+  encontró un diente del tamaño de un vaso. Con una boca (口) así, con dientes
+  como clavos (丁) todo es posible.
 componentes:
-    - clavo
-    - boca
-
+  - clavo
+  - boca
 como_componente:
-    - tiburón,可
-    - posible,可
+  - tiburón,可
+  - posible,可
+solo_componente: 0

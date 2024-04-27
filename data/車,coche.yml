@@ -1,13 +1,9 @@
 id: 車
-
 clave: Coche
+historia: |
 
-historia: > 
-
-    Hay un eje principal (｜) atravesado (亘) es la estructura básica del coche.
-
-componentes: 
-
-    - Atravesar
-
+  Hay un eje principal (｜) atravesado (亘) es la estructura básica del coche.
+componentes:
+  - Atravesar
 como_componente: []
+solo_componente: 0

@@ -3,6 +3,7 @@ clave: Esperar
 historia: Un caminante se detiene a esperar a que le abran las puertas del templo.
 componentes:
   - caminante
-  - '寺,tempolo_budista'
+  - 寺,tempolo_budista
 como_componente:
-  - 'esperar,待つ'
+  - esperar,待つ
+solo_componente: 0

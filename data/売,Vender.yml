@@ -1,11 +1,12 @@
 id: 売
 clave: Vender
 historia: >-
-  Un guerrero (士) empobrecido vende una corona (冖), su última reliquia, para poder
-  seguir su camino (儿).
+  Un guerrero (士) empobrecido vende una corona (冖), su última reliquia, para
+  poder seguir su camino (儿).
 componentes:
-  - 'guerrero'
-  - 'corona'
-  - 'piernas'
+  - guerrero
+  - corona
+  - piernas
 como_componente:
-  - 'vender,売'
+  - vender,売
+solo_componente: 0

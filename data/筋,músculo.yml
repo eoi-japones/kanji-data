@@ -1,9 +1,11 @@
 id: 筋
 clave: músculo
 historia: >
-  El músculo es la parte del cuerpo (月) con la que hacemos fuerza (力) y es duro como el tronco del bambú (⺮)
+  El músculo es la parte del cuerpo (月) con la que hacemos fuerza (力) y es duro
+  como el tronco del bambú (⺮)
 componentes:
   - bambú
   - parte_cuerpo
   - fuerza
 como_componente: []
+solo_componente: 0

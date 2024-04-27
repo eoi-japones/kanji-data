@@ -1,13 +1,8 @@
 id: 十
-
 clave: diez
-
-historia: >
-     El diez romano (X) girado 45º es un diez en kanji.
-
+historia: |
+  El diez romano (X) girado 45º es un diez en kanji.
 componentes: []
-
-como_componente: 
-
-    - aguja,十
-
+como_componente:
+  - aguja,十
+solo_componente: 0

@@ -1,16 +1,12 @@
 id: 私
-
 clave: yo
+historia: |
 
-historia: >
-    
-    *Yo* me reservo un codo (厶) de trigo (禾) para mí. Es mi *propiedad privada*.
-
-    
+  *Yo* me reservo un codo (厶) de trigo (禾) para mí. Es mi *propiedad privada*.
 componentes:
-    - trigo
-    - codo
-
+  - trigo
+  - codo
 como_componente:
-    - yo,私
-    - propiedad_privada,私
+  - yo,私
+  - propiedad_privada,私
+solo_componente: 0

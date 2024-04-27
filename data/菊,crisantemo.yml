@@ -1,9 +1,11 @@
 id: 菊
 clave: crisantemo
 historia: >
-  El crisantemo es una flor (⺾) que cuando se presenta como un paquete (勹) junto con arroz (米) representa a la nación japonesa
+  El crisantemo es una flor (⺾) que cuando se presenta como un paquete (勹) junto
+  con arroz (米) representa a la nación japonesa
 componentes:
   - flor
   - empaquetar
   - arroz
 como_componente: []
+solo_componente: 0

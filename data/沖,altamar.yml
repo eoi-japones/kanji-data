@@ -1,15 +1,10 @@
 id: 沖
-
 clave: Altamar
+historia: |
 
-historia: > 
-
-    Si estas en medio del agua sin nada más es que estás en alta mar
-
-componentes: 
-
-    - Gotas
-
-    - En_medio_de
-
+  Si estas en medio del agua sin nada más es que estás en alta mar
+componentes:
+  - Gotas
+  - En_medio_de
 como_componente: []
+solo_componente: 0

@@ -1,8 +1,11 @@
 id: 食
 clave: Comer
-historia: 'Si está a cubierto, aunque sea con un paraguas (𠆢), es un sitio bueno (良) para comer.'
+historia: >-
+  Si está a cubierto, aunque sea con un paraguas (𠆢), es un sitio bueno (良)
+  para comer.
 componentes:
-  - '𠆢,paraguas'
-  - '良,bueno'
+  - 𠆢,paraguas
+  - 良,bueno
 como_componente:
-  - 'comer,食'
+  - comer,食
+solo_componente: 0

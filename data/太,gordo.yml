@@ -5,7 +5,8 @@ historia: |-
 
   Hay que diferenciarlo del kanji de perro.
 componentes:
-  - '大,grande'
-  - '丶,gota'
+  - 大,grande
+  - 丶,gota
 como_componente:
-  - 'gordo,太'
+  - gordo,太
+solo_componente: 0

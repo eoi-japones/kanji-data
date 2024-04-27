@@ -1,10 +1,12 @@
 id: 漆
 clave: laca
 historia: >
-  Si llevas laca y llueve (氵) cúbrete bajo un árbol (木) o con un paraguas (𠆢) para que no te quede el pelo como si fueran granos de arroz (氺)
+  Si llevas laca y llueve (氵) cúbrete bajo un árbol (木) o con un paraguas (𠆢)
+  para que no te quede el pelo como si fueran granos de arroz (氺)
 componentes:
   - agua
   - árbol
   - paraguas
   - granos_arroz
 como_componente: []
+solo_componente: 0

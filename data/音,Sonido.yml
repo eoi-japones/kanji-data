@@ -1,9 +1,11 @@
 id: 音
 clave: Sonido
 historia: >-
-  Una persona con la lengua agitándose dentro de la boca es capaz de romper un jarrón chino gracias al sonido.
+  Una persona con la lengua agitándose dentro de la boca es capaz de romper un
+  jarrón chino gracias al sonido.
 componentes:
-  - '立,jarrón'
-  - '日,lengua agitándose dentro de una boca'
+  - 立,jarrón
+  - 日,lengua agitándose dentro de una boca
 como_componente:
-  - 'sonido,音'
+  - sonido,音
+solo_componente: 0

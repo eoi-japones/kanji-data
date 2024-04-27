@@ -1,10 +1,11 @@
 id: 読
 clave: Leer
 historia: >+
-  Un texto que se *lee* siempre es un conjunto de palabras (言) que nos
-  intentan vender (売) algo: ya sea una opinión, una historia o un producto. 
+  Un texto que se *lee* siempre es un conjunto de palabras (言) que nos intentan
+  vender (売) algo: ya sea una opinión, una historia o un producto. 
 
 componentes:
   - palabras
   - vender
 como_componente: []
+solo_componente: 0

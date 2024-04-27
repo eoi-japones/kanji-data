@@ -12,4 +12,5 @@ historia: >-
   tamaño. No confundir con el kanji de serpiente (蛇) 
 componentes: []
 como_componente:
-  - 'sierpe,己'
+  - sierpe,己
+solo_componente: 0

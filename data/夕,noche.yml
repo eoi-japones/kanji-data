@@ -1,13 +1,8 @@
 id: 夕
-
 clave: noche
+historia: |
 
-# otras_claves: 
-
-historia: >
-    
-    Cuando es de noche, las nubes tapan la sonrisa de la luna.
-
+  Cuando es de noche, las nubes tapan la sonrisa de la luna.
 componentes: []
-
 como_componente: []
+solo_componente: 0

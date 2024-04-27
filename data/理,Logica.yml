@@ -4,7 +4,8 @@ historia: >-
   Un rey sabio decide el camino más lógico cuando hemos de recorrer una
   distancia de más de un li.
 componentes:
-  - '王,rey'
-  - '里,li'
+  - 王,rey
+  - 里,li
 como_componente:
-  - 'logica,理'
+  - logica,理
+solo_componente: 0

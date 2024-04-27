@@ -57,5 +57,5 @@
 
     "additionalProperties": false,
 
-    "required": ["id", "clave", "historia", "componentes"]
+    "required": ["id", "clave", "historia", "componentes", "solo_componente"]
 }
