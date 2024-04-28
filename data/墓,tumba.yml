@@ -4,3 +4,4 @@ historia: >
     En los cementerios (莫) las tumbas están bajo tierra (土).
 componentes: ['cementerio', 'tierra']
 como_componente: []
+solo_componente: 0

@@ -4,3 +4,4 @@ historia: >
     No te acerques a la casa (宀) de un extraño (奇).
 componentes: ['tejado_casa', 'extraño']
 como_componente: []
+solo_componente: 0

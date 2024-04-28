@@ -4,3 +4,4 @@ historia: >
   Las riadas (巛) y los incendios (火) son desastres naturales
 componentes: ['riada', 'fuego']
 como_componente: []
+solo_componente: 0

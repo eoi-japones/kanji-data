@@ -4,3 +4,4 @@ historia: >
     Cuando estás angustiado, sientes que te arde (火) la cabeza (頁).
 componentes: ['fuego', 'cabeza']
 como_componente: []
+solo_componente: 0

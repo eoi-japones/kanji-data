@@ -4,3 +4,4 @@ historia: >
     Un tiburón (可) se encontró a un san bernardo (大) en el mar y dijo: "hmm, qué extraño..."; y se lo comió.
 componentes: ['san_bernardo', 'tiburon']
 como_componente: []
+solo_componente: 0

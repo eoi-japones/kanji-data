@@ -4,3 +4,4 @@ historia: >
     En casa (宀) está de noche el escritor, esperando la inspiración frente a una vela (肖).
 componentes: ['tejado_casa', 'vela']
 como_componente: []
+solo_componente: 0

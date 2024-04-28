@@ -4,3 +4,4 @@ historia: >
     Un cabo es una extraña (奇) protuberancia de tierra (土).
 componentes: ['tierra', 'extraño']
 como_componente: []
+solo_componente: 0
