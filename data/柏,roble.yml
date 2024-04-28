@@ -4,3 +4,4 @@ historia: >
     El roble es el árbol (木) donde reposa la paloma blanca (白).
 componentes: ['arbol', 'paloma_blanca']
 como_componente: []
+solo_componente: 0

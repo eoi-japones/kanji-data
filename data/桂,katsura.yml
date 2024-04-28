@@ -4,3 +4,4 @@ historia: >
     El árbol (木) más torturado por la hiedra (圭).
 componentes: ['arbol', 'hiedra']
 como_componente: []
+solo_componente: 0
