@@ -2,7 +2,7 @@ id: 聿
 
 solo_componente: 1
 
-clave: pincel
+clave: '*pincel'
 historia: |-
   Vemos un pincel sostenido por una mano y con el que se empezará a escribir. 
 

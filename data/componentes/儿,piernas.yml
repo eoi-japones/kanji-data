@@ -2,10 +2,9 @@ id: 儿
 
 solo_componente: 1
 
-clave: piernas
+clave: '*piernas'
 
 historia: >
- 
     Tenemos el pictograma de unas piernas.
 
 componentes: []

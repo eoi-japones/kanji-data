@@ -2,7 +2,7 @@ id: 厶
 
 solo_componente: 1
 
-clave: codos
+clave: '*codos'
 
 historia: >
  

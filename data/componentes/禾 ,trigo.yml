@@ -2,7 +2,7 @@ id: 禾
 
 solo_componente: 1
 
-clave: trigo
+clave: '*trigo'
 
 historia: >
  

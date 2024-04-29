@@ -2,7 +2,7 @@ id: 𠆢
 
 solo_componente: 1
 
-clave: paraguas
+clave: '*paraguas'
 
 historia: >
     Es el dibujo de un *paraguas* abierto, que cubre lo que está debajo.

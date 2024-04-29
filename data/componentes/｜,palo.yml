@@ -1,6 +1,6 @@
 id: "｜"
 solo_componente: 1
-clave: palo
+clave: '*palo'
 historia: >
   Es el pictograma de un palo.
   
