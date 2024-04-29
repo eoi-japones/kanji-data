@@ -1,0 +1,11 @@
+﻿id: 善
+clave: bondad
+historia: >-
+  Si le pones los cuernos (丷) a alguien, no importa que sea tan bondadoso como
+  una oveja (羊). Puedes esperar a que de su boca (口) salga de todo.
+solo_componente: 0
+componentes:
+  - oveja
+  - cuernos
+  - boca
+como_componente: []

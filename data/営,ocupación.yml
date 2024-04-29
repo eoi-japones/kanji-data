@@ -1,0 +1,10 @@
+﻿id: 営
+clave: ocupación
+historia: >-
+  La espina dorsal (呂) de cualquier sociedad es la escuela (宀),(丷), que es donde
+  la gente aprende una ocupación.
+solo_componente: 0
+componentes:
+  - edificio_escolar
+  - espina_dorsal
+como_componente: []
