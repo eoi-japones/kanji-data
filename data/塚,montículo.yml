@@ -1,0 +1,11 @@
+﻿id: 塚
+clave: montículo
+historia: >-
+  Al toparse con un nuevo montículo de tierra (土), cada cerdo (豕) se apresura
+  para coronarse (冖) como el primero y poderse rebozar sobre él.
+solo_componente: 0
+componentes:
+  - tierra
+  - corona
+  - cerdo
+como_componente: []

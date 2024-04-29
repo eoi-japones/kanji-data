@@ -1,0 +1,8 @@
+﻿id: 旅
+clave: viaje
+historia: "Un auténtico viajero lleva andrajos (衣) como su estandarte (方),(\uD840\uDC89)."
+solo_componente: 0
+componentes:
+  - estandarte
+  - andrajo
+como_componente: []

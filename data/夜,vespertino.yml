@@ -1,0 +1,13 @@
+﻿id: 夜
+clave: vespertino
+historia: >-
+  Una persona (亻) volviendo de una juerga vespertina después de perder su
+  sombrero (亠), con resbalando con sus piernas (夂) manchadas de gotas (丶) de su
+  bebida.
+solo_componente: 0
+componentes:
+  - persona
+  - chistera
+  - piernas_resbalando
+  - gota
+como_componente: []

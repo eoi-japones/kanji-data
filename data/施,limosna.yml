@@ -1,0 +1,8 @@
+﻿id: 施
+clave: limosna
+historia: "No le des un pescado. Enséñale a pescar. Dar limosna puede parecer el estandarte (方),(\uD840\uDC89) de la compasión, pero realmente es un escorpión (也) que muerde a la gente haciéndola dependiente y débil."
+solo_componente: 0
+componentes:
+  - estandarte
+  - escorpión
+como_componente: []
