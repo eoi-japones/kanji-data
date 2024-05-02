@@ -1,0 +1,7 @@
+id: 棚
+clave: estantería
+historia: >
+    La mejor compañera (朋) de madera (木) para los libros.
+componentes: ['arbol', 'compañero']
+como_componente: []
+solo_componente: 0

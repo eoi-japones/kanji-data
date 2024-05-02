@@ -1,0 +1,7 @@
+id: 杏
+clave: albaricoque
+historia: >
+    Los albaricoques son tan buenos que hay una boca (口) debajo del árbol (木) esperando a que caigan.
+componentes: ['arbol', 'boca']
+como_componente: []
+solo_componente: 0
