@@ -1,0 +1,7 @@
+id: 膜
+clave: membrana
+historia: >
+    Al pasar la noche en el cementerio (莫) no se te pone la piel (月) de gallina, se te pone de membraba.
+componentes: ['parte_del_cuerpo', 'cementerio']
+como_componente: []
+solo_componente: 0

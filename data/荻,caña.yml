@@ -1,0 +1,7 @@
+id: 荻
+clave: caña
+historia: >
+    Para librarte de una jauría (⺨) de perros esperas a que las cañas estén en flor (艹) y le prendes fuego a todo (火).
+componentes: ['flor', 'jauria', 'fuego']
+como_componente: []
+solo_componente: 0
