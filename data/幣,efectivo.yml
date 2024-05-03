@@ -1,0 +1,10 @@
+﻿id: 幣
+clave: efectivo
+historia: >-
+  Si no dispones de efectivo para pagar, te trituran (敝) y limpian tus
+  restos con una toalla (巾).
+solo_componente: 0
+componentes:
+  - triturar
+  - toalla
+como_componente: []

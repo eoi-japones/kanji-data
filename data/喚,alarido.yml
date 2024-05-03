@@ -1,0 +1,12 @@
+﻿id: 喚
+clave: alarido
+historia: >-
+  Estando atado (勹) frente a cuatro (四) san bernardos (大) rabiosos, lo único que
+  puedes hacer es abrir la boca (口) y soltar un alarido.
+solo_componente: 0
+componentes:
+  - boca
+  - atado
+  - cuatro
+  - san_bernardo
+como_componente: []

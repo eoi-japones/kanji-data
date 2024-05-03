@@ -1,0 +1,11 @@
+﻿id: 敝
+clave: triturar
+historia: >-
+  Si se te ocurre azotar al capataz (攵) con una toalla (巾), no necesitará más
+  que dos pequeñas (小) cuchillas para triturarte por tu insolencia.
+solo_componente: 1
+componentes:
+  - pequeño
+  - toalla
+  - capataz
+como_componente: []

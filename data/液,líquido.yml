@@ -1,0 +1,10 @@
+﻿id: 液
+clave: líquido
+historia: >-
+  Después de una juerga vespertina (夜), lo más importante es beber mucho
+  líquido. Principalmente agua (⺡).
+solo_componente: 0
+componentes:
+  - agua
+  - vespertino
+como_componente: []
