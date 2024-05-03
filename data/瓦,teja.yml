@@ -1,0 +1,14 @@
+﻿id: 瓦
+clave: teja
+historia: >-
+  Las tejas de un tejado japonés que revisan dándoles golpes con un bastón (｜).
+  Una (一) sola teja es tan resistente que no la verás ni deslizarse como el
+  hielo (冫) hacia el suelo (一), ni colgando como un anzuelo (乚).
+solo_componente: 0
+componentes:
+  - uno
+  - bastón
+  - anzuelo
+  - hielo
+  - suelo
+como_componente: []

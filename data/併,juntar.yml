@@ -1,0 +1,10 @@
+﻿id: 併
+clave: juntar
+historia: >-
+  Lo que una persona (亻) quiere hacer con las piezas de un puzzle (并) es
+  juntarlas.
+solo_componente: 0
+componentes:
+  - persona
+  - puzzle
+como_componente: []
