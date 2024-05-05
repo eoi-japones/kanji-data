@@ -1,0 +1,10 @@
+﻿id: 状
+clave: status_quo
+historia: >-
+  Una historia de amor entre una tortuga (丬) y un perro (犬). La familia del
+  último se opuso para mantener el status quo.
+solo_componente: 0
+componentes:
+  - tortuga
+  - perro
+como_componente: []

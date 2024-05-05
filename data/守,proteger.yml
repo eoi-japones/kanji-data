@@ -1,0 +1,10 @@
+﻿id: 守
+clave: proteger
+historia: >-
+  Si requieres protección policial, mantendrán a agentes pegados (寸) a tu casa
+  mientras estés bajo su tejado (宀).
+solo_componente: 0
+componentes:
+  - tejado_casa
+  - pegado_a
+como_componente: []

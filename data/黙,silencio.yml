@@ -1,0 +1,10 @@
+﻿id: 黙
+clave: silencio
+historia: >-
+  Si ves a un perro (犬) negro (黒) pasar por tu lado, quédate en absoluto
+  silencio para que no te de mala suerte.
+solo_componente: 0
+componentes:
+  - negro
+  - perro
+como_componente: []
