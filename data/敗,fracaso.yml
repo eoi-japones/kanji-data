@@ -1,0 +1,7 @@
+id: 敗
+clave: fracaso
+historia: >
+    Ante un fracaso, el capataz (攵) te hace pagarlo (貝).
+componentes: ['moneda', 'capataz']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 諾
+clave: consentir
+historia: >
+    Las palabras (言) de un joven (若) no pueden consentir.
+componentes: ['palabras', 'joven']
+como_componente: []
+solo_componente: 0

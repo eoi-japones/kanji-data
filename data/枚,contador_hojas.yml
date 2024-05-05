@@ -1,0 +1,7 @@
+id: 枚
+clave: contador_hojas
+historia: >
+    El capataz (攵) te azota con un madero (木) si no eres capaz de memorizarte las hojas de...
+componentes: ['madera', 'capataz']
+como_componente: []
+solo_componente: 0

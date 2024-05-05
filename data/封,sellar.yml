@@ -1,0 +1,7 @@
+id: 封
+clave: sellar
+historia: >
+    Para asegurarse de que nadie entra, se sella dejando pegada (寸) una hiedra (圭).
+componentes: ['hiedra', 'pegado_a']
+como_componente: []
+solo_componente: 0

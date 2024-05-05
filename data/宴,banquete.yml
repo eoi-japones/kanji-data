@@ -1,0 +1,7 @@
+id: 宴
+clave: banquete
+historia: >
+    Una mujer (女) que se pasó el día (日) en casa (宀) con dolor de barriga y no pudo ir al banquete.
+componentes: ['tejado_casa', 'día', 'mujer']
+como_componente: []
+solo_componente: 0

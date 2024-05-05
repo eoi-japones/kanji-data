@@ -1,0 +1,7 @@
+id: 畑
+clave: plantación
+historia: >
+    A las plantaciones de arroz (田) se les prende fuego (火) tras la cosecha.
+componentes: ['fuego', 'campo_de_arroz']
+como_componente: []
+solo_componente: 0

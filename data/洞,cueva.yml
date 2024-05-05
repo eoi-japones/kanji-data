@@ -1,0 +1,7 @@
+id: 洞
+clave: cueva
+historia: >
+    Te quedas sin agua (⺡) atrapado en una cueva, y mueres de sed al no encontrar la salida, porque todo te parece lo mismo (同).
+componentes: ['agua', 'el_mismo']
+como_componente: []
+solo_componente: 0
