@@ -1,5 +1,5 @@
 id: 苟
-clave: *floritura
+clave: '*floritura'
 historia: >
    Las florituras son frases (句) adornadas con lindezas, como si fueran flores (艹) 
 componentes: ['flor', 'frase']
