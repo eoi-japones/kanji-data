@@ -1,0 +1,10 @@
+﻿id: 泥
+clave: barro
+historia: >-
+  Las monjas budistas (尼) están constantemente lavándose con agua (氵), por lo
+  que nunca las verás con barro.
+solo_componente: 0
+componentes:
+  - agua
+  - monja
+como_componente: []

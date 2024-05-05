@@ -1,0 +1,10 @@
+﻿id: 駅
+clave: estación
+historia: >-
+  Cada vez que un cliente llegaba a la estación para devolver un caballo (馬),
+  hacían sonar una flauta (尺) para solicitar atención.
+solo_componente: 0
+componentes:
+  - caballo
+  - flauta
+como_componente: []
