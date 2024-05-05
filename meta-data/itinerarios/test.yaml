@@ -1,0 +1,9 @@
+# Ejemplo de íter
+id: basico-1
+nombre: "Kanjis Básicos 1"
+descripcion: "<Aquí iría una descripción del camino a recorrer por parte del estudiante>"
+iter:
+  - partes_cuerpo_1
+  - agua_1
+  - numeros_1
+  - naturaleza_1
