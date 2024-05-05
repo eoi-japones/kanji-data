@@ -1,0 +1,7 @@
+id: 卓
+clave: eminente
+historia: >
+    Un eminente mago hippie capaz de sembrar girasoles (早) con su varita (卜).
+componentes: ['varita_de_adivino', 'girasol']
+como_componente: []
+solo_componente: 0

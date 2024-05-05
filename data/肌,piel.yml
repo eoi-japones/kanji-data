@@ -1,0 +1,7 @@
+id: 肌
+clave: piel
+historia: >
+    El órgano más grande del cuerpo (月), expuesto al viento (几).
+componentes: ['parte_del_cuerpo', 'viento']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 占
+clave: adivinación
+historia: >
+    Boca (口) que interpreta la adivinación percibida por la varita (卜).
+componentes: ['varita_de_adivino', 'boca']
+como_componente: []
+solo_componente: 0
