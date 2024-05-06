@@ -1,7 +1,9 @@
 # Ejemplo de íter
 id: basico-1
 nombre: "Kanjis Básicos 1"
-descripcion: "<Aquí iría una descripción del camino a recorrer por parte del estudiante>"
+descripcion: |
+  Este es el primer camino a recorrer. Los kanjis que se estudian en esta lección te acompañarán durante toda tu singladura en japonés. 
+  ¡Ánimo!
 iter:
   - partes_cuerpo_1
   - numeros_1
