@@ -12,11 +12,11 @@ integrantes:
   - 飲
 
 auxiliares:
-  - id: 欠
-    para: 飲
-  - id: 艮
-    para: 良
   - id: 良
     para: 食
+  - id: 艮
+    para: 良
+  - id: 欠
+    para: 飲
 
 icono: "https://www.svgrepo.com/download/530384/food.svg"
