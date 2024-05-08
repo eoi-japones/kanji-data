@@ -16,3 +16,7 @@ auxiliares:
     para: 飲
   - id: 艮
     para: 良
+  - id: 良
+    para: 食
+
+icono: "https://www.svgrepo.com/download/530384/food.svg"
