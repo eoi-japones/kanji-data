@@ -5,10 +5,12 @@ const ajv = require("ajv")
 
 const kanjiSchema = require("../schemas/kanji.schema.json")
 const grupoSchema = require("../schemas/grupo.schema.json")
+const itinerarioSchema = require("../schemas/itinerario.schema.json")
 
 const Ajv = new ajv()
 const kanjiValidation = Ajv.compile(kanjiSchema)
 const grupoValidation = Ajv.compile(grupoSchema)
+const itinerarioValidation = Ajv.compile(itinerarioSchema)
 
 walk(process.env["DATA_DIR"])
 
@@ -44,7 +46,7 @@ async function walk(dir = process.env["DATA_DIR"]){
 
       return (dir == "data" || dir == "componentes") ? "KANJI" :
           (dir == "grupos") ? "GRUPO" :
-          (dir == "iters") ? "ITER" : 
+          (dir == "itinerarios") ? "ITER" : 
            "DESCONOCIDO"
 
   }
@@ -98,10 +100,13 @@ async function walk(dir = process.env["DATA_DIR"]){
 
   function validarFichero(kanjiData, tipo){
 
-    const validador = (tipo === "KANJI") ? kanjiValidation : grupoValidation;
+    const validador = (tipo === "KANJI") ? kanjiValidation : 
+
+                        (tipo == "GRUPO") ? grupoValidation : itinerarioValidation;
 
     if(!validador(kanjiData)){
-
+       
+      //console.log(JSON.stringify(validador.errors, null, 4))
       throw JSON.stringify(validador.errors, null, 4)
     }
 
