@@ -1,6 +1,7 @@
 id: 敢
 clave: osadía
 historia: >
-    Marineros poniéndose un clavo (エ) en el oído (耳) para demostrar su osadía cuando cruzan el cabo de Hornos al capataz (攵).
+    Marineros poniéndose un clavo (エ) en la oreja (耳) para demostrar su osadía cuando cruzan el cabo de Hornos al capataz del barco (攵).
 componentes: ['viga', 'oreja', 'capataz']
 como_componente: []
+solo_componente: 0

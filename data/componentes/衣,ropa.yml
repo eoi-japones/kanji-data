@@ -1,7 +1,7 @@
 id: 衣
 clave: ropa
 historia: >
-    
+  Pictograma de dos prendas de ropa: una chistera (亠) y una bufanda (𧘇)
 solo_componente: 1
 componentes: []
 como_componente: ['capa', 'bufanda']
