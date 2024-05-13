@@ -1,0 +1,10 @@
+﻿id: 狩
+clave: cazar
+historia: >-
+  Aunque cazar junto a una jauría de perros (犭) te puede ayudar, todo lo que
+  caces lo debes proteger (守) de ellos.
+solo_componente: 0
+componentes:
+  - jauría
+  - proteger
+como_componente: []

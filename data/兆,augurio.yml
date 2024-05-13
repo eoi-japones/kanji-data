@@ -1,0 +1,10 @@
+﻿id: 兆
+clave: augurio
+historia: >-
+  Pictograma del caparazón de una tortuga. En Okinawa los usan para recibir
+  augurios.
+solo_componente: 0
+componentes: []
+como_componente:
+  - 'caparazón_de_tortuga,兆'
+  - 'tortuga,丬'

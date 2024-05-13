@@ -1,0 +1,10 @@
+﻿id: 眺
+clave: mirar_fijamente
+historia: >-
+  Te encuentras con alguien mirándote fijamente a los ojos (目), dándote la
+  impresión de que está formulando los peores augurios (兆) de tu vida.
+solo_componente: 0
+componentes:
+  - ojo
+  - augurio
+como_componente: []
