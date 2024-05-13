@@ -1,8 +1,9 @@
 ﻿id: 昼
 clave: de_día
 historia: >-
-  El flautista de shakuhachi tiene que practicar con su flauta (尺) de día para
-  no molestar, comenzando siempre desde el amanecer (旦) para aprovechar el día.
+  El flautista de shakuhachi tiene que practicar con su flauta (尺) **de día**
+  para no molestar, comenzando siempre desde el amanecer (旦) para aprovechar el
+  día.
 solo_componente: 0
 componentes:
   - flauta

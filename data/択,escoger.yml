@@ -1,8 +1,8 @@
 ﻿id: 択
 clave: escoger
 historia: >-
-  Nadie sabe cómo hace el flautista de shakuhachi para escoger adecuadamente los
-  agujeros que tapar en la flauta (尸) con sus dedos (扌).
+  Nadie sabe cómo hace el flautista de shakuhachi para **escoger**
+  adecuadamente los agujeros que tapar en la flauta (尸) con sus dedos (扌).
 solo_componente: 0
 componentes:
   - dedo
