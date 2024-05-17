@@ -1,0 +1,9 @@
+﻿id: 塔
+clave: pagoda
+historia: Antiguamente eran de tierra (土) y se les solía encajar (合) muchas flores (艹).
+solo_componente: 0
+componentes:
+  - tierra
+  - flor
+  - encajar
+como_componente: []

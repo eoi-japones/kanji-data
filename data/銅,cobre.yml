@@ -1,0 +1,10 @@
+﻿id: 銅
+clave: cobre
+historia: >-
+  Para mucha gente el cobre es parecido al oro (金), pero todos sabemos que no
+  son iguales (同).
+solo_componente: 0
+componentes:
+  - oro
+  - igual
+como_componente: []

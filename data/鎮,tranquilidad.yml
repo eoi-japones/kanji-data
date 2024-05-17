@@ -1,0 +1,10 @@
+﻿id: 鎮
+clave: tranquilidad
+historia: >-
+  Las máquinas de la verdad (真) funcionan analizando tu estado de tranquilidad,
+  conectándote unos cables metálicos (金) para medirla.
+solo_componente: 0
+componentes:
+  - metal
+  - verdad
+como_componente: []

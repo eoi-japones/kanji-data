@@ -1,0 +1,10 @@
+﻿id: 銑
+clave: lingote
+historia: >-
+  La forma en la que se comercia con el oro (金) antes (先) de darle uso en
+  orfebrería.
+solo_componente: 0
+componentes:
+  - oro
+  - antes
+como_componente: []
