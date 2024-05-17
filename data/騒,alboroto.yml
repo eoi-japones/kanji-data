@@ -1,0 +1,11 @@
+﻿id: 騒
+clave: alboroto
+historia: >-
+  Cuando el insecto (虫) se cuela por las entrepiernas (又) de los miembros de una
+  caballeriza (馬), puede esperarse que se monte un gran alboroto.
+solo_componente: 0
+componentes:
+  - caballo
+  - entrepierna
+  - insecto
+como_componente: []

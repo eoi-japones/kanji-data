@@ -1,0 +1,12 @@
+﻿id: 盾
+clave: escudo
+historia: >-
+  Cuando uno de los escuderos que avanzaban forzando el paso en las primeras
+  filas volvía sin un escudo que arrastrar (厂), se intuía que desertó de la
+  batalla y era ejecutado clavándosele agujas (十) en los ojos (目).
+solo_componente: 0
+componentes:
+  - arrastrar
+  - aguja
+  - ojo
+como_componente: []
