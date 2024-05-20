@@ -1,0 +1,20 @@
+id: personas_3
+
+nombre: "Personas III"
+
+descripcion: >
+  Vamos a meter a más personajes en nuestro particular teatro de kanji. 
+
+integrantes:
+  - 攵
+  - 老
+  - 孰
+  - 主
+  - 佐
+  - 叔
+
+auxiliares: 
+  - id: 享
+    para: 孰
+
+icono: "https://www.svgrepo.com/download/200395/mask.svg"
