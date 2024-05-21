@@ -1,0 +1,13 @@
+﻿id: 盾
+clave: escudo
+historia: >-
+  En la Antigua Grecia, los hoplitas se encargaban de avanzar forzando el paso
+  en las primeras filas. Pero cuando alguno volvía sin un escudo que
+  arrastrar (厂), se intuía que había desertado de la batalla y era ejecutado
+  clavándosele agujas (十) en los ojos (目).
+solo_componente: 0
+componentes:
+  - arrastrar
+  - aguja
+  - ojo
+como_componente: []

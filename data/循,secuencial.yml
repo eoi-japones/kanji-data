@@ -1,0 +1,10 @@
+﻿id: 循
+clave: secuencial
+historia: >-
+  Lo que más impresiona al ver una línea (彳) de soldados con sus escudos (盾), es
+  su capacidad de avanzar secuencialmente.
+solo_componente: 0
+componentes:
+  - línea
+  - escudo
+como_componente: []

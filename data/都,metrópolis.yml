@@ -1,0 +1,10 @@
+﻿id: 都
+clave: metrópolis
+historia: >-
+  Las personas son simples marionetas (者) dentro de las murallas (⻏) de la
+  inmensa metrópolis.
+solo_componente: 0
+componentes:
+  - marioneta
+  - muralla
+como_componente: []
