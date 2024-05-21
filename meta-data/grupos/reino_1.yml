@@ -12,8 +12,12 @@ integrantes:
     - 全
     - 金
     - 皇
+    - 妃
+    - 帝
 
-auxiliares: 
+auxiliares:
+    - id: 立
+      para: 帝
     - id: 玉
       para: 国
     - id: 𠆢
