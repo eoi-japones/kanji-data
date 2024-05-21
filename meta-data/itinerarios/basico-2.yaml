@@ -1,0 +1,9 @@
+# Ejemplo de íter
+id: basico-2
+nombre: "Kanjis Básicos 2"
+descripcion: |
+  Una vez que tenemos una masa crítica de kanji dominada tenemos que empezar a profundizar en acciones y estados. 
+iter:
+  - reino_1
+  - personas_3
+  - estudio_2

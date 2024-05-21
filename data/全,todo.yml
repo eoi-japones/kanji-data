@@ -1,0 +1,8 @@
+clave: todo
+historia: "El pilar básico del poder real (王) y su justificación se encontraba en la idea de que nada escapase a su poder, a su Justicia y a su control. \n\nTodo, literalmente *TODO* se encontraba bajo el paraguas (\uD840\uDDA2) de su poder y protección. "
+id: 全
+solo_componente: 0
+componentes:
+  - paraguas
+  - rey
+como_componente: []
