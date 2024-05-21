@@ -1,0 +1,10 @@
+﻿id: 郎
+clave: hijo
+historia: >-
+  Ante un ataque externo, cada uno tenía el derecho de mandar a su hijo más
+  bueno (良) al interior de las murallas (⻏) para estar a salvo.
+solo_componente: 0
+componentes:
+  - bueno
+  - muralla
+como_componente: []

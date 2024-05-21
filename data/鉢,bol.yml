@@ -1,0 +1,11 @@
+﻿id: 鉢
+clave: bol
+historia: >-
+  Para preparar un bol de casi cualquier cosa, aparte de los ingredientes, no
+  necesitas nada más que tus utensilios de metal (金) y un buen libro (本) de
+  recetas.
+solo_componente: 0
+componentes:
+  - metal
+  - libro
+como_componente: []

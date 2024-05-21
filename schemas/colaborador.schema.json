@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Identificador del colaborador"
+      },
+
+      "nombre": {
+      
+        "type": "string",
+        "description": "Nombre del colaborador"
+      },
+
+      "roles": {
+      
+        "type": "array",
+        "description": "roles del colaborador",
+        "items": {
+        
+            "type": "string"
+        }
+      },
+
+      "email": {
+      
+         "type": "array",
+
+         "description": "email de contacto"
+
+      },
+
+      "icono": {
+      
+         "type": "string",
+
+         "description": "Un icono - avatar del colaborador"
+      
+      }
+
+    },
+    
+    "additionalProperties": false,
+
+    "required": ["id", "nombre", "roles", "icono"]
+}
