@@ -1,0 +1,12 @@
+﻿id: 周
+clave: circunferencia
+historia: >-
+  Si coges una vitrina (冂) como una pecera y la pones del revés, llenándola de
+  tierra (土) por su boca (口), serás capaz de ver una circunferencia desde
+  cualquier ángulo.
+solo_componente: 0
+componentes:
+  - vitrina
+  - tierra
+  - boca
+como_componente: []

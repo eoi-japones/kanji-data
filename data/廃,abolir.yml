@@ -1,0 +1,10 @@
+﻿id: 廃
+clave: abolir
+historia: >-
+  La abolición por la ley seca provocó la partida (発) de muchos alcohólicos a
+  cuevas (广) para continuar sus juergas.
+solo_componente: 0
+componentes:
+  - cueva
+  - partida
+como_componente: []

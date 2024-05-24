@@ -1,0 +1,10 @@
+﻿id: 澄
+clave: resplandeciente
+historia: >-
+  Después de ascender (登) en el tipi, todos recobran su lucidez y salen
+  resplandecientes por las gotas (氵) de sudor en las que están bañados.
+solo_componente: 0
+componentes:
+  - agua
+  - ascender
+como_componente: []
