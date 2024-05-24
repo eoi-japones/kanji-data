@@ -1,0 +1,9 @@
+﻿id: 派
+clave: facción
+historia: "Cuando un todo se divide en facciones, tras el conflicto será el agua (氵) quien arrastre (𠂆) los andrajos (衣) de los antiguos miembros."
+solo_componente: 0
+componentes:
+  - agua
+  - arrastrar
+  - andrajo
+como_componente: []

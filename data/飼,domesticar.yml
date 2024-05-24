@@ -1,0 +1,10 @@
+﻿id: 飼
+clave: domesticar
+historia: >-
+  Una de las primeras cosas que se debe hace al domesticar a un animal, es
+  convertirse en el director (司) de sus comidas (飠).
+solo_componente: 0
+componentes:
+  - comer
+  - director
+como_componente: []

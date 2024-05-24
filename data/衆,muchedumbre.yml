@@ -1,0 +1,8 @@
+﻿id: 衆
+clave: muchedumbre
+historia: "Las muchedumbres son algo que siempre demandan sangre (血), siendo capaces de cometer actos atroces y cualquier otro tipo de porquería (\uD840\uDCA2)."
+solo_componente: 0
+componentes:
+  - sangre
+  - porquería
+como_componente: []

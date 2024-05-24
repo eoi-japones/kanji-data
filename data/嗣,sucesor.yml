@@ -1,0 +1,11 @@
+﻿id: 嗣
+clave: sucesor
+historia: >-
+  El sucesor de un antiguo empleado que apunta en su bloc de notas (冊) todo lo
+  que sale de la boca (口) de su director (司).
+solo_componente: 0
+componentes:
+  - boca
+  - bloc_de_notas
+  - director
+como_componente: []

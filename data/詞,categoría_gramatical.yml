@@ -1,0 +1,10 @@
+﻿id: 詞
+clave: categoría_gramatical
+historia: >-
+  El director (司) que da un orden y sentido a cada una de las palabras (言) es su
+  categoría gramatical.
+solo_componente: 0
+componentes:
+  - palabras
+  - director
+como_componente: []
