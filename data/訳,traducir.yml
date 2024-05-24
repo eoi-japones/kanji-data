@@ -1,0 +1,10 @@
+﻿id: 訳
+clave: traducir
+historia: >-
+  Mientras alguien habla, el talentoso flautista de shakuhachi traduce todas las
+  palabras (言) que escucha para hacer música con su flauta (尺).
+solo_componente: 0
+componentes:
+  - decir
+  - flauta
+como_componente: []

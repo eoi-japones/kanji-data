@@ -1,0 +1,8 @@
+﻿id: 賜
+clave: otorgar
+historia: 'Si te otorgan unas monedas (貝), evidentemente se trata de dinero fácil (易).'
+solo_componente: 0
+componentes:
+  - moneda
+  - fácil
+como_componente: []
