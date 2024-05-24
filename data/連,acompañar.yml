@@ -1,0 +1,10 @@
+﻿id: 連
+clave: acompañar
+historia: >-
+  Si necesitas acompañar a alguien a algún sitio con urgencia, es mejor hacer el
+  camino (辶) en coche (車).
+solo_componente: 0
+componentes:
+  - camino
+  - coche
+como_componente: []

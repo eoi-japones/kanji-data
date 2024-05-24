@@ -1,0 +1,10 @@
+﻿id: 巡
+clave: patrullar
+historia: >-
+  Cuando hay riadas (巛) de gente por el camino (辶), es necesario que la policía
+  patrulle para que el tráfico no se altere.
+solo_componente: 0
+componentes:
+  - camino
+  - riada
+como_componente: []
