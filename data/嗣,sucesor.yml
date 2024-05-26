@@ -1,8 +1,9 @@
 ﻿id: 嗣
 clave: sucesor
 historia: >-
-  El sucesor de un antiguo empleado que apunta en su bloc de notas (冊) todo lo
-  que sale de la boca (口) de su director (司).
+  El empleado que, bajo la tutela de su director (司), apunta todos los consejos
+  que salen de su boca (口) en un bloc de notas (冊), preparándose para ser
+  pronto su sucesor cuando se retire.
 solo_componente: 0
 componentes:
   - boca
