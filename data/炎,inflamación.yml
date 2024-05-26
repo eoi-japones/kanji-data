@@ -1,7 +1,7 @@
 id: 炎
 clave: inflamación
 historia: >
-    Con mucho fuego (火), puedes sufrir una inflamación.
+    Fuego (火) al fuego (火) es una inflamación.
 componentes: ['fuego']
 como_componente: []
 solo_componente: 0

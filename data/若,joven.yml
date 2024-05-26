@@ -1,7 +1,7 @@
 id: 若
 clave: joven
 historia: >
-    Hay unas flores (艹) con las que consigues la juventud eterna si las coges con la mano correcta (la derecha(右)).
+  Hay unas flores (艹) con las que consigues la juventud eterna si las coges con la mano correcta: la derecha (右).
 componentes: ['flor', 'derecha']
 como_componente: []
 solo_componente: 0
