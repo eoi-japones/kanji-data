@@ -1,7 +1,7 @@
 id: 朝
 clave: la_mañana
 historia: >
-    Por la mañana desaparecen el rocío y la luna (月).
+    Por la mañana desaparecen el rocío (𠦝) y la luna (月).
 componentes: ['rocío', 'luna']
 como_componente: []
 solo_componente: 0
