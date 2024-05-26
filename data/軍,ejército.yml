@@ -1,8 +1,9 @@
 ﻿id: 軍
 clave: ejército
 historia: >-
-  El vehículo (車) coronado (冖) vencedor en cualquier conflicto es el tanque,
-  símbolo del ejército.
+  El vehículo coronado vencedor en cualquier conflicto es el tanque, símbolo
+  del ejército que se muestra como un coche (車) con un intimidante cañón por
+  corona (冖).
 solo_componente: 0
 componentes:
   - corona
