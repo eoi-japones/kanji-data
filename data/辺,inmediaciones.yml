@@ -1,0 +1,10 @@
+﻿id: 辺
+clave: inmediaciones
+historia: >-
+  Para evitar ataques terroristas en las inmediaciones de los edificios
+  oficiales, se rodean sus caminos (辶) de cuchillos (刀) apuntando hacia arriba.
+solo_componente: 0
+componentes:
+  - camino
+  - espada
+como_componente: []

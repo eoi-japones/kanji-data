@@ -1,0 +1,11 @@
+﻿id: 運
+clave: llevar
+historia: >-
+  Lo que más miedo da de un tanque del ejército (軍) no es sólo que lleve un
+  cañón, sino el hecho de que sea capaz de avanzar por el camino (辶), llevando
+  la destrucción y la muerte allí a donde va.
+solo_componente: 0
+componentes:
+  - camino
+  - ejército
+como_componente: []

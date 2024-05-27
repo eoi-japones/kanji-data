@@ -1,0 +1,8 @@
+﻿id: 辻
+clave: cruce
+historia: El cruce es el punto donde dos caminos (辶) se unen formando una cruz (十).
+solo_componente: 0
+componentes:
+  - camino
+  - diez
+como_componente: []
