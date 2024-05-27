@@ -1,0 +1,7 @@
+id: 敬
+clave: respeto
+historia: >
+    Adornas tus frases con florituras (苟) para mostrar respeto al capataz (攵).
+componentes: ['floritura', 'capataz']
+como_componente: []
+solo_componente: 0

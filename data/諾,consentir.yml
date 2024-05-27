@@ -1,0 +1,7 @@
+id: 諾
+clave: consentir
+historia: >
+    Una persona muy joven (若) no tiene capacidad de consentir, sin sus tutores, sus palabras (言) no tienen valor de consentimiento.
+componentes: ['palabras', 'joven']
+como_componente: []
+solo_componente: 0
