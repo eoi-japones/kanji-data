@@ -1,0 +1,12 @@
+﻿id: 嗣
+clave: sucesor
+historia: >-
+  El empleado que, bajo la tutela de su director (司), apunta todos los consejos
+  que salen de su boca (口) en un bloc de notas (冊), preparándose para ser
+  pronto su sucesor cuando se retire.
+solo_componente: 0
+componentes:
+  - boca
+  - bloc_de_notas
+  - director
+como_componente: []

@@ -1,0 +1,12 @@
+﻿id: 舟
+clave: bote
+historia: >-
+  La maqueta de un bote en su botella a modo de vitrina (冂), que montas usando
+  un palo (一) para juntar cada una de las piezas pequeñas como gotas (丶) que lo
+  forman.
+solo_componente: 0
+componentes:
+  - vitrina
+  - palo
+  - gota
+como_componente: []
