@@ -1,0 +1,7 @@
+id: 富
+clave: riqueza
+historia: >
+    En la era Edo, la riqueza de una casa (宀) venía dada por la cantidad de arroz (田) que se necesitaba para alimentar una (一) boca (口) por un año.
+componentes: ['tejado_casa', 'uno', 'boca', 'campo_de_arroz']
+como_componente: []
+solo_componente: 0

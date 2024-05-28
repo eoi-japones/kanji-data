@@ -1,0 +1,7 @@
+id: 談
+clave: discutir
+historia: >
+    Cuando las palabras (言) que se dicen se acaban inflamando (炎), terminamos en una discusión.
+componentes: ['palabra', 'inflamación']
+como_componente: []
+solo_componente: 0

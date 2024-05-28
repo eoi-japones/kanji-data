@@ -1,0 +1,7 @@
+id: 牧
+clave: criar
+historia: >
+    Para criar vacas (牛), contratas a un capataz (攵).
+componentes: ['vaca', 'capataz']
+como_componente: []
+solo_componente: 0
