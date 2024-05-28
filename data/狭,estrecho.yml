@@ -1,0 +1,10 @@
+﻿id: 狭
+clave: estrecho
+historia: >-
+  Si te enfrentas a una jauría de perros (犭) de dientes como tijeras (夹), lo más
+  probable es que te quedes un poco estrecho tras los bocados que te meten.
+solo_componente: 0
+componentes:
+  - jauría
+  - tijeras
+como_componente: []

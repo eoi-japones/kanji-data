@@ -1,0 +1,10 @@
+﻿id: 煮
+clave: cocer
+historia: >-
+  Una rata que, usando a un cocinero como su marioneta (者), se manejaba entre
+  fogones (⺣) para cocer los mejores platos.
+solo_componente: 0
+componentes:
+  - marioneta
+  - fuego_de_hornillo
+como_componente: []

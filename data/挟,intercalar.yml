@@ -1,0 +1,10 @@
+﻿id: 挟
+clave: intercalar
+historia: >-
+  Es mejor no intercalar un dedo (扌) entre las cuchillas de unas tijeras (夹),
+  porque te puedes quedas sin él.
+solo_componente: 0
+componentes:
+  - dedo
+  - tijeras
+como_componente: []

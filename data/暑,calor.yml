@@ -1,0 +1,11 @@
+﻿id: 暑
+clave: calor
+historia: >-
+  En un día de calor bochornoso, nos sentimos incapaces de hacer nada bajo el
+  Sol (日) más allá de desplazarnos hacia nuestro destino por obligación, como
+  simples marionetas (者).
+solo_componente: 0
+componentes:
+  - sol
+  - marioneta
+como_componente: []
