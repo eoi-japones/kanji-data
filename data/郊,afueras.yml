@@ -1,0 +1,10 @@
+﻿id: 郊
+clave: afueras
+historia: >-
+  Donde más se nota el contraste (交) social, es comparando la parte interna de
+  la ciudad con lo que está más allá de las murallas (⻏), hacia las afueras.
+solo_componente: 0
+componentes:
+  - contraste
+  - muralla
+como_componente: []

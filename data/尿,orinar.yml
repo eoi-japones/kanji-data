@@ -1,0 +1,11 @@
+﻿id: 尿
+clave: orinar
+historia: >-
+  La leyenda urbana dice que si te haces pis en una piscina, el agua (水) cambia
+  de color a modo de bandera (尸) para señalar al criminal o infractor de los
+  orines.
+solo_componente: 0
+componentes:
+  - bandera
+  - agua
+como_componente: []

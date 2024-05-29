@@ -1,0 +1,10 @@
+﻿id: 部
+clave: sección
+historia: >-
+  Dentro de las murallas (⻏) había una sección fundamental donde se amordazaban
+  (咅) a los prisioneros para extraer información.
+solo_componente: 0
+componentes:
+  - mordaza
+  - muralla
+como_componente: []

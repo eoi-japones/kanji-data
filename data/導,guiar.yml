@@ -1,10 +1,10 @@
-id: 導
+﻿id: 導
 clave: guiar
 historia: >-
-  El hecho de que alguien nos *guíe* supone que nos pegamos (寸) al camino (道)
-  que este último elija. 
-componentes:
-  - camino
-  - pegamento
-como_componente: []
+  Cuando alguien nos guía, tenemos que mantenernos pegados (寸) a la carretera
+  (道) que nos indican para no perdernos.
 solo_componente: 0
+componentes:
+  - carretera
+  - pegado_a
+como_componente: []

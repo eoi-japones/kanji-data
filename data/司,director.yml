@@ -1,0 +1,9 @@
+﻿id: 司
+clave: director
+historia: "Un director muy estricto al que si alguien le lleva la contraria, acabará colgado del techo (一) con una percha (𠃌) por la boca (口)."
+solo_componente: 0
+componentes:
+  - techo
+  - boca
+  - percha
+como_componente: []

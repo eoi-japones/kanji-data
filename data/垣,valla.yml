@@ -1,0 +1,7 @@
+id: 垣
+clave: valla
+historia: >
+    Lo que evita que se atraviese (亘) el terreno (土).
+componentes: ['tierra', 'atravesar']
+como_componente: []
+solo_componente: 0

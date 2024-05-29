@@ -1,0 +1,7 @@
+id: 点
+clave: punto
+historia: >
+    En el fuego (灬) de la adivinación (占) se pueden ver los puntos que se sacará en el examen.
+componentes: ['adivinación', 'fuego']
+como_componente: []
+solo_componente: 0

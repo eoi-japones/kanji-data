@@ -1,0 +1,10 @@
+﻿id: "𠂢"
+clave: porquería
+historia: >-
+  Cuando alguien lleva sus desgastados andrajos (衣) colgando y arrastrando (𠂆)
+  por el suelo, va barriendo toda la porquería.
+solo_componente: 1
+componentes:
+  - arrastrar
+  - andrajo
+como_componente: []

@@ -1,0 +1,13 @@
+﻿id: 尺
+clave: shaku
+historia: >-
+  Una antigua unidad de medida equivalente a 30,3 cm. Puede verse como a alguien
+  llevándose los dedos a la boca, haciendo una flauta con sus manos para soplar
+  hasta escupir alguna gota (丶) y hacerse oír para marcar su posición como una
+  bandera (尸).
+solo_componente: 0
+componentes:
+  - bandera
+  - gota
+como_componente:
+  - 'flauta,尺'

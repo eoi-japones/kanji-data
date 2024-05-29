@@ -1,0 +1,32 @@
+# Ejemplo de íter
+id: basico-1
+nombre: "Kanjis Básicos 1"
+descripcion: |
+  Este es el primer camino a recorrer. Los kanjis que se estudian en esta lección te acompañarán durante toda tu singladura en japonés. 
+  ¡Ánimo!
+iter:
+  - partes_cuerpo_1
+  - numeros_1
+  - lugares_1
+  - numeros_2
+  - utiles_armas_1
+  - personas_1
+  - naturaleza_1
+  - agua_1
+  - lugares_2
+  - medidas_1
+  - animales_1
+  - personas_2
+  - medidas_2
+  - palabras_1
+  - animales_2
+  - escritura_1
+  - comer_beber_1
+  - de_compras_1
+  - leer_1
+  - puntos_cardinales_1
+  - agua_2
+  - movimiento_1
+  - estudio_1
+  - partes_cuerpo_2
+  - avanzada_1

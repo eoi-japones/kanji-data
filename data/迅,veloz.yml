@@ -1,0 +1,10 @@
+﻿id: 迅
+clave: veloz
+historia: >-
+  Una señal indicando que, tras pasar el cruce (辻), los pescadores principiantes
+  pueden comenzar a pescar (⺄) velozmente.
+solo_componente: 0
+componentes:
+  - cruce
+  - entrañas_pescado
+como_componente: []

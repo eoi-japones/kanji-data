@@ -1,0 +1,10 @@
+﻿id: 道
+clave: carretera
+historia: >-
+  Las carreteras son aquellos caminos (辶) donde el atasco de vehículos produce
+  cuellos (首) de botella en el tránsito.
+solo_componente: 0
+componentes:
+  - camino
+  - cuello
+como_componente: []

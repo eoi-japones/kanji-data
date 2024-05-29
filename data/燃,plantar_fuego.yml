@@ -1,0 +1,14 @@
+﻿id: 燃
+clave: plantar_fuego
+historia: >-
+  Nerón dijo que el canto más puro era el del perro (犬) ladrando a la luna (月).
+  Quería hacer por Roma algo aún más digno, por lo que así como el perro ladra a
+  la luna como a una bola de fuego, él decidió plantarle fuego (火),(⺣) a Roma en
+  su lugar.
+solo_componente: 0
+componentes:
+  - fuego
+  - luna
+  - perro
+  - fuego_de_hornillo
+como_componente: []

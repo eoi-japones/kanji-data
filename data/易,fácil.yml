@@ -1,0 +1,11 @@
+﻿id: 易
+historia: >-
+  Si se te hace un nudo (勿) que no puedes deshacer en una cuerda empapada, es
+  mejor que primero la dejes secar al Sol (日). Deshacerlo despúes será muy
+  **fácil**.
+clave: fácil
+solo_componente: 0
+componentes:
+  - sol
+  - nudo
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 沢
+clave: ciénaga
+historia: >-
+  En algunas ciénagas se puede ver cómo brotan robustos juncos de entre sus
+  aguas (氵). Por eso se dice que las mejores flautas (尺) vienen de las
+  ciénagas.
+solo_componente: 0
+componentes:
+  - agua
+  - flauta
+como_componente: []

@@ -1,0 +1,7 @@
+id: 涯
+clave: horizonte
+historia: >
+    Tras tiempo navegando (⺡), ves en el horizonte un barranco (厂) sobre el que crece una hiedra (圭) y comprendes que has llegado a algún sitio.
+componentes: ['agua', 'barranco', 'hiedra']
+como_componente: []
+solo_componente: 0

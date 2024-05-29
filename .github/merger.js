@@ -47,6 +47,16 @@ async function acumularParaFichero(datos, tipo){
           d.version = "v1"
       break
 
+      case "ITER":
+          d.kind = "kanji.eoi/itinerario"
+          d.version = "v1"
+      break
+
+      case "COLABORADOR":
+          d.kind = "kanji.eoi/colaborador"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -83,7 +93,8 @@ async function walk(dir = process.env["DATA_DIR"]){
 
       return (dir == "data" || dir == "componentes") ? "KANJI" :
           (dir == "grupos") ? "GRUPO" :
-          (dir == "iters") ? "ITER" : 
+          (dir == "itinerarios") ? "ITER" : 
+          (dir == "colaboradores") ? "COLABORADOR" : 
            "DESCONOCIDO"
 
   }

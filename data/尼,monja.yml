@@ -1,0 +1,10 @@
+﻿id: 尼
+clave: monja
+historia: >-
+  Una de las cosas que suelen hacer en un convento es poner una bandera (尸) para
+  señalar donde las monjas preparan con cucharas (匕) su repostería.
+solo_componente: 0
+componentes:
+  - bandera
+  - cuchara
+como_componente: []

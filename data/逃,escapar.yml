@@ -1,0 +1,10 @@
+﻿id: 逃
+clave: escapar
+historia: >-
+  Al escapar de algo por el camino (辶), siempre tienes la sensación de ser más
+  lento de lo habitual, como una tortuga (兆).
+solo_componente: 0
+componentes:
+  - camino
+  - caparazón_de_tortuga
+como_componente: []

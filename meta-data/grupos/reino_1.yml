@@ -1,0 +1,26 @@
+id: reino_1
+
+nombre: "Reyes e Imperio I"
+
+descripcion: >
+  
+  Este conjunto de kanjis los vamos a relacionar con el "Rey" y lo que tiene que ver con el emperador y los reinos, países...
+
+integrantes:
+    - 王
+    - 国
+    - 全
+    - 金
+    - 皇
+    - 妃
+    - 帝
+
+auxiliares:
+    - id: 立
+      para: 帝
+    - id: 玉
+      para: 国
+    - id: 𠆢
+      para: 全
+
+icono: "https://www.svgrepo.com/download/275290/king.svg"

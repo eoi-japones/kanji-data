@@ -1,0 +1,10 @@
+﻿id: 尽
+clave: agotar
+historia: >-
+  Al esforzarte soplando para hacer sonar una flauta (尺), sientes como hielo (冫)
+  en los pulmones mientras te agotas.
+solo_componente: 0
+componentes:
+  - flauta
+  - hielo
+como_componente: []

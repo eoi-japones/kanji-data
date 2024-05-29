@@ -1,0 +1,10 @@
+﻿id: 軌
+clave: carril
+historia: >-
+  Un profesor de autoescuela muy radical que se asegura de que mantienes el
+  coche (車) por el **carril** adecuado amenazándote con un bate de béisbol (九).
+solo_componente: 0
+componentes:
+  - coche
+  - bate
+como_componente: []

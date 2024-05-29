@@ -1,0 +1,26 @@
+id: estudio_2
+
+nombre: "Escuela y estudio II"
+
+descripcion: >
+  En el grupo [escuela y estudio I](grupo:estudio_1) vimos algunos kanji relativos al estudio. 
+  También nos viene bien recordar y repasar el tema de [lectura I](grupo:leer_1).
+  Esta lección nos permitirá profundizar en temas escolares. 
+
+integrantes:
+  - 授
+  - 教
+  - 塾
+  - 専
+  - 博
+  - 字
+
+auxiliares: 
+  - id: 受
+    para: 授
+  - id: 攵
+    para: 教
+  - id: 孝
+    para: 教
+
+icono: "https://www.svgrepo.com/download/32876/school-building.svg"
