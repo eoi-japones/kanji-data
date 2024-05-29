@@ -1,6 +1,6 @@
 ﻿id: 賭
 clave: apostar
-historia: 'Cuando hay un combate de marionetas (者), siempre se apuesta con dinero (貝).'
+historia: 'Cuando hay un combate de marionetas (者), siempre se apuesta dinero (貝).'
 solo_componente: 0
 componentes:
   - moneda
