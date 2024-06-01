@@ -1,8 +1,8 @@
 ﻿id: 煮
 clave: cocer
 historia: >-
-  Una rata que, usando a un cocinero como su marioneta (者), se manejaba entre
-  fogones (⺣) para cocer los mejores platos.
+  Una rata que, como en Ratatouille, usa a un cocinero como su marioneta (者),
+  manejándolo entre fogones (⺣) para cocer los mejores platos.
 solo_componente: 0
 componentes:
   - marioneta
