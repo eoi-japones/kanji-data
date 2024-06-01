@@ -1,0 +1,11 @@
+﻿id: 屰
+clave: cabra_montesa
+historia: >-
+  El animal con cuernos (丷) que, de un (一) solo impulso, es capaz de ascender
+  desde la cola de su base toda una montaña (屮).
+solo_componente: 1
+componentes:
+  - cuernos
+  - uno
+  - montaña
+como_componente: []

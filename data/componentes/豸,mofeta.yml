@@ -1,0 +1,8 @@
+﻿id: 豸
+clave: mofeta
+historia: Huele como un cerdo (豕) y tiene garras (爪).
+solo_componente: 1
+componentes:
+  - garras
+  - cerdo
+como_componente: []
