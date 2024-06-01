@@ -1,0 +1,11 @@
+﻿id: 示
+clave: mostrar
+historia: >-
+  Cuando dos (二) personas están en lados opuestos de un mostrador, ambas se ven
+  más pequeñas (小) la una a la otra.
+solo_componente: 0
+componentes:
+  - dos
+  - pequeño
+como_componente:
+  - 'altar,礻'

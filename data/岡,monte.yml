@@ -1,0 +1,11 @@
+﻿historia: >-
+  Un monte de tan mala pinta que en él no encontrarás más que cabras montesas
+  (屰) y al ocasional tipo raro que te observa entre matojos, como detrás de una
+  vitrina (冂).
+id: 岡
+clave: monte
+solo_componente: 0
+componentes:
+  - vitrina
+  - cabra_montesa
+como_componente: []

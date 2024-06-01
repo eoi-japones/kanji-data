@@ -1,0 +1,12 @@
+﻿historia: >-
+  No hay duda de que un tigre (虍) podría acabar contigo con su fuerza (力), pero
+  si acabas cautivo tras un día de trabajo en los campos de arroz (田) y te
+  sueltan a uno, no se te querrá acercar con el hedor que desprendes.
+id: 虜
+clave: cautivo
+solo_componente: 0
+componentes:
+  - tigre
+  - campo_de_arroz
+  - fuerza
+como_componente: []

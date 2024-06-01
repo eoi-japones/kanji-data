@@ -1,0 +1,11 @@
+﻿id: 懇
+clave: sociable
+historia: >-
+  Aunque la mofeta (豸) sea buena (艮) e intente ser sociable de corazón (心),
+  nunca podrá serlo ni pagando.
+solo_componente: 0
+componentes:
+  - mofeta
+  - bueno
+  - corazón
+como_componente: []

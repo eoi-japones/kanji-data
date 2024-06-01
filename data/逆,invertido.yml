@@ -1,0 +1,10 @@
+﻿id: 逆
+clave: invertido
+historia: >-
+  Los caminos (辶) por los que van las cabras montesas (屰) son tan complicados
+  que a veces tienen que invertir su orientación para poder continuar.
+solo_componente: 0
+componentes:
+  - camino
+  - cabra_montesa
+como_componente: []

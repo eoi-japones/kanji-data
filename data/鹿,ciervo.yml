@@ -1,0 +1,12 @@
+﻿id: 鹿
+clave: ciervo
+historia: >-
+  En las cuevas (广) se pintaban a personas con máscaras de ciervos, con los que
+  se comparaban (比) pensando que ésta sería la llave (コ),(丨),(丨) para adquirir
+  sus cualidades.
+solo_componente: 0
+componentes:
+  - cueva
+  - llave
+  - comparar
+como_componente: []

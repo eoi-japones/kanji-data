@@ -1,0 +1,11 @@
+﻿id: 桜
+clave: cerezo
+historia: >-
+  El árbol (木) que tiene la sabiduría de un búho (⺍) y la belleza de una mujer
+  (女).
+solo_componente: 0
+componentes:
+  - árbol
+  - búho
+  - mujer
+como_componente: []

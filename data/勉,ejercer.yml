@@ -1,0 +1,10 @@
+﻿id: 勉
+clave: ejercer
+historia: >-
+  El conejo (免) de Duracell, con la inagotable fuerza (力) que le proporcionan
+  sus pilas, es capaz de ejercer su trabajo indefinidamente, durando y durando.
+solo_componente: 0
+componentes:
+  - conejo
+  - fuerza
+como_componente: []

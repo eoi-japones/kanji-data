@@ -1,0 +1,8 @@
+﻿id: 禅
+clave: zen
+historia: La escuela zen es el altar (礻) de la simpleza (单) entre las religiones.
+solo_componente: 0
+componentes:
+  - altar
+  - simple
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 暖
+clave: calidez
+historia: >-
+  Los primeros días (日) de calidez nos regalan la vista de bandadas de patos (爰)
+  volviendo de su viaje migratorio.
+solo_componente: 0
+componentes:
+  - sol
+  - bandada_patos
+como_componente: []

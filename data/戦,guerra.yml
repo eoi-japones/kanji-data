@@ -1,0 +1,10 @@
+﻿id: 戦
+clave: guerra
+historia: >-
+  Aunque algunos inconscientes se tomen la guerra como una fiesta (戈), una vez
+  se ven envueltos en ella ven que no es algo tan simple (単).
+solo_componente: 0
+componentes:
+  - simple
+  - fiesta
+como_componente: []

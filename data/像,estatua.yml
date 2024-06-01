@@ -1,0 +1,10 @@
+﻿id: 像
+clave: estatua
+historia: >-
+  Una persona (亻) gigante, comparable al tamaño de un elefante (象). Para
+  mantener viva su memoria, crearon una estatua.
+solo_componente: 0
+componentes:
+  - persona
+  - elefante
+como_componente: []

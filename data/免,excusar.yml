@@ -1,0 +1,13 @@
+﻿id: 免
+clave: excusar
+historia: >-
+  Tienes un conejo descansando sobre tus piernas (儿), manteniéndote atado (勹) a
+  tu sitio. Cuando necesitas excusarte, abres la boca (口) para pedirle perdón
+  antes de sacártelo de encima.
+solo_componente: 0
+componentes:
+  - atado
+  - boca
+  - piernas
+como_componente:
+  - 'conejo,免'

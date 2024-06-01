@@ -1,0 +1,12 @@
+﻿id: 劇
+clave: drama
+historia: >-
+  En todo buen drama debe haber siempre un gran enfrentamiento contra un tigre
+  (虍), al que se combate sin usar espadas (⺉) y haciendo uso de la fuerza bruta
+  como un cerdo (豕) salvaje.
+solo_componente: 0
+componentes:
+  - tigre
+  - cerdo
+  - espada
+como_componente: []
