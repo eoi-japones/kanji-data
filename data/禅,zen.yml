@@ -1,6 +1,7 @@
 ﻿id: 禅
 clave: zen
-historia: La escuela zen es el altar (礻) de la simpleza (单) entre las religiones.
+historia: La enseñanzas zen reverencian la simpleza (单) poniéndola en un
+altar (礻). El zen es el altar de lo simple.
 solo_componente: 0
 componentes:
   - altar
