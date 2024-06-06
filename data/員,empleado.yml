@@ -1,0 +1,7 @@
+id: 員
+clave: empleado
+historia: >
+    El mejor empleado es buen compañero y si pasa algo cierra la boca (口) como una almeja (貝)
+componentes: ['boca', 'almeja']
+como_componente: []
+solo_componente: 0

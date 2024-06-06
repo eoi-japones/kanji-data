@@ -1,0 +1,7 @@
+id: 句
+clave: frase
+historia: >
+    Una frase es un atado (勹) de palabras que soltamos por la boca (口).
+componentes: ['atado', 'boca']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 頑
+clave: tozudo
+historia: >
+    El que vuelve al principio (元) de la página (頁) en cuanto se pierde una vez.
+componentes: ['principio', 'pagina']
+como_componente: []
+solo_componente: 0
