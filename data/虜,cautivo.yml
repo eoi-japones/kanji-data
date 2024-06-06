@@ -1,0 +1,12 @@
+﻿historia: >-
+  Un hombre cautivo acabará comportándose como un tigre (虍) con los demás, sin
+  dudar en hacer uso de la fuerza (力). La libertad es el mayor bien de todos,
+  sin barrotes que bloqueen la vista de los vastos campos de arroz (田).
+id: 虜
+clave: cautivo
+solo_componente: 0
+componentes:
+  - tigre
+  - campo_de_arroz
+  - fuerza
+como_componente: []

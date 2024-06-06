@@ -1,0 +1,15 @@
+﻿id: 虎
+clave: tigre
+historia: >-
+  Según las leyendas bengalís, un conjunto de magos con varita (卜) crearon bajo
+  un acantilado (厂) la figura del tigre a pedazos (七), raya a raya. Cuando éste
+  despertó, se comió a sus creadores, dejando sólo sus piernas (儿) y una gota
+  de sangre a la vista en lo alto del barranco.
+solo_componente: 0
+componentes:
+  - varita_de_adivino
+  - barranco
+  - cortar_en_pedazos
+  - piernas
+como_componente:
+  - 'tigre,虍'

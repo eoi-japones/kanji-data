@@ -1,0 +1,10 @@
+﻿id: 禅
+clave: zen
+historia: >-
+  La enseñanzas zen reverencian la simpleza (单) poniéndola en un
+  altar (礻). El zen es el altar de lo simple.
+solo_componente: 0
+componentes:
+  - altar
+  - simple
+como_componente: []
