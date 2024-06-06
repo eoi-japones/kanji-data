@@ -1,8 +1,8 @@
 id: 𠦝
 clave: '*rocío'
 historia: >
-    Lo que los rayos de Sol, como agujas, derriten el rocío por las mañanas.
-componentes: []
+    Lo que los rayos de Sol (日), como agujas (十), derriten el rocío por las mañanas.
+componentes: ["agujas", "sol"]
 como_componente:
   - 𠦝, rocío
 solo_componente: 1
