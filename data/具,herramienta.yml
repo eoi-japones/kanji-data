@@ -1,0 +1,7 @@
+id: 具
+clave: herramienta
+historia: >
+    Mucho ojo (目) al usar las herramientas del banco de herramientas.
+componentes: ['ojo', 'banco_herramientas']
+como_componente: []
+solo_componente: 0

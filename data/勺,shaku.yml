@@ -1,0 +1,8 @@
+id: 勺
+clave: shaku
+historia: >
+    Unidad de medida de volumen (atado (勹) de gotas (丶) o área.
+componentes: ['atado', 'gota']
+como_componente:
+  - cucharón,勺
+solo_componente: 0
