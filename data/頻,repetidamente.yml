@@ -1,0 +1,7 @@
+id: 頻
+clave: repetidamente
+historia: >
+    Un pensamiento que te anda (歩) por la cabeza (頁) repetidamente.
+componentes: ['andar', 'cabeza']
+como_componente: []
+solo_componente: 0

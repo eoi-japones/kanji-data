@@ -1,0 +1,7 @@
+id: 政
+clave: política
+historia: >
+    Hay quien define la política como un conjunto de capataces (攵), cada uno intentándote convencer de que él es el correcto (正).
+componentes: ['correcto', 'capataz']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 賦
+clave: recaudar
+historia: >
+    Hay que recaudar muchas monedas (貝) para mantener a un ejército de buenos guerreros (武).
+componentes: ['moneda', 'guerrero']
+como_componente: []
+solo_componente: 0

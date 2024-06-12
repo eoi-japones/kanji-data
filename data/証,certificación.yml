@@ -1,0 +1,7 @@
+id: 証
+clave: certificación
+historia: >
+    Una certificación es un documento que acredita que tus palabras (訁) son correctas (正).
+componentes: ['palabra', 'correcto']
+como_componente: []
+solo_componente: 0

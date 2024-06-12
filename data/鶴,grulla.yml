@@ -1,0 +1,7 @@
+id: 鶴
+clave: grulla
+historia: >
+    El único pájaro (鳥) que no podrás tener en un corral (寉).
+componentes: ['corral', 'pajaro']
+como_componente: []
+solo_componente: 0

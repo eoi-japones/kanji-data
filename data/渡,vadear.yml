@@ -1,0 +1,7 @@
+id: 渡
+clave: vadear
+historia: >
+    Intentar andar vadeando zonas de agua.
+componentes: ['Agua', 'Andar']
+como_componente: []
+solo_componente: 0
