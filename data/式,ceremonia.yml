@@ -1,7 +1,0 @@
-id: 式
-clave: ceremonia
-historia: >
-    
-componentes: ['<span style="color: rgb(170, 0, 0);">Desfile</span>', '<font color="#aa0000">Ceremonia</font>']
-como_componente: []
-solo_componente: 0
