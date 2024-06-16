@@ -1,0 +1,8 @@
+id: "#carcaj"
+clave: '#carcaj'
+solo_componente: 1
+historia: >
+  En el carcaj del arquero queda solo una (一) flecha (弋)
+componentes: ["uno", "flecha"]
+como_componente: []
+
