@@ -1,7 +1,7 @@
 id: 肯
 clave: llegar_a_acuerdo
 historia: >
-    Te dejan una huella (止) en el cuerpo (月) de forma violenta y acabas llegando a un acuerdo.
+    Si tienes una huella (止) de zapato marcada en tu cuerpo (月) indica que han llegado a un acuerdo contigo de una forma un tanto violenta.
 componentes: ['huella', 'parte_del_cuerpo']
 como_componente: []
 solo_componente: 0

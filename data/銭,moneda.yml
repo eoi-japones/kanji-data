@@ -1,7 +1,7 @@
 id: 銭
 clave: moneda
 historia: >
-  Cuando llegaba un poderoso rey rico a visitar un pueblo, lo hacía presidido por carrozas y tirando monedas de oro (金).
+  Cuando llegaba un poderoso rey rico a visitar un pueblo, lo hacía presidido por carrozas (㦮) y tirando monedas de oro (金).
 componentes: ['oro', 'carroza']
 como_componente: []
 solo_componente: 0

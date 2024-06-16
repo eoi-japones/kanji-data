@@ -1,7 +1,7 @@
 id: 浅
 clave: superficial
 historia: >
-    La carroza tiene que buscar un sitio superficial, poco profundo, para cruzar donde hay agua (⺡).
+    La carroza (㦮) tiene que buscar un sitio superficial, poco profundo, para cruzar donde hay agua (⺡).
 componentes: ['agua', 'carroza']
 como_componente: []
 solo_componente: 0
