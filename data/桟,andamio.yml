@@ -1,0 +1,7 @@
+id: 桟
+clave: andamio
+historia: >
+   Las carrozas (㦮) mantienen su estructura utilizando andamios de madera (木). 
+componentes: ['madera', 'carroza']
+como_componente: []
+solo_componente: 0

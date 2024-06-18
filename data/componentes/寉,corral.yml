@@ -1,0 +1,8 @@
+id: 寉
+clave: '*corral'
+historia: >
+  Vemos un avestruz (隹) en su casa (宀), el corral.
+  El trazo superior de tejado suele empatar con el de avestruz.
+componentes: ['tejado_casa', 'avestruz']
+como_componente: []
+solo_componente: 1

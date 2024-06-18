@@ -1,0 +1,7 @@
+id: 鶴
+clave: grulla
+historia: >
+    La grulla está claro que no es un pájaro (鳥) de corral (寉).
+componentes: ['corral', 'pajaro']
+como_componente: []
+solo_componente: 0

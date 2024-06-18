@@ -1,0 +1,7 @@
+id: 武
+clave: guerrero
+historia: >
+    El guerrero que con un carcaj intenta detener (止) la invasión que su poblado está sufriendo.
+componentes: ['carcaj', 'detener']
+como_componente: []
+solo_componente: 0
