@@ -1,0 +1,7 @@
+id: 貢
+clave: tributo
+historia: >
+    Los tributos altos que tienes que pagar con tus monedas (貝) te pesan tanto como una viga (エ).
+componentes: ['viga', 'moneda']
+como_componente: []
+solo_componente: 0

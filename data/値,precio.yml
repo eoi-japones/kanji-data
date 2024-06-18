@@ -1,0 +1,7 @@
+id: 値
+clave: precio
+historia: >
+    Todas las personas (亻), directa o indirectamente (直), tienen un precio.
+componentes: ['persona', 'directamente']
+como_componente: []
+solo_componente: 0

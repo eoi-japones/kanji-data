@@ -1,0 +1,7 @@
+id: 㦮
+clave: "*carroza"
+historia: >
+  Vemos una carroza de fiesta (戈) que se eleva dos pisos (二) sobre el nivel normal de la misma. ¡Para eso están!
+componentes: ["fiesta", "dos"]
+como_componente: []
+solo_componente: 1

@@ -1,0 +1,8 @@
+id: '#banco_de_herramientas'
+clave: '*banco_de_herramientas'
+historia: >
+  Vemos el pictograma de un banco de herramientas listo para usarse con sus patas (ハ) sobre el suelo (一)
+componentes: ["suelo", "patas"]
+como_componente: []
+solo_componente: 1
+

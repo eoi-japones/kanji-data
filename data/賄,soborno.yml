@@ -1,0 +1,7 @@
+id: 賄
+clave: soborno
+historia: >
+    Si quieres entrar en posesión (有) de estas monedas (賄), necesito un soborno.
+componentes: ['moneda', 'posesión']
+como_componente: []
+solo_componente: 0
