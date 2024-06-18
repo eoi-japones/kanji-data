@@ -1,0 +1,7 @@
+id: 超
+clave: sobrepasar
+historia: >
+    Cuando corres (走) detrás de una persona que te seduce (召), no te interesa sobrepasarla.
+componentes: ['correr', 'seducir']
+como_componente: []
+solo_componente: 0

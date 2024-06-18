@@ -1,0 +1,7 @@
+id: 墨
+clave: tinta_china
+historia: >
+  Si se te cae un bote de tinta china al suelo, la tierra (土) se pintará de negro (黒)
+componentes: ['negro', 'tierra']
+como_componente: []
+solo_componente: 0
