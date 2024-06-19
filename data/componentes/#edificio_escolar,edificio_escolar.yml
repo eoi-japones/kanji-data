@@ -1,0 +1,8 @@
+id: '#edificio_escolar'
+clave: '*edificio_escolar'
+historia: >
+  Un edificio escolar se parece mucho al tejado de una casa (宀), pero en vez de tener una, tiene **tres** chimeneas para que los estudiantes estudien cómodos y calentitos. 
+componentes: []
+como_componente: []
+solo_componente: 1
+
