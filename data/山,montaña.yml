@@ -2,5 +2,6 @@ id: 山
 clave: Montaña
 historia: El dibujo de una *montaña* con tres picos.
 componentes: []
-como_componente: []
+como_componente: 
+  - montaña,屮
 solo_componente: 0
