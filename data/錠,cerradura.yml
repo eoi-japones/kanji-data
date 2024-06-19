@@ -1,7 +1,7 @@
 id: 錠
 clave: cerradura
 historia: >
-    La llave es de metal (金) y abre la cerradura con determinación (定).
+    La cerradura está hecha de metal (金) y guarda aquello de lo que se trate cerrándose con determinación (定).
 componentes: ['metal', 'determinación']
 como_componente: []
 solo_componente: 0
