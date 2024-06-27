@@ -1,0 +1,7 @@
+id: 越
+clave: adelantar
+historia: >
+  Cuando estás corriendo (走) en una carrera, si adelantas al primero te conviertes (成) en el ganador
+componentes: ['correr', 'convertirse']
+como_componente: []
+solo_componente: 0

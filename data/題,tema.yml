@@ -1,0 +1,7 @@
+id: 題
+clave: tema
+historia: >
+    Un tema te permite organizar el conocimiento debidamente (是) en tu cabeza (頁).
+componentes: ['debidamente', 'cabeza']
+como_componente: []
+solo_componente: 0

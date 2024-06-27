@@ -1,0 +1,7 @@
+id: 堤
+clave: dique
+historia: >
+    Para poder contener algo, hace falta un dique con la debida (是) masa de tierra (土).
+componentes: ['tierra', 'debidamente']
+como_componente: []
+solo_componente: 0

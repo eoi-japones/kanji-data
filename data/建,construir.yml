@@ -1,0 +1,7 @@
+id: 建
+clave: construir
+historia: >
+    Antes de construir un edificio, el arquitecto coge un pincel (聿) y lo usa para dibujar los planos estirando (廴) pintura.
+componentes: ['estirar', 'pincel']
+como_componente: []
+solo_componente: 0
