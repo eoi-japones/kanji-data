@@ -18,6 +18,8 @@ integrantes:
     - 木
     - 林
     - 森
-auxiliares: []
+auxiliares: 
+  - id: 大
+    para: 天
 
 icono: "https://www.svgrepo.com/download/335280/seed.svg"
