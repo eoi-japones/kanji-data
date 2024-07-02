@@ -1,0 +1,7 @@
+id: 赴
+clave: proceder
+historia: >
+    Cuando hemos planificado antes de hacer un trabajo, procedemos a hacerlo corriendo (走) y nos sentimos como si llevásemos una varita de adivinación (卜).
+componentes: ['correr', 'varita_de_adivino']
+como_componente: []
+solo_componente: 0
