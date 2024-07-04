@@ -3,7 +3,7 @@ clave: historia
 historia: >-
   La historia la cuentan los ganadores. Vendrá siempre de las bocas (口) de
   quienes están bajo el brazo del poder (乂).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - boca
   - bajo_el_brazo

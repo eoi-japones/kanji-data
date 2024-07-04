@@ -3,7 +3,7 @@ clave: saber
 historia: >-
   Un característica fundamental para poder dar con el dardo (矢), figuradamente,
   es la de ser capaz de hablar (口).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - dardo
   - boca
