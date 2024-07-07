@@ -3,7 +3,7 @@ clave: usar
 historia: >-
   Los funcionarios (吏) están a veces en su puesto para que las personas (亻)
   hagan uso de ellos.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - persona
   - funcionario

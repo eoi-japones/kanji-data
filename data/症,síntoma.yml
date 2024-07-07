@@ -3,7 +3,7 @@ clave: síntoma
 historia: >-
   Es fundamental conocer los síntomas de la enfermedad (疒) para poder
   diagnosticarla correctamente (正).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - enfermedad
   - correcto

@@ -3,7 +3,7 @@ clave: conservar
 historia: >-
   Si le pegan a una persona (⺅) con un trozo de madera (木) en la boca (口),
   tendrá mucha suerte si conserva algún diente.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - persona
   - boca
