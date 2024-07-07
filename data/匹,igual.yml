@@ -4,7 +4,7 @@ historia: >-
   Si encuentras una caja (匚) llena de cadáveres con varias piernas (儿)
   asomando, no podrías ni distinguir a un ser querido con sólo mirarlas. Todas
   son iguales.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - caja
   - piernas
