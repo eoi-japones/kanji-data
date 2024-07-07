@@ -1,8 +1,0 @@
-id: 士
-clave: Guerrero
-historia: Un guerrero de anchos hombros medita antes de la batalla.
-componentes: []
-como_componente:
-  - guerrero,士
-  - samurai,士
-solo_componente: 0

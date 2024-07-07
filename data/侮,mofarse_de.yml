@@ -3,7 +3,7 @@ clave: mofarse_de
 historia: >-
   Todas las (毎) personas (亻) tenemos algún detalle ridículo. Piénsalo bien antes
   de mofarte de alguien por ello.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - persona
   - todos_los

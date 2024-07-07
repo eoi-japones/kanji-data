@@ -3,7 +3,7 @@ clave: amonestar
 historia: >-
   Al tratar con la policía, por tu bien es mejor que lo hagas con palabras (言)
   de respeto (敬) para evitar que te amonesten.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - respeto
   - palabra

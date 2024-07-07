@@ -3,7 +3,7 @@ clave: artesano
 historia: >-
   Un auténtico artesano es aquel que es capaz de construir una caja (匚) con nada
   más que un hacha (斤).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - caja
   - hacha

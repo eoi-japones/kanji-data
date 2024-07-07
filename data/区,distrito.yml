@@ -3,7 +3,7 @@ clave: distrito
 historia: >-
   Cada distrito es como un haz (乂) de edificios dentro de una caja (匚) de
   cereales.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - caja
   - haz
