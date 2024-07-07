@@ -1,0 +1,9 @@
+id: 士
+clave: Hidalgo
+historia: >-
+  Un hidalgo de *anchos* *hombros* y *cintura* *estrecha* medita antes de la batalla, 
+  se ha entrenado mucho, de ahí su forma física; quiere mejorar la condición de su familia mediante sus hazañas en combate.
+componentes: []
+como_componente:
+  - samurai,士
+solo_componente: 0
