@@ -3,7 +3,7 @@ clave: puzzle
 historia: >-
   Para resolver un puzzle, usas ambas manos (廾) para ir buscando las piezas que
   poder unir de dos a dos (二).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - dos
   - ambas_manos
