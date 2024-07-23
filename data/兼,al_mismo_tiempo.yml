@@ -1,0 +1,11 @@
+id: 兼
+clave: al_mismo_tiempo
+historia: >-
+  Vemos a una persona que se rompe los cuernos () trabajando e intenta hacer dos tareas *al mismo tiempo*, para ello, 
+  coge dos rastrillos e intenta usarlos simultáneamente. Claro, hace demasiada presión y se ven los rastrillos que van rompiendo poco a poco,
+  de ahí los dos trazos finales; son las astillas de los rastrillos rompiendo. 
+componentes:
+  - cuernos
+  - rastrillo
+como_componente: []
+solo_componente: 0
