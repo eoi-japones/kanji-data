@@ -1,0 +1,17 @@
+id: 碁
+
+clave: Go
+
+historia: >
+ 
+  Este kanji hace referencia al antiquísimo juego de estrategia, dividido en piezas negras y blancas, y uno de los favoritos de los japoneses. 
+
+  Vemos aquí como las piedras (石) que se usan como piezas se guardan, generalmente, en un cuévano (其) que simboliza el propio juego.   
+
+componentes: 
+  - cuévano
+  - piedra
+
+como_componente: []
+
+solo_componente: 0
