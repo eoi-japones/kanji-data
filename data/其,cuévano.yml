@@ -1,0 +1,16 @@
+id: 其
+clave: Cuévano
+historia: |
+  
+  Un cuévano es un cesto, generalmente grande, de mayor anchura en su parte superior que en la inferior. 
+  Se suele colocar en el suelo y se llena de grano, vegetales, uvas (se suele emplear en la vendimia)...
+
+  Vemos que es una *cesta de mimbre* (甘) que se usa como una indispensable *herramienta* (#banco_de_herramientas) y del
+  que debemos sacar las cosas de *una* en *una* (一) dada su profundidad. 
+
+componentes:
+  - #banco_de_herramientas
+  - cesta_de_mimbre
+  - uno
+como_componente: []
+solo_componente: 0
