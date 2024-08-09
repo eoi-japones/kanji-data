@@ -9,7 +9,7 @@ historia: |
   que debemos sacar las cosas de *una* en *una* (一) dada su profundidad. 
 
 componentes:
-  - #banco_de_herramientas
+  - "#banco_de_herramientas"
   - cesta_de_mimbre
   - uno
 como_componente: []
