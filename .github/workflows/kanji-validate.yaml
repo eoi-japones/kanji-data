@@ -7,6 +7,7 @@ on:
 env:
   DATA_DIR: data
   META_DIR: meta-data
+  KANAS_DIR: kanas
 jobs:
 
   validar:
