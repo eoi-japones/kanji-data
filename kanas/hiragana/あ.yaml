@@ -1,6 +1,9 @@
-id: い
-clave: hawaii
+id: あ
+clave: Amor
 historia: >
-  La **I** en hiragana es doble, ¡como la de Hawaii!
-componentes: []
+  La **A** en hiragana de amor. Nos da un buen consejo: no (の) a las espadas (), ¡¡sí al amor!!
+componentes:
+  - no
+  - espada
 solo_componente: 0
+
