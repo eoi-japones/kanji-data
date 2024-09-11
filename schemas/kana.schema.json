@@ -1,0 +1,48 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+      
+        "type": "string",
+        "description": "Identificador del kana (como compuesto)"
+      },
+
+      "clave": {
+      
+        "type": "string",
+        "description": "la clave asignada al kana (única en todo el sistema)"
+      },
+
+      "historia": {
+      
+        "type": "string",
+        "description": "la historia representativa de los componentes del kana"
+      },
+
+      "componentes": {
+      
+        "type": "array",
+
+        "description": "los componentes que integran el compuesto",
+
+        "items": {
+        
+          "type": "string"
+        }
+      },
+
+      "solo_componente": {
+      
+        "type": "number",
+
+        "description": "es solo válido como componente ? (1|0)"
+
+      }
+
+    },
+
+    "additionalProperties": false,
+
+    "required": ["id", "clave", "historia", "componentes", "solo_componente"]
+}
