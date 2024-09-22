@@ -1,9 +1,10 @@
 id: 衣
 clave: ropa
 historia: >
-  Pictograma de dos prendas de ropa: una chistera (亠) y una bufanda (𧘇)
+  Pictograma de dos prendas de ropa: una chistera (亠) y una bufanda (𧘇) que puede también verse como un andrajo.
 solo_componente: 0
 componentes: []
 como_componente: 
   - capa,衤
   - bufanda,𧘇
+  - andrajo,𧘇
