@@ -17,7 +17,7 @@ const kanjiValidation = Ajv.compile(kanjiSchema)
 const grupoValidation = Ajv.compile(grupoSchema)
 const itinerarioValidation = Ajv.compile(itinerarioSchema)
 const colaboradorValidation = Ajv.compile(colaboradorSchema)
-const grupoOnValidation = Ajv.compile(grupoSchema)
+const grupoOnValidation = Ajv.compile(grupoOnSchema)
 
 walk(process.env["YOMI_DIR"])
 
