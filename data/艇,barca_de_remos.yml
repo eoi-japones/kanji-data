@@ -1,0 +1,10 @@
+﻿id: 艇
+clave: barca_de_remos
+historia: >-
+  Para poder ser juzgado por el oráculo de Delfos, había que acercarse con una
+  barca (舟) de remos hasta su tribunal (廷).
+solo_componente: 0
+componentes:
+  - bote
+  - tribunal
+como_componente: []

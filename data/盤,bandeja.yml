@@ -1,0 +1,10 @@
+﻿id: 盤
+clave: bandeja
+historia: >-
+  Una bandeja es un gran plato (皿) que sirve de carguero (般) para mayores
+  cantidades de alimentos.
+solo_componente: 0
+componentes:
+  - carguero
+  - plato
+como_componente: []
