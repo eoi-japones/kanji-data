@@ -7,11 +7,12 @@ descripcion: >
   Vamos a completar la definición de números que dimos en la lección anterior con tres números más
 
 integrantes:
-  - 白
   - 百
   - 千
   - 万
 auxiliares: 
+  - id: 白
+    para: 百
   - id: 勹
     para: 万
 

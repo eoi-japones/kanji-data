@@ -8,7 +8,6 @@ descripcion: >
 
 
 integrantes:
-
     - 一
     - 二
     - 三
@@ -19,7 +18,9 @@ integrantes:
     - 八
     - 九
     - 十
-auxiliares: []
+auxiliares: 
+  - id: 亠
+    para: 六
 
 icono: "https://www.svgrepo.com/download/93529/numbers-sequence-verification-symbol.svg"
 
