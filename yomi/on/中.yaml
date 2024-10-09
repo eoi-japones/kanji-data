@@ -1,0 +1,21 @@
+id: 中
+
+nombre: "Chuugoku"
+
+tipo: "puro"
+
+señalizador: 中
+
+integrantes:
+  - 沖
+  - 忠
+  - 仲
+
+especiales: []
+
+ejemplos: 
+  中:
+    palabra: "中国"
+    significado: "China"
+  
+

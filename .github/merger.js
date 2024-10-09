@@ -16,6 +16,10 @@ walk().then(() => {
 
 }).then(() => {
 
+    return walk(process.env["YOMI_DIR"])
+
+}).then(() => {
+
     return escribirEnFichero(f)
 
 }).then(() => {
@@ -48,6 +52,11 @@ async function acumularParaFichero(datos, tipo){
 
       case "GRUPO":
           d.kind = "kanji.eoi/grupo"
+          d.version = "v1"
+      break
+
+      case "GRUPO-ON":
+          d.kind = "kanji.eoi/grupo-on"
           d.version = "v1"
       break
 
@@ -102,6 +111,7 @@ async function walk(dir = process.env["DATA_DIR"]){
 
       return (dir == "data" || dir == "componentes") ? "KANJI" :
           (dir == "grupos") ? "GRUPO" :
+          (dir == "on") ? "GRUPO-ON" :
           (dir == "kanas" || dir == "hiragana" || dir == "katakana") ? "KANA" :
           (dir == "itinerarios") ? "ITER" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
