@@ -8,6 +8,7 @@ env:
   DATA_DIR: data
   META_DIR: meta-data
   KANA_DIR: kanas
+  YOMI_DIR: yomi
 jobs:
 
   validar:
