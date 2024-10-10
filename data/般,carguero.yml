@@ -1,0 +1,10 @@
+﻿id: 般
+clave: carguero
+historia: >-
+  Un barco (舟) de transporte de cargas que es extremadamente vulnerable a los
+  ataques de misiles (殳).
+solo_componente: 0
+componentes:
+  - bote
+  - misil
+como_componente: []

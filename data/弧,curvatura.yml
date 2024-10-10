@@ -1,0 +1,10 @@
+﻿clave: curvatura
+id: 弧
+historia: >-
+  Los buenos arcos (弓) son capaces de adoptar una curvatura que simula la de un
+  melón (瓜).
+solo_componente: 0
+componentes:
+  - arco
+  - melón
+como_componente: []

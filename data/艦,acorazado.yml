@@ -1,0 +1,10 @@
+﻿id: 艦
+clave: acorazado
+historia: >-
+  El barco (舟) que supervisa (監) la seguridad de las costas de un país, es
+  normalmente un acorazado.
+solo_componente: 0
+componentes:
+  - bote
+  - supervisar
+como_componente: []

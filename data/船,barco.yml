@@ -1,0 +1,10 @@
+﻿id: 船
+clave: barco
+historia: >-
+  Un bote (舟) que cuenta con una torrentera (㕣), ya se puede considerar graduado
+  como un barco de verdad.
+solo_componente: 0
+componentes:
+  - bote
+  - torrentera
+como_componente: []
