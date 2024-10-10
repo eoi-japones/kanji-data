@@ -1,0 +1,32 @@
+id: 甫
+nombre: El perro del Hokage
+tipo: puro
+señalizador: 甫
+lectura: ホ
+integrantes:
+  - 舗
+  - 補
+  - 浦
+  - 捕
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 店舗
+    significado: Tienda
+    lectura: テンポ
+    mascara: '--.-'
+  ejemplo-2:
+    palabra: 補助金
+    significado: Subsidio económico
+    lectura: ホジョキン
+    mascara: '-.--.--'
+  ejemplo-3:
+    palabra: 浦鬼
+    significado: Hoki ( apellido )
+    lectura: ホキ
+    mascara: '-.-'
+  ejemplo-4:
+    palabra: 逮捕
+    significado: Arresto, captura
+    lectura: タイホ
+    mascara: '--.-'
