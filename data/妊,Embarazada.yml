@@ -1,8 +1,8 @@
 id: 妊
 clave: Embarazada
-historia: La mujer (女) porteadora (壬) está embarazada.
+historia: La mujer (女) portadora (壬) está embarazada.
 componentes:
   - mujer
-  - porteador
+  - portador
 como_componente: []
 solo_componente: 0
