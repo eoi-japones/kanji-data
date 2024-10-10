@@ -77,6 +77,18 @@
                     
                         "type": "string"
                     
+                    },
+
+                    "lectura": {
+
+                      "type": "string"
+                    
+                    },
+
+                    "mascara": {
+
+                      "type": "string"
+                    
                     }
                 }
             
