@@ -1,0 +1,11 @@
+﻿clave: huérfano
+id: 孤
+historia: >-
+  Cuando el niño (子) se levantó corriendo para despertar a sus padres, sobre sus
+  almohadas y bajo las sábanas no encontró más que unos melones (瓜). Viendo que
+  fue abandonado, se sintió huérfano.
+solo_componente: 0
+componentes:
+  - niño
+  - melón
+como_componente: []

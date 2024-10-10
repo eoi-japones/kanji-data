@@ -1,0 +1,8 @@
+﻿clave: acarrear
+id: 搬
+historia: Juntamos los dedos (扌) a modo de carguero (般) para acarrear objetos.
+solo_componente: 0
+componentes:
+  - dedo
+  - carguero
+como_componente: []

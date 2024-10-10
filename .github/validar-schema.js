@@ -9,12 +9,17 @@ const grupoSchema = require("../schemas/grupo.schema.json")
 const itinerarioSchema = require("../schemas/itinerario.schema.json")
 const colaboradorSchema = require("../schemas/colaborador.schema.json")
 
+const grupoOnSchema = require("../schemas/grupo-on.schema.json")
+
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
 const kanjiValidation = Ajv.compile(kanjiSchema)
 const grupoValidation = Ajv.compile(grupoSchema)
 const itinerarioValidation = Ajv.compile(itinerarioSchema)
 const colaboradorValidation = Ajv.compile(colaboradorSchema)
+const grupoOnValidation = Ajv.compile(grupoOnSchema)
+
+walk(process.env["YOMI_DIR"])
 
 walk(process.env["KANA_DIR"])
 
@@ -53,6 +58,7 @@ async function walk(dir = process.env["DATA_DIR"]){
       return (dir == "data" || dir == "componentes") ? "KANJI" :
           (dir == "kana" || dir == "hiragana" || dir == "katakana") ? "KANA" :
           (dir == "grupos") ? "GRUPO" :
+          (dir == "on") ? "GRUPO-ON" :
           (dir == "itinerarios") ? "ITER" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
            "DESCONOCIDO"
@@ -112,6 +118,8 @@ async function walk(dir = process.env["DATA_DIR"]){
 
                         (tipo == "GRUPO") ? grupoValidation : 
 
+                        (tipo == "GRUPO-ON") ? grupoOnValidation :
+
                         (tipo == "KANA") ? kanaValidation : 
                     
                         (tipo == "ITER") ? itinerarioValidation : colaboradorValidation;
@@ -122,7 +130,7 @@ async function walk(dir = process.env["DATA_DIR"]){
       throw JSON.stringify(validador.errors, null, 4)
     }
 
-    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "COLABORADOR" || tipo == "KANA"){
+    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON"){
         return
     }
 

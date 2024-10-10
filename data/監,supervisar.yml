@@ -1,0 +1,10 @@
+﻿id: 監
+clave: supervisar
+historia: "Un esclavo (臣) postrado (\uD840\uDC89) en el suelo (一) mientras su amo supervisa la comida que en el plato (皿) le ha servido."
+solo_componente: 0
+componentes:
+  - esclavo
+  - reclinar
+  - suelo
+  - plato
+como_componente: []

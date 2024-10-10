@@ -1,0 +1,105 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Identificador del grupo"
+      },
+
+      "nombre": {
+      
+        "type": "string",
+        "description": "Nombre del grupo extendido"
+      },
+
+      "tipo": {
+      
+        "enum": ["puro", "semi-puro", "mixto"],
+        "description": "El tipo de grupo"
+      },
+
+      "señalizador": {
+      
+          "type": "string",
+
+          "description": "kanji que señaliza el grupo"
+      },
+
+      "lectura": {
+      
+          "type": "string",
+
+          "description": "el tipo de lectura que señaliza a este grupo"
+      
+      },
+
+      "integrantes": {
+      
+          "type": "array",
+
+          "items": {
+          
+              "type": "string"
+          }
+      },
+
+      "especiales": {
+      
+          "type": "array",
+
+          "items": {
+          
+              "type": "string"
+          
+          }
+      
+      },
+
+      "ejemplos": {
+      
+        "type": "object",
+
+        "patternProperties": {
+        
+            "^.+$": {
+            
+                "type": "object",
+
+                "properties": {
+                
+                    "palabra": {
+                    
+                        "type": "string"
+                    },
+
+                    "significado": {
+                    
+                        "type": "string"
+                    
+                    },
+
+                    "lectura": {
+
+                      "type": "string"
+                    
+                    },
+
+                    "mascara": {
+
+                      "type": "string"
+                    
+                    }
+                }
+            
+            }
+        }
+
+      }
+
+    },
+
+    "additionalProperties": false,
+
+    "required": ["id", "nombre", "tipo", "integrantes", "especiales"]
+}
