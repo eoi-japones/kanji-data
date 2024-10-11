@@ -1,0 +1,32 @@
+id: 長
+nombre: Un largo viaje
+tipo: puro
+señalizador: 長
+lectura: チョウ
+integrantes:
+  - 長
+  - 張
+  - 帳
+  - 脹
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 社長
+    significado: Presidente de una empresa
+    lectura: シャチョウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 主張
+    significado: Énfasis Insistencia
+    lectura: シュチョウ
+    mascara: '--.---'
+  ejemplo-3:
+    palabra: 通帳
+    significado: Libreta de ahorros
+    lectura: ツウチョウ
+    mascara: '--.---'
+  ejemplo-4:
+    palabra: 膨脹
+    significado: Hinchazón
+    lectura: ボウチョウ
+    mascara: '--.---'

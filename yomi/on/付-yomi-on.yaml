@@ -1,0 +1,38 @@
+id: 付
+nombre: El villano Furīza
+tipo: puro
+señalizador: 付
+lectura: フ
+integrantes:
+  - 付
+  - 府
+  - 符
+  - 附
+  - 腐
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 付与
+    significado: Donativo
+    lectura: フヨ
+    mascara: '-.-'
+  ejemplo-2:
+    palabra: 政府
+    significado: Gobierno
+    lectura: セイフ
+    mascara: '--.-'
+  ejemplo-3:
+    palabra: 符号
+    significado: Símbolo  Marca Cifra
+    lectura: フゴウ
+    mascara: '-.--'
+  ejemplo-4:
+    palabra: 附近
+    significado: Vecindario
+    lectura: フキン
+    mascara: '-.--'
+  ejemplo-5:
+    palabra: 豆腐
+    significado: Tofu Cuajada de judías
+    lectura: トウフ
+    mascara: '--.-'
