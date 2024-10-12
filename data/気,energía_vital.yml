@@ -1,0 +1,10 @@
+﻿id: 気
+clave: energía_vital
+historia: "Un pescado reclinado (𠂉) y colgado de un (一) anzuelo (⺄) que parece estar muerto, pero ante la incidencia de un haz (㐅) de luz recupera su energía vital."
+solo_componente: 0
+componentes:
+  - reclinar
+  - uno
+  - anzuelo
+  - haz
+como_componente: []

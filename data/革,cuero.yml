@@ -1,0 +1,10 @@
+﻿id: 革
+historia: >-
+  Los asientos de un coche (車) se vuelven a tapizar con cuero acompañado de un
+  aroma floral (⺾).
+clave: cuero
+solo_componente: 0
+componentes:
+  - flor
+  - coche
+como_componente: []

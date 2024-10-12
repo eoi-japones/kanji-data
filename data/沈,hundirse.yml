@@ -1,0 +1,11 @@
+﻿id: 沈
+clave: hundirse
+historia: >-
+  Si agarras a un rey por las piernas (儿) y lo dejas caer al agua (氵) con su
+  corona (冖) bien ceñida, se hundirá por su propio peso.
+solo_componente: 0
+componentes:
+  - agua
+  - corona
+  - piernas
+como_componente: []

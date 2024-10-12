@@ -1,0 +1,11 @@
+﻿id: 妻
+clave: esposa
+historia: >-
+  La esposa es la única mujer (女) capaz de convertir a su hombre en una persona
+  de 10 (十), aunque sea a base de rastrillarle (肀) la cara.
+solo_componente: 0
+componentes:
+  - diez
+  - rastrillo
+  - mujer
+como_componente: []
