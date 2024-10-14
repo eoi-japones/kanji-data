@@ -1,0 +1,13 @@
+﻿id: 飛
+clave: volar
+historia: >-
+  Para un comercial live action de Red Bull, el actor toma de una caja (升) un
+  poco de la bebida, saliéndole unas alas (羽) con las que salir volando. Lo que
+  nadie ve desde la pantalla es que realmente está colgado de un par de anzuelos
+  (⺄).
+solo_componente: 0
+componentes:
+  - caja_para_medir
+  - anzuelo
+  - alas
+como_componente: []

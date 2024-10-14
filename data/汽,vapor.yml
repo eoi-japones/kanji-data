@@ -1,0 +1,8 @@
+﻿id: 汽
+clave: vapor
+historia: La máquina de vapor convierte el agua (氵) en energía (気).
+solo_componente: 0
+componentes:
+  - agua
+  - energía_vital
+como_componente: []

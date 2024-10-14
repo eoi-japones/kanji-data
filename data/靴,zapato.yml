@@ -1,0 +1,8 @@
+﻿id: 靴
+clave: zapato
+historia: Lo única parte que no se le puede cambiar (化) a los zapatos es el cuero (革).
+solo_componente: 0
+componentes:
+  - cuero
+  - cambiar
+como_componente: []
