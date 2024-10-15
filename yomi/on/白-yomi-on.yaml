@@ -1,0 +1,43 @@
+id: 白
+nombre: Haku, el espíritu del río (El viaje de Chihiro)
+tipo: puro
+señalizador: 白
+lectura: ハク
+integrantes:
+  - 泊
+  - 迫
+  - 拍
+  - 舶
+  - 伯
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 白人
+    significado: Persona de raza blanca
+    lectura: ハクジン
+    mascara: —.—
+  ejemplo-2:
+    palabra: 一泊
+    significado: Estancia de una noche
+    lectura: イッパク
+    mascara: —.—
+  ejemplo-3:
+    palabra: 切迫
+    significado: 'Tensión, algo inminente '
+    lectura: セッパク
+    mascara: —.—
+  ejemplo-4:
+    palabra: 拍手
+    significado: Aplauso
+    lectura: ハクシュ
+    mascara: —.—
+  ejemplo-5:
+    palabra: 舶来品
+    significado: 'Productos importados '
+    lectura: ハクライヒン
+    mascara: —.—.—
+  ejemplo-6:
+    palabra: 伯仲
+    significado: Igual que, rivalidad con
+    lectura: ハクチュウ
+    mascara: —.—-

@@ -1,0 +1,43 @@
+id: 包
+nombre: Houl's Moving Castle
+tipo: puro
+señalizador: 包
+lectura: ホウ
+integrantes:
+  - 砲
+  - 泡
+  - 抱
+  - 胞
+  - 飽
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 包丁
+    significado: Cuchillo de cocina
+    lectura: ホウチョウ
+    mascara: —.—-
+  ejemplo-2:
+    palabra: 鉄砲
+    significado: 'Cañón '
+    lectura: テッポウ
+    mascara: —.—
+  ejemplo-3:
+    palabra: 水泡
+    significado: 'Burbujas, espuma '
+    lectura: スイホウ
+    mascara: —.—
+  ejemplo-4:
+    palabra: 介抱
+    significado: Enfermería, curas
+    lectura: カイホウ
+    mascara: —.—
+  ejemplo-5:
+    palabra: 同胞
+    significado: 'Compatriota '
+    lectura: ドウホウ
+    mascara: —.—
+  ejemplo-6:
+    palabra: 飽食
+    significado: Harto, hastiado (de comida)
+    lectura: ホウショク
+    mascara: —.—-

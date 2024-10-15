@@ -1,0 +1,31 @@
+id: 義
+nombre: 'Gion matsuri '
+tipo: puro
+señalizador: 義
+lectura: ギ
+integrantes:
+  - 議
+  - 犧
+  - 儀
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 義理
+    significado: Compromiso social, obligación
+    lectura: ギリ
+    mascara: '-.-'
+  ejemplo-2:
+    palabra: 会議
+    significado: 'Reunión '
+    lectura: カイギ
+    mascara: —.-
+  ejemplo-3:
+    palabra: 犠牲
+    significado: 'Sacrificio '
+    lectura: ギセイ
+    mascara: '-.—'
+  ejemplo-4:
+    palabra: 礼儀
+    significado: Etiqueta, formas, modales, cortesía
+    lectura: レイギ
+    mascara: —.-
