@@ -1,0 +1,49 @@
+id: 青
+nombre: El desafío del sensei
+tipo: puro
+señalizador: 青
+lectura: セイ
+integrantes:
+  - 精
+  - 清
+  - 晴
+  - 静
+  - 請
+  - 情
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 青年
+    significado: Hombre Joven, Juventud
+    lectura: セイネン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 精神
+    significado: Mente, Psique
+    lectura: セイシン
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 清潔
+    significado: Limpio, Limpieza, Pulcritud
+    lectura: セイケツ
+    mascara: '--.--'
+  ejemplo-4:
+    palabra: 晴天
+    significado: Cielo despejado
+    lectura: セイテン
+    mascara: '--.--'
+  ejemplo-5:
+    palabra: 静止
+    significado: Paralización
+    lectura: セイシ
+    mascara: '--.-'
+  ejemplo-6:
+    palabra: 申請
+    significado: Petición, Solicitud
+    lectura: シンセイ
+    mascara: '--.--'
+  ejemplo-7:
+    palabra: 風情
+    significado: Aspecto, Apariencia (de persona, situación, objeto,...)
+    lectura: フゼイ
+    mascara: '-.--'

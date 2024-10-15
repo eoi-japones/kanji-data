@@ -1,0 +1,31 @@
+id: 五
+nombre: La mirada de Gojo Satoru
+tipo: puro
+señalizador: 五
+lectura: ゴ
+integrantes:
+  - 吾
+  - 悟
+  - 語
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 五人
+    significado: Cinco personas
+    lectura: ゴニン
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 吾人
+    significado: Nosotros (poco frecuente)
+    lectura: ゴジン
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 覚悟
+    significado: Preparación, Resolución
+    lectura: カクゴ
+    mascara: '--.-'
+  ejemplo-4:
+    palabra: 日本語
+    significado: Idioma japonés
+    lectura: ニホンゴ
+    mascara: '-.--.-'
