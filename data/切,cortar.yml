@@ -1,0 +1,7 @@
+id: 切
+clave: cortar
+historia: >
+    Con una katana (刀) te pueden cortar en siete (七) pedazos.
+componentes: ['siete', 'katana']
+como_componente: []
+solo_componente: 0

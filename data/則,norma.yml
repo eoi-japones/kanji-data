@@ -1,0 +1,7 @@
+id: 則
+clave: norma
+historia: >
+    Los que controlan el dinero (貝) vigilan si cumples las normas. Si no, te pasan por el sable (刂)
+componentes: ['dinero', 'sable']
+como_componente: []
+solo_componente: 0

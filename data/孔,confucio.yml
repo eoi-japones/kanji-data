@@ -1,0 +1,7 @@
+id: 孔
+clave: confucio
+historia: >
+    Confucio era un niño (子) tan listo que dicen que nació de un árbol y sus padres se lo encontraron colgando de un anzuelo (乙) de él.
+componentes: ['niño', 'anzuelo']
+como_componente: []
+solo_componente: 0

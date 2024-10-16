@@ -1,0 +1,7 @@
+id: 別
+clave: separar
+historia: >
+    Hay que atar (勹) y amordazar (口) al samurai para ser capaz de separarlo de su espada (刂).
+componentes: ['boca', 'atado', 'sable']
+como_componente: []
+solo_componente: 0
