@@ -1,0 +1,7 @@
+id: 布
+clave: tela
+historia: >
+    Una persona al lado (𠂇) de una tela, midiéndola para cortarla y hacer toallas (巾).
+componentes: ['a_tu_lado', 'toalla']
+como_componente: []
+solo_componente: 0

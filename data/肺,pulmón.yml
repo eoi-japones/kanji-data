@@ -1,0 +1,7 @@
+id: 肺
+clave: pulmón
+historia: >
+    La parte del cuerpo (月) que se te irrita en el mercado (市) de tanto gritar.
+componentes: ['parte_del_cuerpo', 'mercado']
+como_componente: []
+solo_componente: 0

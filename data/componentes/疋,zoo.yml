@@ -1,0 +1,7 @@
+id: 疋
+clave: '*zoo'
+historia: >
+    Si vas al zoo y te clavan un diente, el dentista tiene que hacerte un arreglo (𤴓).
+componentes: ['arreglo', 'diente']
+como_componente: []
+solo_componente: 0
