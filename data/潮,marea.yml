@@ -1,0 +1,7 @@
+id: 潮
+clave: marea
+historia: >
+    La marea (⺡) cambia por la mañana (朝).
+componentes: ['agua', 'la_mañana']
+como_componente: []
+solo_componente: 0
