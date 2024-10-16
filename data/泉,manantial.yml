@@ -1,0 +1,7 @@
+id: 泉
+clave: manantial
+historia: >
+    Lugar donde el agua (水) borbotea casi blanca (白).
+componentes: ['blanco', 'agua']
+como_componente: []
+solo_componente: 0

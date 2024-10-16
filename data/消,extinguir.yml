@@ -1,0 +1,7 @@
+id: 消
+clave: extinguir
+historia: >
+  Para extinguir una chispa (肖), utiliza un poco de agua (⺡)
+componentes: ['agua', 'chispa']
+como_componente: []
+solo_componente: 0

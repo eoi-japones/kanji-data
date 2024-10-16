@@ -1,0 +1,7 @@
+id: 原
+clave: prado
+historia: >
+    Después de bañarte en el mantial (原) saltando desde el barranco (厂), te secas en un prado.
+componentes: ['barranco', 'manantial']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 均
+clave: anivelado
+historia: >
+    Puedes volverte loco anivelando un terreno (土) con un cucharón (勺).
+componentes: ['tierra', 'cucharón']
+como_componente: []
+solo_componente: 0
