@@ -1,0 +1,7 @@
+id: 潮
+clave: marea
+historia: >
+    La marea se puede observar muy bien por la mañana (朝) que es cuando el agua (⺡) está muy viva.
+componentes: ['agua', 'la_mañana']
+como_componente: []
+solo_componente: 0

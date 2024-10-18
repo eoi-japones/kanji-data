@@ -1,0 +1,7 @@
+id: 測
+clave: sondear
+historia: >
+    Buscamos en el calado del agua (⺡) si hay suficiente profundidad con el sable (刂) para sondear en busca de almejas (貝).
+componentes: ['agua', 'almeja', 'sable']
+como_componente: []
+solo_componente: 0
