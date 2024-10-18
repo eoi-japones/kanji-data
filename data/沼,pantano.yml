@@ -1,7 +1,7 @@
 id: 沼
 clave: pantano
 historia: >
-    Un lugar con agua (⺡) tan encantado (召) que te quedas para siempre.
+    El pantano es un lugar donde el agua (⺡) se queda "seducida" (召) o empatanada.
 componentes: ['agua', 'seducir']
 como_componente: []
 solo_componente: 0
