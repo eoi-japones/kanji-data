@@ -12,20 +12,20 @@ ejemplos:
   ejemplo-1:
     palabra: 化学
     significado: Química
-    lectura: カ
+    lectura: カガク
     mascara: '-.--'
   ejemplo-2:
     palabra: 花壇
     significado: Rincón para plantar flores
-    lectura: カ
+    lectura: カダン
     mascara: '-.--'
   ejemplo-3:
     palabra: 貨物
     significado: Carga
-    lectura: カ
+    lectura: カモツ
     mascara: '-.--'
   ejemplo-4:
     palabra: 製靴
     significado: Fabricación de zapatos
-    lectura: カ
+    lectura: セイカ
     mascara: '--.-'
