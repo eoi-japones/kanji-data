@@ -17,15 +17,15 @@ ejemplos:
   ejemplo-2:
     palabra: 譲歩
     significado: Concesión, Compromiso
-    lectura: ジョウ
+    lectura: ジョウホ
     mascara: '---.-'
   ejemplo-3:
     palabra: 土壌
     significado: Suelo, Tierra
-    lectura: ジョウ
+    lectura: ドジョウ
     mascara: '-.---'
   ejemplo-4:
     palabra: 醸造
     significado: Destilación
-    lectura: ジョウ
+    lectura: ジョウゾウ
     mascara: '---.--'
