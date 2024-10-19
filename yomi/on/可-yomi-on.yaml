@@ -13,25 +13,25 @@ ejemplos:
   ejemplo-1:
     palabra: 可能
     significado: Posibilidad
-    lectura: カ
+    lectura: カノウ
     mascara: '-.--'
   ejemplo-2:
     palabra: 幾何学
     significado: Geometría
-    lectura: カ
+    lectura: キカガク
     mascara: '-.-.--'
   ejemplo-3:
     palabra: 出荷
     significado: Envío, Consignación
-    lectura: カ
+    lectura: シュッカ
     mascara: '---.-'
   ejemplo-4:
     palabra: 校歌
     significado: Canción de una escuela
-    lectura: カ
+    lectura: コウカ
     mascara: '--.-'
   ejemplo-5:
     palabra: 河川
     significado: Ríos y torrentes
-    lectura: カ
+    lectura: カセン
     mascara: '-.--'
