@@ -1,0 +1,31 @@
+id: 化
+nombre: Kawaii 2
+tipo: puro
+señalizador: 化
+lectura: カ
+integrantes:
+  - 花
+  - 貨
+  - 靴
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 化学
+    significado: Química
+    lectura: カ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 花壇
+    significado: Rincón para plantar flores
+    lectura: カ
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 貨物
+    significado: Carga
+    lectura: カ
+    mascara: '-.--'
+  ejemplo-4:
+    palabra: 製靴
+    significado: Fabricación de zapatos
+    lectura: カ
+    mascara: '--.-'

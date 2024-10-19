@@ -1,0 +1,37 @@
+id: 可
+nombre: 'Kawaii '
+tipo: puro
+señalizador: 可
+lectura: カ
+integrantes:
+  - 何
+  - 荷
+  - 歌
+  - 河
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 可能
+    significado: Posibilidad
+    lectura: カ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 幾何学
+    significado: Geometría
+    lectura: カ
+    mascara: '-.-.--'
+  ejemplo-3:
+    palabra: 出荷
+    significado: Envío, Consignación
+    lectura: カ
+    mascara: '---.-'
+  ejemplo-4:
+    palabra: 校歌
+    significado: Canción de una escuela
+    lectura: カ
+    mascara: '--.-'
+  ejemplo-5:
+    palabra: 河川
+    significado: Ríos y torrentes
+    lectura: カ
+    mascara: '-.--'

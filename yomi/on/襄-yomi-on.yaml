@@ -1,0 +1,31 @@
+id: 襄
+nombre: Jounin Kakashi
+tipo: puro
+señalizador: 嬢
+lectura: ジョウ
+integrantes:
+  - 譲
+  - 壌
+  - 釀
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 嬢
+    significado: Hija, Chica
+    lectura: ジョウ
+    mascara: '---'
+  ejemplo-2:
+    palabra: 譲歩
+    significado: Concesión, Compromiso
+    lectura: ジョウ
+    mascara: '---.-'
+  ejemplo-3:
+    palabra: 土壌
+    significado: Suelo, Tierra
+    lectura: ジョウ
+    mascara: '-.---'
+  ejemplo-4:
+    palabra: 醸造
+    significado: Destilación
+    lectura: ジョウ
+    mascara: '---.--'
