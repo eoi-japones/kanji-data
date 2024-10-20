@@ -1,0 +1,8 @@
+﻿id: 晴
+clave: despejado
+historia: Se ve el Sol (日) y el cielo está azul (青). Estamos en un día despejado.
+solo_componente: 0
+componentes:
+  - sol
+  - azul
+como_componente: []

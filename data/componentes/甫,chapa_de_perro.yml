@@ -1,0 +1,11 @@
+﻿id: 甫
+clave: '*chapa_de_perro'
+historia: >-
+  Cuando se estropea la chapa del collar del perro, la arreglas por primera vez
+  manejando meticulosamente un destornillador. Las siguientes veces ya sabes que
+  no merece la pena.
+solo_componente: 1
+componentes:
+  - destornillador
+  - perro
+como_componente: []

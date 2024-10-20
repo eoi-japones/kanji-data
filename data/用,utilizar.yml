@@ -1,0 +1,7 @@
+﻿id: 用
+clave: utilizar
+historia: Pictograma de un destornillador y un martillo.
+solo_componente: 0
+componentes: []
+como_componente:
+  - 'destornillador,用'
