@@ -1,0 +1,10 @@
+﻿id: 舗
+clave: comercio
+historia: >-
+  Si te dedicas al comercio en una casa de campo (舎), necesitas protegerla con
+  un buen perro. Por su chapa (甫) sabrán que está a tu servicio.
+solo_componente: 0
+componentes:
+  - casa_de_campo
+  - chapa_de_perro
+como_componente: []

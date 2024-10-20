@@ -1,0 +1,10 @@
+﻿id: 飽
+clave: saciado
+historia: >-
+  Cuando después de comer (食) sientes que tu estómago ya no puede envolver (包)
+  nada más, dices que estás harto o saciado.
+solo_componente: 0
+componentes:
+  - comer
+  - envolver
+como_componente: []

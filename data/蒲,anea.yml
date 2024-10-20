@@ -1,0 +1,8 @@
+﻿id: 蒲
+clave: anea
+historia: La planta que con sus flores (艹) anima todas las bahías (浦) japonesas.
+solo_componente: 0
+componentes:
+  - flor
+  - bahía
+como_componente: []

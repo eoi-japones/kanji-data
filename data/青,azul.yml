@@ -1,0 +1,10 @@
+﻿id: 青
+clave: azul
+historia: >-
+  Se sabe que la luna (月) está creciendo (龶) por el brillo azulado que tiene en
+  sus bordes.
+solo_componente: 0
+componentes:
+  - crecer
+  - luna
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 浦
+clave: bahía
+historia: >-
+  Al comienzo de muchas película genéricas se ve a alguien corriendo junto a su
+  perro (甫), chapoteando sobre el agua (氵) a la orilla de una bahía.
+solo_componente: 0
+componentes:
+  - agua
+  - chapa_de_perro
+como_componente: []

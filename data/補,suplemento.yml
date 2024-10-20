@@ -1,0 +1,11 @@
+﻿id: 補
+clave: suplemento
+historia: >-
+  En un anuncio de suplementos para perros, salen varios domésticos con sus
+  chapas (甫). Cuando se toman el suplemento, sólo necesitan unas capas (衤) para
+  pasar por súper-perros.
+solo_componente: 0
+componentes:
+  - capa
+  - chapa_de_perro
+como_componente: []
