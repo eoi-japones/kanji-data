@@ -1,0 +1,7 @@
+id: 冬
+clave: invierno
+historia: >
+    Ten cuidado en invierno con el hielo (冫), puedes resbalar con tus piernas andantes (夂).
+componentes: ['piernas_andantes', 'hielo']
+como_componente: []
+solo_componente: 0

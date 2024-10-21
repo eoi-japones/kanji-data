@@ -1,0 +1,7 @@
+id: 霜
+clave: escarcha
+historia: >
+    La escarcha necesita de la interrelación (相) de múltiples situaciones para poder ocurrir, entre ellas que haya previamente llovido (雨).
+componentes: ['lluvia', 'inter']
+como_componente: []
+solo_componente: 0

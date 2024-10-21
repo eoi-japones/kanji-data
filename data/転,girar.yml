@@ -1,0 +1,7 @@
+id: 転
+clave: girar
+historia: >
+  Cuando las ruedas de un coche (車) comienzan a girar, por su tubo de escape sale una nube ascendente (云) de humo.
+componentes: ['coche', 'nube_ascendente']
+como_componente: []
+solo_componente: 0

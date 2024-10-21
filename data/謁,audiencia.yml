@@ -1,0 +1,7 @@
+id: 謁
+clave: audiencia
+historia: >
+    Las palabras (訁) dichas en una audiencia te aburren tanto que quieres echarte una siesta (曷).
+componentes: ['palabra', 'siesta']
+como_componente: []
+solo_componente: 0

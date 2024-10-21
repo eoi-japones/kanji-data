@@ -1,0 +1,7 @@
+id: 雲
+clave: nube
+historia: >
+    Las nubes (云) precipitan (雨) después de ascender.
+componentes: ['lluvia', 'nube_ascendente']
+como_componente: []
+solo_componente: 0
