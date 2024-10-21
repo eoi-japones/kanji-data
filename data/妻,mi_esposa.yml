@@ -1,0 +1,12 @@
+﻿historia: >-
+  Es un desastre. La única persona que puede volverlo mejor es su mujer (女),
+  aunque sea rastrillándole la cara con diez (十) rastrillos (ヨ).
+id: 妻
+clave: mi_esposa
+solo_componente: 0
+componentes:
+  - mujer
+  - diez
+  - rastrillo
+como_componente:
+  - 'mi_esposa,妻'

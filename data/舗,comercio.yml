@@ -1,0 +1,11 @@
+﻿clave: comercio
+id: 舗
+historia: >-
+  Para proteger las casas de campo (舎) donde se comercia, en la chapa del perro
+  (甫)pone: "apto para proteger el comercio".
+solo_componente: 0
+componentes:
+  - casa_de_campo
+  - chapa_de_perro
+como_componente:
+  - 'comercio,舗'

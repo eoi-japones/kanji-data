@@ -1,0 +1,10 @@
+﻿clave: chapa_de_perro
+id: 甫
+historia: >-
+  El perro se resiste a que le pongan el la chapa, y usamos un destornillador
+  (用)
+solo_componente: 1
+componentes:
+  - destornillador
+como_componente:
+  - 'chapa_de_perro,甫'
