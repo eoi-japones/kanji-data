@@ -1,0 +1,7 @@
+id: 測
+clave: sondear
+historia: >
+  Sondeamos el agua (⺡) para ver si se ajusta a la norma (則) antes de proceder a recalar con nuestra embarcación.
+componentes: ['agua', 'norma']
+como_componente: []
+solo_componente: 0

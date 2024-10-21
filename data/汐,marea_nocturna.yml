@@ -1,0 +1,7 @@
+id: 汐
+clave: marea_nocturna
+historia: >
+  La marea nocturna se produce cuando cambia el nivel del mar (⺡) de noche (夕)
+componentes: ['agua', 'noche']
+como_componente: []
+solo_componente: 0
