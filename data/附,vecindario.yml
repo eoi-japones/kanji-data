@@ -1,0 +1,11 @@
+﻿clave: vecindario
+id: 附
+historia: >-
+  Cuando llegamos al vecindario de la cúspide (⻖), nos acoplamos (付) y no
+  queremos salir.
+solo_componente: 0
+componentes:
+  - cúspide
+  - acoplado
+como_componente:
+  - 'vecindario,附'
