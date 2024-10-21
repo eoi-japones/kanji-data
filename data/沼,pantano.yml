@@ -1,7 +1,7 @@
 id: 沼
 clave: pantano
 historia: >
-    El pantano es un lugar donde el agua (⺡) se queda "seducida" (召) o empatanada.
+    El pantano es un lugar donde el agua (⺡) se queda "seducida" (召) o empantanada.
 componentes: ['agua', 'seducir']
 como_componente: []
 solo_componente: 0

@@ -1,7 +1,7 @@
 id: 均
 clave: anivelado
 historia: >
-    Para torturar prisioneros antiguamente, les volvían locos anivelando un terreno (土) con un cucharón (勺).
+    Para torturar prisioneros antiguamente, les volvían locos obligándolos a llevar a cabo el anivelando un terreno (土) con un cucharón (勺).
 componentes: ['tierra', 'cucharón']
 como_componente: []
 solo_componente: 0
