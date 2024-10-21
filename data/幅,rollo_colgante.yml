@@ -1,0 +1,7 @@
+id: 幅
+clave: rollo_colgante
+historia: >
+    Un rollo de tela (巾) donde se escriben palabras para guardar la riqueza (畐).
+componentes: ['toalla', 'riqueza']
+como_componente: []
+solo_componente: 0

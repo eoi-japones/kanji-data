@@ -1,0 +1,7 @@
+id: 帆
+clave: vela
+historia: >
+    Un barco tan mediocre (凡) que sus velas están hechas con toallas (巾).
+componentes: ['toalla', 'mediocre']
+como_componente: []
+solo_componente: 0

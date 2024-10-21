@@ -1,0 +1,7 @@
+id: 帽
+clave: sombrero
+historia: >
+    Es de tela (巾) y te protege los ojos contra los riesgos (冒) del sol.
+componentes: ['toalla', 'riesgo']
+como_componente: []
+solo_componente: 0

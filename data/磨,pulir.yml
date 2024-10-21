@@ -1,0 +1,7 @@
+id: 磨
+clave: pulir
+historia: >
+   El mejor pulido se realiza con una piedra (石) y hojas de cáñamo (麻)
+componentes: ['cáñamo', 'piedra']
+como_componente: []
+solo_componente: 0

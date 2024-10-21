@@ -1,0 +1,7 @@
+id: 壊
+clave: demoler
+historia: >
+    Un ser metafísico capaz de pasar por el ojo (目) de una aguja (十), con ropas (衣) etéreas y dejando un terreno (土) destruido por donde pasa como único rastro.
+componentes: ['tierra', 'aguja', 'ojo', 'ropa']
+como_componente: ['radiacion']
+solo_componente: 0
