@@ -18,14 +18,14 @@ ejemplos:
     palabra: 会議
     significado: 'Reunión '
     lectura: カイギ
-    mascara: —.-
+    mascara: —-.-
   ejemplo-3:
     palabra: 犠牲
     significado: 'Sacrificio '
     lectura: ギセイ
-    mascara: '-.—'
+    mascara: '-.—-'
   ejemplo-4:
     palabra: 礼儀
     significado: Etiqueta, formas, modales, cortesía
     lectura: レイギ
-    mascara: —.-
+    mascara: —-.-
