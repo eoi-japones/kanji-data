@@ -16,8 +16,11 @@ integrantes:
 especiales: []
 
 ejemplos: 
-  中:
+  ejemplo-1:
     palabra: "中国"
     significado: "China"
+    lectura: チュウゴク
+    mascara: "---.--"
+
   
 
