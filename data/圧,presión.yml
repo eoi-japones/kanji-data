@@ -1,0 +1,7 @@
+id: 圧
+clave: presión
+historia: >
+    La tierra (土) que está bajo un barranco (厂) está sometida a mucha presión.
+componentes: ['barranco', 'tierra']
+como_componente: []
+solo_componente: 0
