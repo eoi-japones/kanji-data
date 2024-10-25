@@ -1,0 +1,7 @@
+id: 幕
+clave: cortina
+historia: >
+    La cortina que es un trozo de tela (巾) a la entrada de los cementerios (莫) para representar la entrada a otro mundo.
+componentes: ['cementerio', 'toalla']
+como_componente: []
+solo_componente: 0

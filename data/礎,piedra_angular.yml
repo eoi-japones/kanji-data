@@ -1,0 +1,7 @@
+id: 礎
+clave: piedra_angular
+historia: >
+    En el parque de Cabárceno hay una piedra (石) angular junto a una arboleda (林) que marca el final del zoo (疋).
+componentes: ['piedra', 'arboleda', 'zoo']
+como_componente: []
+solo_componente: 0

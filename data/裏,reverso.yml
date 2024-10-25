@@ -1,0 +1,7 @@
+id: 裏
+clave: reverso
+historia: >
+    Típico personaje afable con sombrero (亠) y bufanda (𧘇), pero que tiene un cerebro (田) demente y calculador en su reverso.
+componentes: ['sombrero', 'cerebro', 'ropa']
+como_componente: []
+solo_componente: 0
