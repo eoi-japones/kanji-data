@@ -1,0 +1,55 @@
+id: 工
+nombre: La técnica debe ejecutarse kourrectamente
+tipo: puro
+señalizador: 工
+lectura: コウ
+integrantes:
+  - 功
+  - 攻
+  - 江
+  - 紅
+  - 項
+  - 貢
+  - 巧
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 人工
+    significado: Artificial
+    lectura: ジンコウ
+    mascara: --.--
+  ejemplo-2:
+    palabra: 成功
+    significado: 'Éxito '
+    lectura: セイコウ
+    mascara: --.--
+  ejemplo-3:
+    palabra: 専攻
+    significado: Campo de especialización
+    lectura: センコウ
+    mascara: --.--
+  ejemplo-4:
+    palabra: 長江
+    significado: Río largo
+    lectura: チョウコウ
+    mascara: ---.--
+  ejemplo-5:
+    palabra: 紅茶
+    significado: Té (inglés)
+    lectura: コウチャ
+    mascara: --.--
+  ejemplo-6:
+    palabra: 項目
+    significado: 'Entrada, cláusula '
+    lectura: コウモク
+    mascara: --.--
+  ejemplo-7:
+    palabra: 貢献
+    significado: 'Servicio, contribución '
+    lectura: コウケン
+    mascara: --.--
+  ejemplo-8:
+    palabra: 技巧
+    significado: 'Técnica, habilidad '
+    lectura: ギコウ
+    mascara: -.--

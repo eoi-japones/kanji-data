@@ -1,0 +1,37 @@
+id: 司
+nombre: 'Al director SHIempre hay que darle la razón '
+tipo: puro
+señalizador: 司
+lectura: シ
+integrantes:
+  - 詞
+  - 飼
+  - 伺
+  - 嗣
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 司会者
+    significado: Presentador
+    lectura: シカイシャ
+    mascara: '-.--.--'
+  ejemplo-2:
+    palabra: 歌詞
+    significado: Letra de una canción
+    lectura: カシ
+    mascara: '-.-'
+  ejemplo-3:
+    palabra: 飼育
+    significado: Cría (avícola o de ganado)
+    lectura: シイク
+    mascara: '-.--'
+  ejemplo-4:
+    palabra: 伺候
+    significado: Servicio, atenciones
+    lectura: シコウ
+    mascara: '-.—-'
+  ejemplo-5:
+    palabra: 嗣子
+    significado: Presentación de los respetos
+    lectura: シシ
+    mascara: '-.-'
