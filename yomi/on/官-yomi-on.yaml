@@ -1,0 +1,31 @@
+id: 官
+nombre: '_Burócratas_ de los *kan*ji '
+tipo: puro
+señalizador: 官
+lectura: カン
+integrantes:
+  - 管
+  - 棺
+  - 館
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 教官
+    significado: Profesor
+    lectura: カン
+    mascara: '---.--'
+  ejemplo-2:
+    palabra: 管理
+    significado: Administración
+    lectura: カン
+    mascara: '--.-'
+  ejemplo-3:
+    palabra: 棺車
+    significado: Vehículo fúnebre
+    lectura: カン
+    mascara: '--.--'
+  ejemplo-4:
+    palabra: 館長
+    significado: Director de un edificio
+    lectura: カン
+    mascara: '--.---'
