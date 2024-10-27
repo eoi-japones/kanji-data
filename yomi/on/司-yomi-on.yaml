@@ -1,5 +1,5 @@
 id: 司
-nombre: 'Al director SHIempre hay que darle la razón '
+nombre: 'Al director *SHI*empre hay que darle la razón '
 tipo: puro
 señalizador: 司
 lectura: シ
@@ -24,7 +24,7 @@ ejemplos:
     palabra: 飼育
     significado: Cría (avícola o de ganado)
     lectura: シイク
-    mascara: '-.--'
+    mascara: '-.—-'
   ejemplo-4:
     palabra: 伺候
     significado: Servicio, atenciones
