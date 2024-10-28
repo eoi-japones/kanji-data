@@ -1,9 +1,10 @@
 id: 襄
-nombre: Jounin Kakashi
+nombre: *Jou*nin Kakashi. Misión _Falda Hawaiana_
 tipo: puro
-señalizador: 嬢
+señalizador: 襄
 lectura: ジョウ
 integrantes:
+  - 嬢
   - 譲
   - 壌
   - 醸
