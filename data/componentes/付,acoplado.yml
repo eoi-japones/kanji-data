@@ -1,0 +1,8 @@
+﻿clave: acoplado
+id: 付
+historia: 'Una persona (⺅) que se pega (寸) a nosotros es un acoplado '
+solo_componente: 1
+componentes:
+  - persona
+como_componente:
+  - 'acoplado,付'

@@ -1,0 +1,10 @@
+﻿clave: casa_de_campo
+id: 舎
+historia: "Lo que se suele hacer en las casas de campo japonesas, bajo el tejado (\uD840\uDDA2) se ponen vasijas de tierra (吉) con grandes bocas (口)."
+solo_componente: 1
+componentes:
+  - tejado
+  - tierra
+  - boca
+como_componente:
+  - 'casa_de_campo,舎'

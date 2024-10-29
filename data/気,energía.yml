@@ -1,0 +1,11 @@
+﻿clave: energía
+id: 気
+historia: >-
+  El pescado en el anzuelo (气) parece que no se mueve, pero le da un haz de luz
+  (㐅) y vuelve a menearse. Aún le quedaba energía.
+solo_componente: 0
+componentes:
+  - anzuelo
+  - haz_de_luz
+como_componente:
+  - 'energía,気'

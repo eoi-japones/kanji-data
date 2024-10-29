@@ -1,0 +1,9 @@
+﻿clave: suplemento
+id: 補
+historia: 'Con este suplemento, a tu perro (甫) sólo le faltará la capa (⻂) para volar.'
+solo_componente: 0
+componentes:
+  - chapa_de_perro
+  - capa
+como_componente:
+  - 'suplemento,補'

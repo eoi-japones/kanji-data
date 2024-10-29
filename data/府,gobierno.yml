@@ -1,0 +1,11 @@
+﻿clave: gobierno
+id: 府
+historia: >-
+  Cuando más de dos personas se acoplan (付) se forma un gobierno. Esto ocurre
+  desde que vivíamos en cuevas (广)
+solo_componente: 0
+componentes:
+  - acoplado
+  - cueva
+como_componente:
+  - 'gobierno,府'

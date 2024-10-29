@@ -1,0 +1,11 @@
+﻿clave: pudrirse
+id: 腐
+historia: >-
+  Al igual que la carne (肉), los gobiernos (府) hay que ventilarlo pronto porque
+  se pudren.
+solo_componente: 0
+componentes:
+  - carne
+  - gobierno
+como_componente:
+  - 'pudrirse,腐'
