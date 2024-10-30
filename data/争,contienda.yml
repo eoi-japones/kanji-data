@@ -1,11 +1,10 @@
+﻿id: 争
 clave: contienda
-id: 争
 historia: >-
-  Vemos el resultado de una *contienda* o pelea, probablemente en un ambiente
-  rural, puesto que alguien ha quedado empaquetado (勹) en rastrillos. 
+  Si dos personas se pegan en una contienda con dos rastrillos, lo más probable
+  es que acaben con sus cabezas atadas (勹) entre ambos rastrillos (⺕).
+solo_componente: 0
 componentes:
-  - empaquetado
+  - atado
   - rastrillo
 como_componente: []
-
-solo_componente: 0
