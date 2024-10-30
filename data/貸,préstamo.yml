@@ -1,0 +1,10 @@
+﻿id: 貸
+historia: >-
+  Todos los préstamos que recibas los tendrás que devolver. El dinero (貝) que
+  recibes nunca sustituye (代) al que realmente ganas.
+clave: préstamo
+solo_componente: 0
+componentes:
+  - sustituto
+  - moneda
+como_componente: []
