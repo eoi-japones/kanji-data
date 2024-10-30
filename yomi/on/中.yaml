@@ -1,6 +1,6 @@
 id: 中
 
-nombre: "Chuugoku"
+nombre: "*Chuu*goku"
 
 tipo: "puro"
 
@@ -21,6 +21,22 @@ ejemplos:
     significado: "China"
     lectura: チュウゴク
     mascara: "---.--"
+    ejemplo-2:
+    palabra: "忠告"
+    significado: "Aviso, Amonestación"
+    lectura: チュウコク
+    mascara: "---.--"
+    ejemplo-3:
+    palabra:"沖天"
+    significado:"Ascensión, Subir a los cielos"
+    lectura:チュウテン
+    mascara:"---.--"
+    ejemplo-4:
+    palabra:"仲介"
+    significado:"Mediación, Intromisión"
+    lectura:チュウカイ
+    mascara:"---.--"
+    
 
   
 
