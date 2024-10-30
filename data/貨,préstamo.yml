@@ -1,0 +1,10 @@
+﻿id: 貨
+clave: préstamo
+historia: >-
+  A falta de dinero (貝), puedes verte en la necesidad de pedir un préstamo a
+  cambio (化) de lo que te pidan.
+solo_componente: 0
+componentes:
+  - cambio
+  - moneda
+como_componente: []

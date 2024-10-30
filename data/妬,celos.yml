@@ -1,0 +1,11 @@
+﻿historia: >-
+  Según la mitología griega, Medusa hubiera tenido muy fácil el deshacerse de
+  cualquier mujer (女) de la que se sintiese celosa. Tan solo tendría que
+  convertirla en piedra (石).
+id: 妬
+clave: celos
+solo_componente: 0
+componentes:
+  - mujer
+  - piedra
+como_componente: []
