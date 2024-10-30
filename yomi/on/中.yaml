@@ -21,6 +21,21 @@ ejemplos:
     significado: "China"
     lectura: チュウゴク
     mascara: "---.--"
+  ejemplo-2:
+    palabra: 忠告
+    significado: "aviso, amonestación"
+    lectura: チュウコク
+    mascara: "---.--"
+  ejemplo-3:
+    palabra: 沖天
+    significado: "ascensión, subir a los cielos"
+    lectura: チュウテン
+    mascara: "---.--"
+  ejemplo-4:
+    palabra: 仲介
+    significado: "mediación, intromisión"
+    lectura: チュウカイ
+    mascara: "---.--"
 
   
 
