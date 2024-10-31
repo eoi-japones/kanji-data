@@ -1,0 +1,7 @@
+id: 充
+clave: asignar
+historia: >
+    Para asignar el sexo a un bebé (亠厶), se le mira entre las piernas (儿).
+componentes: ['bebé', 'piernas']
+como_componente: []
+solo_componente: 0

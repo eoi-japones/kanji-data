@@ -1,0 +1,7 @@
+id: 絞
+clave: estrangular
+historia: >
+  Un conjunto de hilos (糸) entremezclados (交) es suficiente para estrangular a alguien.
+componentes: ['hilo', 'entremezclar']
+como_componente: []
+solo_componente: 0

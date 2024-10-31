@@ -1,0 +1,7 @@
+id: 困
+clave: apuro
+historia: >
+    Te encuentras encerrado (口) en una caja de madera (木) como un ataúd. Estás en apuros.
+componentes: ['encerrado', 'madera']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 統
+clave: integración
+historia: >
+    La integración de una cuerda es la asignación (充) de un conjunto de hilos (糸).
+componentes: ['hilo', 'asignar']
+como_componente: []
+solo_componente: 0
