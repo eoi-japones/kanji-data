@@ -1,0 +1,7 @@
+id: 宰
+clave: administrar
+historia: >
+    Administra en casa (宀) el que gestiona el picante (辛).
+componentes: ['tejado_casa', 'picante']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 丘
+clave: cerro
+historia: >
+    Defienden el cerro desde el suelo (一) con un hacha (斤).
+componentes: ['hacha', 'suelo']
+como_componente: []
+solo_componente: 0
