@@ -1,7 +1,0 @@
-id: 岳
-clave: monte
-historia: >
-    Un monte es una montaña (山) tan pequeña que sólo cabe un cerro (丘).
-componentes: ['cerro', 'montaña']
-como_componente: []
-solo_componente: 0
