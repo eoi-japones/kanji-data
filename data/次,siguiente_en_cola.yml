@@ -1,0 +1,7 @@
+id: 次
+clave: siguiente_en_cola
+historia: >
+    En un día muy caluroso y en ausencia (欠) de hielo (冫), solo estaría dispuesto a hacer cola para conseguirlo.
+componentes: ['hielo', 'ausencia']
+como_componente: ['segundo']
+solo_componente: 0

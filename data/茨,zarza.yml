@@ -1,0 +1,7 @@
+id: 茨
+clave: zarza
+historia: >
+    La zarza es horrible, pero sabemos que en la siguiente (次) estación se cubrirá de flores (艹).
+componentes: ['flor', 'siguiente']
+como_componente: []
+solo_componente: 0
