@@ -1,0 +1,31 @@
+id: 申
+nombre: '*Shin*-chan _toma la palabra_'
+tipo: puro
+señalizador: 申
+lectura: シン
+integrantes:
+  - 神
+  - 伸
+  - 紳
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 申請
+    significado: Petición, solicitud
+    lectura: シンセイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 精神
+    significado: Mente, psique
+    lectura: セイシン
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 伸張
+    significado: Extensión, prolongación
+    lectura: シンチョウ
+    mascara: '--.---'
+  ejemplo-4:
+    palabra: 紳士
+    significado: Caballero, gentleman
+    lectura: シンシ
+    mascara: '--.-'
