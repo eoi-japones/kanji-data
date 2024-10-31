@@ -1,0 +1,37 @@
+id: 㑒
+nombre: Rurouni *Ken*shin y su espada. Letal como un _punzón_
+tipo: puro
+señalizador: 倹
+lectura: ケン
+integrantes:
+  - 験
+  - 険
+  - 検
+  - 剣
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 倹約
+    significado: Ahorro, economía
+    lectura: ケンヤク
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 試験
+    significado: Examen, prueba
+    lectura: シケン
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 冒険
+    significado: Aventura
+    lectura: ボウケン
+    mascara: '--.--'
+  ejemplo-4:
+    palabra: 検査
+    significado: Inspección
+    lectura: ケンサ
+    mascara: '--.-'
+  ejemplo-5:
+    palabra: 剣道
+    significado: Camino de la espada, kendo
+    lectura: ケンドウ
+    mascara: '--.--'
