@@ -1,0 +1,7 @@
+id: 灰
+clave: ceniza
+historia: >
+    Después de hacer una hoguera (火), esparces las cenizas por un barranco (厂).
+componentes: ['barranco', 'fuego']
+como_componente: []
+solo_componente: 0
