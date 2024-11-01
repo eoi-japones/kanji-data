@@ -1,0 +1,37 @@
+id: 且
+nombre: '*So*lo manga en mi _estantería_'
+tipo: puro
+señalizador: 組
+lectura: ソ
+integrantes:
+  - 祖
+  - 租
+  - 粗
+  - 阻
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 組織
+    significado: Organización
+    lectura: ソシキ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 祖先
+    significado: Antepasados
+    lectura: ソセン
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 租税
+    significado: Gravamen (de impuestos)
+    lectura: ソゼイ
+    mascara: '-.--'
+  ejemplo-4:
+    palabra: 粗末
+    significado: Tosco, precario
+    lectura: ソマツ
+    mascara: '-.--'
+  ejemplo-5:
+    palabra: 阻止
+    significado: Obstrucción, obstáculo
+    lectura: ソシ
+    mascara: '-.-'
