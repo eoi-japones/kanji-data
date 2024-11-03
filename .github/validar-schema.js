@@ -60,6 +60,7 @@ async function walk(dir = process.env["DATA_DIR"]){
           (dir == "grupos") ? "GRUPO" :
           (dir == "on") ? "GRUPO-ON" :
           (dir == "itinerarios") ? "ITER" : 
+          (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
            "DESCONOCIDO"
 
@@ -122,7 +123,9 @@ async function walk(dir = process.env["DATA_DIR"]){
 
                         (tipo == "KANA") ? kanaValidation : 
                     
-                        (tipo == "ITER") ? itinerarioValidation : colaboradorValidation;
+                        (tipo == "ITER") ? itinerarioValidation : 
+                        
+                        (tipo == "ITER-YOMI") ? itinerarioValidation: colaboradorValidation;
 
     if(!validador(kanjiData)){
        
@@ -130,7 +133,7 @@ async function walk(dir = process.env["DATA_DIR"]){
       throw JSON.stringify(validador.errors, null, 4)
     }
 
-    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON"){
+    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON"){
         return
     }
 
