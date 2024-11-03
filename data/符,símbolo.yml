@@ -1,0 +1,11 @@
+﻿id: 符
+clave: símbolo
+historia: >-
+  Cuando pensamos en el lejano Oriente, acoplado (付) a nuestra cabeza aparece el
+  símbolo del bambu (竹).
+solo_componente: 0
+componentes:
+  - '付, acoplado'
+  - '竹,bambú'
+como_componente:
+  - 'símbolo,符'
