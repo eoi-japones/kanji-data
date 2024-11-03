@@ -1,7 +1,7 @@
 id: 滴
 clave: gotear
 historia: >
-    Te compras una antigualla (啇) que resulta ser de mala calidad y empieza a gotear agua (⺡).
+    Te compras una antigualla (啇) que resulta ser de mala calidad y empieza a gotear cuando la llenas con agua (⺡).
 componentes: ['agua', 'antigualla']
 como_componente: []
 solo_componente: 0

@@ -1,7 +1,7 @@
 id: 雲
 clave: nube
 historia: >
-    Las nubes (云) precipitan (雨) después de ascender.
+    Primero el vapor sube en forma de nube ascendente (云) para precipitarse después en forma de lluvia (雨).
 componentes: ['lluvia', 'nube_ascendente']
 como_componente: []
 solo_componente: 0

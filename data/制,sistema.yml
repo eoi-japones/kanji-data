@@ -1,7 +1,7 @@
 id: 制
 clave: sistema
 historia: >
-    El sistema se encarga de atrapar a la vaca (牛) con un cinturón (卩) con el que la transporta al matarife (刂).
+    El sistema se encarga de atrapar a la vaca (牛) con un cinturón (卩) con el que la transporta al matarife con sus cuchillos cortantes como sables (刂).
 componentes: ['vaca', 'cinturón', 'sable']
 como_componente: []
 solo_componente: 0
