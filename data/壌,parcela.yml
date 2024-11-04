@@ -1,0 +1,11 @@
+﻿clave: parcela
+historia: >-
+  El lugar donde es más difícil conseguir una parcela es en Hawaii (㐮), debido a
+  que a penas hay tierra (土) disponible.
+id: 壌
+solo_componente: 0
+componentes:
+  - '土,tierra'
+  - '㐮,falda_hawaiana'
+como_componente:
+  - 'parcela,壌'
