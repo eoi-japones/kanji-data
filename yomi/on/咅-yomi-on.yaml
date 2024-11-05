@@ -1,0 +1,31 @@
+id: 咅
+nombre: '*Bai* Bai, _mordazas_'
+tipo: puro
+señalizador: 倍
+lectura: バイ
+integrantes:
+  - 培
+  - 陪
+  - 賠
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 三倍
+    significado: Triple, tres veces
+    lectura: サンバイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 培養
+    significado: Cultivo, crianza
+    lectura: バイヨウ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 陪食
+    significado: Cena con un superior
+    lectura: バイショク
+    mascara: '--.---'
+  ejemplo-4:
+    palabra: 賠償
+    significado: Compensación, indemnización
+    lectura: バイショウ
+    mascara: '--.---'
