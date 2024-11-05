@@ -1,0 +1,31 @@
+id: 半
+nombre: 'Hattori *Han*zo: _Mitad_ ninja, mitad leyenda'
+tipo: puro
+señalizador: 半
+lectura: ハン
+integrantes:
+  - 判
+  - 畔
+  - 伴
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 半分
+    significado: Mitad
+    lectura: ハンブン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 判定
+    significado: Juicio, decisión
+    lectura: ハンテイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 湖畔
+    significado: Orilla de un lago
+    lectura: コハン
+    mascara: '-.--'
+  ejemplo-4:
+    palabra: 同伴
+    significado: Compañía, compañero
+    lectura: ドウハン
+    mascara: '--.--'
