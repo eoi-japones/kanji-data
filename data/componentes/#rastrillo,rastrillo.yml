@@ -1,0 +1,10 @@
+﻿id: "#rastrillo"
+clave: '*rastrillo'
+historia: >-
+  Vemos una escoba transformada en un rastrillo, gracias a un único trazo vertical. Cuando algo aparezca debajo de nuestro rastrillo, el rabo se *acortará*, como ya nos pasó con vaca y oveja. 
+  Por otra parte, si ponemos encima de nuestro rastrillo otro componente, perderá el mango por arriba. 
+solo_componente: 1
+componentes:
+  - escoba
+  - palo
+como_componente: []
