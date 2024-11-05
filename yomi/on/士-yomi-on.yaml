@@ -1,0 +1,31 @@
+id: 士
+nombre: El _hidalgo_ *shi*empre quiere aparentar más
+tipo: puro
+señalizador: 士
+lectura: シ
+integrantes:
+  - 仕
+  - 志
+  - 誌
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 士官
+    significado: oficial
+    lectura: シカン
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 出仕
+    significado: asistencia (al trabajo)
+    lectura: シュッシ
+    mascara: '---.-'
+  ejemplo-3:
+    palabra: 寸志
+    significado: pequeña muestra (de gratitud)
+    lectura: スンシ
+    mascara: '--.-'
+  ejemplo-4:
+    palabra: 雑誌
+    significado: revista
+    lectura: ザッシ
+    mascara: '--.-'

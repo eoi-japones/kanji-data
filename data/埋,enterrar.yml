@@ -1,0 +1,7 @@
+id: 埋
+clave: enterrar
+historia: >
+    Al aprobar matemáticas, si las odias, entierras la calculadora (里) para siempre a 5 metros bajo tierra (土).
+componentes: ['tierra', 'calculadora']
+como_componente: []
+solo_componente: 0

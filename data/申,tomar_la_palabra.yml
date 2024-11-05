@@ -1,0 +1,12 @@
+﻿historia: >-
+  Para tomar la palabra tenfgo que mover la lengua dentro de mi boca (日) como si
+  tuviera un palo (｜) atravesado. Esto se utiliza en el keigo horizontal
+  deferente.
+id: 申
+clave: tomar_la_palabra
+solo_componente: 0
+componentes:
+  - lengua_agitándose_dentro_de_una_boca
+  - '｜,palo'
+como_componente:
+  - 'tomar_la_palabra,申'

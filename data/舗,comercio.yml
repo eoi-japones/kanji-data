@@ -1,0 +1,13 @@
+﻿historia: >-
+  Para proteger el comercio local, el que se lleva a cabo en las casas de campo
+  (舎), es normal utilizar perros de defensa. Por eso, cuando vamos a adquirir
+  uno es bueno mirar en su chapa de perro (甫) si es adecuado para "defender el
+  comercio"
+id: 舗
+clave: comercio
+solo_componente: 0
+componentes:
+  - '舎,casa_de_campo'
+  - '甫,chapa_de_perro'
+como_componente:
+  - 'comercio,舗'

@@ -1,0 +1,7 @@
+id: 曇
+clave: nublado
+historia: >
+    Cuando el Sol (日) no se ve porque hay nubes (雲).
+componentes: ['sol', 'nube']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 狸
+clave: tanuki
+historia: >
+    Un animal tan inteligente que podría destruir a una jauría (⺨) de perros a la vez que realiza cálculos con una calculadora (里).
+componentes: ['jauria', 'calculadora']
+como_componente: []
+solo_componente: 0

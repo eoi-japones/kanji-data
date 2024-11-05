@@ -1,0 +1,7 @@
+id: 兵
+clave: soldado
+historia: >
+    Mejor salir por patas (ハ) del cerro (丘) ante un soldado si lleva un hacha.
+componentes: ['cerro', 'patas']
+como_componente: []
+solo_componente: 0

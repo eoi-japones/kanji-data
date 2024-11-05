@@ -1,0 +1,9 @@
+﻿historia: Dilatar es hacer una parte del cuerpo (月) más larga (長).
+id: 脹
+clave: dilatarse
+solo_componente: 0
+componentes:
+  - '月,parte_del_cuerpo'
+  - '長,largo'
+como_componente:
+  - 'dilatarse,脹'

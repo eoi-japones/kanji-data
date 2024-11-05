@@ -1,0 +1,8 @@
+﻿id: 抱
+clave: abrazar
+historia: 'Para abrazar a alguien, comienza envolviéndolo (包) con los dedos (扌).'
+solo_componente: 0
+componentes:
+  - dedo
+  - envolver
+como_componente: []

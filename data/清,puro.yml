@@ -1,0 +1,8 @@
+﻿id: 清
+clave: puro
+historia: 'Cuando el agua (氵) está azul (青), decimos que es pura.'
+solo_componente: 0
+componentes:
+  - agua
+  - azul
+como_componente: []

@@ -1,0 +1,13 @@
+﻿id: 用
+clave: utilizar
+historia: >-
+  Desde nuestros orígenes hemos soñado con tocar la luna (月), pero ni
+  *utilizando* el palo (丨) más largo podíamos conseguirlo. Tendrían que pasar
+  miles de años para que en una era de máquinas ensambladas con
+  destornilladores pudiésemos llegar a ella.
+solo_componente: 0
+componentes:
+  - luna
+  - palo
+como_componente:
+  - 'destornillador,用'

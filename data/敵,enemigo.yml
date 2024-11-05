@@ -1,0 +1,7 @@
+id: 敵
+clave: enemigo
+historia: >
+    Un capataz (攵) que coge tu única herencia (啇) y empieza a patearla. Se convierte en tu enemigo.
+componentes: ['antigualla', 'capataz']
+como_componente: []
+solo_componente: 0

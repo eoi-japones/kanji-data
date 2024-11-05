@@ -1,0 +1,7 @@
+id: 製
+clave: manufacturado
+historia: >
+  La ropa (衣) es manufacturada por un complejo sistema (制) de máquinas.
+componentes: ['sistema', 'ropa']
+como_componente: ['made_in']
+solo_componente: 0

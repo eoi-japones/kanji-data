@@ -1,0 +1,31 @@
+id: 麻
+nombre: El _cáñamo_ es *ma*lo
+tipo: puro
+señalizador: 麻
+lectura: マ
+integrantes:
+  - 摩
+  - 磨
+  - 魔
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 麻薬
+    significado: Drogas, narcóticos
+    lectura: マヤク
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 摩天楼
+    significado: Rascacielos
+    lectura: マテンロウ
+    mascara: '-.--.--'
+  ejemplo-3:
+    palabra: 研磨
+    significado: Trituración, pulido
+    lectura: ケンマ
+    mascara: '--.-'
+  ejemplo-4:
+    palabra: 魔女
+    significado: Bruja
+    lectura: マジョ
+    mascara: '-.--'
