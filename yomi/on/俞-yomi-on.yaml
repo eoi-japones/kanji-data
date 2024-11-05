@@ -1,0 +1,31 @@
+id: 俞
+nombre: La *Yu*kata del maestro _carnicero_
+tipo: puro
+señalizador: 輸
+lectura: ユ
+integrantes:
+  - 愉
+  - 諭
+  - 癒
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 輸出
+    significado: Exportación
+    lectura: ユシュツ
+    mascara: '-.---'
+  ejemplo-2:
+    palabra: 愉楽
+    significado: Placer, disfrute
+    lectura: ユラク
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 教諭
+    significado: Instructor
+    lectura: キョウユ
+    mascara: '---.-'
+  ejemplo-4:
+    palabra: 癒着
+    significado: Curación
+    lectura: ユチャク
+    mascara: '-.---'
