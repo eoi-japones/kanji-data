@@ -1,0 +1,7 @@
+id: 壱
+clave: uno_antiguo
+historia: >
+    Un samurai (士) esperando sentado en posición de cuchara (匕) a que llegue su único señor con su corona (冖).
+componentes: ['samurai', 'corona', 'cuchara']
+como_componente: []
+solo_componente: 0

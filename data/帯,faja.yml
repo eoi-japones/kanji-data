@@ -1,0 +1,7 @@
+id: 帯
+clave: faja
+historia: >
+   La faja es un delantal (巾) tan apretado que necesitas sujetarlo con un broche (丗). 
+componentes: ['broche', 'delantal']
+como_componente: []
+solo_componente: 0

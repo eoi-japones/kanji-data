@@ -1,0 +1,7 @@
+id: 刺
+clave: espina
+historia: >
+    Al árbol (木) le ha crecido a modo de cinturón (卩) un conjunto de espinas que se le clavan como sables (刂).
+componentes: ['cinturón', 'árbol', 'sable']
+como_componente: []
+solo_componente: 0

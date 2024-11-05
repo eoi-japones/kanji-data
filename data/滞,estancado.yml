@@ -1,0 +1,7 @@
+id: 滞
+clave: estancado
+historia: >
+    El agua (⺡) se queda estancada cuando algo actúa a modo de faja (帯).
+componentes: ['agua', 'faja']
+como_componente: []
+solo_componente: 0

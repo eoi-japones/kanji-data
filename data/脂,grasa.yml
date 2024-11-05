@@ -1,0 +1,7 @@
+id: 脂
+clave: grasa
+historia: >
+    Si te pasas el día comiendo cosas por ser deliciosas (旨), corres riesgo de acumular grasa en tu cuerpo (月).
+componentes: ['parte_del_cuerpo', 'delicioso']
+como_componente: []
+solo_componente: 0

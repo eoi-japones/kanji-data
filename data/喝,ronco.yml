@@ -1,0 +1,7 @@
+id: 喝
+clave: ronco
+historia: >
+    Después de la siesta (曷) te levantas con la voz (口) ronca.
+componentes: ['boca', 'siesta']
+como_componente: []
+solo_componente: 0
