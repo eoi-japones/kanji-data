@@ -1,0 +1,9 @@
+﻿historia: El barco (舟) que viene precedido de palomas blancas (白).
+id: 舶
+clave: barco_mercante
+solo_componente: 0
+componentes:
+  - '舟,bote'
+  - '白,paloma_blanca'
+como_componente:
+  - 'barco_mercante,舶'

@@ -1,0 +1,10 @@
+﻿id: 貨
+clave: carga
+historia: >-
+  El cangrejo ermitaño cambia (化) de concha a medida que crece, buscando las de
+  almejas (貝) más grandes para ser capaz de asumir cargas mayores.
+solo_componente: 0
+componentes:
+  - cambio
+  - moneda
+como_componente: []

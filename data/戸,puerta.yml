@@ -1,0 +1,7 @@
+id: 戸
+clave: puerta
+historia: >
+  Antiguamente las puertas para entrar a la ciudad se marcaban con una (一) bandera (尸).
+componentes: ['uno', 'bandera']
+como_componente: []
+solo_componente: 0

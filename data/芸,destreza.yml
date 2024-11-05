@@ -1,0 +1,7 @@
+id: 芸
+clave: destreza
+historia: >
+  "La destreza de un mago: de repente surge una nube ascendente (云) de polvo mágico y cuando se disipa tiene un ramo de flores (艹)."
+componentes: ['flor', 'nube_ascendente']
+como_componente: []
+solo_componente: 0

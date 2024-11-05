@@ -1,0 +1,7 @@
+id: 雷
+clave: rayo
+historia: >
+    Los rayos suelen caer en los campos de arroz (田) durante las tormentas. Así que si estás en un campo de arroz y comienza a llover (雨) ¡lárgate de ahí!
+componentes: ['lluvia', 'campo_de_arroz']
+como_componente: []
+solo_componente: 0

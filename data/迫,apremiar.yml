@@ -1,0 +1,11 @@
+﻿historia: >-
+  Se apremia a la paloma blanca (白) para que recorra a prisa el camino (⻌) hacia
+  tu persona amada.
+id: 迫
+clave: apremiar
+solo_componente: 0
+componentes:
+  - '白,paloma_blanca'
+  - '⻌,camino'
+como_componente:
+  - 'apremiar,迫'

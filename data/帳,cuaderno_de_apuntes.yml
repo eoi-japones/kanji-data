@@ -1,0 +1,11 @@
+﻿historia: >-
+  En japonés, el cuaderno de apuntes es tan largo (長) que hay que llevarlo en
+  una toalla (巾)
+id: 帳
+clave: cuaderno_de_apuntes
+solo_componente: 0
+componentes:
+  - '長,largo'
+  - '巾,toalla'
+como_componente:
+  - 'cuaderno_de_apuntes,帳'

@@ -1,0 +1,7 @@
+id: 所
+clave: lugar
+historia: >
+   Para entrar en un lugar cerrado, los bomberos rompen la puerta (戸) con un hacha (斤). 
+componentes: ['puerta', 'hacha']
+como_componente: []
+solo_componente: 0

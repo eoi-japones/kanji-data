@@ -12,20 +12,20 @@ ejemplos:
   ejemplo-1:
     palabra: 教官
     significado: Profesor
-    lectura: カン
+    lectura: キョウカン
     mascara: '---.--'
   ejemplo-2:
     palabra: 管理
     significado: Administración
-    lectura: カン
+    lectura: カンリ
     mascara: '--.-'
   ejemplo-3:
     palabra: 棺車
     significado: Vehículo fúnebre
-    lectura: カン
+    lectura: カンシャ
     mascara: '--.--'
   ejemplo-4:
     palabra: 館長
     significado: Director de un edificio
-    lectura: カン
+    lectura: カンチョウ
     mascara: '--.---'

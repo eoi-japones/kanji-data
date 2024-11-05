@@ -1,0 +1,7 @@
+id: 血
+clave: sangre
+historia: >
+    Un plato (皿) de filloas con una gota (丶) de sangre.
+componentes: ['gota', 'plato']
+como_componente: []
+solo_componente: 0

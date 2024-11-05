@@ -1,0 +1,10 @@
+﻿id: 荷
+clave: equipaje
+historia: >-
+  Si tienes dudas sobre qué (何) llevar de equipaje, piensa que con una flor (艹)
+  siempre causarás buena impresión.
+solo_componente: 0
+componentes:
+  - flor
+  - que
+como_componente: []
