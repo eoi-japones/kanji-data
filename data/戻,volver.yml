@@ -1,0 +1,7 @@
+id: 戻
+clave: volver
+historia: >
+    Cuando vuelves a casa siempre está tu San Bernardo (大) esperándote en la puerta (戸).
+componentes: ['puerta', 'san_bernardo']
+como_componente: []
+solo_componente: 0
