@@ -2,9 +2,14 @@ id: 玉
 clave: Joya
 historia: |
 
-  Es una gota que adorna el cetro del rey.
+  Es una gota (丶) que adorna el cetro del rey (王).
+
+  Cuando aparezca a la izquierda del compuesto tendrá la misma forma que el kanji de rey (王).
+
 componentes:
   - gota
+  - rey
 como_componente:
   - bola,𤣩
+  - joya,王
 solo_componente: 0
