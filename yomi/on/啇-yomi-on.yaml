@@ -1,0 +1,38 @@
+id: 啇
+nombre: ¿Seguro que *teki*eres comprar esa _antigualla_?
+tipo: puro
+señalizador: 啇
+lectura: テキ
+integrantes:
+  - 適
+  - 敵
+  - 嫡
+  - 摘
+  - 滴
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 適切
+    significado: Apto, adecuado
+    lectura: テキセツ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 敵地
+    significado: Territorio enemigo
+    lectura: テキチ
+    mascara: '--.-'
+  ejemplo-3:
+    palabra: 世嫡
+    significado: Esposa o hijo legítimo
+    lectura: セイテキ
+    mascara: '--.--'
+  ejemplo-4:
+    palabra: 指摘
+    significado: Indicación, señalar
+    lectura: シテキ
+    mascara: '-.--'
+  ejemplo-5:
+    palabra: 一滴
+    significado: Una gota
+    lectura: イッテキ
+    mascara: '--.--'
