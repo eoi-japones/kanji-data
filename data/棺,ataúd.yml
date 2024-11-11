@@ -1,0 +1,11 @@
+﻿id: 棺
+clave: ataúd
+historia: >-
+  La clase social en China determinaba cómo te enterraban. A los de clase baja
+  se les enterraban con perros de paja, pero a los burócratas (官), en ataúdes de
+  madera (木).
+solo_componente: 0
+componentes:
+  - árbol
+  - burócrata
+como_componente: []

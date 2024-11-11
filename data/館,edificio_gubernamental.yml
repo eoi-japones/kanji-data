@@ -1,0 +1,10 @@
+﻿id: 館
+clave: edificio_gubernamental
+historia: >-
+  Sabemos que un edificio es gubernamental porque hay burócratas (官) que comen
+  (食) gracias a él.
+solo_componente: 0
+componentes:
+  - comer
+  - burócrata
+como_componente: []

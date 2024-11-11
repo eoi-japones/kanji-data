@@ -1,0 +1,10 @@
+﻿id: 魔
+clave: magia
+historia: >-
+  A falta de brujas con poderes mágicos para controlar a los onis (鬼), se
+  utilizaba el humo del cáñamo (麻).
+solo_componente: 0
+componentes:
+  - cáñamo
+  - oni
+como_componente: []
