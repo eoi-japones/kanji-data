@@ -1,0 +1,9 @@
+﻿id: 官
+clave: burócrata
+historia: "Los burócratas son virtuosos (\uD840\uDCA4) que trabajan desde casa (宀) y nadie sabe quiénes son, pero son los que mandan."
+solo_componente: 0
+componentes:
+  - "\uD840\uDCA4,virtuoso"
+  - '宀,casa'
+como_componente:
+  - 'burócrata,官'

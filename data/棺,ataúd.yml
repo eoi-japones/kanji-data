@@ -1,0 +1,11 @@
+﻿id: 棺
+clave: ataúd
+historia: >-
+  Antiguamente el cómo te enterraban dependía de tu clase social. Por ejemplo, a
+  los burócratas (官) los enterraban en ataúdes de madera (木).
+solo_componente: 0
+componentes:
+  - '官,burócrata'
+  - '木,madera'
+como_componente:
+  - 'ataúd,棺'

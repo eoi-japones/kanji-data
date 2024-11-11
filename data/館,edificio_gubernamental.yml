@@ -1,0 +1,11 @@
+﻿id: 館
+clave: edificio_gubernamental
+historia: >-
+  Los edificios gubernamentales son en los únicos lugares donde comen (食) los
+  burócratas (官).
+solo_componente: 0
+componentes:
+  - '食,comer'
+  - '官,burócrata'
+como_componente:
+  - 'edificio_gubernamental,館'

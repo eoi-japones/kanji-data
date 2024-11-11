@@ -1,0 +1,9 @@
+﻿id: 検
+clave: test
+historia: Lo que se talla en un árbol (木) con un punzón (㑒) no supera el test del tiempo
+solo_componente: 0
+componentes:
+  - '木,árbol'
+  - '㑒,punzón'
+como_componente:
+  - 'test,検'

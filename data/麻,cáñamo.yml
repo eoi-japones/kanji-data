@@ -1,0 +1,11 @@
+﻿id: 麻
+clave: cáñamo
+historia: >-
+  Cuando consumes la resina del cáñamo puedes empezar en una cueva (广), pero
+  terminar en una arboleda (林)
+solo_componente: 0
+componentes:
+  - '广,cueva'
+  - '林,arboleda'
+como_componente:
+  - 'cáñamo,麻'

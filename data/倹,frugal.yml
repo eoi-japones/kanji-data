@@ -1,0 +1,11 @@
+﻿id: 倹
+clave: frugal
+historia: >-
+  Frugal es aquella persona (⺅) que sólo come lo que puede pinchar con un punzón
+  (㑒) y nada más.
+solo_componente: 0
+componentes:
+  - '⺅,persona'
+  - '㑒,punzón'
+como_componente:
+  - 'frugal,倹'

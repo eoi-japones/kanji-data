@@ -1,0 +1,9 @@
+﻿id: 只
+clave: único
+historia: Pasen y vean al único animal que tiene sólo una boca (口) y dos patas (ハ).
+solo_componente: 0
+componentes:
+  - '口,boca'
+  - 'ハ,patas'
+como_componente:
+  - 'único,只'

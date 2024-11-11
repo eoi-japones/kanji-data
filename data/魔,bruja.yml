@@ -1,0 +1,11 @@
+﻿id: 魔
+clave: bruja
+historia: >-
+  Cuando las brujas no pueden usar la magia para controlar a los ogros (鬼) usan
+  el humo de cáñamo (麻).
+solo_componente: 0
+componentes:
+  - '鬼,ogro'
+  - '麻,cáñamo'
+como_componente:
+  - 'bruja,魔'

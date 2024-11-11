@@ -1,0 +1,9 @@
+﻿id: 吹
+clave: soplar
+historia: Soplar es producir la ausencia (欠) de aire en la boca (口).
+solo_componente: 0
+componentes:
+  - '欠,ausencia'
+  - '口,boca'
+como_componente:
+  - 'soplar,吹'
