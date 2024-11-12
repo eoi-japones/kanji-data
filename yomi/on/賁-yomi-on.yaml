@@ -1,0 +1,25 @@
+id: 賁
+nombre: _Almejas_ _tóxicas_ ... y el baño no *Fun*ciona...
+tipo: puro
+señalizador: 噴
+lectura: フン
+integrantes:
+  - 憤
+  - 墳
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 噴水
+    significado: Fuente
+    lectura: フンスイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 義憤
+    significado: Indignación justificada
+    lectura: ギフン
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 古墳
+    significado: Túmulo, tumba antigua
+    lectura: コフン
+    mascara: '-.--'
