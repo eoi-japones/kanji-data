@@ -1,0 +1,25 @@
+id: 呉
+nombre: Para *Go*zar de algo, primero debes _dar_lo
+tipo: puro
+señalizador: 呉
+lectura: ゴ
+integrantes:
+  - 娯
+  - 誤
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 呉服
+    significado: Tela (para hacer ropa)
+    lectura: ゴフク
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 娯楽
+    significado: Ocio, entretenimiento
+    lectura: ゴラク
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 誤解
+    significado: Malentendido
+    lectura: ゴカイ
+    mascara: '-.--'
