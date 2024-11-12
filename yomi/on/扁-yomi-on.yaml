@@ -1,0 +1,25 @@
+id: 扁
+nombre: El _censo_ de la *Hen*te diferente
+tipo: puro
+señalizador: 編
+lectura: ヘン
+integrantes:
+  - 偏
+  - 遍
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 編集
+    significado: Edición, redacción
+    lectura: ヘンシュウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 偏見
+    significado: Prejuicio
+    lectura: ヘンケン
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 普遍
+    significado: Universal
+    lectura: フヘン
+    mascara: '-.--'
