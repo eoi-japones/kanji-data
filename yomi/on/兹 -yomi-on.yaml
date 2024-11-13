@@ -1,0 +1,25 @@
+id: '兹 '
+nombre: Era Mei*Ji*, donde todo es el _doble_ de _misterioso_
+tipo: puro
+señalizador: 慈
+lectura: ジ
+integrantes:
+  - 磁
+  - 滋
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 慈愛
+    significado: Compasión y amor
+    lectura: ジアイ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 磁気
+    significado: Magnetismo
+    lectura: ジキ
+    mascara: '-.-'
+  ejemplo-3:
+    palabra: 滋養
+    significado: Alimentación
+    lectura: ジヨウ
+    mascara: '-.--'
