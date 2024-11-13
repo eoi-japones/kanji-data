@@ -1,0 +1,7 @@
+id: 姿
+clave: figura
+historia: >
+    Hay dos figuras humanas. La primera creada, la del hombre, y la segunda (次), la de la mujer (女).
+componentes: ['segundo', 'mujer']
+como_componente: []
+solo_componente: 0

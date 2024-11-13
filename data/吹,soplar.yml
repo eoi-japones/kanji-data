@@ -1,0 +1,7 @@
+id: 吹
+clave: soplar
+historia: >
+    Producir ausencia (欠) de aire en la boca (口).
+componentes: ['boca', 'ausencia']
+como_componente: []
+solo_componente: 0

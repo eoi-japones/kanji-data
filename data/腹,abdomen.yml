@@ -1,0 +1,7 @@
+id: 腹
+clave: abdomen
+historia: >
+    La parte del cuerpo (月) que hombres y mujeres pueden replegar (复).
+componentes: ['parte_del_cuerpo', 'replegar']
+como_componente: []
+solo_componente: 0

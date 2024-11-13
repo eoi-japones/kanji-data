@@ -1,0 +1,7 @@
+id: 複
+clave: duplicar
+historia: >
+    Los pliegues (复) en una capa (衤) siempre se van duplicando.
+componentes: ['capa', 'replegar']
+como_componente: []
+solo_componente: 0
