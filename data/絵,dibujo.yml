@@ -1,7 +1,7 @@
 id: 絵
 clave: dibujo
 historia: >
-    Una reunión (会) de hilos (糸) de colores.
+    Un dibujo es una reunión (会) de hilos (糸) de colores.
 componentes: ['hilo', 'reunión']
 como_componente: []
 solo_componente: 0
