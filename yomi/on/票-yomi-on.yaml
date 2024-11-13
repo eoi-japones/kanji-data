@@ -1,0 +1,25 @@
+id: 票
+nombre: '*Hyou*, sin voz pero con _voto_'
+tipo: puro
+señalizador: 票
+lectura: ヒョウ
+integrantes:
+  - 漂
+  - 標
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 投票
+    significado: Votación, sufragio
+    lectura: トウヒョウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 漂白
+    significado: Desteñimiento, decoloración
+    lectura: ヒョウハク
+    mascara: '---.--'
+  ejemplo-3:
+    palabra: 目標
+    significado: Blanco, diana, objetivo
+    lectura: モクヒョウ
+    mascara: '--.---'
