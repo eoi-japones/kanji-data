@@ -1,0 +1,32 @@
+id: 曹
+nombre: El _cadete_ *Sou*to
+tipo: puro
+señalizador: 曹
+lectura: ソウ
+integrantes:
+  - 曹
+  - 槽
+  - 遭
+  - 漕
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 法曹界
+    significado: Círculos legales, mundo jurídico
+    lectura: ホウソウカイ
+    mascara: '--.--.--'
+  ejemplo-2:
+    palabra: 水槽
+    significado: Tanque de agua, cisterna
+    lectura: スイソウ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 遭遇
+    significado: Encuentro
+    lectura: ソウグウ
+    mascara: '--.--'
+  ejemplo-4:
+    palabra: 回漕
+    significado: Transporte marítimo
+    lectura: カイソウ
+    mascara: '--.--'
