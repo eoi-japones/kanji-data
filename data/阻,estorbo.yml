@@ -1,0 +1,11 @@
+﻿clave: estorbo
+id: 阻
+historia: >-
+  Una persona trepa tiene una estantería (且) llena de los trofeos de la gente
+  que era un estorbo para llegar a la cúspide (⻖).
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '⻖,cúspide'
+como_componente:
+  - 'estorbo,阻'

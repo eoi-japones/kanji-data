@@ -1,0 +1,12 @@
+﻿clave: página
+id: 項
+historia: >-
+  Por unas monedas (貝) puedes conseguir una página de un libro del mal que, con
+  una (一) gota (丶) de conocimiento, te corrompe la cabeza.
+solo_componente: 0
+componentes:
+  - '貝,monedas'
+  - '一,uno'
+  - '丶,gota'
+como_componente:
+  - 'cabeza,項'

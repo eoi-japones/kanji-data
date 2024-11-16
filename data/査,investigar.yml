@@ -1,0 +1,11 @@
+﻿clave: investigar
+id: 査
+historia: >-
+  Según una investigación de IKEA, las estanterías (且) con más éxito entre los
+  compradores son las de madera (木).
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '木,madera'
+como_componente:
+  - 'investigar,査'

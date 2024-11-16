@@ -1,0 +1,11 @@
+﻿clave: placer
+id: 愉
+historia: >-
+  Para muchos el placer es tener el estado mental (⺖) de un carnicero (俞), sólo
+  dormir, comer... y lo otro.
+solo_componente: 0
+componentes:
+  - '俞,carnicero'
+  - '⺖,estado_mental'
+como_componente:
+  - 'placer,愉'

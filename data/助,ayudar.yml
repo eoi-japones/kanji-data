@@ -1,0 +1,11 @@
+﻿clave: ayudar
+id: 助
+historia: >-
+  Cuando no tienes suficiente fuerza (力) para mover una estantería (且),
+  preguntas si alguien te puede ayudar.
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '力,fuerza'
+como_componente:
+  - 'ayudar,助'

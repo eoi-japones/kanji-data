@@ -1,0 +1,11 @@
+﻿clave: asociación
+id: 組
+historia: >-
+  Todos los miembros de la asociación de costura reciben como regalo una
+  estantería (且) con hilos (糸) de todo el mundo.
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '糸,hilo'
+como_componente:
+  - 'asociación,組'

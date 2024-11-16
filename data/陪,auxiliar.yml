@@ -1,0 +1,11 @@
+﻿clave: auxiliar
+id: 陪
+historia: >-
+  Un buen auxiliar es aquel que te ayuda a llegar a la cúspide (⻖) y nunca dice
+  ni una palabra, como si tuviera una mordaza (咅).
+solo_componente: 0
+componentes:
+  - '⻖,cúspide'
+  - '咅,mordaza'
+como_componente:
+  - 'auxiliar,陪'

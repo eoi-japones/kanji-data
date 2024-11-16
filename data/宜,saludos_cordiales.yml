@@ -1,0 +1,11 @@
+﻿clave: saludos_cordiales
+id: 宜
+historia: >-
+  Cuando llegas a casa (宀) ajena, no te quedes plantado como una estantería (且).
+  Presenta tus saludos cordiales.
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '宀,casa'
+como_componente:
+  - 'saludos_cordiales,宜'
