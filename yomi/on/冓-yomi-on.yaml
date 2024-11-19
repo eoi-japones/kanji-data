@@ -1,0 +1,32 @@
+id: 冓
+nombre: Hay que enseñar a los niños a usar la _bacinica_ *kou*rrectamente
+tipo: puro
+señalizador: 冓
+lectura: コウ
+integrantes:
+  - 講
+  - 構
+  - 購
+  - 溝
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 講義
+    significado: Conferencia
+    lectura: コウギ
+    mascara: '--.-'
+  ejemplo-2:
+    palabra: 機構
+    significado: Organización, organismo
+    lectura: キコウ
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 購入
+    significado: Compra, adquisición
+    lectura: コウニュウ
+    mascara: '--.---'
+  ejemplo-4:
+    palabra: 排水溝
+    significado: Acequia, canal de drenaje
+    lectura: ハイスイコウ
+    mascara: '--.--.--'
