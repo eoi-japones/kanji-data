@@ -1,0 +1,25 @@
+id: 利
+nombre: _Beneficio_ a un *Ri* de distancia
+tipo: puro
+señalizador: 利
+lectura: リ
+integrantes:
+  - 梨
+  - 痢
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 利用
+    significado: Uso
+    lectura: リヨウ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 梨園
+    significado: El mundo del teatro
+    lectura: リエン
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 下痢
+    significado: Diarrea
+    lectura: ゲリ
+    mascara: '-.-'
