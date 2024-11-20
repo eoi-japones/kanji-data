@@ -1,0 +1,25 @@
+id: 求
+nombre: '*Kyuu*, la novena _solicitud_'
+tipo: puro
+señalizador: 求
+lectura: キュウ
+integrantes:
+  - 救
+  - 球
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 要求
+    significado: Demanda, petición
+    lectura: ヨウキュウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 救急車
+    significado: Ambulancia
+    lectura: キュウキュウシャ
+    mascara: '---.---.--'
+  ejemplo-3:
+    palabra: 野球
+    significado: Béisbol
+    lectura: ヤキュウ
+    mascara: '-.---'
