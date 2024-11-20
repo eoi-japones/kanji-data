@@ -1,0 +1,25 @@
+id: 二
+nombre: Zoro. *Ni* el uno *ni* el tres, el eterno _número_ _dos_
+tipo: puro
+señalizador: 二
+lectura: ニ
+integrantes:
+  - 弐
+  - 仁
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 十二
+    significado: Doce
+    lectura: ジュウニ
+    mascara: '---.-'
+  ejemplo-2:
+    palabra: 弐万円
+    significado: 20.000￥
+    lectura: ニマンエン
+    mascara: '-.--.--'
+  ejemplo-3:
+    palabra: 仁王門
+    significado: Puerta de templo con reyes Deva
+    lectura: ニオウモン
+    mascara: '-.--.--'
