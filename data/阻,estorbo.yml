@@ -1,0 +1,10 @@
+﻿historia: >-
+  Si un niño se interesa por algo de la cúspide (阝) de la estantería (且), es
+  mejor dárselo antes de que estorbe tirando con todo.
+id: 阻
+clave: estorbo
+solo_componente: 0
+componentes:
+  - cúspide
+  - estantería
+como_componente: []

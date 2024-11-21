@@ -1,0 +1,10 @@
+﻿historia: >-
+  Nada más burdo que rellenar una estantería (且) con arroz (米) sólo para no
+  quedar mal dejándola vacía.
+clave: burdo
+id: 粗
+solo_componente: 0
+componentes:
+  - arroz
+  - estantería
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 助
+historia: >-
+  Quieres mover una estantería (且), pero no tienes fuerza (力) para ello, por lo
+  que pides ayuda.
+clave: ayuda
+solo_componente: 0
+componentes:
+  - estantería
+  - fuerza
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 愉
+clave: placer
+historia: >-
+  El placer, para un carnicero (俞), es el estado mental (忄) que le otorga la
+  carne.
+solo_componente: 0
+componentes:
+  - estado_mental
+  - carnicero
+como_componente: []

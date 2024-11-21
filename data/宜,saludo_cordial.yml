@@ -1,0 +1,10 @@
+﻿id: 宜
+clave: saludo_cordial
+historia: >-
+  Al llegar a casa (宀) ajena, lo primero es presentar saludos cordiales. Siempre
+  es de recibo acompañarlos con un regalo que poner en la estantería (且).
+solo_componente: 0
+componentes:
+  - tejado
+  - estantería
+como_componente: []

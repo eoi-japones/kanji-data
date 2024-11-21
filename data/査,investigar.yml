@@ -1,0 +1,10 @@
+﻿id: 査
+clave: investigar
+historia: >-
+  Después de una investigación, Ikea determinó que la gente prefiere las
+  estanterías (且) de madera (木).
+solo_componente: 0
+componentes:
+  - árbol
+  - estantería
+como_componente: []

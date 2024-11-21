@@ -1,11 +1,10 @@
-id: 輸
-clave: transportar
+﻿id: 輸
 historia: >-
-  Vemos un camión o coche (車) que transporta la carne que espera el carnicero
-  (俞) para poder hacer su trabajo. Así que el vehículo estará repleto de carne
-  de pollo, cerdo y vacuno...
+  Si no quieres impregnar de mal olor tus bienes, nunca le pedirás el coche (車)
+  al carnicero (俞) para transportarlos.
+clave: transportar
+solo_componente: 0
 componentes:
   - coche
   - carnicero
 como_componente: []
-solo_componente: 0
