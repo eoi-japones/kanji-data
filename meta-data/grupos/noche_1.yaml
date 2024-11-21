@@ -1,0 +1,22 @@
+id: noche_1
+
+nombre: "La noche I"
+
+descripcion: >
+
+  Vamos a reservar un grupo de kanjis para *La* *Noche* y todo lo que tiene que ver con ella. 
+
+integrantes:
+
+    - 夕
+    - 多
+    - 汐
+    - 外
+    - 名
+    - 宵
+
+auxiliares: 
+  - id: 肖
+    para: 宵
+
+icono: "https://www.svgrepo.com/download/187800/moon.svg"
