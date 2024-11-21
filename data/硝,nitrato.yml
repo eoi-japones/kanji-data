@@ -1,0 +1,11 @@
+id: 硝
+clave: Nitrato
+historia: >
+  Siempre recordaremos ese experimento del instituto. Soltamos ácido nítrico sobre una piedra (石) y vemos con satisfación, y un poco de susto, 
+  como se va deshaciendo mientras saltan un montón de chispas (肖). 
+
+componentes:
+  - piedra
+  - chispas
+como_componente: []
+solo_componente: 0

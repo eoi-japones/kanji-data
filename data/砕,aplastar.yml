@@ -1,0 +1,12 @@
+id: 砕
+clave: Aplastar
+historia: >
+
+  Te puede quedar la cara y lo demás muy aplastado si te pones a jugar con tus amigos a darle a una piedra (石), 
+  con un bate (九) que habéis improvisado. Vais a acabar con la cabeza aplastada o, como mínimo con una brecha que os van a tener que coser con una aguja (十) en urgencias. 
+componentes:
+  - piedra
+  - nueve
+  - diez
+como_componente: []
+solo_componente: 0
