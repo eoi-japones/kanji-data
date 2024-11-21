@@ -1,0 +1,32 @@
+id: 氐
+nombre: Os ruego que acep*tei*s esta _tarjeta_ _de_ _visita_
+tipo: puro
+señalizador: 氐
+lectura: テイ
+integrantes:
+  - 低
+  - 抵
+  - 底
+  - 邸
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 低級
+    significado: De clase baja
+    lectura: テイキュウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 大抵
+    significado: En general, principalmente
+    lectura: タイテイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 海底
+    significado: Fondo del mar
+    lectura: カイテイ
+    mascara: '--.--'
+  ejemplo-4:
+    palabra: 私邸
+    significado: Residencia privada
+    lectura: シテイ
+    mascara: '-.--'
