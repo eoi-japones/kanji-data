@@ -1,0 +1,25 @@
+id: 尞
+nombre: La _caseta_ _de_ mi _perro_ *Ryou*
+tipo: puro
+señalizador: 僚
+lectura: リョウ
+integrantes:
+  - 寮
+  - 療
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 官僚
+    significado: Burocracia
+    lectura: カンリョウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 寮長
+    significado: Director de una residencia
+    lectura: リョウチョウ
+    mascara: '---.---'
+  ejemplo-3:
+    palabra: 療養
+    significado: Tratamiento médico, recuperación
+    lectura: リョウヨウ
+    mascara: '---.--'
