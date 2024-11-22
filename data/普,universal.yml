@@ -1,0 +1,8 @@
+﻿id: 普
+clave: universal
+historia: Todo el universo está construido de una enorme fila (並) de Soles (日).
+solo_componente: 0
+componentes:
+  - poner_en_fila
+  - sol
+como_componente: []

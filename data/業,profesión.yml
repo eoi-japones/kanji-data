@@ -1,0 +1,11 @@
+﻿historia: >-
+  Un alfarero está haciendo jarrones, poniéndolos boca abajo y en fila (並). Sin
+  embargo, no se pueden poner de ese modo, por lo que todavía (未) tiene mucho
+  que aprender de su profesión.
+clave: profesión
+id: 業
+solo_componente: 0
+componentes:
+  - poner_en_fila
+  - todavía
+como_componente: []

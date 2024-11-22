@@ -1,0 +1,11 @@
+﻿id: 撲
+clave: abofetear
+historia: >-
+  En un correccional para maridos (夫) infieles, los ponen boca abajo y en fila
+  (並) para abofetearlos sin parar con algo más que un simple dedo (扌).
+solo_componente: 0
+componentes:
+  - dedo
+  - poner_en_fila
+  - marido
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 湿
+clave: humedad
+historia: >-
+  Para poderse humedecer un poco los labios con agua (氵) en un desierto, hay que
+  pasarse en fila (日) todo el día (日).
+solo_componente: 0
+componentes:
+  - agua
+  - sol
+  - poner_en_fila
+como_componente: []

@@ -1,0 +1,12 @@
+﻿id: 畳
+clave: tatami
+historia: >-
+  Al pensar con el cerebro (田) en las dos únicas cosas que se necesitan para que
+  una habitación para sea la corona (冖) del minimalismo, la respuesta es una
+  estantería (且) y un tatami.
+solo_componente: 0
+componentes:
+  - cerebro
+  - corona
+  - estantería
+como_componente: []

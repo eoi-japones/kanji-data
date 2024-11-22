@@ -1,0 +1,12 @@
+﻿historia: >-
+  Un mal marido (夫) es la persona (亻) a la que no verás ponerse en fila (並)
+  para hacer una tarea doméstica. De hecho, si se le solicita se esconderá antes
+  que decir: ¡servidor!.
+id: 僕
+clave: servidor
+solo_componente: 0
+componentes:
+  - persona
+  - poner_en_fila
+  - marido
+como_componente: []
