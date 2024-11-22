@@ -1,0 +1,11 @@
+﻿id: 顕
+clave: manifestar
+historia: >-
+  Te pasas todo el día haciendo fila (並) bajo el Sol (日), boca arriba. Al poco
+  tiempo se manifiestan cosas en tu cabeza (頁) que no existen.
+solo_componente: 0
+componentes:
+  - sol
+  - poner_en_fila
+  - cabeza
+como_componente: []

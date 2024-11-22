@@ -1,0 +1,11 @@
+﻿id: 霊
+clave: espíritu
+historia: >-
+  En los días de mucha lluvia (雨) se pueden ver dos (二) filas (並) de espíritus.
+  Una que va hacia el cielo y otra que va al infierno.
+solo_componente: 0
+componentes:
+  - lluvia
+  - dos
+  - poner_en_fila
+como_componente: []

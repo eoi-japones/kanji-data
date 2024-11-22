@@ -1,0 +1,10 @@
+﻿id: 耕
+clave: labrar
+historia: >-
+  Delante de un árbol de Navidad (耒), o delante de un pozo (井), es donde pedimos
+  deseos. Y nuestro mayor deseo es labrarnos nuestra felicidad.
+solo_componente: 0
+componentes:
+  - árbol_de_navidad
+  - pozo
+como_componente: []

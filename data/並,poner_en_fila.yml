@@ -1,0 +1,7 @@
+﻿id: 並
+clave: poner_en_fila
+historia: Al menos un par de personas de pie (立) constituyen una fila.
+solo_componente: 0
+componentes:
+  - poner_en_pie
+como_componente: []

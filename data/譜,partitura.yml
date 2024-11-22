@@ -1,0 +1,10 @@
+﻿historia: >-
+  El lenguaje de palabras (言) universales (普) es la música, que podemos recoger
+  en una partitura.
+clave: partitura
+id: 譜
+solo_componente: 0
+componentes:
+  - palabra
+  - universal
+como_componente: []
