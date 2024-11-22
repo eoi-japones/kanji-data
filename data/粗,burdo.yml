@@ -1,0 +1,11 @@
+﻿clave: burdo
+id: 粗
+historia: >-
+  Como no tienes con qué llenar la estantería (且), para que no parezca tan
+  vacía, la llenas con burdo arroz (米).
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '米,arroz'
+como_componente:
+  - 'burdo,粗'

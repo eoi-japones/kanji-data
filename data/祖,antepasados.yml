@@ -1,0 +1,11 @@
+﻿clave: antepasados
+id: 祖
+historia: >-
+  Un japonés tradicional, cuando se va al extrajero, se llevan un altar (⺭)
+  portátil y lo colocan en la estantería (且) para honrar a sus antepasados.
+solo_componente: 0
+componentes:
+  - '且,estantería'
+  - '⺭,altar'
+como_componente:
+  - 'antepasados,祖'

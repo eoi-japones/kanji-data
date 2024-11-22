@@ -1,0 +1,10 @@
+﻿clave: estantería
+id: 且
+historia: >-
+  ¿Dónde pones aquello que quieres que esté a los ojos (目) de todos? En una
+  estantería. 
+solo_componente: 1
+componentes:
+  - '目,ojos'
+como_componente:
+  - 'estantería,且'
