@@ -1,0 +1,10 @@
+﻿id: 陪
+clave: auxiliar
+historia: >-
+  A la persona auxiliar que te ve llegar a la cúspide (阝), le pides que no diga
+  nada de lo que vea, aunque sea con una mordaza (咅).
+solo_componente: 0
+componentes:
+  - cúspide
+  - mordaza
+como_componente: []

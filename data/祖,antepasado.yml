@@ -1,0 +1,10 @@
+﻿historia: >-
+  Muchos japoneses en el extranjero se llevan una pequeña estantería (且) con un
+  altar (礻) para poder presentar respetos a sus antepasados.
+clave: antepasado
+id: 祖
+solo_componente: 0
+componentes:
+  - altar
+  - estantería
+como_componente: []
