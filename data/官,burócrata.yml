@@ -1,0 +1,10 @@
+﻿id: 官
+clave: burócrata
+historia: >-
+  El virtuoso (㠯) líder político que regresa a la casa (宀) de todos para luchar
+  contra los burócratas.
+solo_componente: 0
+componentes:
+  - tejado_de_casa
+  - virtuoso
+como_componente: []

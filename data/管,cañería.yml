@@ -1,0 +1,10 @@
+id: 管
+clave: cañería
+historia: "Al igual que al bambú (𥫗) hay que mantenerlo limpio para que no se
+tapone como una cañería, tampoco viene mal limpiar a los tapones en la
+burocracia (官) de vez en cuando."
+solo_componente: 0
+componentes:
+  - bambú
+  - burócrata
+como_componente: []

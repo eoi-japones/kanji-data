@@ -1,0 +1,13 @@
+﻿id: 鬼
+clave: oni
+historia: >-
+  Un oni normalmente no es muy inteligente, tiene un cerebro (田) del tamaño de
+  una gota (丶), pero es enorme. Tanto que tus codos (厶) no le llegan ni a las
+  piernas (儿).
+solo_componente: 0
+componentes:
+  - gota
+  - cerebro
+  - codo
+  - piernas
+como_componente: []
