@@ -1,0 +1,11 @@
+id: 摩
+clave: rozar
+historia: >-
+  La resina del cáñamo (麻) es muy peligrosa porque con solo rozarla con la mano
+  (手) ya te hace efecto.
+solo_componente: 0
+componentes:
+  - '麻,cáñamo'
+  - '手,mano'
+como_componente:
+  - 'rozar,摩'
