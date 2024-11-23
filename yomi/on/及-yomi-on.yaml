@@ -1,0 +1,26 @@
+id: 及
+nombre: Iba *kyuu*rrendo con las _manos extendidas_ y le _alcanzó_
+tipo: puro
+señalizador: 及
+lectura: キュウ
+integrantes:
+  - 及
+  - 吸
+  - 級
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 普及
+    significado: Diseminación, difusión
+    lectura: フキュウ
+    mascara: '-.---'
+  ejemplo-2:
+    palabra: 吸収
+    significado: Absorción
+    lectura: キュウシュウ
+    mascara: '---.---'
+  ejemplo-3:
+    palabra: 高級
+    significado: De alta calidad
+    lectura: コウキュウ
+    mascara: '--.---'
