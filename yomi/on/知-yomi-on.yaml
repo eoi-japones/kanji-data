@@ -1,0 +1,26 @@
+id: 知
+nombre: ¿Te _sabes_ este kanji? Claro que chi
+tipo: puro
+señalizador: 知
+lectura: チ
+integrantes:
+  - 知
+  - 痴
+  - 智
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 知恵
+    significado: Sabiduría
+    lectura: チエ
+    mascara: '-.-'
+  ejemplo-2:
+    palabra: 痴漢
+    significado: Pervertido
+    lectura: チカン
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 上智
+    significado: Sabiduría suprema
+    lectura: ジョウチ
+    mascara: '---.-'
