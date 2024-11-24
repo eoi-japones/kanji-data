@@ -1,8 +1,8 @@
 ﻿id: 囲
-clave: encerrar
+clave: Rodear
 historia: >-
   Una de las peores muertes es caer en un pozo (井). Por eso, todos los pozos
-  tienen que estar encerrados (囗).
+  tienen que estar encerrados (囗), para ello se *rodean* de paredes.
 solo_componente: 0
 componentes:
   - encerrado
