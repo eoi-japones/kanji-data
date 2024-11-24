@@ -1,0 +1,31 @@
+id: agua_3
+
+nombre: "Agua III"
+
+descripcion: >
+
+  Vamos a continuar hablando de kanji que tienen que ver con el agua. 
+  En este grupo metemos algunos elementos más que además nos serán útiles más adelante. 
+
+integrantes:
+    - 州
+    - 順
+    - 泉
+    - 沼
+    - 沖
+    - 江
+    - 潮
+    - 湖
+    - 測
+
+auxiliares: 
+  - id: 召
+    para: 沼
+  - id: 古
+    para: 湖
+  - id: 朝
+    para: 潮
+  - id: 則
+    para: 測
+
+icono: "https://www.svgrepo.com/download/275191/sea-life-fish.svg"
