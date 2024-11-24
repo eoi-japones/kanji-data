@@ -1,0 +1,26 @@
+id: 奴
+nombre: No pue*do* ni ver a ese _tipejo_
+tipo: puro
+señalizador: 奴
+lectura: ド
+integrantes:
+  - 奴
+  - 怒
+  - 努
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 奴隷
+    significado: Esclavo
+    lectura: ドレイ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 怒気
+    significado: Enfado, indignación
+    lectura: ドキ
+    mascara: '-.-'
+  ejemplo-3:
+    palabra: 努力
+    significado: Esfuerzo
+    lectura: ドリョク
+    mascara: '-.---'
