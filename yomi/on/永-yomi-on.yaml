@@ -1,0 +1,26 @@
+id: 永
+nombre: '*Ei*nstein será recordado durante toda la _eternidad_'
+tipo: puro
+señalizador: 永
+lectura: エイ
+integrantes:
+  - 永
+  - 泳
+  - 詠
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 永遠
+    significado: Eternidad
+    lectura: エイエン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 水泳
+    significado: Natación
+    lectura: スイエイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 詠歌
+    significado: Composición de una canción o poema
+    lectura: エイカ
+    mascara: '--.-'
