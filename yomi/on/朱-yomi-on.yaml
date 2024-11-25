@@ -1,0 +1,26 @@
+id: 朱
+nombre: Para hacer _enrojecer_ a alguien, lo *shu*yo es regalarle unas rosas _carmesí_
+tipo: puro
+señalizador: 朱
+lectura: シュ
+integrantes:
+  - 朱
+  - 殊
+  - 珠
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 朱筆
+    significado: Pincel rojo
+    lectura: シュヒツ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 特殊
+    significado: Especial, particular
+    lectura: トクシュ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 真珠
+    significado: Perla
+    lectura: シンジュ
+    mascara: '--.--'
