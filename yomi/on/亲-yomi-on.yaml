@@ -1,0 +1,26 @@
+id: 亲
+nombre: Unos tacos de cochinita pibil, pero *shin* _chile_ por favor
+tipo: puro
+señalizador: 亲
+lectura: シン
+integrantes:
+  - 新
+  - 薪
+  - 親
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 新聞
+    significado: Periódico, diario
+    lectura: シンブン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 薪水
+    significado: Combustible y agua
+    lectura: シンスイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 親切
+    significado: Amable, considerado
+    lectura: シンセツ
+    mascara: '--.--'
