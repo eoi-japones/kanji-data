@@ -1,0 +1,27 @@
+id: 采
+nombre: Al _águila_ _vegana_ le gusta rechupetear la *sai*bia de los árboles
+tipo: puro
+señalizador: 采
+lectura: サイ
+integrantes:
+  - 采
+  - 採
+  - 菜
+  - 彩
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 採点
+    significado: Puntuación de exámenes
+    lectura: サイテン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 野菜
+    significado: Verduras
+    lectura: ヤサイ
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 彩色
+    significado: Coloreado, coloración
+    lectura: サイシキ
+    mascara: '--.--'
