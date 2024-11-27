@@ -1,0 +1,26 @@
+id: 先
+nombre: Me *sen*té _delante_ porque no veía nada
+tipo: puro
+señalizador: 先
+lectura: セン
+integrantes:
+  - 先
+  - 洗
+  - 銑
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 先生
+    significado: Profesor, maestro
+    lectura: センセイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 洗車
+    significado: Lavado de un vehículo
+    lectura: センシャ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 銑鉄
+    significado: Hierro en lingotes
+    lectura: センテツ
+    mascara: '--.--'
