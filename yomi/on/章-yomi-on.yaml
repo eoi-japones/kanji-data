@@ -1,0 +1,26 @@
+id: 章
+nombre: Mi sensei me ha dado una _insignia_ por sacar muchos *shou*bresalientes
+tipo: puro
+señalizador: 章
+lectura: ショウ
+integrantes:
+  - 章
+  - 彰
+  - 障
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 文章
+    significado: Frase, oración
+    lectura: ブンショウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 表彰
+    significado: Condecoración
+    lectura: ヒョウショウ
+    mascara: '---.---'
+  ejemplo-3:
+    palabra: 障子
+    significado: Biombo de papel japonés
+    lectura: ショウジ
+    mascara: '---.-'
