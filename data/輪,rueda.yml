@@ -1,0 +1,10 @@
+﻿id: 輪
+clave: rueda
+historia: >-
+  Vigila bien tu coche (車) después de una reunión de vecinos (侖). Cualquiera
+  podría querer pincharte una rueda.
+solo_componente: 0
+componentes:
+  - coche
+  - reunión_de_vecinos
+como_componente: []

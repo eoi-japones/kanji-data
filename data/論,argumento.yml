@@ -1,0 +1,10 @@
+﻿id: 論
+clave: argumento
+historia: >-
+  Las palabras (言) que utilizo en una reunión de vecinos (侖) deberían ser
+  argumentos racionales.
+solo_componente: 0
+componentes:
+  - palabra
+  - reunión_de_vecinos
+como_componente: []

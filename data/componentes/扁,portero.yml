@@ -1,0 +1,8 @@
+﻿id: 扁
+clave: '*portero'
+historia: "Al buen portero lo verás siempre atendiendo la puerta (戸) y con un bloc de notas (冊) para apuntar todo aquello de lo que se le notifique."
+solo_componente: 1
+componentes:
+  - puerta
+  - bloc_de_notas
+como_componente: []

@@ -1,0 +1,8 @@
+﻿id: 侖
+clave: '*reunión_de_vecinos'
+historia: "Para intentar que una reunión de vecinos llegue a buen término, se debe encajar (亼) como se pueda cada propuesta en un bloc de notas (𠕁)."
+solo_componente: 1
+componentes:
+  - encajar
+  - bloc_de_notas
+como_componente: []

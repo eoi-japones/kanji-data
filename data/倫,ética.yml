@@ -1,0 +1,10 @@
+﻿id: 倫
+clave: ética
+historia: >-
+  Toda persona (亻) que vaya a una reunión de vecinos (侖) debe abandonar su
+  ética.
+solo_componente: 0
+componentes:
+  - persona
+  - reunión_de_vecinos
+como_componente: []
