@@ -1,0 +1,25 @@
+id: 壮
+nombre: Es *Sou*rprendente lo _robusto_ que es este método
+tipo: puro
+señalizador: 壮
+lectura: ソウ
+integrantes:
+  - 荘
+  - 装
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 壮大
+    significado: Grandiosidad, Magnificencia
+    lectura: ソウダイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 別荘
+    significado: Chalet, Casa de campo
+    lectura: ベッソウ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 服装
+    significado: Vestido, Traje, Ropa
+    lectura: フクソウ
+    mascara: '--.--'
