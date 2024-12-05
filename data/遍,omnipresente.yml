@@ -1,0 +1,10 @@
+﻿id: 遍
+clave: omnipresente
+historia: >-
+  La figura del portero (扁) es omnipresente en el camino (辶) a cualquier
+  discoteca.
+solo_componente: 0
+componentes:
+  - camino
+  - portero
+como_componente: []

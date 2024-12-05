@@ -1,0 +1,10 @@
+﻿id: 触
+clave: contacto
+historia: >-
+  Te encuentras con un insecto (虫) tan asqueroso, que no querrías hacer contacto
+  con él ni con una escuadra (角).
+solo_componente: 0
+componentes:
+  - escuadra
+  - insecto
+como_componente: []

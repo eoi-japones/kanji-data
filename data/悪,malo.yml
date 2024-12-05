@@ -1,0 +1,8 @@
+﻿id: 悪
+clave: malo
+historia: Todas las sustancias malas para el corazón (心) vienen de Asia (亜).
+solo_componente: 0
+componentes:
+  - asia
+  - corazón
+como_componente: []

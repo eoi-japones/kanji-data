@@ -1,0 +1,13 @@
+﻿id: 角
+clave: ángulo
+historia: >-
+  Utilizando un bastón (｜) atado (勹) a una cuerda, y poniéndolo perpendicular al
+  suelo como una escuadra, puedes trazar ángulos tan perfectos como los de la
+  misma luna (月).
+solo_componente: 0
+componentes:
+  - atado
+  - luna
+  - bastón
+como_componente:
+  - 'escuadra,角'

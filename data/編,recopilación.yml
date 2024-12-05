@@ -1,0 +1,10 @@
+﻿id: 編
+clave: recopilación
+historia: >-
+  Un portero (扁) tan bruto que tiene una recopilación de los dientes de la gente
+  a la que golpeó en un hilo (糸) de seda como colgante.
+solo_componente: 0
+componentes:
+  - hilo
+  - portero
+como_componente: []
