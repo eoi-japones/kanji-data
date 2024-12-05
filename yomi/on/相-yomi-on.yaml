@@ -1,0 +1,25 @@
+id: 相
+nombre: El _Inter_medio llega por *Sou*rpresa
+tipo: puro
+señalizador: 相
+lectura: ソウ
+integrantes:
+  - 想
+  - 霜
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 相談
+    significado: Consulta
+    lectura: ソウダン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 思想
+    significado: Pensamiento
+    lectura: シソウ
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 霜害
+    significado: Daños por congelación
+    lectura: ソウガイ
+    mascara: '--.--'
