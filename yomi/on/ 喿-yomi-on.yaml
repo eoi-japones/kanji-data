@@ -1,0 +1,25 @@
+id: ' 喿'
+nombre: No te *Sou*rprendas si ese _cilindro_ _de_ _algodón_ se deshace
+tipo: puro
+señalizador: 燥
+lectura: ソウ
+integrantes:
+  - 操
+  - 藻
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 乾燥
+    significado: Sequedad
+    lectura: カンソウ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 操縦
+    significado: Pilotaje, Manejo, Conducción
+    lectura: ソウジュウ
+    mascara: '--.---'
+  ejemplo-3:
+    palabra: 海藻
+    significado: Alga de mar
+    lectura: カイソウ
+    mascara: '--.--'

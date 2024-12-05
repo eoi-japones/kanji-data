@@ -1,0 +1,25 @@
+id: 州
+nombre: Hon*Shuu*, el _estado_ central japonés
+tipo: puro
+señalizador: 州
+lectura: シュウ
+integrantes:
+  - 洲
+  - 酬
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 本州
+    significado: Isla principal de Japón
+    lectura: ホンシュウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 六大洲
+    significado: Los 'seis' continentes
+    lectura: ロクダイシュウ
+    mascara: '--.--.---'
+  ejemplo-3:
+    palabra: 応酬
+    significado: Respuesta ingeniosa, réplica
+    lectura: オウシュウ
+    mascara: '--.---'

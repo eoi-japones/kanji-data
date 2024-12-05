@@ -1,0 +1,25 @@
+id: 則
+nombre: ¡*Soku*rroooo! esta _norma_ es un lío
+tipo: puro
+señalizador: 則
+lectura: ソク
+integrantes:
+  - 測
+  - 側
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 反則
+    significado: Falta, Infracción
+    lectura: ハンソク
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 測量
+    significado: Estudio, Sondeo
+    lectura: ソクリョウ
+    mascara: '--.---'
+  ejemplo-3:
+    palabra: 側面
+    significado: Aspecto, Faceta
+    lectura: ソクメン
+    mascara: '--.--'
