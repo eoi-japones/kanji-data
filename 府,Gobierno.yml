@@ -1,0 +1,10 @@
+﻿historia: >-
+  Desde que vivíamos en _cuevas_ (广), cuando se han _acoplado_ (付) como mínimo
+  dos personas, se ha formado un *gobierno*
+id: 府
+clave: Gobierno
+solo_componente: 1
+componentes:
+  - Cueva
+  - Acoplado
+como_componente: []
