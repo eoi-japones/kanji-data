@@ -1,11 +1,10 @@
 id: 皇
 clave: Emperador
 historia: |
-
-  El emperador es alguien que está por encima de los reyes (王) y que, se decía, que tenía conexión directa con los dioses. 
+  El *emperador* es alguien que está por encima de los reyes (王) y que, se decía, tenía conexión directa con los dioses. 
   Se podía comunicar con ellos a través de una paloma blanca (白).
 componentes:
-  - blanco
+  - paloma_blanca
   - rey
 como_componente: []
 solo_componente: 0
