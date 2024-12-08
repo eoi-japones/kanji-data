@@ -1,0 +1,12 @@
+﻿id: 甫
+clave: Chapa_de_perro
+historia: >-
+  Tenemos _una_ (一) *chapa de perro* rota, intentamos arreglarla con un
+  _destornillador_ (用), pero el perro se resiste y nos hace sudar la _gota_ 
+  (丶)gorda.
+solo_componente: 1
+componentes:
+  - Uno
+  - Destornillador
+  - Gota
+como_componente: []

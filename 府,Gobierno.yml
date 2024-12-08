@@ -1,0 +1,10 @@
+﻿historia: >-
+  Un *gobierno*, cualquier forma de gobierno, es algo que vive acoplado (付) a la gente desde que vivíamos en cuevas (广).
+  La gente se organiza de forma espontánea y construye estructuras y jerarquías. Es algo consustancial al ser humano.
+id: 府
+clave: Gobierno
+solo_componente: 1
+componentes:
+  - Cueva
+  - Acoplado
+como_componente: []
