@@ -1,0 +1,10 @@
+﻿clave: vasija_con_tapa
+historia: Una vasija con tapa tiene una boca (口) y está hecha con tierra (士).
+id: 吉
+solo_componente: 1
+componentes:
+  - '口,boca'
+  - '士,tierra'
+como_componente:
+  - 'vasija_con_tapa,吉'
+  - 'spray,吉'
