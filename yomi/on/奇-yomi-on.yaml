@@ -1,0 +1,26 @@
+id: 奇
+nombre: ¿*Ki*én será ese _extraño_?
+tipo: puro
+señalizador: 奇
+lectura: キ
+integrantes:
+  - 奇
+  - 寄
+  - 騎
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 奇数
+    significado: Número impar
+    lectura: キスウ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 寄付
+    significado: Donativo
+    lectura: キフ
+    mascara: '-.-'
+  ejemplo-3:
+    palabra: 騎士
+    significado: Caballero, guerrero
+    lectura: キシ
+    mascara: '-.-'
