@@ -1,0 +1,26 @@
+id: 過
+nombre: Si te estuvieses *ka*llado, no te dolería la _mandíbula_
+tipo: puro
+señalizador: 過
+lectura: カ
+integrantes:
+  - 過
+  - 渦
+  - 禍
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 通過
+    significado: Tránsito, pasaje
+    lectura: ツウカ
+    mascara: '--.-'
+  ejemplo-2:
+    palabra: 渦中
+    significado: En un remolino
+    lectura: カチュウ
+    mascara: '-.---'
+  ejemplo-3:
+    palabra: 禍福
+    significado: Desgracia y fortuna
+    lectura: カフク
+    mascara: '-.--'
