@@ -1,0 +1,10 @@
+﻿historia: >-
+  Las *tarifas* sobre el trigo (禾) son tantas y tan variadas que podrían llenar
+  una estantería (且) entera.
+clave: Tarifa
+id: 租
+solo_componente: 1
+componentes:
+  - Trigo
+  - Estantería
+como_componente: []

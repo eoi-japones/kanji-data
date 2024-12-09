@@ -1,0 +1,10 @@
+﻿historia: >-
+  En Japón, a las personas (亻) que no tienen tarjeta de visita (氐) se las rebaja
+  socialmente, es decir, se las considera de clase social baja.
+clave: Rebajar
+id: 低
+solo_componente: 0
+componentes:
+  - Persona
+  - Tarjeta_de_visita
+como_componente: []
