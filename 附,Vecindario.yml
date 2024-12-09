@@ -1,0 +1,10 @@
+﻿historia: >-
+  ¿En qué *vecindario* nos gustaría vivir? Cuando llegamos a uno que está en la
+  cúspide (阝), intentamos acoplarnos (付) bien para no bajarnos de él.
+id: 附
+clave: Vecindario
+solo_componente: 1
+componentes:
+  - Cúspide
+  - Acoplado
+como_componente: []
