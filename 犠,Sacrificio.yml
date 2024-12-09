@@ -1,0 +1,11 @@
+﻿historia: >-
+  Una vaca (牛) es una madre excelente, siempre cuidando de sus crías. La virtud
+  (義) de una vaca radica en su disposición a realizar cualquier *sacrificio* por
+  el bienestar de esas crías.
+id: 犠
+clave: Sacrificio
+solo_componente: 1
+componentes:
+  - Vaca
+  - Virtud
+como_componente: []

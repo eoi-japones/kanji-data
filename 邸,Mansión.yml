@@ -1,0 +1,10 @@
+﻿id: 邸
+clave: Mansión
+historia: >-
+  Para acceder a una *mansión* rodeada de murallas (阝) que la protegen, hay que
+  enseñar la tarjeta de visita (氐) en la entrada.
+solo_componente: 0
+componentes:
+  - Tarjeta_de_visita
+  - Murallas
+como_componente: []

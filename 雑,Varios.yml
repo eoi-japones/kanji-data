@@ -1,0 +1,11 @@
+﻿id: 雑
+clave: Varios
+historia: >-
+  Con un bate (九) podemos dispersar fácilmente a *varios* avestruces (隹) que se
+  han reunido bajo un árbol (木).
+solo_componente: 1
+componentes:
+  - Bate
+  - Avestruz
+  - Árbol
+como_componente: []

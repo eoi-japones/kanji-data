@@ -1,0 +1,10 @@
+﻿id: 議
+clave: Deliberación
+historia: >-
+  En cualquier *deliberación*, podemos hallar la virtud (義) en las palabras (言)
+  que usamos.
+solo_componente: 1
+componentes:
+  - Palabras
+  - Virtud
+como_componente: []
