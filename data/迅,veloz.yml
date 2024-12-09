@@ -1,8 +1,8 @@
 ﻿id: 迅
 clave: veloz
 historia: >-
-  Una señal indicando que, tras pasar el cruce (辻), los pescadores principiantes
-  pueden comenzar a pescar (⺄) velozmente.
+  Una señal indica que, tras pasar el cruce (辻), los pescadores principiantes 
+  pueden comenzar a pescar, y el más veloz en lanzar su anzuelo (⺄) será el primero en atrapar algo.
 solo_componente: 0
 componentes:
   - cruce
