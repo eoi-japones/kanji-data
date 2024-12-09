@@ -1,0 +1,26 @@
+id: 廷
+nombre: 'Abogados, es imprescindible que no desaca*téi*s al _tribunal_ '
+tipo: puro
+señalizador: 廷
+lectura: テイ
+integrantes:
+  - 廷
+  - 艇
+  - 庭
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 出廷
+    significado: Comparecencia ante un tribunal
+    lectura: シュッテイ
+    mascara: '---.--'
+  ejemplo-2:
+    palabra: 艦艇
+    significado: Buques, flota
+    lectura: カンテイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 校庭
+    significado: Terrenos de una escuela, campus
+    lectura: コウテイ
+    mascara: '--.--'
