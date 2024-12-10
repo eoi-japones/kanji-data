@@ -1,0 +1,11 @@
+﻿id: 抵
+clave: Rebatir
+historia: >-
+  Una buena forma de *rebatir* cualquier objeción, sobre todo a nivel
+  empresarial, es sostener entre los dedos (扌) una tarjeta de visita (氐) que
+  muestre tu capacitación.
+solo_componente: 0
+componentes:
+  - Dedo
+  - Tarjeta_de_visita
+como_componente: []

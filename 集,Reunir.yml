@@ -1,0 +1,10 @@
+﻿id: 集
+clave: Reunir
+historia: >-
+  Las avestruces (隹) siempre se tienen que *reunir* bajo el árbol (木) más
+  grande, debido a su tamaño.
+solo_componente: 1
+componentes:
+  - Avestruz
+  - Árbol
+como_componente: []

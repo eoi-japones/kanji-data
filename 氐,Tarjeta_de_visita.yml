@@ -1,0 +1,10 @@
+﻿historia: >-
+  En una *tarjeta* *de* *visita* suele figurar nuestro nombre de familia (氏) , a
+  modo de una (一) presentación rápida.
+clave: Tarjeta_de_visita
+id: 氐
+solo_componente: 1
+componentes:
+  - Nombre_de_familia
+  - Uno
+como_componente: []

@@ -1,0 +1,10 @@
+﻿clave: Expandir
+id: 伸
+historia: >-
+  El protagonista de One Piece, Monkey D. Luffy, es una persona (亻)
+  despreocupada como un mono (申), que además tiene la habilidad de *expandirse*.
+solo_componente: 1
+componentes:
+  - Persona
+  - Mono
+como_componente: []

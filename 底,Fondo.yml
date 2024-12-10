@@ -1,0 +1,10 @@
+﻿id: 底
+clave: Fondo
+historia: >-
+  Sería muy extraño encontrar una tarjeta de visita (氐) en el *fondo* de una
+  cueva (广).
+solo_componente: 0
+componentes:
+  - Tarjeta_de_visita
+  - Cueva
+como_componente: []
