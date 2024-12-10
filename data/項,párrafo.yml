@@ -2,10 +2,10 @@ id: 項
 clave: párrafo
 historia: >-
   Pensamos en alguien que tiene una prosa muy pesada, así que cada *párrafo* de
-  su escritura es como una *viga* de hierro (工)
+  su escritura es como una viga (工) de hierro.
 
 
   ¡imaginaos lo horrible que será leer una sola página (頁) de su escritura!
-componentes: []
+componentes: ['viga,工' 'página,頁 ]
 como_componente: []
 solo_componente: 0
