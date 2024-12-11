@@ -2,7 +2,7 @@ id: 刀
 clave: espada
 historia: |
 
-  La espada cortó el trazo de la fuerza.
+  La *espada* cortó el trazo de la fuerza.
 componentes: []
-como_componente: []
+como_componente: ['sable,刂','katana,刀']
 solo_componente: 0
