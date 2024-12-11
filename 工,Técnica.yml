@@ -1,0 +1,16 @@
+﻿historia: >-
+  Con un poco de imaginación, es fácil identificar en este carácter la
+  estructura de una viga de doble T (工), que conecta el suelo (一) con el techo
+  (一). No hay mejor símbolo para representar la *técnica* en general que este
+  elemento fundamental de la _ingeniería_ (工) moderna, una robusta _viga_ (工) de
+  acero.
+id: 工
+clave: Técnica
+solo_componente: 0
+componentes:
+  - Techo
+  - Suelo
+como_componente:
+  - 'viga,工'
+  - 'artificial,工'
+  - 'ingeniería,工'

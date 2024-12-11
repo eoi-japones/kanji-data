@@ -1,0 +1,14 @@
+﻿id: 啇
+clave: Antigualla
+historia: >-
+  Podemos ver un jarrón (立) encima de una vitrina (冂) de cristal porque es muy,
+  pero que muy viejo (古), es una *antigualla*.
+
+  Si nos fijamos, el trazo inferior del componente de jarrón se solapa con el de
+  vitrina.
+solo_componente: 1
+componentes:
+  - Jarrón
+  - Vitrina
+  - Viejo
+como_componente: []

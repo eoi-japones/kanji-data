@@ -1,0 +1,12 @@
+﻿historia: >-
+  En Galicia, cada casa tiene un *nombre* *de* *familia*, un apodo, que los
+  tiene atrapados y del que no se pueden librar como truchas en anzuelo (⺄).
+  Además, permite identificarlos a la velocidad de la flecha (弋). Algunos son
+  tan embarazosos, que la gota final de la flecha cae hasta el fondo del kanji.
+id: 氏
+clave: Nombre_de_familia
+solo_componente: 0
+componentes:
+  - Anzuelo
+  - Flecha
+como_componente: []
