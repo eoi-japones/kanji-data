@@ -2,11 +2,13 @@ id: "𠂤"
 clave: '*virtuoso'
 solo_componente: 1
 historia: >-
-  Vemos a u *virtuoso*, la gota (丶) representa el sudor que le ha costado llegar
+  Vemos a un *virtuoso*, la gota (丶) representa el sudor que le ha costado llegar
   a ese nivel y las dos bocas (口) son aquellas que antes le criticaban y ahora
   le alaban. 
 
   Por último el palo (｜) representa la disciplina que requiere llegar a ese
   nivel de virtuosismo. 
+
+  En su uso como componente puede perder la gota.
 componentes: []
-como_componente: []
+como_componente: ['virtuoso,㠯']
