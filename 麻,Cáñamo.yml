@@ -1,0 +1,10 @@
+﻿id: 麻
+clave: Cáñamo
+historia: >-
+  En una cueva (广) oculta entre una frondosa arboleda (林), los antiguos
+  cultivaban *cáñamo*, protegiendo así este valioso recurso.
+solo_componente: 0
+componentes:
+  - Cueva
+  - Arboleda
+como_componente: []
