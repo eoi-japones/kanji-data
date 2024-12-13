@@ -1,7 +1,7 @@
 id: 宵
 clave: anochecer
 historia: >
-    En casa (宀) está de noche el escritor, esperando la inspiración frente a una vela (肖).
+  Al *anochecer*, cuando estamos en casa (宀), es mejor encender una vela (肖) o nos daremos un buen tortazo.
 componentes: ['tejado_casa', 'vela']
 como_componente: []
 solo_componente: 0
