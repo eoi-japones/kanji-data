@@ -1,7 +1,8 @@
 id: 肖
 clave: semejanza
 historia: >
-    Todos tenemos partes del cuerpo (月) un poco (少) de semejanza (física) con nuestros padres.
-componentes: ['poco', 'parte_del_cuerpo']
-como_componente: ['chispa', 'vela']
+    Las partes del cuerpo (月) que tenemos incluyen una pequeña (小) fracción que es única y propia; el resto refleja la *semejanza* física con nuestros padres o ancestros.
+    Como componente le daremos el sentido de *chispa* o *vela*. 
+componentes: ['pequeño', 'parte_del_cuerpo']
+como_componente: ['chispa,肖', 'vela,肖']
 solo_componente: 0
