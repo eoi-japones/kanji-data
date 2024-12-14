@@ -5,13 +5,15 @@ solo_componente: 1
 clave: '*capataz'
 
 historia: >-
-  Vemos un bastón, de mando, sostenido por alguien con las piernas cruzadas. 
 
-  Es la imagen de un terrible capataz. Para recordarlo, podéis imaginar a
-  alguien que ha sido un firme capataz en vuestra vida. 
+  Un capataz brutal, dominante, tiránico. 
 
-  Hay que diferenciarlo del kanji de mujer (女) y de de piernas andantes. 
+  Si no te reclinas (𠂉) ante él, puedes recibir un duro golpe en la entrepierna (又). 
 
-componentes: []
+  Hay que diferenciarlo del kanji de mujer (女) y de de piernas andantes (夂). 
+
+componentes: 
+  - reclinar
+  - entrepierna
 
 como_componente: []
