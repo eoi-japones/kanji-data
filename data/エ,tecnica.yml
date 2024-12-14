@@ -3,13 +3,17 @@ id: エ
 clave: Técnica
 
 historia: >
-    
-    Es como una viga de doble T. Esta es el resultado del desarrollo de la técnica humana y un símbolo de la técnica arquitectónica moderna.
+  Con un poco de imaginación, es fácil identificar en este carácter la
+  estructura de una viga de doble T (工), que conecta el suelo (一) con el techo
+  (一). No hay mejor símbolo para representar la *técnica* en general que este
+  elemento fundamental de la _ingeniería_ (工) moderna, una robusta _viga_ (工) de
+  acero.
 
 componentes: []
 
 como_componente: 
-    - viga,エ
-    - técnica,エ
+  - viga,エ
+  - 'artificial,工'
+  - 'ingeniería,工'
 
 solo_componente: 0
