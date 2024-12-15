@@ -1,0 +1,10 @@
+﻿historia: >-
+  A mucha gente le da vergüenza decir su signo zodiacal aunque sea tan imponente
+  como el del dragón (辰), porque pegado (寸) a él va la edad que se tiene.
+id: 辱
+clave: avergonzar
+solo_componente: 0
+componentes:
+  - dragón_signo
+  - pegado_a
+como_componente: []

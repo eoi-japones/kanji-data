@@ -1,0 +1,10 @@
+﻿id: 濃
+clave: concentrado
+historia: >-
+  Los productos de agricultura (農) vienen siempre muy concentrados, por lo que
+  hay que echarles agua (氵) antes de poder usarlos.
+solo_componente: 0
+componentes:
+  - agua
+  - agricultura
+como_componente: []
