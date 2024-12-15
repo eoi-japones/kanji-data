@@ -3,7 +3,7 @@ id: 神
 historia: >-
   Vemos un altar (礻) donde se puede tomar la palabra (申) para comunicarse con
   los *dioses*.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - Altar
   - Tomar_la_palabra
