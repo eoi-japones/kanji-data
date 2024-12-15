@@ -1,0 +1,7 @@
+id: 芳
+clave: perfumado
+historia: >
+    Una tienda tan perfumada con flores (艹), que necesitas una brújula (方) para no perder el norte al marearte.
+componentes: ['flor', 'brújula']
+como_componente: []
+solo_componente: 0

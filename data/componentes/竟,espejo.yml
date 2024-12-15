@@ -1,0 +1,7 @@
+id: 竟
+clave: '*espejo'
+historia: >
+    Una persona hablando (音) para sí posando (儿) frente al espejo.
+componentes: ['sonido', 'piernas']
+como_componente: []
+solo_componente: 1
