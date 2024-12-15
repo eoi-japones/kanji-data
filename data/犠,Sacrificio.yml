@@ -4,7 +4,7 @@
   el bienestar de esas crías.
 id: 犠
 clave: Sacrificio
-solo_componente: 1
+solo_componente: 0
 componentes:
   - Vaca
   - Virtud
