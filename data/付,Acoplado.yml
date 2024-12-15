@@ -1,7 +1,7 @@
 ﻿id: 付
 clave: Acoplado
-historia: 'Una _persona_ (亻) que está _pegado_ _a_ (寸) nosotros, es un *acoplado*'
-solo_componente: 1
+historia: 'Una persona (亻) que está pegado a (寸) nosotros, es un *acoplado*'
+solo_componente: 0
 componentes:
   - Persona
   - Pegado_a
