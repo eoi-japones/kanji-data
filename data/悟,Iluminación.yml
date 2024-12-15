@@ -3,7 +3,7 @@ clave: Iluminación
 historia: >-
   Alcanzar la *Iluminación* es llegar a un estado mental (忄) en el que te
   aíslas, eliminando tus cinco sentidos y sintiendo solo tu yo interior (吾).
-solo_componente: 1
+solo_componente: 0
 componentes:
   - Estado_mental
   - Yo_interior
