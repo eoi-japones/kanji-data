@@ -2,8 +2,8 @@
 id: 紳
 historia: >-
   Aunque vistas al mono (申) con hilo (糸) de seda, nunca será un *caballero*, al
-  que solo sus valores lo definen.
-solo_componente: 1
+  que solo sus valores definen.
+solo_componente: 0
 componentes:
   - Hilo
   - Mono
