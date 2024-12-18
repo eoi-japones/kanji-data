@@ -1,8 +1,8 @@
 ﻿id: 典
 clave: código
 historia: >-
-  Un código es un conjunto de normas, que son una gran herramienta (一),(ハ)
-  mientras que no se puedan doblegar (曲).
+  Un código es un conjunto de normas, que son una gran herramienta
+  (#banco_de_herramientas) mientras que no se puedan doblegar (曲).
 solo_componente: 0
 componentes:
   - doblegar
