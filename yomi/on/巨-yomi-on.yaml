@@ -1,0 +1,26 @@
+id: 巨
+nombre: ¡*Kyo*ncho! Hay un bicho _gigantesco_ en el baño...
+tipo: puro
+señalizador: 巨
+lectura: キョ
+integrantes:
+  - 巨
+  - 拒
+  - 距
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 巨人
+    significado: Gigante
+    lectura: キョジン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 拒否
+    significado: Negativa, rechazo
+    lectura: キョヒ
+    mascara: '--.-'
+  ejemplo-3:
+    palabra: 距離
+    significado: Distancia
+    lectura: キョリ
+    mascara: '--.-'
