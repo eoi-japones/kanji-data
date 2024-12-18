@@ -1,0 +1,10 @@
+﻿id: 震
+clave: seísmo
+historia: >-
+  Hay que estar muy atento a la lluvia (雨) en los años del signo del dragón (辰),
+  porque permite predecir los terremotos.
+solo_componente: 0
+componentes:
+  - lluvia
+  - dragón_signo
+como_componente: []

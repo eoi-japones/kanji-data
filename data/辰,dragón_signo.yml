@@ -1,0 +1,13 @@
+﻿id: 辰
+clave: dragón_signo
+historia: >-
+  Muchas historias hablan sobre cómo ciertas parejas ven su amor rechazado por
+  sus familias. En una de ellas, ambos (二) deciden arrojarse juntos por un
+  barranco (厂), describiendo la figura de un dragón en caída. En su memoria, los
+  jóvenes llevan la horquilla (镸) de un dragón.
+solo_componente: 0
+componentes:
+  - barranco
+  - dos
+  - horquilla
+como_componente: []

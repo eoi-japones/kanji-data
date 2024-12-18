@@ -1,0 +1,10 @@
+﻿id: 農
+clave: agricultura
+historia: >-
+  Durante el año del dragón (辰) no doblegábamos (曲) la tierra, sino que la
+  dejábamos reposar, sin agricultura.
+solo_componente: 0
+componentes:
+  - doblegar
+  - dragón_signo
+como_componente: []
