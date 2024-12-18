@@ -1,0 +1,26 @@
+id: 亢
+nombre: ¡*Kou*ran a sus casas, que viene un _tornado_!
+tipo: puro
+señalizador: 亢
+lectura: コウ
+integrantes:
+  - 坑
+  - 航
+  - 抗
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 坑道
+    significado: Galería de una mina
+    lectura: コウドウ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 航海
+    significado: Viaje por mar, cruce del océano
+    lectura: コウカイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 抵抗
+    significado: Resistencia
+    lectura: テイコウ
+    mascara: '--.--'
