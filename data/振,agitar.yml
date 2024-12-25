@@ -1,0 +1,11 @@
+﻿id: 振
+clave: agitar
+historia: >-
+  Montar sobre un dragón (辰) puede no ser buena idea con lo mucho que se agita.
+  Pero si es necesario, mejor clavar bien los dedos (扌) entre sus escamas para
+  no caer.
+solo_componente: 0
+componentes:
+  - dedo
+  - dragón_signo
+como_componente: []

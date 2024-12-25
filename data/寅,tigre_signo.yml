@@ -1,0 +1,13 @@
+﻿id: 寅
+clave: tigre_signo
+historia: >-
+  Cuando marcaban una casa (宀) con el signo del tigre, sus habitantes estaban
+  condenados a morir. Lo habitual era colgarlos, dejándolos amarrados como un
+  brote (一),(由) del que destacaban los miembros que colgaban como patas (ハ)
+  agitándose con espasmos.
+solo_componente: 0
+componentes:
+  - techo
+  - brote
+  - patas
+como_componente: []

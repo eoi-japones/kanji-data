@@ -1,0 +1,10 @@
+﻿id: 曲
+clave: doblegar
+historia: >-
+  Sólo hace falta conectar unos cables a un cerebro (田) con un par de bastones
+  (｜) para doblegar la mente.
+solo_componente: 0
+componentes:
+  - bastón
+  - cerebro
+como_componente: []

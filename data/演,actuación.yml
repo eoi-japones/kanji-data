@@ -1,0 +1,10 @@
+﻿historia: >-
+  Podías ganarte el temido signo del tigre (寅) por traicionar a tu patria, pero
+  también realizando una actuación tan mala que hiciese llorar (氵) al líder.
+id: 演
+clave: actuación
+solo_componente: 0
+componentes:
+  - agua
+  - tigre_signo
+como_componente: []
