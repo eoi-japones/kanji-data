@@ -1,0 +1,7 @@
+id: 絞
+clave: estrangular
+historia: >
+  Aunque sean hilos (糸) finos, si se entremezclan (交) pueden alcanzar la consistencia suficiente para estrangular a alguien.
+componentes: ['hilo', 'entremezclar']
+como_componente: []
+solo_componente: 0
