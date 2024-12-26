@@ -1,5 +1,5 @@
 id: 竟
-clave: *espejo
+clave: '*espejo'
 historia: >
     Una persona hablando para sí posando (儿) frente al espejo, produciendo sonidos (音) de admiración propia.
 componentes: ['sonido', 'piernas']
