@@ -1,7 +1,7 @@
 id: 盲
 clave: ciego
 historia: >
-    Una persona cuyos ojos (目) estan difuntos (亡).
+    Una persona cuyos ojos (目) están difuntos (亡).
 componentes: ['difuntos', 'ojo']
 como_componente: []
 solo_componente: 0
