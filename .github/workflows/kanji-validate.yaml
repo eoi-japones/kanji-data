@@ -9,6 +9,7 @@ env:
   META_DIR: meta-data
   KANA_DIR: kanas
   YOMI_DIR: yomi
+  KANJI_HINT_DIR: lexicon/hints-kanji
 jobs:
 
   validar:
