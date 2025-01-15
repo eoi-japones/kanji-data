@@ -11,10 +11,14 @@
       "hint": {
       
         "type": "string",
+
         "description": "la pista en texto plano"
-      },
+      }
+
+    },
 
     "additionalProperties": false,
 
-    "required": ["id", "pista"]
+    "required": ["id", "hint"]
+
 }

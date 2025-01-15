@@ -20,6 +20,11 @@ walk().then(() => {
 
 }).then(() => {
 
+
+    return walk(process.env["KANJI_HINT_DIR"])
+
+}).then(() => {
+
     return escribirEnFichero(f)
 
 }).then(() => {
@@ -80,6 +85,11 @@ async function acumularParaFichero(datos, tipo){
           d.version = "v1"
       break
 
+      case "KANJI-HINT":
+          d.kind = "kanji.eoi/kanji-hint"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -121,6 +131,7 @@ async function walk(dir = process.env["DATA_DIR"]){
           (dir == "itinerarios") ? "ITER" : 
           (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
+          (dir == "hints-kanji") ? "KANJI-HINT" : 
            "DESCONOCIDO"
 
   }
