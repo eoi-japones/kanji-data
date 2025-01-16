@@ -1,7 +1,7 @@
-id: 渡
+id: 渉
 clave: vadear
 historia: >
-    Intentar andar vadeando zonas de agua.
+    Intentar andar (歩) vadeando zonas de agua (氵).
 componentes: ['Agua', 'Andar']
 como_componente: []
 solo_componente: 0
