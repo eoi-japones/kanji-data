@@ -1,0 +1,7 @@
+id: 荒
+clave: arrasar
+historia: >
+    Después de que un río (川) se sale de su cauce y arrase, llevamos flores (艹) para recordar a los difuntos (亡).
+componentes: ['flor', 'difunto', 'rio']
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,7 @@
+id: 境
+clave: límite
+historia: >
+    Si marcas el límite de un terruño (土) con un espejo (竟), la gente se asustará y dará la vuelta no saliendo nunca de él.
+componentes: ['tierra', 'espejo']
+como_componente: []
+solo_componente: 0
