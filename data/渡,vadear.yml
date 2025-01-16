@@ -1,7 +1,9 @@
 id: 渡
-clave: vadear
+clave: Cruzar
 historia: >
-    Intentar andar vadeando zonas de agua.
-componentes: ['Agua', 'Andar']
+    Cruzar el agua (氵) puede tener un grado (度) de dificultad diferente dependiendo de si usamos un puente o nos adentramos en el río.
+
+    Este kanji tiene el sentido de cruzar un puente  o un río, pero también el de entregar algo.
+componentes: ['Agua', 'Grado']
 como_componente: []
 solo_componente: 0
