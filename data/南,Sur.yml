@@ -1,0 +1,13 @@
+﻿id: 南
+clave: Sur
+historia: >-
+  En el *Sur*, donde el calor aprieta como un cinturón (冂), la felicidad (幸) se
+  vive en cada rincón.
+
+
+  Observa que el cinturón rodea por el medio a la felicidad, solapando ambos
+  trazos.
+solo_componente: 0
+componentes:
+  - (Cinturón)(Felicidad)
+como_componente: []
