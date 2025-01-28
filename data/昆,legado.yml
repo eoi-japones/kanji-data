@@ -1,7 +1,7 @@
 id: 昆
 clave: legado
 historia: >
-    Cuando te comparas (比) con tus descendientes ves que todo es lo mismo y no hay nada nuevo bajo el Sol (日).
+    Cuando te comparas (比) con tus descendientes, ves que el legado es el mismo y no hay nada nuevo bajo el Sol (日).
 componentes: ['sol', 'comparar']
 como_componente: []
 solo_componente: 0
