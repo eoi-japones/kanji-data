@@ -10,7 +10,7 @@ historia: >-
 componentes:
   - samurai
   - boca
-  - 'spray,吉'
+  
 como_componente:
-  - 'vasija,吉'
+ - 'spray,吉'
 solo_componente: 0
