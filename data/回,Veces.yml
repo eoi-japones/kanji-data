@@ -1,0 +1,13 @@
+﻿clave: Veces
+id: 回
+historia: >-
+  Imagina a alguien que está encerrado (囗) contigo en una habitación y, cada vez
+  que abre la boca (口), es para repetir varias *veces* la misma historia.
+
+
+  Este kanji se refiere al número de repeticiones de una acción.
+solo_componente: 0
+componentes:
+  - (encerrado)
+  - (boca)
+como_componente: []

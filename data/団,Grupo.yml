@@ -1,0 +1,10 @@
+﻿id: 団
+clave: Grupo
+historia: >-
+  El peligro de formar un *grupo* cerrado (囗) es quedar pegado a (寸) ellos para
+  siempre.
+solo_componente: 0
+componentes:
+  - (encerrado)
+  - (pegado a)
+como_componente: []
