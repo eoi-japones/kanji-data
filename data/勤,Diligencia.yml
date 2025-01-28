@@ -1,0 +1,8 @@
+﻿id: 勤
+clave: Diligencia
+historia: "El transportista carga en su camión las pesadas cajas de coles (\uD85B\uDC0C) valiéndose de sus poderosos músculos (力) con una diligencia admirable."
+solo_componente: 0
+componentes:
+  - "\uD85B\uDC0C (col)"
+  - 力 (músculo)
+como_componente: []
