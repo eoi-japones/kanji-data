@@ -1,0 +1,15 @@
+﻿id: 冊
+clave: Tomo
+historia: >-
+  Pictograma de un *tomo*: es un cuaderno más grande que un bloc de notas y que
+  solemos atar con una cuerda.
+
+
+  Es el contador para publicaciones.
+
+
+  No se debe confundir con el componente bloc de notas; la diferencia radica en
+  que el trazado de la linea horizontal aquí sobresale por ambos lados.
+solo_componente: 0
+componentes: []
+como_componente: []
