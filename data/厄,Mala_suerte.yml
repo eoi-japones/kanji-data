@@ -3,7 +3,7 @@ clave: Mala_suerte
 historia: >-
   Alguien que lanza un arma por un barranco (厂) para deshacerse de ella, pero
   tiene tan *mala* *suerte* que deja marcadas sus huellas dactilares (㔾). 
-solo_componente: 1
+solo_componente: 0
 componentes:
   - (barranco)
   - (huella_dactilar)
