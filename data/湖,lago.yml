@@ -1,0 +1,11 @@
+id: 湖
+clave: lago
+historia: >-
+  En determinadas culturas, cuando una persona es vieja (古), 
+  la metían en el agua (氵) para que se la llevara la Dama del Lago
+  a su palacio.
+solo_componente: 0
+componentes:
+  - 古, viejo
+  - 氵, agua
+como_componente: []

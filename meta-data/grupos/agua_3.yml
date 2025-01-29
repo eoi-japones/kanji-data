@@ -9,14 +9,13 @@ descripcion: >
 
 integrantes:
     - 州
-    - 順
     - 泉
     - 沼
     - 沖
     - 江
     - 潮
-    - 湖
     - 測
+    - 湖
 
 auxiliares: 
   - id: 召
