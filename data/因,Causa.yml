@@ -1,0 +1,10 @@
+﻿clave: Causa
+id: 因
+historia: >-
+  La *causa* de que el San Bernardo (大) esté encerrado (囗) es por alguna de sus
+  travesuras.
+solo_componente: 0
+componentes:
+  - (San_Bernardo)
+  - (encerrado)
+como_componente: []
