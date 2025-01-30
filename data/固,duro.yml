@@ -1,0 +1,7 @@
+id: 固
+clave: duro
+historia: >
+    El pan que está encerrado (口) y viejo (古), seguro que está duro.
+componentes: ['encerrado', 'viejo']
+como_componente: []
+solo_componente: 0
