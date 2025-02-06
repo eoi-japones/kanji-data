@@ -1,0 +1,25 @@
+id: 末
+nombre: Este *Matsu*ri lleva la diversión al _extremo_
+tipo: puro
+señalizador: 末
+lectura: マツ
+integrantes:
+  - 沫
+  - 抹
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 粗末
+    significado: Burdo, basto
+    lectura: ソマツ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 泡沫
+    significado: Burbujas, espuma
+    lectura: ホウマツ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 抹殺
+    significado: Destrucción total
+    lectura: マッサツ
+    mascara: '--.--'

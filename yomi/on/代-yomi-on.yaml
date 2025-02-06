@@ -1,0 +1,25 @@
+id: 代
+nombre: Aquel _sustituto_ *tai*mpoco está tan mal
+tipo: puro
+señalizador: 代
+lectura: タイ
+integrantes:
+  - 貸
+  - 袋
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 交代
+    significado: Relevo, intercambio
+    lectura: コウタイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 貸与
+    significado: Préstamo
+    lectura: タイヨ
+    mascara: '--.-'
+  ejemplo-3:
+    palabra: 郵袋
+    significado: Sobre, bolsa para correo
+    lectura: ユウタイ
+    mascara: '--.--'
