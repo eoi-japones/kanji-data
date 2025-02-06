@@ -1,0 +1,25 @@
+id: 旨
+nombre: No pasa nada *shi* pruebas este _delicioso_ dulce
+tipo: puro
+señalizador: 旨
+lectura: シ
+integrantes:
+  - 指
+  - 脂
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 要旨
+    significado: La esencia, lo elemental
+    lectura: ヨウシ
+    mascara: '--.-'
+  ejemplo-2:
+    palabra: 指導
+    significado: Guía, orientación
+    lectura: シドウ
+    mascara: '-.--'
+  ejemplo-3:
+    palabra: 脂肪
+    significado: Grasa
+    lectura: シボウ
+    mascara: '-.--'

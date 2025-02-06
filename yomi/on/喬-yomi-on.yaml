@@ -1,0 +1,25 @@
+id: 喬
+nombre: ¡*Kyou*rre deprisa, _ángel_! Se hace tarde para el cielo
+tipo: puro
+señalizador: 橋
+lectura: キョウ
+integrantes:
+  - 矯
+  - 嬌
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 鉄橋
+    significado: Puente de acero
+    lectura: テッキョウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 矯正
+    significado: Reforma, corrección
+    lectura: キョウセイ
+    mascara: '---.--'
+  ejemplo-3:
+    palabra: 愛嬌
+    significado: Afable, encantador
+    lectura: アイキョウ
+    mascara: '--.---'
