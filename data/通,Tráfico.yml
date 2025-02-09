@@ -1,0 +1,12 @@
+﻿historia: >-
+  Hay tanto tráfico de camino (辶) al trabajo que el profesor aprovecha para
+  corregir los exámenes en el coche. Para ello, utiliza (用) su infalible sello
+  que moja en el tampón (龴) de tinta que lleva siempre consigo.
+clave: Tráfico
+id: 通
+solo_componente: 0
+componentes:
+  - 龴 (tampón)
+  - 用 (utilizar)
+  - 辶 (camino)
+como_componente: []
