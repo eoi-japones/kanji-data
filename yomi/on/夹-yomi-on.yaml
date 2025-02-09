@@ -1,0 +1,25 @@
+id: 夹
+nombre: Con estas _tijeras_ puedes *Kyou*rtar todo lo que quieras
+tipo: puro
+señalizador: 峡
+lectura: キョウ
+integrantes:
+  - 狭
+  - 挟
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 海峡
+    significado: Estrecho, canal
+    lectura: カイキョウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 偏狭
+    significado: Estrecho de miras
+    lectura: ヘンキョウ
+    mascara: '--.---'
+  ejemplo-3:
+    palabra: 挟撃
+    significado: Ataque por ambos flancos
+    lectura: キョウゲキ
+    mascara: '---.--'
