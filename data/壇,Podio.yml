@@ -6,8 +6,8 @@ historia: >-
 id: 壇
 solo_componente: 0
 componentes:
-  - (tierra)
-  - (chistera)
-  - (veces)
-  - (amanecer)
+  - tierra
+  - chistera
+  - veces
+  - amanecer
 como_componente: []
