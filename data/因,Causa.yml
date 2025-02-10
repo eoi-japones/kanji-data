@@ -5,6 +5,6 @@ historia: >-
   travesuras.
 solo_componente: 0
 componentes:
-  - (San_Bernardo)
-  - (encerrado)
+  - San_Bernardo
+  - encerrado
 como_componente: []
