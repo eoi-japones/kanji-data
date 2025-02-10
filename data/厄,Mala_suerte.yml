@@ -5,6 +5,6 @@ historia: >-
   tiene tan *mala* *suerte* que deja marcadas sus huellas dactilares (㔾). 
 solo_componente: 0
 componentes:
-  - (barranco)
-  - (huella_dactilar)
+  - barranco
+  - huella_dactilar
 como_componente: []
