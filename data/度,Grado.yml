@@ -9,5 +9,7 @@ historia: >-
   Este kanji se refiere a una gradación para medir algo.
 solo_componente: 0
 componentes:
-  - (Cueva)(Entrepierna)(Veinte)
+  - Cueva
+  - Entrepierna
+  - Veinte
 como_componente: []
