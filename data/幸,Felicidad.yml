@@ -5,5 +5,6 @@ historia: >-
   *felicidad*; no todo puede ser siempre dulce.
 solo_componente: 0
 componentes:
-  - (Uno) (Picante)
+  - Uno
+  - Picante
 como_componente: []
