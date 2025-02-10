@@ -3,6 +3,6 @@ id: 姻
 historia: ' El *matrimonio* es una de las causas (因) principales por las que una mujer (女) deja el hogar de su infancia.'
 solo_componente: 0
 componentes:
-  - (mujer)
-  - (causa)
+  - mujer
+  - causa
 como_componente: []
