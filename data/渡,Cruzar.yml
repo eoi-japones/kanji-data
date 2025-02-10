@@ -9,5 +9,6 @@ historia: >-
   entregar algo.
 solo_componente: 0
 componentes:
-  - '''Agua'', ''Grado'''
+  - Agua
+  - Grado
 como_componente: []
