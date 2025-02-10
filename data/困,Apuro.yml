@@ -9,6 +9,6 @@ historia: >-
   preocupaciones.
 solo_componente: 0
 componentes:
-  - (encerrado)
-  - (madera)
+  - encerrado
+  - madera
 como_componente: []
