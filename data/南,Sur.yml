@@ -9,5 +9,6 @@ historia: >-
   trazos.
 solo_componente: 0
 componentes:
-  - (Cinturón)(Felicidad)
+  - Cinturón
+  - Felicidad
 como_componente: []
