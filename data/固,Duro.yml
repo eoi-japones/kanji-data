@@ -5,6 +5,6 @@ id: 固
 clave: Duro
 solo_componente: 0
 componentes:
-  - (encerrado)
-  - (viejo)
+  - encerrado
+  - viejo
 como_componente: []
