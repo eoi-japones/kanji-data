@@ -6,6 +6,6 @@ id: 丙
 clave: Tercera_clase
 solo_componente: 0
 componentes:
-  - (techo)
-  - (dentro)
+  - techo
+  - dentro
 como_componente: []
