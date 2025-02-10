@@ -8,6 +8,6 @@ historia: >-
   Este kanji se refiere al número de repeticiones de una acción.
 solo_componente: 0
 componentes:
-  - (encerrado)
-  - (boca)
+  - encerrado
+  - boca
 como_componente: []
