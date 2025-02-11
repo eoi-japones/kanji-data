@@ -1,0 +1,11 @@
+﻿historia: >-
+  En aquellos vuelos desprovistos de comodidades que las compañías aéreas
+  ofrecen para atraer más clientes, se coloca una división que indica que dentro
+  de (内) ese espacio se encuentra el techo (一) destinado a la *tercera**clase*.
+id: 丙
+clave: Tercera_clase
+solo_componente: 0
+componentes:
+  - techo
+  - dentro
+como_componente: []
