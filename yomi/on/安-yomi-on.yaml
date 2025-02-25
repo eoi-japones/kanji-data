@@ -1,0 +1,20 @@
+id: 安
+nombre: '*An*tes de empezar me _relajo_ cinco minutos'
+tipo: puro
+señalizador: 安
+lectura: アン
+integrantes:
+  - 安
+  - 案
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 安心
+    significado: Tranquilidad
+    lectura: アンシン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 案内
+    significado: Guía, información
+    lectura: アンナイ
+    mascara: '--.--'
