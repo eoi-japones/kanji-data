@@ -1,0 +1,26 @@
+id: 袁
+nombre: '*En* casa de mis abuelos hay un montón de _vasijas_ _con_ _tapa_'
+tipo: puro
+señalizador: 袁
+lectura: エン
+integrantes:
+  - 遠
+  - 園
+  - 猿
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 永遠
+    significado: Eternidad
+    lectura: エイエン
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 庭園
+    significado: Jardín (japonés)
+    lectura: テイエン
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 野猿
+    significado: Mono salvaje
+    lectura: ヤエン
+    mascara: '-.--'
