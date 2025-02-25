@@ -1,0 +1,26 @@
+id: 家
+nombre: Mi _*ka*sa_, mis normas
+tipo: puro
+señalizador: 家
+lectura: カ
+integrantes:
+  - 家
+  - 嫁
+  - 稼
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 家庭
+    significado: Hogar
+    lectura: カテイ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 転嫁する
+    significado: Volverse a ca (arcaico)
+    lectura: テンカ
+    mascara: '--.-'
+  ejemplo-3:
+    palabra: 稼働
+    significado: Funcionamiento (fábrica), trabajo
+    lectura: カドウ
+    mascara: '-.--'
