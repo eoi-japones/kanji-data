@@ -1,0 +1,12 @@
+﻿id: 工
+clave: Técnica
+historia: >
+
+  Es como una viga de doble T. Esta es el resultado del desarrollo de la técnica
+  humana y un símbolo de la técnica arquitectónica moderna.
+componentes: []
+como_componente:
+  - 'viga,工'
+  - 'técnica,工'
+  - 'igenieria,工'
+solo_componente: 1
