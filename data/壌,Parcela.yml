@@ -1,0 +1,10 @@
+﻿id: 壌
+clave: Parcela
+historia: >-
+  Hawaii es uno de los lugares donde es más difícil comprar una parcela de
+  tierra (土). Ni siquiera llevando falda hawaiana (㐮) la consigues.
+solo_componente: 1
+componentes:
+  - Tierra
+  - Falda hawaiana
+como_componente: []
