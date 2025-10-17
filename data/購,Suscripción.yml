@@ -1,0 +1,10 @@
+﻿historia: >-
+  La mayoría de las monedas (貝) que usamos en una suscripción parecen tiradas a
+  una bacinica (冓)
+id: 購
+clave: Suscripción
+solo_componente: 0
+componentes:
+  - Moneda
+  - Bacinica
+como_componente: []

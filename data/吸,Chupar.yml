@@ -1,0 +1,10 @@
+﻿clave: Chupar
+id: 吸
+historia: >-
+  Los bebés extienden las manos (及) hacia el pecho de su madre para asirse y así
+  poder chupar con su pequeña boca (口) para alimentarse.”
+solo_componente: 0
+componentes:
+  - Boca
+  - Manos_extendidas
+como_componente: []

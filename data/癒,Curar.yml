@@ -1,0 +1,12 @@
+﻿historia: >-
+  En el cuento de Blancanieves, la madrastra Grimilda, con la enfermedad (疒) de
+  los celos, actúa como una carnicera ( 俞) sedienta de sangre y solo se cura
+  cuando le entregan el falso corazón (心) del cervatillo 
+clave: Curar
+id: 癒
+solo_componente: 0
+componentes:
+  - Enfermedad
+  - Carnicero
+  - Corazón
+como_componente: []
