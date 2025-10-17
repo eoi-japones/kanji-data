@@ -1,0 +1,10 @@
+﻿historia: >-
+  La perla es una joya de color carmesí (朱) que suele adornar el cetro del rey
+  (王) 
+clave: Perla
+id: 珠
+solo_componente: 0
+componentes:
+  - Rey
+  - Carmesí
+como_componente: []

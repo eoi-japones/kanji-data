@@ -1,0 +1,10 @@
+﻿id: 溝
+historia: >-
+  Antiguamente la gente vaciaba en los canales el agua (氵) de las bacinicas (冓),
+  por eso muchos acababan enfermando
+clave: Canal
+solo_componente: 0
+componentes:
+  - Agua
+  - Bacinica
+como_componente: []

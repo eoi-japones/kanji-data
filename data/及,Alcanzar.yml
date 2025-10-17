@@ -1,0 +1,13 @@
+﻿clave: Alcanzar
+id: 及
+historia: >-
+  Con el puño (乃) cerrado no puedo alcanzar nada, así que lo abro y extiendo las
+  manos para hacerlo.
+
+
+  Este kanji surge de añadir un nuevo trazo que cruza el componente Puño.
+solo_componente: 0
+componentes:
+  - Puño
+como_componente:
+  - 'manos_extendidas,及'

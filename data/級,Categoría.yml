@@ -1,0 +1,13 @@
+﻿historia: >-
+  Con las manos extendidas (及) tocamos el hilo (糸) para saber su categoría: si
+  es de clase normal, inferior o superior. 
+
+
+  Este kanji significa categoría pero también Clase.
+id: 級
+clave: Categoría
+solo_componente: 0
+componentes:
+  - Hilo
+  - Manos_extendidas
+como_componente: []

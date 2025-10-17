@@ -1,0 +1,10 @@
+﻿id: 殊
+historia: >-
+  Existe una enfermedad particularmente rara en la que los huesos (歹) se vuelven
+  color carmesí (朱) 
+clave: Particularmente
+solo_componente: 0
+componentes:
+  - Hueso
+  - 'Carmesí '
+como_componente: []
