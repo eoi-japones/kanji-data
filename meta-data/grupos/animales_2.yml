@@ -11,9 +11,14 @@ integrantes:
   - 漁
   - 鯨
   - 鯉
+  - 羊
   - 鮮
  # - 鮫
 
-auxiliares: []
+auxiliares: 
+  - id: 王
+    para: 羊
+  - id: 京
+    para: 鯨
 
 icono: "https://www.svgrepo.com/download/405395/fish.svg"
