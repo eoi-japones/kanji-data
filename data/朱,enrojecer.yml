@@ -1,7 +1,7 @@
 id: 朱
 clave: enrojecer
 historia: >
-    Queda una hoja otoñal (丶) enrojecida que todavía (未) no ha caído del árbol.
+    Queda una hoja otoñal (丶) enrojecida en tono carmesí que todavía (未) no ha caído del árbol.
 componentes: ['todavia', 'gota']
-como_componente: []
+como_componente: [carmesí,朱]
 solo_componente: 0
