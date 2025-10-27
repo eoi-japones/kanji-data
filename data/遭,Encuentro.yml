@@ -1,0 +1,11 @@
+﻿id: 遭
+clave: Encuentro
+historia: >-
+  Recordemos la mentalidad japonesa del shoshin, la mente del principiante: este
+  kanji nos recuerda que, en el camino (⻎), debemos tener encuentros con nuestro
+  cadete (曹) interior para no caer en el orgullo.
+solo_componente: 0
+componentes:
+  - Camino
+  - Cadete
+como_componente: []

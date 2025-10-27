@@ -1,0 +1,8 @@
+﻿id: 漕
+clave: Remar
+historia: 'Si alguien se cae al agua (氵), al que le toca remar es al cadete (曹)'
+solo_componente: 0
+componentes:
+  - Agua
+  - Cadete
+como_componente: []

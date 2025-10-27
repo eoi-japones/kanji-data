@@ -1,0 +1,14 @@
+﻿id: 矢
+clave: Dardo
+historia: >-
+  Cuando lanzamos un dardo hacia el cielo (天), éste sube y sube, y en un momento
+  dado lo vemos tan pequeño que parece una simple gota (丿).
+
+
+  En realidad, este es el kanji de FLECHA, pero apenas se usa como tal, así que
+  le daremos el sentido de dardo como componente.
+solo_componente: 1
+componentes:
+  - Cielo
+  - Gota
+como_componente: []

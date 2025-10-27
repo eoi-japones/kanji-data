@@ -1,0 +1,11 @@
+﻿id: 槽
+clave: Tinaja
+historia: |-
+  ¿Dónde crees que se bañará un cadete (曹)? Pues en una tinaja de madera (木).
+
+  Este kanji, además de Tinaja también significa Cubo.
+solo_componente: 0
+componentes:
+  - Madera
+  - Cadete
+como_componente: []
