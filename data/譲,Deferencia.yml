@@ -1,0 +1,11 @@
+﻿id: 譲
+clave: Deferencia
+historia: >-
+  Al llegar a Hawaii, las mujeres te reciben con falda hawaiana (㐮) y un
+  ¡Aloha!. Son palabras (言) de deferencia que indican que les honras con tu
+  visita.
+solo_componente: 1
+componentes:
+  - Falda hawaiana
+  - Palabras
+como_componente: []

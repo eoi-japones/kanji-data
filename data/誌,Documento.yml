@@ -1,0 +1,10 @@
+﻿clave: Documento
+historia: >
+  Toda resolución (志) debería quedar plasmada en palabras (言) dentro de un
+  documento.
+id: 誌
+solo_componente: 0
+componentes:
+  - Palabras
+  - 'Resolución '
+como_componente: []
