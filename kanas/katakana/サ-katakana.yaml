@@ -1,5 +1,7 @@
 id: サ
 clave: Salmón
-historia: Al salmón hay que pegarle dos cortes, uno en la cabeza y uno en la cola.
+historia: |
+  Al salmón hay que pegarle dos cortes, uno en la cabeza y uno en la cola.
 componentes: []
 solo_componente: 0
+
