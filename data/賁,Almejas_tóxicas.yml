@@ -1,0 +1,8 @@
+﻿id: 賁
+clave: Almejas_tóxicas
+historia: 'Nunca compréis (貝) almejas en un pajar (卉), probablemente sean tóxicas'
+solo_componente: 1
+componentes:
+  - Pajar
+  - Moneda
+como_componente: []

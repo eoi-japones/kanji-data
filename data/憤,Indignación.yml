@@ -1,0 +1,10 @@
+﻿id: 憤
+clave: Indignación
+historia: >-
+  Después de comer almejas tóxicas (賁) quedamos en un estado mental (忄) de pura
+  indignación
+solo_componente: 0
+componentes:
+  - Estado_mental
+  - Almejas_tóxicas
+como_componente: []

@@ -1,0 +1,10 @@
+﻿id: 噴
+clave: Erupción
+historia: >-
+  Si comemos almejas tóxicas (賁), sentiremos cómo nuestra boca (口) entra en
+  erupción
+solo_componente: 0
+componentes:
+  - Boca
+  - Almejas_tóxicas
+como_componente: []
