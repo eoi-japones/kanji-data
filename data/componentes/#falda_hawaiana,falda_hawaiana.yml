@@ -1,0 +1,11 @@
+id: '#falda_hawaiana'
+clave: '*falda_hawaiana'
+historia: >
+  Cuando llegas a Hawaii las mujeres te reciben con sombrero de copa (亠) y una falda hawaiana hecha con 8 (八) trozos de apio () como única prenda de ropa (𧘇).
+componentes:
+  - '亠,sombrero_de_copa'
+  - '八,ocho'
+  - '衣,ropa'
+como_componente: []
+solo_componente: 1
+
