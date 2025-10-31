@@ -1,6 +1,6 @@
-# Nombre del fichero: ニ-katakana.yaml
 id: ニ
-clave: NI
-historia: literalmente es el número 2 en kanji y se lee, obviamente, NI.
+clave: ni
+historia: |
+  El Katanaka de **ni** se parece al Kanji del número 2, 二.
 componentes: []
 solo_componente: 0
