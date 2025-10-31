@@ -1,9 +1,9 @@
 ﻿id: 嬢
 clave: Muchacha
 historia: >-
-  Las muchachas son mujeres (女) jóvenes que llevan falda hawaiana (㐮). Al menos,
+  Las muchachas son mujeres (女) jóvenes que llevan #falda_hawaiana. Al menos,
   en Hawaii.
-solo_componente: 1
+solo_componente: 0
 componentes:
   - Mujer
   - Falda hawaiana
