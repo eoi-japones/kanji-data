@@ -1,0 +1,8 @@
+﻿id: 伴
+clave: Consorte
+historia: El consorte es la persona (亻) que acaba siendo tu otra mitad (半)
+solo_componente: 0
+componentes:
+  - Persona
+  - Mitad
+como_componente: []
