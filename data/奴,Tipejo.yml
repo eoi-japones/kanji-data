@@ -1,0 +1,10 @@
+﻿id: 奴
+clave: Tipejo
+historia: >-
+  Una hábil mujer (女) cose la entrepierna (又) rota del pantalón de un *tipejo* y
+  le salva el día.
+solo_componente: 1
+componentes:
+  - Mujer
+  - Entrepierna
+como_componente: []

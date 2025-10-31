@@ -1,0 +1,10 @@
+﻿id: 詠
+clave: Recitar
+historia: >-
+  Cuando alguien sabe recitar con maestría, sus palabras (言) resuenan por toda
+  la eternidad (永)
+solo_componente: 0
+componentes:
+  - Palabras
+  - Eternidad
+como_componente: []

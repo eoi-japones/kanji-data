@@ -1,0 +1,8 @@
+﻿id: 怒
+clave: Ira
+historia: La sola presencia de ese tipejo (奴) provoca ira en mi corazón (心)
+solo_componente: 0
+componentes:
+  - Tipejo
+  - Corazón
+como_componente: []
