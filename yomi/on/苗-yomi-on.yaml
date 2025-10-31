@@ -1,0 +1,26 @@
+id: 苗
+nombre: Me dieron _plantón_ y me *byou*lví a casa llorando a moco tendido
+tipo: puro
+señalizador: 苗
+lectura: ビョウ
+integrantes:
+  - 苗
+  - 描
+  - 猫
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 種苗
+    significado: Semillas y plantones
+    lectura: シュビョウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 点描
+    significado: Bosquejo, esbozo
+    lectura: テンビョウ
+    mascara: '--.---'
+  ejemplo-3:
+    palabra: 愛猫
+    significado: Gato «querido» (mascota)
+    lectura: アイビョウ
+    mascara: '--.---'
