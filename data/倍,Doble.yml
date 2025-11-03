@@ -1,0 +1,15 @@
+﻿id: 倍
+clave: Doble
+historia: >-
+  En el mundo del cine, mientras el doble actúa, la persona (亻) real está
+  amordazada (咅) fuera de plano.
+
+
+  Este kanji también sea usa como sufijo multiplicativo para contar proporciones
+  o multiplicaciones, por ejemplo, x2 el doble, x3 el triple, x10 diez veces
+  mas, etc.
+solo_componente: 0
+componentes:
+  - Persona
+  - Mordaza
+como_componente: []

@@ -1,0 +1,8 @@
+﻿id: 打
+clave: Golpear
+historia: Un karateka te golpea como si sus dedos (扌) fueran clavos (丁)
+solo_componente: 0
+componentes:
+  - Dedo
+  - Clavo
+como_componente: []
