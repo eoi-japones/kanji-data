@@ -1,0 +1,8 @@
+﻿id: 漂
+clave: A_la_deriva
+historia: Votar por un partido que va a la deriva es como lanzar tu voto (票) al agua (氵)
+solo_componente: 0
+componentes:
+  - Agua
+  - Voto
+como_componente: []

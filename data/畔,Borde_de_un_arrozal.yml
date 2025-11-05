@@ -1,0 +1,10 @@
+﻿id: 畔
+clave: Borde_de_un_arrozal
+historia: >-
+  Nunca entres en un campo de arroz (田) por la mitad ( 半), debes entrar por el
+  borde del arrozal para no romper las piedras que sirven de tope
+solo_componente: 0
+componentes:
+  - Campo de arroz
+  - Mitad
+como_componente: []
