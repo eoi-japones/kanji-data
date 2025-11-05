@@ -1,6 +1,7 @@
-# Nombre del fichero: ノ-katakana.yaml
 id: ノ
-clave: NO
-historia: es como el の de hiragana pero simplificado, no ponemos una señal de prohibido, solo una línea tachando lo que no queremos que se haga.
+clave: no
+historia: |
+  Es como el の de hiragana pero simplificado, no ponemos una señal de prohibido, solo una línea tachando lo que no queremos que se haga.
 componentes: []
 solo_componente: 0
+
