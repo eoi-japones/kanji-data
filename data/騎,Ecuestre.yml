@@ -1,0 +1,10 @@
+﻿clave: Ecuestre
+historia: >-
+  Visto por primera vez, el jinete podría parecer algo extraño (奇), mitad
+  hombre, mitad equino (馬). Es decir, la imagen perfecta de lo *ecuestre*
+id: 騎
+solo_componente: 0
+componentes:
+  - Equino
+  - Extraño
+como_componente: []

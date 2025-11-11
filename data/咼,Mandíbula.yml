@@ -1,0 +1,11 @@
+﻿id: 咼
+clave: Mandíbula
+historia: >-
+  La única articulación () que podemos ver debajo de una capucha (冂) es la boca
+  (口) moviéndose en la *mandíbula*
+solo_componente: 1
+componentes:
+  - Articulación
+  - Capucha
+  - Boca
+como_componente: []

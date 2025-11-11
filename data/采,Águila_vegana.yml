@@ -1,0 +1,11 @@
+﻿id: 采
+clave: Águila_vegana
+historia: >-
+  Imagínate un águila (爫) que se posa en lo alto de un árbol (木). No para cazar!
+  sino para buscar frutos, nueces, hojas tiernas,... Nada de carne, pues es un
+  *águila* *vegana* a la que apodaremos Váguila.
+solo_componente: 1
+componentes:
+  - Águila
+  - Árbol
+como_componente: []
