@@ -1,0 +1,10 @@
+﻿id: 亢
+clave: Tornado
+historia: >-
+  Cuando Don Viento (几) se pone su chistera (亠)...¡toca sujetarse porque viene
+  un *tornado*!
+solo_componente: 1
+componentes:
+  - Chistera
+  - Viento
+como_componente: []

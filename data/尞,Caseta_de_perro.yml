@@ -1,0 +1,16 @@
+﻿id: 尞
+clave: Caseta_de_perro
+historia: >-
+  Imagina un tipi (癶) como si fuera la *caseta* de un *perro* con un San
+  bernardo (大) en su interior. Nada más ver brillar el sol (日) que se cuela por
+  una pequeña (小) grieta, sabe que es hora de levantarse y despertar a toda la
+  familia. Observa que el componente de tipi se fusiona con el componente
+  San_bernardo para obtener la parte superior del kanji que representa el techo
+  de la caseta.
+solo_componente: 1
+componentes:
+  - Tipi
+  - San_bernardo
+  - Sol
+  - Pequeño
+como_componente: []

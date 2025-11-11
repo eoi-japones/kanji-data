@@ -1,0 +1,10 @@
+﻿id: 療
+clave: Terapia
+historia: >-
+  Si un perro no sale de su caseta (尞), sabremos que está padeciendo alguna
+  enfermedad ( 疒) y necesita *terapia*
+solo_componente: 0
+componentes:
+  - Enfermedad
+  - Cseta_de_perro
+como_componente: []
