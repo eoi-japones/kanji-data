@@ -1,0 +1,19 @@
+id: 元
+nombre: ¿Conoces el _origen_ de los titanes gi*gan*tes?
+tipo: puro
+señalizador: 元
+lectura: ガン
+integrantes:
+  - 頑
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 元日
+    significado: El día de Año Nuevo
+    lectura: ガンジツ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 頑固
+    significado: Tozudo, persistente
+    lectura: ガンコ
+    mascara: '--.-'
