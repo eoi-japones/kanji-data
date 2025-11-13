@@ -151,7 +151,7 @@ async function walk(dir = process.env["DATA_DIR"]){
       throw JSON.stringify(validador.errors, null, 4)
     }
 
-    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT"){
+    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
         return
     }
 
