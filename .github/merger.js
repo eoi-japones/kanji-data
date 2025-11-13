@@ -20,8 +20,10 @@ walk().then(() => {
 
 }).then(() => {
 
-
     return walk(process.env["KANJI_HINT_DIR"])
+
+}).then(() => {
+    return walk(process.env["PROFILES_DIR"])
 
 }).then(() => {
 
@@ -32,7 +34,7 @@ walk().then(() => {
     console.log(`Escrito en ${output_file}`)
 
 }).catch((err) => {
-
+  console.log(err.stack)
   throw `Error merge: ${err}`
 })
 
@@ -49,7 +51,7 @@ async function escribirEnFichero(datos){
   })
 }
 
-async function acumularParaFichero(datos, tipo){
+async function acumularParaFichero(datos, tipo, entrada){
 
   const d = yaml.load(datos)
 
@@ -88,6 +90,12 @@ async function acumularParaFichero(datos, tipo){
       case "KANJI-HINT":
           d.kind = "kanji.eoi/kanji-hint"
           d.version = "v1"
+      break
+
+      case "KANJI-ALTER":
+          d.kind = "kanji.eoi/kanji-alter"
+          d.version = "v1"
+          d.profile = path.basename(path.dirname(entrada)).replace(/^profile\-/, '')
       break
 
   }
@@ -132,6 +140,7 @@ async function walk(dir = process.env["DATA_DIR"]){
           (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
           (dir == "hints-kanji") ? "KANJI-HINT" : 
+          (dir.match(/^profile\-/)) ? "KANJI-ALTER" : 
            "DESCONOCIDO"
 
   }
@@ -154,8 +163,8 @@ async function walk(dir = process.env["DATA_DIR"]){
           try{
 
             tipo = determinarTipo(entrada)
-          
-            acumularParaFichero(data, tipo)
+ 
+            acumularParaFichero(data, tipo, entrada)
 
             ok()
           }
@@ -180,7 +189,6 @@ async function walk(dir = process.env["DATA_DIR"]){
       fs.readdir(dir, function(err, entradas){
 
         if(err){
-
           return ko(`Leyendo ${dir}: ${err}`)
         }
 

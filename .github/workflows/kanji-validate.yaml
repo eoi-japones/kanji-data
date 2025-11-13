@@ -10,6 +10,7 @@ env:
   KANA_DIR: kanas
   YOMI_DIR: yomi
   KANJI_HINT_DIR: lexicon/hints-kanji
+  PROFILES_DIR: profiles
 jobs:
 
   validar:
