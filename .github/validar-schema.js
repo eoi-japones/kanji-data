@@ -13,6 +13,8 @@ const grupoOnSchema = require("../schemas/grupo-on.schema.json")
 
 const kanjiHintSchema = require("../schemas/kanji-hint.schema.json")
 
+const KanjiAlterSchema = require("../schemas/kanji-alter.schema.json")
+
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
 const kanjiValidation = Ajv.compile(kanjiSchema)
@@ -21,6 +23,7 @@ const itinerarioValidation = Ajv.compile(itinerarioSchema)
 const colaboradorValidation = Ajv.compile(colaboradorSchema)
 const grupoOnValidation = Ajv.compile(grupoOnSchema)
 const kanjiHintValidation = Ajv.compile(kanjiHintSchema)
+const kanjiAlterValidation = Ajv.compile(KanjiAlterSchema)
 
 walk(process.env["YOMI_DIR"])
 
@@ -31,6 +34,8 @@ walk(process.env["DATA_DIR"])
 walk(process.env["META_DIR"])
 
 walk(process.env["KANJI_HINT_DIR"])
+
+walk(process.env["PROFILES_DIR"])
 
 const clavesUnicas = {}
 
@@ -68,6 +73,7 @@ async function walk(dir = process.env["DATA_DIR"]){
           (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
           (dir == "hints-kanji") ? "KANJI-HINT" : 
+          (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
            "DESCONOCIDO"
 
   }
@@ -134,6 +140,8 @@ async function walk(dir = process.env["DATA_DIR"]){
                         (tipo == "ITER-YOMI") ? itinerarioValidation: 
 
                         (tipo == "KANJI-HINT") ? kanjiHintValidation :
+
+                        (tipo == "KANJI-ALTER") ? kanjiAlterValidation :
 
                         colaboradorValidation;
 
