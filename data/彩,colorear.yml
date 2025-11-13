@@ -1,12 +1,10 @@
 ﻿id: 彩
 clave: colorear
 historia: >-
-  Aunque sus garras (爪) intimiden, Váguila, el águila vegano, no acecha más que
-  a los árboles (木). Por ello le han coloreado sus alas de determinada forma
-  (彡), para que otros sepan que no corren peligro.
+  Como sus garras intimidan, a Váguila, el águila vegana (采), le han coloreado las plumas de tal *forma*
+  (彡), que todos saben que no corren peligro.
 solo_componente: 0
 componentes:
-  - garras
-  - árbol
+  - Águila_vegana
   - forma
 como_componente: []

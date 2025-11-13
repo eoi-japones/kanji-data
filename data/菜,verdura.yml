@@ -1,14 +1,13 @@
 id: 菜
 clave: verdura
 historia: >-
-  ¿Quién sino el águila (爫) conoce bien la *verdura* de los árboles (木)? 
+  ¿Quién sino el águila vegana (采) conoce bien la *verdura* de la naturaleza? 
 
 
   ¿Quién sino el águila puede distinguir hasta la más insignificante flor (艹)
   entre la inextricable *verdura* de la floresta?
 componentes:
   - flor
-  - águila
-  - árbol
+  - águila_vegana
 como_componente: []
 solo_componente: 0

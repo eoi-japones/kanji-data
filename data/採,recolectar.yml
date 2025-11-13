@@ -5,8 +5,8 @@ historia: >-
   muy especial entre el experto y su ave. 
 
 
-  Cuentan que había un experto cetrero que fue capaz de enseñar a su águila (爫)
-  a *recolertar* frutos de los árboles (木) hasta el punto que le bastaba con
+  Cuentan que había un experto cetrero que fue capaz de enseñar a su águila vegana (采)
+  a *recolectar* frutos, hasta el punto que le bastaba con
   señalar el objeto con el dedo (扌) para que su ave fuese a recolectarlo. 
 
 
@@ -14,7 +14,6 @@ historia: >-
   kanji lo empleó para expresar la idea de *recolectar* cosas. 
 componentes:
   - dedo
-  - águila
-  - árbol
+  - águila_vegana
 como_componente: []
 solo_componente: 0
