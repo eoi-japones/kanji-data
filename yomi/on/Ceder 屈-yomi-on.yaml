@@ -1,0 +1,19 @@
+id: 屈
+nombre: Go*ku* *Tsu* poder nunca tuvo que _ceder_
+tipo: puro
+señalizador: 屈
+lectura: クツ
+integrantes:
+  - 掘
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 退屈
+    significado: Aburrimiento
+    lectura: タイクツ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 採掘
+    significado: Minería, explotación de una mina
+    lectura: サイクツ
+    mascara: '--.--'

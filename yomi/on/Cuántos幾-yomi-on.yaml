@@ -1,0 +1,19 @@
+id: 幾
+nombre: Adivina *ki*en se sabe ya unos _cuántos_ kanji
+tipo: puro
+señalizador: 幾
+lectura: キ
+integrantes:
+  - 機
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 幾何学
+    significado: Geometría
+    lectura: キカガク
+    mascara: '-.-.--'
+  ejemplo-2:
+    palabra: 機会
+    significado: Oportunidad
+    lectura: キカイ
+    mascara: '-.--'

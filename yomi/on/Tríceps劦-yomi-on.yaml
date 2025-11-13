@@ -1,0 +1,19 @@
+id: 劦
+nombre: Ni Godzilla se atrevería con los _tríceps_ de Tō*kyou*
+tipo: puro
+señalizador: 協
+lectura: キョウ
+integrantes:
+  - 脅
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 協力
+    significado: Cooperación
+    lectura: キョウリョク
+    mascara: '---.---'
+  ejemplo-2:
+    palabra: 脅迫
+    significado: Chantaje
+    lectura: キョウハク
+    mascara: '---.--'

@@ -1,0 +1,27 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Identificador del kanji (como compuesto)"
+      },
+
+      "clave": {
+      
+        "type": "string",
+        "description": "la clave asignada al kanji (única en todo el sistema)"
+      },
+
+      "historia": {
+      
+        "type": "string",
+        "description": "la historia representativa de los componentes del kanji"
+      }
+
+    },
+
+    "additionalProperties": false,
+
+    "required": ["id" ]
+}

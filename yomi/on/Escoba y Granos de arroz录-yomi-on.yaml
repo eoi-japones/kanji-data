@@ -1,0 +1,19 @@
+id: 录
+nombre: Estuve supe*roku*pada recogiendo _granos_ _de_ _arroz_ con una _escoba_
+tipo: puro
+señalizador: 録
+lectura: ロク
+integrantes:
+  - 緑
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 記録
+    significado: Registros, anales
+    lectura: キロク
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 緑青
+    significado: Verdín, herrumbre verde
+    lectura: ロクショウ
+    mascara: '--.---'
