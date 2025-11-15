@@ -1,0 +1,10 @@
+﻿id: 寮
+clave: Residencia
+historia: >-
+  En Japón se sabe si una *residencia* es de gente acomodada, si bajo su tejado
+  (宀) se puede ver una caseta de perro (尞)
+solo_componente: 0
+componentes:
+  - Tejado_casa
+  - Caseta_de_perro
+como_componente: []

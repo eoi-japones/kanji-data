@@ -1,0 +1,11 @@
+﻿id: 僚
+clave: Colega
+historia: >-
+  Los *colegas* son esas personas (亻) con las que has hecho cosas tan
+  inconfesables como dormir en una caseta de perro (尞). Se suele usar
+  habitualmente para referirse a los compañeros de trabajo.
+solo_componente: 0
+componentes:
+  - Goku
+  - Caseta de perro
+como_componente: []

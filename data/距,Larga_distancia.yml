@@ -1,0 +1,10 @@
+﻿clave: Larga_distancia
+historia: >-
+  Aunque tenga una pata de palo (⻊), un solo paso de un gigante (巨) cubre una
+  *larga* *distancia*
+id: 距
+solo_componente: 0
+componentes:
+  - Pata de palo
+  - Gigantesco
+como_componente: []

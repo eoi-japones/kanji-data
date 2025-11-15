@@ -1,0 +1,10 @@
+﻿clave: Calamidad
+historia: >-
+  Si no quieres sufrir una *calamidad*, más te vale mantener la mandíbula (咼)
+  cerrada y rezar en un altar (礻)
+id: 禍
+solo_componente: 0
+componentes:
+  - Altar
+  - Mandíbula
+como_componente: []
