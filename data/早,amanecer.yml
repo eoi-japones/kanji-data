@@ -1,11 +1,11 @@
 id: 早
-clave: amanecer
+clave: Temprano
 historia: |
-  Sale el Sol (日) por la mañana y derrite la escarcha. Como componente: .
+  El Sol (日) sale por la mañana *temprano* y derrite las agujas (十) de escarcha. 
 componentes:
-  - sol
-  - diez
+  - Sol
+  - Aguja
 como_componente:
-  - temprano
-  - girasol
+  - Girasol
+  - Amanecer
 solo_componente: 0
