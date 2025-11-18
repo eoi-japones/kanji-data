@@ -1,0 +1,10 @@
+﻿historia: >-
+  Este kanji representa el *signo* *del* *pájaro*, es decir, el gallo, décimo
+  signo del zodíaco; aunque en realidad se usa más como componente con un
+  sentido completamente diferente: *Botella* *de* *whisky*
+id: 酉
+clave: Pájaro_signo
+solo_componente: 0
+componentes: []
+como_componente:
+  - 'botella_de_whisky,酉'

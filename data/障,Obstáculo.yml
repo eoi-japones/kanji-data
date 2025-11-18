@@ -1,0 +1,10 @@
+﻿id: 障
+clave: Obstáculo
+historia: >-
+  Para alcanzar la cúspide (阝) y conseguir tu insignia (章), antes tienes que
+  superar muchos *obstáculos*.
+solo_componente: 0
+componentes:
+  - Cúspide
+  - Insignia
+como_componente: []
