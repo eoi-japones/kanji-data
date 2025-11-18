@@ -1,0 +1,11 @@
+﻿id: 酬
+clave: Recompensa
+historia: >-
+  En ciertas islas de la Polinesia, la *recompensa* que ofrecieron para hacerse
+  con sus estados (州) fue una simple botella de whisky (酉) y, con ella, lo
+  perdieron todo. 
+solo_componente: 0
+componentes:
+  - Botella de whisky
+  - Estado
+como_componente: []
