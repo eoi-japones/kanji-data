@@ -1,0 +1,19 @@
+id: 貞
+nombre: ¡*Tei* quieres poner _recto_ de una vez!
+tipo: puro
+señalizador: 貞
+lectura: テイ
+integrantes:
+  - 偵
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 貞操
+    significado: Castidad
+    lectura: テイソウ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 内偵
+    significado: Reconocimiento, investigación
+    lectura: ナイテイ
+    mascara: '--.--'
