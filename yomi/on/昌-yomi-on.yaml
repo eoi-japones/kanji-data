@@ -1,0 +1,20 @@
+id: 昌
+nombre: '*Shou*lo me queda desearte un _próspero_ Año Nuevo'
+tipo: puro
+señalizador: 昌
+lectura: ショウ
+integrantes:
+  - 唱
+  - 晶
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 唱歌
+    significado: Canto, canción
+    lectura: ショウカ
+    mascara: '---.-'
+  ejemplo-2:
+    palabra: 水晶
+    significado: Cristal
+    lectura: スイショウ
+    mascara: '--.---'
