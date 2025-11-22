@@ -1,0 +1,19 @@
+id: 忍
+nombre: Sin _aguante_ no vas a *nin*gún lado
+tipo: puro
+señalizador: 忍
+lectura: ニン
+integrantes:
+  - 認
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 忍者
+    significado: Espía, ninja
+    lectura: ニンジャ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 否認
+    significado: Desaprobación, negación
+    lectura: ヒニン
+    mascara: '-.--'
