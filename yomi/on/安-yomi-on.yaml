@@ -1,11 +1,9 @@
 id: 安
-nombre: '*An*tes de empezar me _relajo_ cinco minutos'
+nombre: ¡*An*da! ¡Qué barato!
 tipo: puro
 señalizador: 安
 lectura: アン
-integrantes:
-  - 安
-  - 案
+integrantes: []
 especiales: []
 ejemplos:
   ejemplo-1:
