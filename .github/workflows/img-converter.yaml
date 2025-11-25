@@ -1,6 +1,7 @@
 name: Convert PNG to JPG Assets
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
