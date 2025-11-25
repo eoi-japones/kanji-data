@@ -1,0 +1,50 @@
+name: Convert PNG to JPG Assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Convert PNG to JPG and Optimize
+        working-directory: assets/historias
+        run: |
+          for f in *.png; do convert "$f" -quality 80 "${f%.png}.jpg"; done
+
+      - name: Move JPGs to Destination Folder
+        run: |
+          mkdir -p docs/assets/historias
+          mv assets/historias/*.jpg docs/assets/historias/
+
+      - name: Configure Git User
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+
+      - name:  Commit and Push Changes
+        id: commit
+        run: |
+          if git diff --exit-code docs/assets/historias/*.jpg; then
+            echo "::set-output name=files_changed::false"
+            echo "No new JPG files to commit."
+            exit 0
+          fi
+          
+          git add docs/assets/historias/*.jpg
+          git commit -m "chore(assets): Automatic PNG to JPG conversion [skip ci]"
+          git push

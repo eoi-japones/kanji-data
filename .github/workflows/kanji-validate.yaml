@@ -23,3 +23,16 @@ jobs:
         with:
           script: |
             require('.github/validar-schema.js')
+      - name: Validate No PNGs Remain in Docs Folder
+        run: |
+          if ls docs/assets/historias/*.png 1> /dev/null 2>&1; then
+            echo "❌ ERROR: PNG files are present in the documentation folder (docs/assets/historias/)."
+            echo "All assets in this folder must be optimized JPGs."
+            
+            echo "Found files:"
+            ls docs/assets/historias/*.png
+            
+            exit 1 
+          else
+            echo "✅ Validation successful: No .png files found in docs/assets/historias/."
+          fi
