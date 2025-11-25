@@ -6,10 +6,12 @@ on:
     branches:
       - main
 
+
 jobs:
   convert_and_commit:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
