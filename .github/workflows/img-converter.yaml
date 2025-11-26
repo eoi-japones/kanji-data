@@ -1,0 +1,48 @@
+name: Convert PNG to JPG Assets
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Convert PNG to JPG and Optimize
+        working-directory: assets/historias
+        run: |
+          for f in *.png; do convert "$f" -quality 80 "${f%.png}.jpg"; done
+
+      - name: Move JPGs to Destination Folder
+        run: |
+          mkdir -p docs/assets/historias
+          mv assets/historias/*.jpg docs/assets/historias/
+
+      - name: Configure Git User
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+
+      - name: 📝 Create Pull Request with New JPGs 🚀
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'chore(assets): Optimized assets (PNG to JPG conversion)'
+          title: '[Automated] Optimize Assets for Documentation'
+          body: |
+            This pull request contains automatically generated and optimized JPG images. 
+            They have been moved from `assets/historias` to `docs/assets/historias` to reduce page load size.
+          branch: auto-update/optimized-jpgs
+          base: main                        
+          delete-branch: true
