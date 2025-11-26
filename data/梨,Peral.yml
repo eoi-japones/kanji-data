@@ -1,0 +1,10 @@
+﻿id: 梨
+clave: Peral
+historia: >-
+  Dicen que el *peral* es el árbol (木) del beneficio (利) porque de él se obtiene
+  madera, fruto y protección
+solo_componente: 0
+componentes:
+  - Beneficio
+  - Árbol
+como_componente: []

@@ -1,0 +1,10 @@
+﻿clave: Remolino
+historia: >-
+  Un *remolino* es como una enorme mandíbula (咼) de agua (氵) que se abre para
+  devorarlo todo.
+id: 渦
+solo_componente: 0
+componentes:
+  - Agua
+  - Mandíbula
+como_componente: []
