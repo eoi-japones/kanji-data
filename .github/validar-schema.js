@@ -3,6 +3,10 @@ const fs = require("fs")
 const path = require("path")
 const ajv = require("ajv")
 
+const utiles = require("./utiles.js")
+
+const {validarGrupos} = require("./validar-grupos.js")
+
 const kanaSchema = require("../schemas/kana.schema.json")
 const kanjiSchema = require("../schemas/kanji.schema.json")
 const grupoSchema = require("../schemas/grupo.schema.json")
@@ -25,192 +29,154 @@ const grupoOnValidation = Ajv.compile(grupoOnSchema)
 const kanjiHintValidation = Ajv.compile(kanjiHintSchema)
 const kanjiAlterValidation = Ajv.compile(KanjiAlterSchema)
 
-walk(process.env["YOMI_DIR"])
+const processors = {
+    procesarEntrada,
+}
 
-walk(process.env["KANA_DIR"])
-
-walk(process.env["DATA_DIR"])
-
-walk(process.env["META_DIR"])
-
-walk(process.env["KANJI_HINT_DIR"])
-
-walk(process.env["PROFILES_DIR"])
-
+const kanjisPorId = {}
 const clavesUnicas = {}
+const grupos = {}
 
-async function walk(dir = process.env["DATA_DIR"]){
-  
-  console.log(`DIR ${dir}`)
+utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
-  await Promise.all(
+    return utiles.walk(process.env["META_DIR"], processors)
 
-    (await leerDir(dir)).map((entrada) => {
+}).then(() => {
 
-      return procesarEntrada(entrada)
+    return utiles.walk(process.env["YOMI_DIR"], processors)
 
-    })
+}).then(() => {
+    
+    return utiles.walk(process.env["KANA_DIR"], processors)
 
-  ).catch((err) => {
+}).then(() => {
 
-    console.error(err)
+    return utiles.walk(process.env["KANJI_HINT_DIR"], processors)
 
-    throw err
+}).then(() => {
 
-  })
+    return utiles.walk(process.env["PROFILES_DIR"], processors)
+
+}).then(() => {
+
+    return validarGrupos(
+        grupos,
+        kanjisPorId
+    )
+})
+
+function determinarTipo(entrada){
+
+    const dir = path.basename(path.dirname(entrada))
+
+    return (dir == "data" || dir == "componentes") ? "KANJI" :
+        (dir == "kana" || dir == "hiragana" || dir == "katakana") ? "KANA" :
+        (dir == "grupos") ? "GRUPO" :
+        (dir == "on") ? "GRUPO-ON" :
+        (dir == "itinerarios") ? "ITER" : 
+        (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
+        (dir == "colaboradores") ? "COLABORADOR" : 
+        (dir == "hints-kanji") ? "KANJI-HINT" : 
+        (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
+         "DESCONOCIDO"
 
 }
 
-  function determinarTipo(entrada){
+function procesarEntrada(entrada){
 
-      const dir = path.basename(path.dirname(entrada))
+    return procesarFichero(entrada.ruta)
+}
 
-      return (dir == "data" || dir == "componentes") ? "KANJI" :
-          (dir == "kana" || dir == "hiragana" || dir == "katakana") ? "KANA" :
-          (dir == "grupos") ? "GRUPO" :
-          (dir == "on") ? "GRUPO-ON" :
-          (dir == "itinerarios") ? "ITER" : 
-          (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
-          (dir == "colaboradores") ? "COLABORADOR" : 
-          (dir == "hints-kanji") ? "KANJI-HINT" : 
-          (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
-           "DESCONOCIDO"
+function procesarFichero(entrada){
 
-  }
-
-  function procesarEntrada(entrada){
-
-    if(entrada.tipo == "d")
-      return walk(entrada.ruta)
-    else
-      return procesarFichero(entrada.ruta)
-  }
-
-  function procesarFichero(entrada){
-
-    if(entrada.match(/\.yaml$|\.yml$/)){
-
-      return new Promise((ok, ko) => {
-
-        fs.readFile(entrada, 'utf-8', (err, data) => {
-        
-          if(err){
-
-            return `Leyendo ${entrada}: ${err}`
-          }
-
-
-          try{
-           
-            data = yaml.load(data)
-
-            tipo = determinarTipo(entrada)
-
-            console.log(`Validando fichero de ${tipo} ${entrada}`)
-
-            validarFichero(data, tipo)
-
-          }
-          catch(err){
-
-            ko(`en "${entrada}": ${err}`)
-
-          }
-
-        })
-
-      })
-
-    }
-
-  }
-
-  function validarFichero(kanjiData, tipo){
-
-    const validador = (tipo === "KANJI") ? kanjiValidation : 
-
-                        (tipo == "GRUPO") ? grupoValidation : 
-
-                        (tipo == "GRUPO-ON") ? grupoOnValidation :
-
-                        (tipo == "KANA") ? kanaValidation : 
-                    
-                        (tipo == "ITER") ? itinerarioValidation : 
-                        
-                        (tipo == "ITER-YOMI") ? itinerarioValidation: 
-
-                        (tipo == "KANJI-HINT") ? kanjiHintValidation :
-
-                        (tipo == "KANJI-ALTER") ? kanjiAlterValidation :
-
-                        colaboradorValidation;
-
-    if(!validador(kanjiData)){
-       
-      //console.log(JSON.stringify(validador.errors, null, 4))
-      throw JSON.stringify(validador.errors, null, 4)
-    }
-
-    if(tipo == "GRUPO" || tipo == "ITER" || tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
-        return
-    }
-
-    if(clavesUnicas[kanjiData.clave]){
-
-      throw `Clave repetida: "${kanjiData.clave}"`
-    }
-    else{
-
-      clavesUnicas[kanjiData.clave] = true
-    }
-
-  }
-
-  function leerDir(dir){
+  if(entrada.match(/\.yaml$|\.yml$/)){
 
     return new Promise((ok, ko) => {
 
-      fs.readdir(dir, function(err, entradas){
-
+      fs.readFile(entrada, 'utf-8', (err, data) => {
+      
         if(err){
 
-          return ko(`Leyendo ${dir}: ${err}`)
+          return `Leyendo ${entrada}: ${err}`
         }
 
-        Promise.all(
-          entradas.map((entrada) => {
+        try{
+         
+          data = yaml.load(data)
 
-            return new Promise((ok, ko) => {
+          tipo = determinarTipo(entrada)
 
-              fs.stat(path.join(dir, entrada), (err, stats) => {
+          console.log(`Validando fichero de ${tipo} ${entrada}`)
 
-                if(err)
-                  return ko(`Haciendo fstat sobre: ${path.join(dir, entrada)}: ${err}`)
+          validarFichero(data, tipo)
+        
+          ok(entrada)
 
-                ok({
+        }
+        catch(err){
 
-                  ruta: path.join(dir, entrada),
+          ko(`en "${entrada}": ${err}`)
 
-                  tipo: stats.isDirectory() ? "d" : "f"
-
-                })
-
-              })
-
-            })
-
-          })
-
-        ).then((listado) => ok(listado))
-
-        .catch((err) => {
-
-          ko(err)
-        })
-
+        }
 
       })
 
     })
 
   }
+  else{
+    return Promise.resolve(entrada)
+  }
+
+}
+
+function validarFichero(kanjiData, tipo){
+
+  const validador = (tipo === "KANJI") ? kanjiValidation : 
+
+                      (tipo == "GRUPO") ? grupoValidation : 
+
+                      (tipo == "GRUPO-ON") ? grupoOnValidation :
+
+                      (tipo == "KANA") ? kanaValidation : 
+                  
+                      (tipo == "ITER") ? itinerarioValidation : 
+                      
+                      (tipo == "ITER-YOMI") ? itinerarioValidation: 
+
+                      (tipo == "KANJI-HINT") ? kanjiHintValidation :
+
+                      (tipo == "KANJI-ALTER") ? kanjiAlterValidation :
+
+                      colaboradorValidation;
+
+  if(!validador(kanjiData)){
+     
+    //console.log(JSON.stringify(validador.errors, null, 4))
+    throw JSON.stringify(validador.errors, null, 4)
+  }
+
+  if(tipo == "GRUPO"){
+
+      grupos[kanjiData.id] = kanjiData
+
+      return
+  }
+  else if(tipo == "ITER" || tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
+
+      return 
+  }
+
+  if(clavesUnicas[kanjiData.clave]){
+
+    console.log(clavesUnicas[kanjiData.clave])
+    throw `Clave repetida: "${kanjiData.clave}"`
+  }
+  else{
+
+    clavesUnicas[kanjiData.clave] = kanjiData
+    kanjisPorId[kanjiData.id] = kanjiData
+  }
+
+}
+
