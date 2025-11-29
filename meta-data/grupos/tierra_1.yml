@@ -1,0 +1,25 @@
+id: tierra_1
+
+nombre: "Tierra I: Geografía y Construcción"
+
+descripcion: >
+  Kanjis que utilizan el radical de Tierra para representar conceptos de lugares, suelo y geografía básica.
+
+integrantes: 
+  - 地 # Tierra
+  - 場 # Lugar
+  - 坂 # Pendiente
+  - 均 # Igualdad
+  - 埋 # Enterrar
+
+auxiliares: 
+  - id: 易
+    para: 場 # hucha_de_cerdito
+  - id: 反
+    para: 坂 # anti
+  - id: 勺
+    para: 均 # cuchara
+  - id: 未
+    para: 埋 # no
+
+icono: "https://www.svgrepo.com/download/12979/mountain-hill-top.svg"
