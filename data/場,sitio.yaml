@@ -1,0 +1,10 @@
+id: 場
+clave: sitio
+historia: >
+  La hucha de cerdito (昜) rosa se quebró contra la tierra (土) seca. Las monedas rodaron, buscaron grietas, se perdieron.
+  Un instante después solo quedó polvo y un silencio que olía a infancia enterrada.
+  Aquel **sitio** ya nunca volvería a ser el mismo.
+componentes: ['tierra', 'hucha_de_cerdito']
+como_componente: []
+solo_componente: 0
+

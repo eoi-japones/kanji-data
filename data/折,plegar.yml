@@ -1,0 +1,7 @@
+id: 折
+clave: plegar
+historia: >
+    En el origami, los dedos (扌) del artista son como hachas (斤), capaces de plegar cualquier tipo de papel u otro material.
+componentes: ['dedo', 'hacha']
+como_componente: []
+solo_componente: 0
