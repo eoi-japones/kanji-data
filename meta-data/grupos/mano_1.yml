@@ -1,0 +1,22 @@
+id: mano_1
+
+nombre: "Mano I: Acciones Manuales"
+
+descripcion: >
+  Kanjis que utilizan la mano como radical para describir acciones físicas que impliquen contacto del algún tipo. 
+
+integrantes: 
+  - 手 # Mano
+  - 打 # Golpear
+  - 折 # Romper
+  - 投 # Lanzar
+
+auxiliares: 
+  - id: 丁
+    para: 打 # calle/clavo
+  - id: 斤
+    para: 折 # hacha
+  - id: 殳
+    para: 投 # recibir
+
+icono: "https://www.svgrepo.com/download/479530/hand-gesture.svg"
