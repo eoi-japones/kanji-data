@@ -1,0 +1,28 @@
+id: 丙
+nombre: >-
+  *¡Hei!* Los de _tercera_ _clase_ no pueden acceder al comedor de primera,
+  ¡deténganse!
+tipo: puro
+señalizador: 丙
+lectura: ヘイ
+integrantes:
+  - 丙
+  - 柄
+  - 病
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 甲乙丙
+    significado: A, B, C (antiguo modo de contar)
+    lectura: コウオツヘイ
+    mascara: '--.--.--'
+  ejemplo-2:
+    palabra: 横柄
+    significado: Arrogancia
+    lectura: オウヘイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 疾病
+    significado: Enfermedad
+    lectura: シッペイ
+    mascara: '--.--'
