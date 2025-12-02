@@ -1,0 +1,11 @@
+﻿id: 彰
+clave: Patente
+historia: >-
+  Hoy en día, en Japón, lo *patentan* todo: desde una insignia (章) hasta la
+  forma (彡) más extraña. Esta palabra se usa como sinónimo de _expresar algo
+  abiertamente, de una forma clara_
+solo_componente: 0
+componentes:
+  - Insignia
+  - Forma
+como_componente: []

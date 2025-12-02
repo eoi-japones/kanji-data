@@ -1,0 +1,10 @@
+﻿id: 章
+clave: Insignia
+historia: >-
+  La *insignia* del maestro es un enorme jarrón chino (立) decorado con un gran
+  girasol (早).
+solo_componente: 0
+componentes:
+  - Jarrón_chino
+  - Girasol
+como_componente: []
