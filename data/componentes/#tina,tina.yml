@@ -1,0 +1,9 @@
+id: '#tina'
+clave: '*tina'
+historia: >
+  Vemos a alguien reclinado (𠂉) sobre una *tina* con planchas unidas por 6 tiras metálicas como las antiguas tinas para bañarse. 
+componentes:
+  - '𠂉,reclinar'
+como_componente: []
+solo_componente: 1
+
