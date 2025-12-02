@@ -1,0 +1,20 @@
+id: 菐
+nombre: Su humilde _servidor_ le acercó el *boku*tín al instante
+tipo: puro
+señalizador: 菐
+lectura: ボク
+integrantes:
+  - 僕
+  - 撲
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 僕
+    significado: Yo
+    mascara: '--'
+    lectura: ボク
+  ejemplo-2:
+    palabra: 撲殺
+    significado: Asesinato a palos
+    mascara: '--.--'
+    lectura: ボクサツ

@@ -1,0 +1,19 @@
+id: 伐
+nombre: Antes de ponerme a _talar_ me bebí un refrescante *batsu* de agua
+tipo: puro
+señalizador: 伐
+lectura: バツ
+integrantes:
+  - 閥
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 伐採
+    significado: Tala de árboles; Deforestación
+    lectura: バッサイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 派閥
+    significado: Facción
+    lectura: ハバツ
+    mascara: '-.--'

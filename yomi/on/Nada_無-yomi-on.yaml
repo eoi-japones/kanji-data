@@ -1,0 +1,19 @@
+id: 無
+nombre: Apareció de la _nada_ y dijo ¡*Bu*!
+tipo: puro
+señalizador: 無
+lectura: ブ
+integrantes:
+  - 舞
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 無礼
+    significado: Descortesía
+    mascara: '-.--'
+    lectura: ブレイ
+  ejemplo-2:
+    palabra: 舞台
+    significado: Escenario de un teatro
+    mascara: '-.--'
+    lectura: ブタイ
