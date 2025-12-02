@@ -1,0 +1,11 @@
+﻿historia: >-
+  Antiguamente, los campesinos perdían el *beneficio* de la cosecha del trigo
+  (禾) porque tenían que contratar sables (刂) para protegerse de los bandidos que
+  los amenazaban.
+id: 利
+clave: Beneficio
+solo_componente: 0
+componentes:
+  - Trigo
+  - Sables
+como_componente: []

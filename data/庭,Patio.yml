@@ -1,0 +1,10 @@
+﻿clave: Patio
+id: 庭
+historia: >-
+  Mi cueva (广) tiene su propio *patio* y allí el único tribunal (廷) de justicia
+  soy yo. Este kanji también se usa para *jardín*
+solo_componente: 0
+componentes:
+  - Cueva
+  - Tribunal
+como_componente: []

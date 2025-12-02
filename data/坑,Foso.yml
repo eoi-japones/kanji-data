@@ -1,0 +1,10 @@
+﻿clave: Foso
+historia: >-
+  Un tornado (亢) que permanece mucho tiempo sobre la tierra (土) deja tras de sí
+  un gran *foso*
+id: 坑
+solo_componente: 0
+componentes:
+  - Tierra
+  - Tornado
+como_componente: []

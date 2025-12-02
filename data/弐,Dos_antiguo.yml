@@ -1,0 +1,8 @@
+﻿id: 弐
+clave: Dos_antiguo
+historia: 'Vemos un #carcaj al que solo le quedan dos (二) flechas.'
+solo_componente: 0
+componentes:
+  - Carcaj
+  - Dos
+como_componente: []
