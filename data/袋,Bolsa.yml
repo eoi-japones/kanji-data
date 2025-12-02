@@ -1,0 +1,10 @@
+﻿clave: Bolsa
+id: 袋
+historia: >-
+  Si alguna vez te quedas sin ropa (衣) siempre puedes usar una *bolsa* como
+  sustituto (代) temporal para cubrirte.
+solo_componente: 0
+componentes:
+  - Sustituto
+  - Ropa
+como_componente: []

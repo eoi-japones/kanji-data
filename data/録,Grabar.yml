@@ -1,0 +1,10 @@
+﻿clave: Grabar
+historia: >-
+  Las manías de Don limpio (录) son tan extremas que parece que alguien se las
+  hubiese *grabado* a fuego con algún metal (金) candente.
+id: 録
+solo_componente: 0
+componentes:
+  - Metal
+  - Don_limpio
+como_componente: []

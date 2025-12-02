@@ -1,0 +1,10 @@
+﻿id: 荘
+clave: Chalet
+historia: >-
+  Sabes que has llegado a un *chalet* cuando ves flores (艹) cuidadas y robustos
+  (壮) guardianes vigilando la entrada.
+solo_componente: 0
+componentes:
+  - Flor
+  - Robusto
+como_componente: []

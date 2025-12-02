@@ -1,0 +1,8 @@
+﻿clave: Lado
+id: 側
+historia: Las normas (則) están al *lado* de las personas (亻) para alejarlas del caos.
+solo_componente: 0
+componentes:
+  - Persona
+  - Norma
+como_componente: []

@@ -1,0 +1,11 @@
+﻿id: 录
+clave: Don_limpio
+historia: >-
+  Imagina a *Don Limpio*, musculoso y reluciente, tan obsesionado con la
+  limpieza que acude veloz con su escoba (彐) a recoger hasta el último grano de
+  arroz (米) caído en el suelo.
+solo_componente: 1
+componentes:
+  - Escoba
+  - Granos_de_arroz
+como_componente: []

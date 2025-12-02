@@ -1,0 +1,10 @@
+﻿clave: Ingresos
+id: 稼
+historia: >-
+  Antiguamente, los *ingresos* de una casa (家) se medían oficialmente por la
+  cantidad de trigo (禾) que poseía.
+solo_componente: 0
+componentes:
+  - Trigo
+  - Casa
+como_componente: []
