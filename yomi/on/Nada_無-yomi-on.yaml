@@ -1,7 +1,7 @@
-id: (#tina)
+id: #tina
 nombre: Apareció detrás de una _tina_ de la _nada_ y dijo ¡*Bu*!
 tipo: puro
-señalizador: (#tina)
+señalizador: #tina
 lectura: ブ
 integrantes:
   - 無
