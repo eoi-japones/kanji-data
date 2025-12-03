@@ -1,9 +1,10 @@
-id: 無
-nombre: Apareció de la _nada_ y dijo ¡*Bu*!
+id: (#tina)
+nombre: Apareció detrás de una _tina_ de la _nada_ y dijo ¡*Bu*!
 tipo: puro
-señalizador: 無
+señalizador: (#tina)
 lectura: ブ
 integrantes:
+  - 無
   - 舞
 especiales: []
 ejemplos:
