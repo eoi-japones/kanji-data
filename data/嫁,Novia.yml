@@ -1,0 +1,11 @@
+﻿clave: Novia
+id: 嫁
+historia: >-
+  En el derecho romano, cuando una mujer (女) vivía un tiempo en la casa (家) de
+  un hombre, aunque éste no estuviese, pasaba a ser su *novia* y el matrimonio
+  se consideraba legítimo.  
+solo_componente: 0
+componentes:
+  - Mujer
+  - Casa
+como_componente: []

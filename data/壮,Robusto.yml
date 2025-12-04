@@ -1,0 +1,10 @@
+﻿clave: Robusto
+id: 壮
+historia: >-
+  Si unes la resistencia de una tortuga (丬) y la firmeza de un samurai (士),
+  obtendrás algo verdaderamente *robusto*
+solo_componente: 0
+componentes:
+  - tortuga
+  - samurai
+como_componente: [Tortuga_ninja,壮]

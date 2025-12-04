@@ -1,0 +1,10 @@
+﻿clave: Rectificar
+id: 矯
+historia: >-
+  El ángel (喬) Cupido ha lanzado un dardo (矢) del amor a la pareja equivocada y,
+  al darse cuenta, debe *rectificar* de inmediato! ...la comedia está servida...
+solo_componente: 0
+componentes:
+  - Dardo
+  - Ángel
+como_componente: []

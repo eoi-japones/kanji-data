@@ -1,0 +1,10 @@
+﻿clave: Frotar
+id: 抹
+historia: >-
+  Para *frotar* algo a conciencia, nada funciona mejor que usar el extremo (末)
+  de un dedo (扌), porque es donde se concentra toda la fuerza.
+solo_componente: 0
+componentes:
+  - Dedo
+  - Extremo
+como_componente: []

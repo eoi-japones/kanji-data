@@ -1,0 +1,10 @@
+﻿clave: Verde
+historia: >-
+  Si un solo hilo (糸) se cae al suelo en casa de Don Limpio (录) se pondrá
+  *verde* de la rabia que le dará.
+id: 緑
+solo_componente: 0
+componentes:
+  - Hilo
+  - Don_limpio
+como_componente: []
