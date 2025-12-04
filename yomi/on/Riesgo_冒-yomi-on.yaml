@@ -1,0 +1,19 @@
+id: 冒
+nombre: Este _riesgo_ es tan *bou*eno que cualquiera se lanza
+tipo: puro
+señalizador: 冒
+lectura: ボウ
+integrantes:
+  - 帽
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 冒険
+    significado: Aventura
+    mascara: '--.--'
+    lectura: ボウケン
+  ejemplo-2:
+    palabra: 帽子
+    significado: Sombrero, Gorra
+    mascara: '--.-'
+    lectura: ボウシ

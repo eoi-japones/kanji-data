@@ -1,0 +1,19 @@
+id: 暴
+nombre: La _explosión_ obligó a *baku*nar a toda la gente de inmediato
+tipo: puro
+señalizador: 暴
+lectura: バク
+integrantes:
+  - 爆
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 暴露
+    significado: Desenmascaramiento
+    lectura: バクロ
+    mascara: '--.-'
+  ejemplo-2:
+    palabra: 爆発
+    significado: Explosión
+    lectura: バクハツ
+    mascara: '--.--'

@@ -1,0 +1,20 @@
+id: '\#tina'
+nombre: Apareció detrás de una _tina_ de la _nada_ y dijo ¡*Bu*!
+tipo: puro
+señalizador: '\#tina'
+lectura: ブ
+integrantes:
+  - 無
+  - 舞
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 無礼
+    significado: Descortesía
+    mascara: '-.--'
+    lectura: ブレイ
+  ejemplo-2:
+    palabra: 舞台
+    significado: Escenario de un teatro
+    mascara: '-.--'
+    lectura: ブタイ
