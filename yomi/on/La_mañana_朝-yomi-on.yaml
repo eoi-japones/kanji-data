@@ -1,0 +1,19 @@
+id: 朝
+nombre: El *chou*fer se retrasó y perdí toda _la mañana_
+tipo: puro
+señalizador: 朝
+lectura: チョウ
+integrantes:
+  - 潮
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 朝食
+    significado: Desayuno
+    lectura: チョウショク
+    mascara: '---.---'
+  ejemplo-2:
+    palabra: 満潮
+    significado: Marea alta
+    lectura: マンチョウ
+    mascara: '--.---'

@@ -1,0 +1,19 @@
+id: 道
+nombre: 'Por la _carretera_ un tipo me gritó: ¡*Dou*nde vas, animal!'
+tipo: puro
+señalizador: 道
+lectura: ドウ
+integrantes:
+  - 導
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 華道
+    significado: El "camino de las flores" japonés
+    mascara: '-.--'
+    lectura: カドウ
+  ejemplo-2:
+    palabra: 指導
+    significado: Guía, Orientación
+    mascara: '-.--'
+    lectura: シドウ

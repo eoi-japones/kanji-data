@@ -1,0 +1,19 @@
+id: 徴
+nombre: Los _indicios_ apuntan a que alguien se comió todo el *chou*colate
+tipo: puro
+señalizador: 徴
+lectura: チョウ
+integrantes:
+  - 懲
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 象徴
+    significado: Símbolo
+    lectura: ショウチョウ
+    mascara: '---.---'
+  ejemplo-2:
+    palabra: 懲罰
+    significado: Acción disciplinaria, Castigo
+    lectura: チョウバツ
+    mascara: '---.--'
