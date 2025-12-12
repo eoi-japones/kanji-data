@@ -1,0 +1,19 @@
+id: 動
+nombre: Antes de _mover_ la mesa, aclárame *dou*nde va
+tipo: puro
+señalizador: 動
+lectura: ドウ
+integrantes:
+  - 働
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 自動車
+    significado: Automóvil
+    mascara: '-.--.-'
+    lectura: ジドウシャ
+  ejemplo-2:
+    palabra: 労働
+    significado: Trabajo
+    mascara: '--.--'
+    lectura: ロウドウ

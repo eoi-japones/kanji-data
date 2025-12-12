@@ -1,0 +1,21 @@
+id: 畜
+nombre: >-
+  Al cuidar del _ganado_, el *chiku* de la granja siempre lleva un sombrero
+  enorme
+tipo: puro
+señalizador: 畜
+lectura: チク
+integrantes:
+  - 蓄
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 家畜
+    significado: Animales domésticos, Ganado
+    mascara: '-.--'
+    lectura: カチク
+  ejemplo-2:
+    palabra: 蓄電池
+    significado: Pila, Batería
+    mascara: '--.--.-'
+    lectura: チクデンチ
