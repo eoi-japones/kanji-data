@@ -31,7 +31,7 @@ function validarGrupo(grupo, kanjis){
     for(const kanji of totalKanjisGrupo){
 
         if(kanji in kanjisEnGrupo){
-            errores += `- Error ya existe el kanji ${kanji} en el grupo ${grupo.id}: un kanji no puede repetirse en el mismo grupo`
+            errores += `- Error ya existe el kanji ${kanji} en el grupo ${grupo.id}: un kanji no puede repetirse en el mismo grupo\n`
         }
         else{
             kanjisEnGrupo[kanji] = true
