@@ -1,11 +1,15 @@
-id: 度
-clave: grado
-historia: >+
-  Si te pierdes en unas cavernas () el *grado* de oscuridad y de túneles que
-  veas determinará lo rápido que "te lo harás por la entrepierna (又) abajo". 
+﻿id: 度
+clave: Grado
+historia: >-
+  Al explorar ciertas cuevas (广), el *grado* de dificultad se reflejará en el
+  temblor de la entrepierna (又), especialmente si se deben recorrer veinte (廿)
+  metros de oscuridad.
 
-componentes:
-  - cavernas
-  - entrepierna
-como_componente: []
+
+  Este kanji se refiere a una gradación para medir algo.
 solo_componente: 0
+componentes:
+  - Cueva
+  - Entrepierna
+  - Veinte
+como_componente: []
