@@ -1,0 +1,17 @@
+id: posiciones_1
+nombre: "Posiciones I"
+descripcion: >
+  Hablamos de posiciones y direcciones básicas en esta lección.
+integrantes:
+  - 上
+  - 下
+  - 中
+  - 左
+  - 右
+auxiliares: 
+  - id: 𠂇
+    para: 左
+  - id: 卜
+    para: 上
+
+icono: "https://www.svgrepo.com/download/38944/river.svg"
