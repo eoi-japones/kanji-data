@@ -8,4 +8,10 @@ integrantes:
   - 中
   - 左
   - 右
-auxiliares: []
+auxiliares: 
+  - id: 𠂇
+    para: 左
+  - id: 卜
+    para: 上
+
+icono: "https://www.svgrepo.com/download/38944/river.svg"
