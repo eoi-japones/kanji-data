@@ -1,9 +1,10 @@
 id: 且
 nombre: '*So*lo manga en mi _estantería_'
 tipo: puro
-señalizador: 組
+señalizador: 且
 lectura: ソ
 integrantes:
+  - 組
   - 祖
   - 租
   - 粗
