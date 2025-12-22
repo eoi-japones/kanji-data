@@ -1,0 +1,19 @@
+id: 凡
+nombre: Ser _mediocre_ es el mayor *Han*dicap de la historia
+tipo: puro
+señalizador: 凡
+lectura: ハン
+integrantes:
+  - 帆
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 凡例
+    significado: Comentarios introductorios
+    lectura: ハンレイ
+    mascara: '--.--'
+  ejemplo-2:
+    palabra: 帆船
+    significado: Barco de vela
+    lectura: ハンセン
+    mascara: '--.--'

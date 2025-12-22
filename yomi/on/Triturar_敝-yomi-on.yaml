@@ -1,0 +1,20 @@
+id: 敝
+nombre: ¡*Hei*! Deja ya de _triturar_ las galletas
+tipo: puro
+señalizador: 敝
+lectura: ヘイ
+integrantes:
+  - 幣
+  - 弊
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 紙幣
+    significado: Papel moneda
+    lectura: シヘイ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 弊害
+    significado: Abuso, maldad
+    lectura: ヘイガイ
+    mascara: '--.--'
