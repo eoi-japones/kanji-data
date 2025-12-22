@@ -1,10 +1,9 @@
 ﻿id: 脇
 clave: axila
 historia: >-
-  La parte del cuerpo (月) que no puede tocarse alguien que tiene músculos por
-  todas partes (力) es la axila.
+  La *axila* es una parte del cuerpo (月) especialmente difícil de tocar cuando alguien flexiona sus tríceps (劦).
 solo_componente: 0
 componentes:
-  - '力,fuerza'
+  - '劦,triceps'
   - '月,parte_del_cuerpo'
 como_componente: []
