@@ -1,10 +1,10 @@
 ﻿id: 脅
 clave: amenaza
 historia: >-
-  Si una persona con músculos por todas partes (力) viene hacia ti, es una
-  amenaza porque de una patada te puede mandar a la luna (月).
+  Si una persona avanza hacia ti mostrando sus tríceps (劦), eso ya es una
+  *amenaza*, porque de una patada te puede mandar a la luna (月).
 solo_componente: 0
 componentes:
-  - '力,fuerza'
+  - '劦,tríceps'
   - '月,luna'
 como_componente: []
