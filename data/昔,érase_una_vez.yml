@@ -1,0 +1,17 @@
+id: 昔
+
+clave: érase_una_vez
+
+historia: >
+  Estás en una "tasca" y te ponen una ensaladilla con cosas "verdes" de aspecto sospechoso...
+  Asqueado llamas al camarero y le dices: ¡no me ponga una ensalada (龷) de hace muchos muchos días (日)!.
+  Mientras, señalas el plato y piensas...*Érase una vez* una ensalada (龷) decente, pero pasaron y pasaron los días (日)..."
+  Este kanji suele usarse en japonés para iniciar los cuentos y narraciones, "érase una vez..."   
+
+componentes: 
+  - ensalada
+  - día
+
+como_componente: []
+
+solo_componente: 0

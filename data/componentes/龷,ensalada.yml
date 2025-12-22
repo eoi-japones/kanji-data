@@ -1,0 +1,16 @@
+id: 龷
+
+solo_componente: 1
+
+clave: '*ensalada'
+
+historia: >
+  
+  Vemos el componente flores (艹) brotando del suelo (一), ¡preparemos una *ensalada*!
+
+componentes: 
+  - flor
+  - suelo
+
+como_componente: 
+  - ensaladilla,龷
