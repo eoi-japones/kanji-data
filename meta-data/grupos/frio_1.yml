@@ -1,0 +1,16 @@
+id: frio_1
+nombre: "Frío I"
+descripcion: >
+  Kanji relacionados con el frío, el invierno y condiciones climáticas asociadas.
+integrantes:
+  - 冬
+  - 冷
+  - 凍
+  - 乾
+auxiliares:
+  - id: 夂
+    para: 冬
+  - id: 令
+    para: 冷
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/frio_1.jpg"
