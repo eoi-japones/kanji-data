@@ -1,9 +1,10 @@
 id: 夹
 nombre: Con estas _tijeras_ puedes *Kyou*rtar todo lo que quieras
 tipo: puro
-señalizador: 峡
+señalizador: 夹 
 lectura: キョウ
 integrantes:
+  - 峡
   - 狭
   - 挟
 especiales: []
