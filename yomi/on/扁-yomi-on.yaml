@@ -1,9 +1,10 @@
 id: 扁
 nombre: Este _portero_ tiene un *hen*io del demonio, no deja pasar a nadie
 tipo: puro
-señalizador: 編
+señalizador: 扁
 lectura: ヘン
 integrantes:
+  - 編
   - 偏
   - 遍
 especiales: []
