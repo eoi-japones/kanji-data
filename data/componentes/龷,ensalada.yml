@@ -1,0 +1,15 @@
+id: 龷
+
+solo_componente: 1
+
+clave: '*ensalada'
+
+historia: >
+  
+  Vemos el componente flores (艹) saliendo de un plato, ¡es una ensalda!
+
+componentes: 
+  - flor
+
+como_componente: 
+  - ensaladilla,龷
