@@ -1,9 +1,10 @@
 id: 賁
 nombre: _Almejas_ _tóxicas_ ... y el baño no *Fun*ciona...
 tipo: puro
-señalizador: 噴
+señalizador: 賁
 lectura: フン
 integrantes:
+  - 噴
   - 憤
   - 墳
 especiales: []
