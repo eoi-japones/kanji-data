@@ -1,9 +1,10 @@
 id: 喬
 nombre: 'El _ángel_ *Kyou*rrió y el diablo no lo pilló'
 tipo: puro
-señalizador: 橋
+señalizador: 喬
 lectura: キョウ
 integrantes:
+  - 橋
   - 矯
   - 嬌
 especiales: []
