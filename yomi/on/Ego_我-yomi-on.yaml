@@ -1,0 +1,19 @@
+id: 我
+nombre: A mi _ego_ no hay quien le *Ga*ne
+tipo: puro
+señalizador: 我
+lectura: ガ
+integrantes:
+  - 餓
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 自我
+    significado: Ego
+    lectura: ジガ
+    mascara: '-.-'
+  ejemplo-2:
+    palabra: 飢餓
+    significado: Hambruna, hambre
+    lectura: キガ
+    mascara: '-.-'

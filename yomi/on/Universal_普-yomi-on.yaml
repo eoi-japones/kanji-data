@@ -1,0 +1,19 @@
+id: 普
+nombre: La teoría _universal_ de la relatividad es irre*Fu*table
+tipo: puro
+señalizador: 普
+lectura: フ
+integrantes:
+  - 譜
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 普及
+    significado: Difusión, diseminación
+    lectura: フキュウ
+    mascara: '-.---'
+  ejemplo-2:
+    palabra: 楽譜
+    significado: Partitura musical
+    lectura: ガクフ
+    mascara: '--.-'

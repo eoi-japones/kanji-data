@@ -1,0 +1,19 @@
+id: 卑
+nombre: ¡*Hi*, *Hi*, *Hi*! contestó riendo el _despreciable_ villano
+tipo: puro
+señalizador: 卑
+lectura: ヒ
+integrantes:
+  - 碑
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 卑屈
+    significado: Servil, escurridizo
+    lectura: ヒクツ
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 碑銘
+    significado: Epitafio
+    lectura: ヒメイ
+    mascara: '-.--'

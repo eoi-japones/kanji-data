@@ -1,0 +1,19 @@
+id: 比
+nombre: Es de *Hi*lipoll.. ponerse a _comparar_ músculos en un gimnasio
+tipo: puro
+señalizador: 比
+lectura: ヒ
+integrantes:
+  - 批
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 比較
+    significado: Comparación
+    lectura: ヒカク
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 批判
+    significado: Crítica
+    lectura: ヒハン
+    mascara: '-.--'

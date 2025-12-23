@@ -1,0 +1,19 @@
+id: 足
+nombre: Me clavé una astilla en el _pie_ y me hise una peda*soku*rita
+tipo: puro
+señalizador: 足
+lectura: ソク
+integrantes:
+  - 促
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 不足
+    significado: Insuficiencia, escasez
+    lectura: フソク
+    mascara: '-.--'
+  ejemplo-2:
+    palabra: 促進
+    significado: Promoción
+    lectura: ソクシン
+    mascara: '--.--'
