@@ -1,0 +1,9 @@
+id: # Debe ser el propio kanji
+clave:
+historia:
+componentes: []
+como_componente: # Puede ser multiline
+  -  # Ejemplo de formato: 'uno,一'
+trazos: # num
+timestamp:
+usuario:
