@@ -1,0 +1,10 @@
+﻿id: 柄
+clave: Diseño
+historia: >-
+  Un buen *diseño* es aquel que nace siendo de tercera clase (丙) y crece hasta
+  ser tan sólido como un árbol (木)
+solo_componente: 0
+componentes:
+  - Árbol
+  - Tercera_clase
+como_componente: []

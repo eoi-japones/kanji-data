@@ -1,0 +1,10 @@
+﻿id: 病
+clave: Enfermo
+historia: >-
+  Ante una enfermedad (疒), cualquier *enfermo* debería ser tratado como de
+  tercera clase (丙), es decir, sin distinciones sociales.
+solo_componente: 0
+componentes:
+  - Enfermedad
+  - Tercera_clase
+como_componente: []
