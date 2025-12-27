@@ -1,0 +1,10 @@
+﻿id: 掘
+clave: Excavar
+historia: >-
+  Antes de comenzar a *excavar*, debemos palpar el terreno con los dedos (扌)
+  para ver dónde puede ceder (屈) fácilmente.
+solo_componente: 0
+componentes:
+  - Dedo
+  - Ceder
+como_componente: []
