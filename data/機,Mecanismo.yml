@@ -1,0 +1,11 @@
+﻿id: 機
+clave: Mecanismo
+historia: >-
+  Imagina un *mecanismo* hecho de madera (木) que funciona como si de un _ábaco_
+  gigante se tratase: cada vez que golpea, cuenta cuántos (幾) artículos produce.
+solo_componente: 0
+componentes:
+  - Madera
+  - Cuántos
+como_componente:
+  - 'ábaco,機'

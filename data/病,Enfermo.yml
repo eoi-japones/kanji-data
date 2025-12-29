@@ -1,0 +1,9 @@
+﻿id: 病
+clave: Enfermo
+historia: >-
+  Cuando alguien padece una enfermedad (疒), hay que esforzarse por tratarlo bien, sea quien sea, que ningún *enfermo* se sienta como de tercera clase (丙).
+solo_componente: 0
+componentes:
+  - Enfermedad
+  - Tercera_clase
+como_componente: []
