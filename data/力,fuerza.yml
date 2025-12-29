@@ -6,5 +6,7 @@ historia: >-
 
   ¿Véis? No tenemos la gota de sudor. Ese es el ejemplo de nuestra fuerza.
 componentes: []
-como_componente: (tríceps,劦)(músculo,力)
+como_componente: 
+  - tríceps,劦
+  - músculo,力
 solo_componente: 0
