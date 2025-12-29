@@ -57,6 +57,11 @@ async function acumularParaFichero(datos, tipo, entrada){
 
   switch(tipo){
 
+      case "KANJI":
+          d.kind = "kanji.eoi/kanji"
+          d.version = "v1"
+      break
+
       case "GRUPO":
           d.kind = "kanji.eoi/grupo"
           d.version = "v1"
