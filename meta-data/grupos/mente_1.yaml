@@ -1,0 +1,21 @@
+id: mente_1
+nombre: "Mente y Sentimientos I"
+descripcion: >
+  Dedicamos esta lección al mundo interior. Exploramos cómo el kanji de "corazón" 
+  evoluciona para representar pensamientos, deseos e ideas complejas.
+integrantes:
+  - 心
+  - 思
+  - 想
+  - 感
+  - 念
+  - 意
+auxiliares:
+  - id: 相
+    para: 想
+  - id: 音
+    para: 意
+  - id: 戌
+    para: 感
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/mente_1.jpg"
