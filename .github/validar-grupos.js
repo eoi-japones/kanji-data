@@ -7,13 +7,52 @@ function validarGrupos(grupos, kanjis){
 
    let errores = ""
 
+   let kanjisEnVariosGrupos = {}
+
    for(const grupoId in grupos){
        console.log(`Validando internamente ${grupoId}`) 
        errores += validarGrupo(grupos[grupoId], kanjis)
    }
 
+   errores += validarKanjisEnVariosGrupos(grupos, kanjisEnVariosGrupos)
+
     if(errores != "")
         throw `\n${errores}`
+}
+
+function validarKanjisEnVariosGrupos(grupos, kanjisEnVariosGrupos){
+
+   let errores = ""
+
+   for(const grupoId in grupos){
+   
+        const totalKanjisGrupo = helperExtractorKanjisGrupo(grupos[grupoId])
+
+        for(kanji of totalKanjisGrupo){
+
+            if(kanji in kanjisEnVariosGrupos){
+        
+                errores += `El kanji ${kanji} del grupo '${grupoId}' ya esta presente en el grupo "${kanjisEnVariosGrupos[kanji]}"\n`  
+            }
+            else{
+        
+                kanjisEnVariosGrupos[kanji] = grupoId
+            }
+        }
+
+   }
+
+   return errores
+
+}
+
+function helperExtractorKanjisGrupo(grupo){
+
+    return [].concat(
+        grupo.integrantes
+    ).concat(
+        grupo.auxiliares.map((aux) => aux.id)
+    ).flat(Infinity)
 }
 
 function validarGrupo(grupo, kanjis){
@@ -22,11 +61,7 @@ function validarGrupo(grupo, kanjis){
 
     let kanjisEnGrupo = {}
 
-    const totalKanjisGrupo = [].concat(
-        grupo.integrantes
-    ).concat(
-        grupo.auxiliares.map((aux) => aux.id)
-    ).flat(Infinity)
+    const totalKanjisGrupo = helperExtractorKanjisGrupo(grupo)
 
     for(const kanji of totalKanjisGrupo){
 

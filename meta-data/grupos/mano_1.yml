@@ -12,8 +12,6 @@ integrantes:
   - 投 # Lanzar
 
 auxiliares: 
-  - id: 丁
-    para: 打 # calle/clavo
   - id: 斤
     para: 折 # hacha
   - id: 殳
