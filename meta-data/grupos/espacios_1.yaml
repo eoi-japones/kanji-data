@@ -1,0 +1,23 @@
+id: espacios_1
+nombre: "Espacios y Trámites"
+descripcion: >
+  En esta lección exploramos los lugares donde la gente se organiza, gestiona la ley
+  o descansa. Veremos cómo la estructura de un edificio (广) o la acción 
+  de extender algo (廴) definen estos entornos oficiales y privados.
+integrantes:
+  - 府
+  - 廷
+  - 庭
+  - 廃
+  - 延
+  - 舗
+auxiliares:
+  - id: 壬
+    para: 廷
+  - id: 発
+    para: 廃
+  - id: 舎
+    para: 舗
+  - id: 甫
+    para: 舗
+icono: "https://www.svgrepo.com/download/390623/government-building.svg"
