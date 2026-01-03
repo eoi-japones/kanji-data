@@ -7,6 +7,8 @@ const utiles = require("./utiles.js")
 
 const {validarGrupos} = require("./validar-grupos.js")
 
+const {validarItinerarios} = require("./validar-itinerarios.js")
+
 const kanaSchema = require("../schemas/kana.schema.json")
 const kanjiSchema = require("../schemas/kanji.schema.json")
 const grupoSchema = require("../schemas/grupo.schema.json")
@@ -36,6 +38,7 @@ const processors = {
 const kanjisPorId = {}
 const clavesUnicas = {}
 const grupos = {}
+const itinerarios = {}
 
 utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
@@ -62,6 +65,12 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
     return validarGrupos(
         grupos,
         kanjisPorId
+    )
+}).then(() => {
+
+    return validarItinerarios(
+        itinerarios,
+        grupos
     )
 })
 
@@ -162,7 +171,14 @@ function validarFichero(kanjiData, tipo){
 
       return
   }
-  else if(tipo == "ITER" || tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
+  else if(tipo == "ITER"){
+
+      itinerarios[kanjiData.id] = kanjiData
+
+      return
+
+  }
+  else if(tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
 
       return 
   }
