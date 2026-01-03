@@ -8,16 +8,14 @@ integrantes:
   - 府
   - 廷
   - 庭
-  - 廃
   - 延
+  - 癶
   - 舗
 auxiliares:
   - id: 壬
     para: 廷
-  - id: 発
-    para: 廃
   - id: 舎
     para: 舗
   - id: 甫
     para: 舗
-icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/espacios_1.jpg"
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/espacio_1.jpg"
