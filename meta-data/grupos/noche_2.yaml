@@ -1,0 +1,22 @@
+id: noche_2
+nombre: "La Noche II: Sombras y Sueños"
+descripcion: >
+  Exploramos los estados y fenómenos que ocurren tras el ocaso. 
+  Desde el acto de dormir y soñar hasta la oscuridad física, 
+  las sombras y las celebraciones nocturnas.
+integrantes:
+  - 夢
+  - 眠
+  - 暗
+  - 影
+  - 祭
+auxiliares:
+  - id: 民
+    para: 眠
+  - id: 免
+    para: 晩
+  - id: 景
+    para: 影
+  - id: 示
+    para: 祭
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/noche_2.jpg"
