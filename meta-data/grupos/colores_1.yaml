@@ -1,0 +1,20 @@
+id: colores_1
+nombre: "Tintes y Matices"
+descripcion: >
+  Exploramos cómo se tiñe la realidad en japonés. Utilizamos elementos 
+  como el hilo para los colores textiles y fenómenos naturales para 
+  identificar las tonalidades básicas.
+integrantes:
+  - 色
+  - 赤
+  - 青
+  - 緑
+  - 紫
+  - 黒
+auxiliares:
+  - id: 糸
+    para: 緑
+  - id: 龶
+    para: 青
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/colores_1.jpg"

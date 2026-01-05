@@ -1,0 +1,11 @@
+id: 紫
+clave: púrpura
+historia: >-
+  El color *púrpura* es muy difícil de conseguir, y sobre todo que se detenga (止) en el hilo (糸) donde se aplica. 
+  Aquí vemos al tintorero intentado con su cuchara (匕) aplicar el carísimo pigmento sin que pierda su color.
+solo_componente: 0
+componentes:
+  - detener
+  - cuchara
+  - hilo
+como_componente: []

@@ -1,0 +1,6 @@
+id: basico-3
+nombre: "Kanjis Básicos 3"
+descripcion: |
+  En este iter vamos a agregar colores, formas, animales y acciones. 
+iter:
+  - colores_1
