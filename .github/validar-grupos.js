@@ -18,6 +18,8 @@ function validarGrupos(grupos, kanjis){
 
     if(errores != "")
         throw `\n${errores}`
+    else
+        console.log(`Total de grupos ${Object.keys(grupos).length} => con ${Object.keys(kanjisEnVariosGrupos).length} kanjis\n`)
 }
 
 function validarKanjisEnVariosGrupos(grupos, kanjisEnVariosGrupos){
