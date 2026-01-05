@@ -1,0 +1,9 @@
+id: 色
+clave: color
+historia: |
+  Pensamos en la cantidad de *colores* que se puede empaquetar (勹) dentro de un mosaico (巴).
+componentes: 
+  - empaquetado
+  - mosaico
+como_componente: []
+solo_componente: 0
