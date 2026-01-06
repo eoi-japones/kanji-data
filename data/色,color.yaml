@@ -1,7 +1,7 @@
 id: 色
 clave: color
 historia: |
-  Pensamos en la cantidad de *colores* que se puede empaquetar (勹) dentro de un mosaico (巴).
+  Imagina la cantidad de *colores* que se pueden empaquetar (勹) dentro de un mosaico (巴) para acabar formando un estallido de luz.
 componentes: 
   - empaquetado
   - mosaico
