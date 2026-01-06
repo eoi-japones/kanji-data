@@ -1,0 +1,17 @@
+﻿clave: Ahora
+id: 今
+historia: >-
+  Estás en una reunión (亼) tan aburrida que no dejas de mirar las manecillas del
+  reloj (㇇) para ver si por fin es *ahora* el momento de marcharte.
+
+
+  El último trazo de este kanji es una forma que solo encontraremos en este
+  carácter y en otros que se sirven de él en su uso como componente. Para ello,
+  puedes imaginarlo como dos _manecillas_ _de_ _un_ _reloj_  (㇇) indicando la
+  hora que es *ahora*.
+solo_componente: 0
+componentes:
+  - reunión
+  - reloj
+como_componente:
+  - 'reloj,今'
