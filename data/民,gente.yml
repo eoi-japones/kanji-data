@@ -1,11 +1,8 @@
 id: 民
 clave: Gente
 historia: >
-  Esto se parece al nombre de una familia (氏), pero en latín una *gens*, cuyo plural era *Gentes*, nos da la idea de muchas familias: la gente de un lugar. 
-  Ahora le sustituimos la gota de arriba por una boca (口) y vemos lo que este kanji quiere decir\:
-  
-    La voz de la gente, el "vox populi". 
-
+  Este carácter se parece al de nombre de una familia (氏), porque en latín una *gens*, cuyo plural era *Gentes*, da la idea de muchas familias juntas: la gente de un lugar. 
+  Al sustituir la gota de arriba por una boca (口), aparece claramente lo que expresa este kanji: La voz de la gente, el "vox populi". Podemos decir que un nombre de familia (氏) se transmite de boca (口) en boca hasta convertirse en el clamor de toda la *gente*.
 componentes:
   - nombre_de_familia
   - boca
