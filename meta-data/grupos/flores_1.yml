@@ -1,0 +1,17 @@
+id: flores_y_verduras_1
+nombre: "Flores y Verduras I"
+descripcion: >
+  Este grupo reúne kanjis relacionados con flores ornamentales y verduras comestibles, elementos esenciales en la naturaleza y la cultura japonesa, como flores que embellecen y plantas que nutren.
+integrantes:
+  - 花
+  - 菜
+  - 葉
+  - 茶
+  - 苗
+  - 畑
+auxiliares:
+  - id: 艹
+    para: 花
+  - id: 化
+    para: 花
+icono: "https://www.svgrepo.com/download/335280/seed.svg"

@@ -8,7 +8,5 @@ integrantes:
   - 蚊
   - 蝶
   - 蛍
-auxiliares:
-  - id: 葉
-    para: 蝶
+auxiliares: []
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/animales_3.jpg"
