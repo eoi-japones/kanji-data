@@ -1,0 +1,14 @@
+id: animales_3
+nombre: "Animales III: Insectos"
+descripcion: >
+  Introducimos el mundo de los insectos con el radical base y algunos comunes como el gusano de seda, el mosquito, la mariposa y la luciérnaga, criaturas que zumban, pican o iluminan la noche.
+integrantes:
+  - 虫
+  - 蚕
+  - 蚊
+  - 蝶
+  - 蛍
+auxiliares:
+  - id: 葉
+    para: 蝶
+icono: "https://www.shutterstock.com/image-vector/vector-set-insects-pollinators-honey-260nw-2578005769.jpg"
