@@ -1,0 +1,14 @@
+id: fiesta_1
+nombre: "Fiesta I"
+descripcion: >
+  Vemos aquí un conjunto de kanji y componentes que van a ser fundacionales para el resto de grupos. 
+  Están todos relacionados con fiestas, pasacalles, estilos...
+integrantes:
+  - 弋
+  - 戈
+  - 戊
+  - 茂
+  - 成
+  - 戌
+auxiliares: []
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/fiesta_1.jpg"
