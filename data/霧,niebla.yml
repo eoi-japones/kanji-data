@@ -1,0 +1,11 @@
+id: 霧
+clave: Niebla
+historia: >-
+  Era una tarea (務) necesaria, terrible en la que no se querían testigos, así que espero a la cooperación del clima (雨) para llevarla a cabo,
+  así que cuando la niebla se espesó supo que era el momento de llevarla a cabo. 
+
+solo_componente: 0
+componentes:
+  - lluvia
+  - tarea
+como_componente: []

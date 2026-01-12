@@ -1,0 +1,22 @@
+id: clima_1
+
+nombre: "Clima I"
+
+descripcion: >
+  Kanjis que representan diferentes condiciones climáticas y fenómenos atmosféricos.
+
+
+integrantes:
+  - 晴
+  - 雲
+  - 雷
+  - 霜
+  - 霧
+
+auxiliares: 
+  - id: 務
+    para: 霧
+  - id: 矛
+    para: 務
+
+

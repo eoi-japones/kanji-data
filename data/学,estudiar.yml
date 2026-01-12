@@ -2,7 +2,7 @@ id: 学
 clave: Estudiar
 historia: |
 
-  Un niño en la escuela, estudia
+  Un niño (子) en la escuela (#edificio_escolar), estudia
 componentes:
   - edificio_escolar
   - Niño
