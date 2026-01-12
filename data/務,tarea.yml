@@ -1,0 +1,11 @@
+id: 務
+clave: Tarea
+historia: >-
+  Para realizar cualquier tarea militar en las épocas antiguas se decia, 
+  "basta con un buen capataz (攵) y una cantidad de músculo (力) que lleve las alabardas (矛) y cualquier tarea se puede cumplir. "
+solo_componente: 0
+componentes:
+  - capataz
+  - alabarda
+  - fuerza
+como_componente: []
