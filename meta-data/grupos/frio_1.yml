@@ -12,5 +12,9 @@ auxiliares:
     para: 冬
   - id: 令
     para: 冷
+  - id: 卩
+    para: 令
+  - id: 亽
+    para: 令
 
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/frio_1.jpg"
