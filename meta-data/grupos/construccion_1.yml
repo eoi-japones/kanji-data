@@ -1,0 +1,22 @@
+id: construccion_1
+
+nombre: "Construcción I"
+
+descripcion: >
+  Kanjis relacionados con la construcción de edificios, hogares y estructuras relacionadas.
+  
+integrantes:
+- 家
+- 建
+- 橋
+- 門
+
+auxiliares: 
+  - id: 豕
+    para: 家
+  - id: 廴
+    para: 建
+  - id: 喬
+    para: 橋 
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/construccion_1.jpg"
