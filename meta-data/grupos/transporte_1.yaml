@@ -7,11 +7,18 @@ integrantes:
   - 輪
   - 舟
   - 船
-  - 馬
   - 道
   - 運
   - 転
 auxiliares: 
-  - id: 辶
+  - id: 亘
+    para: 車
+  - id: 侖
+    para: 輪
+  - id: ⻌
     para: 道
+  - id: 㕣
+    para: 船
+  - id: 云
+    para: 転
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/transportes_1.jpg"
