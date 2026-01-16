@@ -1,0 +1,10 @@
+id: 問
+clave: pregunta
+historia: >
+  Las puertas del salón del oeste están cerradas (門) si nos acercamos más nos vale ir diciendo por nuestra boquita (口) la respuesta a la *pregunta*
+  que nos harán al acceder, si no la sabemos, no podremos pasar e igual, nos ganamos un bala...
+solo_componente: 0
+componentes:
+  - puertas_de_cantina_del_oeste
+  - boca
+como_componente: []

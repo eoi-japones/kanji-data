@@ -1,6 +1,9 @@
 id: 廾
 clave: '*ambas_manos'
-historia: 'Vemos la representación de dos manos juntas, en forma de cáliz. '
+historia: >
+  Vemos la representación de dos manos juntas, en forma de cáliz. 
+  Cuando este kanji aparezca en la parte inferior de otro, estará cubierto por arriba. 
+  Tendrá, por tanto 4 trazos. 
 componentes: []
 como_componente: []
 solo_componente: 1
