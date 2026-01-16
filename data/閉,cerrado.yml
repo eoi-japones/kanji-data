@@ -1,0 +1,11 @@
+id: 閉
+clave: Cerrado
+historia: |
+  Cuando Billy, el genio (才) pistolero quería paz y tranquilidad se sentaba solo en la cantina,
+  la gente lo veía desde las puertas del salón (門) y comprendían - Billy quería estar solo,
+  así que, como querían seguir vivos, ese día el salón estaba *cerrado*. 
+componentes: []
+como_componente:
+  - puertas_de_cantina_del_oeste,門
+  - genio,才
+solo_componente: 0

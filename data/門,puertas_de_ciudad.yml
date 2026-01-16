@@ -2,7 +2,9 @@ id: 門
 clave: Puertas_de_ciudad
 historia: |
   Los dos grandes portones que dan paso a la ciudad.
+  Parecen también las puertas de una cantina del oeste. 
 componentes: []
 como_componente:
   - verja,門
+  - puertas_de_cantina_del_oeste,門
 solo_componente: 0

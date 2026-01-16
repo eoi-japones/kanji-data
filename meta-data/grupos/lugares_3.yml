@@ -1,0 +1,19 @@
+id: lugares_3
+
+nombre: "Lugares III: Puertas I"
+
+descripcion: >
+
+  Este grupo incluye kanjis relacionados con puertas, accesos y conceptos asociados como intervalos, oír y preguntar, 
+  que incorporan el componente 門.
+
+integrantes:
+- 聞
+- 問
+- 閉
+- 間
+- 開
+
+auxiliares: []
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/agua.jpg"
