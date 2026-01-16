@@ -10,5 +10,7 @@ integrantes:
   - 茂
   - 成
   - 戌
-auxiliares: []
+auxiliares: 
+  - id: 艹
+    para: 茂
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/fiesta_1.jpg"
