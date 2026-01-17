@@ -1,0 +1,20 @@
+id: fuego_1
+nombre: "Fuego I"
+descripcion: >
+  Exploramos kanji relacionados con el fuego, el calor y procesos como quemar o hervir, 
+  esenciales para entender conceptos de energía y transformación.
+integrantes:
+  - 炎
+  - 焼
+  - 煮
+  - 沸
+  - 灯
+  - 灰
+auxiliares: 
+  - id: 尭
+    para: 焼
+  - id: 弗
+    para: 沸
+  - id: 者
+    para: 煮
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/fuego_1.jpg"
