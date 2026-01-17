@@ -1,0 +1,26 @@
+id: 侵
+nombre: '*Shi* el _gallo_ me vuelve a despertar a las 5:00, lo vendo'
+tipo: puro
+señalizador: 侵
+lectura: シン
+integrantes:
+  - 侵
+  - 浸
+  - 寝
+especiales: []
+ejemplos:
+  ejemplo-1:
+    palabra: 侵入
+    significado: Invasión
+    lectura: シンニュウ
+    mascara: '--.---'
+  ejemplo-2:
+    palabra: 浸水
+    significado: Inundación
+    lectura: シンスイ
+    mascara: '--.--'
+  ejemplo-3:
+    palabra: 寝室
+    significado: Dormitorio
+    lectura: シンシツ
+    mascara: '--.--'
