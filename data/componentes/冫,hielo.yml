@@ -1,0 +1,10 @@
+﻿clave: hielo
+historia: >-
+  El hielo (冫) tiene menos gotas que el agua porque es menos denso, flota sobre
+  ella
+id: 冫
+solo_componente: 1
+componentes:
+  - '冫,hielo'
+como_componente:
+  - 'hielo,冫'

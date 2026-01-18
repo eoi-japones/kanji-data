@@ -1,0 +1,10 @@
+﻿clave: calculadora
+historia: >-
+  La medida (Ri) ()con la que se calcula el esfuerzo para recorrer determinada
+  distancia.
+id: 里
+solo_componente: 1
+componentes:
+  - '里,ri'
+  - 'calculadora,里'
+como_componente: []
