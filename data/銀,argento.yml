@@ -1,0 +1,11 @@
+id: 銀
+clave: Argento
+historia: >
+  Este es el verdadero kanji de plata - con símbolo químico *ag*. 
+  Usamos el nombre argento que es un sinónimo. 
+  El metal (金) que está hecho de plata (艮), eso es el argento. 
+componentes: 
+  - metal
+  - plata
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,12 @@
+id: 鉛
+clave: plomo
+historia: >-
+  El plomo es un metal (金) en el que pensamos cuando se funde algo. 
+  Es tan común trabajar con él fundido que vemos que su kanji es aquel metal que
+  corre por las torrenteras (㕣) hasta su destino final; el molde donde se va a enfriar. 
+
+componentes:
+  - metal
+  - torrentera
+como_componente: []
+solo_componente: 0
