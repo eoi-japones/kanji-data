@@ -1,0 +1,17 @@
+id: metales_1
+nombre: "Metales I"
+descripcion: >
+  Este grupo se centra en kanji vinculados a metales y materiales preciosos, para ampliar vocabulario sobre recursos naturales.
+integrantes:
+  - 銀
+  - 銅
+  - 鉄
+  - 鉛
+  - 銘
+  - 鉢
+auxiliares:
+  - id: 失
+    para: 鉄
+  - id: 同
+    para: 銅
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/metal_1.jpg"

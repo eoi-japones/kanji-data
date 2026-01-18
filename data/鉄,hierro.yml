@@ -1,0 +1,11 @@
+id: 鉄
+clave: Hierro
+historia: >
+  Prometeo robó el fuego para dar civilización al hombre, pero el secreto de la forja del hierro (鉄) se extravió (失) cuando la humanidad usó la técnica para la guerra en lugar de para el arado.
+  La soberbia humana transformó el don divino en armas, perdiendo la esencia espiritual del metal y condenándolo a ser un instrumento de destrucción.
+
+componentes:
+  - hierro
+  - perder
+como_componente: []
+solo_componente: 0
