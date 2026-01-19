@@ -1,0 +1,10 @@
+id: 伝
+clave: Transmitir
+historia: >-
+  Los nativos americanos empleaban un sistema de comunicación muy interesante. 
+  Nubes de humo ascendente (云) con las que las personas (人) se transmitían mensajes. 
+componentes:
+  - persona
+  - nube_ascendente
+como_componente: []
+solo_componente: 0
