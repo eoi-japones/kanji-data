@@ -1,0 +1,23 @@
+id: historia_1
+
+nombre: "Historia I"
+
+descripcion: >
+  Este grupo aborda kanji sobre pasado, eventos y relatos, para cubrir aspectos de tiempo y narrativa.
+
+integrantes:
+ - 史
+ - 記
+ - 伝
+ - 代
+ - 現
+ - 来
+ - 今
+ - 先
+ - 去
+ - 昨
+ - 明
+
+auxiliares: []
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/historia_1.jpg"

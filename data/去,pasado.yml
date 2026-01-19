@@ -1,0 +1,10 @@
+id: 去
+clave: Pasado
+historia: >-
+  El pasado no es algo que sea bueno remover. 
+  Es tierra (土) que no debes remover, no la toques ni con el codo (厶)
+solo_componente: 0
+componentes:
+  - tierra
+  - codo
+como_componente: []

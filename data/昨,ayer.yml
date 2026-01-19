@@ -1,0 +1,16 @@
+id: 昨
+
+clave: ayer
+
+historia: >
+  El ayer, días (日), no obstante está bien analizarlos para aprender de ellos. 
+  El ayer es una fuente de aprendizaje, si se disecciona, si lo cortamos como con una sierra (乍) y se
+  analiza desapasionadamente, puede ser un gran repositorio de conocimiento y experiencia. 
+
+componentes:
+    - día
+    - sierra
+
+como_componente: []
+
+solo_componente: 0
