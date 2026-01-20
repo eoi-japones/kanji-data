@@ -1,0 +1,15 @@
+id: 画
+clave: Trazo_de_pincel
+historia: >
+  En una habitación tradicional japonesa, muchas veces si miras hacia el techo te quedas
+  con la boca en forma de pala (凵), suelen estar decoradas con increíbles trazos de pincel
+  que parecen brotar (由) del techo (一) demostrando el rigor y el esfuerzo que ponen en todo lo que hacen. 
+
+componentes: 
+    - pala
+    - brote
+    - techo
+
+como_componente: []
+
+solo_componente: 0

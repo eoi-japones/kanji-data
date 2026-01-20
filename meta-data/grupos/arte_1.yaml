@@ -1,0 +1,18 @@
+id: arte_1
+
+nombre: "Arte I"
+
+descripcion: >
+
+  Exploramos kanji relacionados con expresiones creativas, dibujo y belleza, para entender conceptos de creación artística.
+
+integrantes:
+ - 芸
+ - 術
+ - 画
+ - 絵
+ - 美
+
+auxiliares: []
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/arte_1.jpg"

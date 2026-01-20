@@ -1,0 +1,10 @@
+id: 術
+clave: Arte
+historia: |
+  En la región de Las Landas - Francia, el *Boulevard* (行) *de* *la* *République* en varias de sus ciudades costeras debe su existencia a la 
+  riqueza generada por la industria de la resina (朮) de pino durante el siglo XIX.
+componentes:
+  - bulevar
+  - resina
+como_componente: []
+solo_componente: 0
