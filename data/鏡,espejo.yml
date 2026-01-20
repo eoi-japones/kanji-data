@@ -1,0 +1,7 @@
+id: 鏡
+clave: espejo
+historia: >
+    Los primeros espejos (竟) estaban hechos de metal (金).
+componentes: ['metal', 'espejo']
+como_componente: []
+solo_componente: 0
