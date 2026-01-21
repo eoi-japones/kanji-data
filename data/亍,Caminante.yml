@@ -1,0 +1,11 @@
+﻿historia: >-
+  Para que el *caminante* pueda descansar durante su largo viaje, se detiene a
+  reparar el techo (一) de un refugio abandonado usando el único clavo (丁)  que
+  llevaba encima
+clave: Caminante
+id: 亍
+solo_componente: 1
+componentes:
+  - 'techo,一'
+  - 'clavo, 丁)'
+como_componente: []

@@ -1,0 +1,12 @@
+﻿clave: Caminante
+id: 行
+historia: >-
+  Para que el *caminante* pueda descansar durante su largo viaje, se detiene a
+  reparar el techo (一) de un refugio abandonado, pero antes de usar el  clavo
+  (丁)  traza con cuidado una linea (彳) para no errar el golpe
+solo_componente: 1
+componentes:
+  - 'línea,彳'
+  - 'techo,一'
+  - 'clavo,丁'
+como_componente: []
