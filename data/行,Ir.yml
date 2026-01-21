@@ -1,9 +1,11 @@
 id: 行
 clave: Ir
 historia: |
-  Un caminante se dirige a su camino.
-  Como componente tiene el sentido de *bulevar* cuando acepta algo en el medio. 
+  Un caminante (亍) sigue una línea (彳) que marca el camino para *ir* a su destino.
+  Como componente, este carácter tiene dos formas: si usamos solo la parte izquierda, 彳, nos recuerda a una *línea* o *columna*; si se abre por el medio para insertar otros elementos,彳?亍 tiene el sentido de *bulevar*. 
 componentes:
+  - línea
+  - columna
   - caminante
 como_componente:
   - ir,行
