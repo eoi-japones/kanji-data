@@ -19,5 +19,9 @@ auxiliares:
     para: 坂 # anti
   - id: 勺
     para: 均 # cuchara
+  - id: 也
+    para: 地
+  - id: 昜
+    para: 場
 
 icono: "https://www.svgrepo.com/download/12979/mountain-hill-top.svg"
