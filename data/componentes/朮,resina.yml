@@ -1,9 +1,9 @@
 id: 朮
 clave: Resina
 historia: >-
-  Este árbol se ha convertido en un mástil (朩) porque la mayoría de sus ramas han sido arrancadas por un
-  codicioso pero iluso jardinero que deseaba ansiosamente extraer toda la resina, en forma de gotas (丶) del
+  Este árbol se ha convertido en un mástil de madera (朩) porque la mayoría de sus ramas han sido arrancadas por un
+  codicioso pero iluso jardinero que deseaba ansiosamente extraer toda la *resina*, en forma de gotas (丶) del
   pobre árbol, tan rápido como le fuera posible.
 solo_componente: 1
-componentes: []
+componentes: [mástil_de_madera,朩,gota,丶]
 como_componente: []
