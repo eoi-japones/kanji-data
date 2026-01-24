@@ -1,8 +1,9 @@
 ﻿clave: Atuendo
 id: 装
 historia: >-
-  Ese extraño *atuendo* parece hecho con una pieza de ropa (衣) increíblemente
-  robusta (壮)
+  El Yoroi-hitatare era ese extraño *atuendo* parece hecho con una pieza de ropa (衣) increíblemente
+  robusta (壮) que se llevaba debajo de la armadura. Las tortugas ninja no lo necesitaban porque ya eran
+  robustas de por sí. 
 solo_componente: 0
 componentes:
   - Ropa
