@@ -7,5 +7,7 @@ integrantes:
   - 昔
   - 昼
   - 晩
-auxiliares: []
+auxiliares: 
+  - id: 龷
+    para: 昔
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/medidas_3.jpg"
