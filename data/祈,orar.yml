@@ -1,0 +1,12 @@
+id: 祈
+clave: orar
+historia: >-
+  Dos cosas por las que *ora* el leñador con su hacha (斤) delante del altar (礻),
+  Uno que encuentre buena leña, 
+  dos que no tenga que aplicar su hacha a ninguna otra cosa que la madera. 
+componentes:
+  - altar
+  - hacha
+como_componente: []
+
+solo_componente: 0
