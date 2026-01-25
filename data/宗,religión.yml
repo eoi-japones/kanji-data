@@ -1,0 +1,10 @@
+id: 宗
+clave: religión
+historia: >
+  En la mayor parte de las religiones, encontramos algún tipo de altar (示) para casa (宀), para
+  las oraciones diarias. 
+componentes:
+  - altar
+  - casa
+como_componente: []
+solo_componente: 0

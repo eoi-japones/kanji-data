@@ -1,0 +1,18 @@
+id: religion_1
+
+nombre: "Religión I"
+
+descripcion: >
+  Este grupo aborda kanji sobre creencias, dioses y rituales, para cubrir aspectos espirituales y culturales.
+
+integrantes:
+  - 宗
+  - 神
+  - 仏
+  - 祈
+  - 祖
+auxiliares: 
+  - id: 申
+    para: 神
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/religion_1.jpg"
