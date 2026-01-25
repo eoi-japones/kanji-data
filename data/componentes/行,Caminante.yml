@@ -1,0 +1,10 @@
+﻿clave: Caminante
+historia: >-
+  Vemos un *caminante* que vaga de línea (彳) en línea (亍) de autobús, buscando
+  en cada parada algo que no logra encontrar.
+id: 行
+solo_componente: 1
+componentes:
+  - 'línea,彳'
+  - 'línea, 亍'
+como_componente: []
