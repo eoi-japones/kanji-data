@@ -1,8 +1,8 @@
 id: 税
 clave: impuesto
 historia: >
-  El granjero que paga en especie con trigo (禾) de su cosecha los muy altos *impuestos* dando al diablo (兑) al gobierno
-  por dejarlo casi sin sustento, ¡un abuso! ¡ánimo confiscatorio! 
+  El granjero que paga en especie con trigo (禾) de su cosecha los muy altos *impuestos*, dando al diablo (兑) del gobierno lo poco que tiene
+  y quedando casi sin sustento, ¡un abuso! ¡ánimo confiscatorio! 
 componentes: ['trigo', 'diablo']
 como_componente: []
 solo_componente: 0
