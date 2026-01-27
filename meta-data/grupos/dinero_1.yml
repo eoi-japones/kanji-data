@@ -1,0 +1,28 @@
+id: dinero_1
+
+nombre: "Dinero I"
+
+descripcion: >
+  Este grupo aborda kanji relacionados con el dinero, transacciones financieras y conceptos como pagar, prestar, comprar y vender, para cubrir aspectos económicos básicos. 
+
+integrantes:
+  - 銭
+  - 貸
+  - 借
+  - 費
+  - 賠
+  - 貢
+  - 賜
+  - 賊
+  - 値
+  - 返
+  - 税
+  - 利
+  - 株
+auxiliares: 
+  - id: 直
+    para: 値
+  - id: 兑
+    para: 税
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/dinero_1.jpg"
