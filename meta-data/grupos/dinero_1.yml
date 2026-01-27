@@ -1,0 +1,19 @@
+id: dinero_1
+
+nombre: "Dinero I"
+
+descripcion: >
+  Este grupo aborda kanji relacionados con el dinero, transacciones financieras y conceptos como pagar, prestar, comprar y vender, para cubrir aspectos económicos básicos. 
+
+integrantes:
+  - 銭
+  - 貸
+  - 借
+  - 費
+  - 賠
+  - 貢
+  - 賜
+  - 賊
+auxiliares: []
+
+icono: "https://www.svgrepo.com/download/38944/river.svg"
