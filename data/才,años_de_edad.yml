@@ -1,6 +1,9 @@
 id: 才
 clave: Años_de_edad
-historia: Un arbol con muchos años se seca, y sus ramas caen.
+historia: |
+  Un arbol con muchos años se seca, y sus ramas caen.
+  Como componente significa también "genio". 
 componentes: []
-como_componente: []
+como_componente: 
+  - genio,才
 solo_componente: 0
