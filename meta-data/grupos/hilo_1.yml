@@ -1,19 +1,17 @@
 id: hilo_1
 nombre: "Hilo I"
 descripcion: >
-  Grupo de kanji con el radical hilo (糸), relacionados semánticamente con tejidos, colores de seda y conexiones.
+  Grupo de kanji con el radical hilo (糸), con la noción de hilo como elemento material y como principio de unión o estructura.
 integrantes:
-  - 紀
-  - 紅
-  - 編
+  - 細
+  - 約
   - 結
   - 組
   - 続
-  - 級
+  - 紅
   - 紳
+  - 紀
 auxiliares: 
-  - id: 及
-    para: 級
   - id: 吉
     para: 結
 

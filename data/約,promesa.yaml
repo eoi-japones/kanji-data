@@ -1,0 +1,9 @@
+id: 約
+clave: promesa
+historia: >
+  En la entrada de nuestra cocina encontrarás un cucharón (勺) atado con un hilo (糸) que 
+  nos recuerda la promesa que hicimos de compartir nuestra abundancia con los que no tienen. 
+  Es una *promesa* importante que el cucharón atado con un hilo nos recuerda. 
+componentes: ['hilo', 'cucharón']
+como_componente: []
+solo_componente: 0
