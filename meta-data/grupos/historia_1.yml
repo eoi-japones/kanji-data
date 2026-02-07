@@ -18,6 +18,9 @@ integrantes:
  - 昨
  - 明
 
-auxiliares: []
+auxiliares: 
+  - id: 乂
+    para: 史
+
 
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/historia_1.jpg"
