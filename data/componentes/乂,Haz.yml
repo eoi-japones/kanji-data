@@ -2,7 +2,9 @@
 clave: Haz
 historia: >-
   Pictograma en el que los dos trazos representan un dibujo muy básico de dos
-  cañas unidas en forma de cruz (乂) formando un *haz*
+  cañas unidas en forma de cruz (乂) formando un *haz*. 
+  Dado que el *haz* se suele transportar *debajo* *del* *brazo*, le vamos a dar también ese sentido a este componente. 
 solo_componente: 1
 componentes: []
-como_componente: []
+como_componente: 
+  - bajo_el_brazo,乂
