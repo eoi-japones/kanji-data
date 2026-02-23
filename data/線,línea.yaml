@@ -1,0 +1,8 @@
+id: 線
+clave: recta
+historia: >
+  Una recta es un tipo de línea que tiene un número infinito de puntos, literalmente un manantial (泉) de puntos
+  y, como es contínua, se puede tirar un hilo (糸) que la represente. 
+componentes: ['hilo', 'manantial']
+como_componente: []
+solo_componente: 0
