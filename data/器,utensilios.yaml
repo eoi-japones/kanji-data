@@ -1,0 +1,10 @@
+id: 器
+clave: utensilios
+historia: >-
+  Vemos 4 bocas (口) esperando pacientemente sobre un San Bernardo (大), cebado y bien gordito, lo han cocinado y está listo para ser consumido. 
+  ¡Solo les faltan los **utensilios** a estos salvajes para darse un festín!
+componentes:
+  - boca
+  - san_bernardo
+como_componente: []
+solo_componente: 0

@@ -1,0 +1,10 @@
+id: 光
+clave: rayo
+historia: |
+  Si vemos las pequeñas (小) motas de polvo a los **rayos** de la luz vemos que son como pequeñas
+  piernas (儿) que andan por el espacio. 
+solo_componente: 0
+componentes:
+  - pequeño
+  - piernas
+como_componente: []
