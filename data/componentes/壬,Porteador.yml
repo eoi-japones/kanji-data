@@ -1,6 +1,6 @@
 ﻿id: 壬
-clave: '*portador'
-historia: Al samurái (士) le cae una gota (,) por el esfuerzo de cargar con el peso.
+clave: "*portador"
+historia: Al samurái (士) le cae una gota (丶) por el esfuerzo de cargar con el peso.
 componentes:
   - gota
   - samurái
