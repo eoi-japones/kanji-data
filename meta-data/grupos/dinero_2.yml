@@ -1,0 +1,20 @@
+id: dinero_2
+
+nombre: "Dinero II"
+
+descripcion: >
+  Este grupo aborda kanji relacionados con el dinero que pagamos en tributos, impuestos, gastos...
+
+integrantes:
+  - 貸
+  - 借
+  - 費
+  - 貢
+  - 税
+  - 利
+  - 株
+auxiliares: 
+  - id: 兑
+    para: 税
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/dinero_1.jpg"
