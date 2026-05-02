@@ -42,15 +42,24 @@ Este `RULES.md` aplica a **todo** el paquete `data/` y sus subcarpetas.
 - La sección `historia` debe estar redactada de forma clara, coherente y pedagógica.
 - Todo el contenido debe ser consistente con el enfoque educativo de la organización.
 
-## 6. Comportamiento Obligatorio de las IAs
+## 6. Skills Obligatorias del Paquete
+
+**Skill oficial de validación:**
+- **Nombre:** `validar-kanji`
+- **Ubicación:** `.opencode/skills/validar-kanji/SKILL.md` (y su copia en `.copilot/skills/validar-kanji/SKILL.md`)
+
+**Uso obligatorio:**
+Cualquier agente de IA que cree, modifique o revise archivos en este paquete **debe** aplicar primero la skill `validar-kanji` antes de proponer cualquier cambio.
+
+## 7. Comportamiento Obligatorio de las IAs
 
 Cualquier agente de IA que trabaje en este paquete **debe**:
 
 1. Leer primero `CONSTITUCION.md` y este `RULES.md`.
-2. Verificar que cada archivo generado cumpla el esquema antes de proponerlo.
-3. Usar siempre la nomenclatura y estructura exactas definidas aquí.
-4. Rechazar cualquier petición que viole estas reglas citando la sección correspondiente.
+2. Aplicar la skill `validar-kanji` antes y después de cualquier generación o edición.
+3. Verificar que cada archivo generado cumpla el esquema antes de proponerlo.
+4. Usar siempre la nomenclatura y estructura exactas definidas aquí.
+5. Rechazar cualquier petición que viole estas reglas citando la sección correspondiente.
 
 ---
 
-*Single Source of Truth del paquete data/*
