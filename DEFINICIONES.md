@@ -65,6 +65,18 @@ Un itinerario es una agrupación ordenada de grupos de kanji. El orden **es rele
 - Nomenclatura: `<id del grupo>.yaml`
 - Esquema: `schemas/itinerario.schema.json`
 
+## 4. Paquete
+
+Es una agrupación de artefactos del mismo tipo que expresan una parte de la base de conocimiento del proyecto. 
+
+Cada paquete está gobernado por un RULES.md que es **OBLIGATORIO** seguir siempre respetando las normas de esta `DEFINICIONES.md` y la `CONSTITUCION.md`.
+
+**Listado de paquetes:**
+- `data/`: contiene los kanji y solo componentes.
+- `meta-data/grupos/`: contiene los grupos de kanji.
+- `meta-data/itinerarios/`: contiene los itinerarios de grupos de kanji
+
+
 ---
 
 *Single Source of Truth*
