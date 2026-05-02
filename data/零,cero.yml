@@ -1,0 +1,9 @@
+id: 零
+clave: cero
+historia: >
+  Bajo la lluvia (雨), hasta las órdenes (令) se disuelven; de ahí surge el concepto de cero: nada queda ante lo inevitable.
+componentes:
+  - lluvia
+  - órdenes
+como_componente: []
+solo_componente: 0
