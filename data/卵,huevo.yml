@@ -1,7 +1,9 @@
 id: 卵
 clave: huevo
-historia: >
-    Pictograma de dos huevos fritos en una sartén.
-componentes: ['']
+historia: Una empresa que se dedica a enviar docenas de huevos a las casas. En el recibo se pone siempre el sello de la empresa, que es una gota de yema de huevo.
+componentes:
+  - recibo
+  - sello
+  - gota
 como_componente: []
 solo_componente: 0
