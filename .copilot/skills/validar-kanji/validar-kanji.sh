@@ -1,0 +1,1 @@
+../../../.opencode/skills/validar-kanji/validar-kanji.sh

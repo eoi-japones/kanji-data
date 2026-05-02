@@ -24,8 +24,20 @@ La **CONSTITUCION.md** ubicada en la raíz de este repositorio es la ley suprema
 - Tratar cada paquete en `/packages/*` como independiente pero compartiendo la configuración raíz.
 - Nunca crear dependencias circulares entre paquetes.
 
-## 4. Final Binding Rule
+## 4. Uso Obligatorio de Skills
+
+Las skills oficiales se encuentran en:
+- `.opencode/skills/` (fuente oficial)
+- `.copilot/skills/` (copia para GitHub Copilot)
+
+**Regla obligatoria:**
+- Cuando un agente de IA trabaje en un paquete, **debe** consultar y aplicar la skill correspondiente que esté enlazada en el `RULES.md` de ese paquete.
+- Ejemplo: para el paquete `data/` → usar la skill `validar-kanji`.
+- No se permite generar o modificar archivos sin haber aplicado primero la skill correspondiente.
+
+## 5. Final Binding Rule
 
 Este `AGENTS.md` junto con la `CONSTITUCION.md` forma el contrato irrompible para todos los agentes de IA en este repositorio.
 
 Cualquier IA que viole repetidamente estas reglas puede ser excluida de futuras colaboraciones.
+

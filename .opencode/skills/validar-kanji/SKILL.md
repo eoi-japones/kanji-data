@@ -18,7 +18,7 @@ Asegurar que cada fichero YAML de kanji (o solo-componente) cumple **al 100%** c
 
 1. **Valida siempre usando el script bash oficial para garantizar variables de entorno correctas:**
    ```bash
-   ./validar-kanji.sh ruta/al/archivo.yml
+   .opencode/skills/validar-kanji/validar-kanji.sh ruta/al/archivo.yml
    ```
    - Este script se encarga de exportar todas las variables necesarias y llamar automáticamente al validador node.js del repositorio.
    - Si el resultado da error → el archivo es inválido y debe corregirse (rechazar el cambio).

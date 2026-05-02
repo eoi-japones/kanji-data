@@ -18,9 +18,10 @@ Asegurar que cada fichero YAML de kanji (o solo-componente) cumple **al 100%** c
 
 1. **Valida siempre usando el script bash oficial para garantizar variables de entorno correctas:**
    ```bash
-   ./validar-kanji.sh ruta/al/archivo.yml
+   .copilot/skills/validar-kanji/validar-kanji.sh ruta/al/archivo.yml
    ```
-   - Este script se encarga de exportar todas las variables necesarias y llamar automáticamente al validador node.js del repositorio.
+   - Este script es un enlace simbólico y utiliza la implementación de opencode para garantizar consistencia total.
+   - Se encarga de exportar todas las variables necesarias y llamar automáticamente al validador node.js del repositorio.
    - Si el resultado da error → el archivo es inválido y debe corregirse (rechazar el cambio).
    - Si tu entorno o el comando falla por cuestiones técnicas ajenas al contenido, procede a validación manual obligatoria (ver abajo).
 
