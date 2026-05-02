@@ -10,6 +10,9 @@ Un kanji es el **principal elemento de estudio** de este repositorio.
 - `id`: el propio kanji (ej: 愛)
 - `clave`: clave única
 - `historia`: historia/etimología
+- `solo_componente`: booleano que indica si el kanji es un solo componente
+- `componentes`: array de claves de kanjis que forman parte de este kanji
+- `como_componente`: array de strings en formato '<compuesto>,<clave_alternativa>' muestra el kanji con aspecto o significado diferente. 
 
 **Normas de almacenamiento y nomenclatura (obligatorias):**
 - Solo se pueden definir como ficheros en la carpeta `data/` situada en la raíz del repositorio.
