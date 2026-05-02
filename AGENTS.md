@@ -32,8 +32,10 @@ Las skills oficiales se encuentran en:
 
 **Regla obligatoria:**
 - Cuando un agente de IA trabaje en un paquete, **debe** consultar y aplicar la skill correspondiente que esté enlazada en el `RULES.md` de ese paquete.
+- Cuando se trabaje en el paquete `data/`, **debe** aplicarse primero la skill `kanji-lifecycle`.
 - Ejemplo: para el paquete `data/` → usar la skill `validar-kanji`.
 - No se permite generar o modificar archivos sin haber aplicado primero la skill correspondiente.
+- No se permite generar ni modificar ningún archivo de kanji sin haber seguido el lifecycle completo.
 
 ## 5. Final Binding Rule
 

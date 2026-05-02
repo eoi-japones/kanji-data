@@ -48,6 +48,10 @@ Este `RULES.md` aplica a **todo** el paquete `data/` y sus subcarpetas.
 - **Nombre:** `validar-kanji`
 - **Ubicación:** `.opencode/skills/validar-kanji/SKILL.md` (y su copia en `.copilot/skills/validar-kanji/SKILL.md`)
 
+**Skill principal de creación y modificación:**
+- **Nombre**: `kanji-lifecycle` ← Skill principal (lifecycle completo de creación y modificación)
+- **Ubicación**: `.opencode/skills/kanji-lifecycle/SKILL.md`
+
 **Uso obligatorio:**
 Cualquier agente de IA que cree, modifique o revise archivos en este paquete **debe** aplicar primero la skill `validar-kanji` antes de proponer cualquier cambio.
 
