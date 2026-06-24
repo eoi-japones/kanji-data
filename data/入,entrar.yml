@@ -1,0 +1,7 @@
+﻿clave: entrar
+id: 入
+historia: 'se ve a una persona (人) caminando para *entrar* a algún lugar '
+solo_componente: 0
+componentes:
+  - 'entrar, 入'
+como_componente: []
