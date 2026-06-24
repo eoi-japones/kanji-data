@@ -1,0 +1,7 @@
+id: # Debe ser el propio kanji
+historias_alt: [
+  historia_index:
+    -historia:
+    -timestamp:
+    -usuario:
+]

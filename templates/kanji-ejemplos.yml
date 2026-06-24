@@ -1,0 +1,7 @@
+id: # Debe ser el propio kanji
+ejemplos: [
+  ejemplo_index:
+    -ejemplo: # con kanjis
+    -lectura: # en hiragana
+    -traduccion: # en castellano
+]
