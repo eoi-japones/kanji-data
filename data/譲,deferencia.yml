@@ -1,0 +1,11 @@
+﻿clave: deferencia
+historia: >-
+  Cuando llegas a Hawaii te reciben en falda hawaiana (㐮) y con una palabra (言)
+  de deferencia o cortesía: "Aloha".
+id: 譲
+solo_componente: 0
+componentes:
+  - '㐮,falda_hawaiana'
+  - '言,palabra'
+como_componente:
+  - 'deferencia,譲'
