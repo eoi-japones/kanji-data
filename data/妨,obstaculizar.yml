@@ -1,0 +1,7 @@
+id: 妨
+clave: obstaculizar
+historia: >
+  Si ves a una mujer (女) utilizando una brújula (方), no obstaculices su camino
+componentes: ['mujer', 'brújula']
+como_componente: []
+solo_componente: 0

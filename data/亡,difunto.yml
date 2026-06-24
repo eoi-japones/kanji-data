@@ -1,0 +1,7 @@
+id: 亡
+clave: difunto
+historia: >
+    Un difunto abuelo del que te queda como recuerdo su chistera (亠) colgada en un gancho (乚) para siempre.
+componentes: ['chistera', 'gancho']
+como_componente: ['fallecer']
+solo_componente: 0
