@@ -16,7 +16,7 @@ ROOT_DIR="$( realpath "$SCRIPT_DIR/../../.." )"
 export DATA_DIR="$ROOT_DIR/data/"
 export META_DIR="$ROOT_DIR/meta-data/"
 export YOMI_DIR="$ROOT_DIR/yomi/"
-export KANA_DIR="$ROOT_DIR/kana/"
+export KANA_DIR="$ROOT_DIR/kanas/"
 export KANJI_HINT_DIR="$ROOT_DIR/lexicon/hints-kanji/"
 export PROFILES_DIR="$ROOT_DIR/profiles/"
 

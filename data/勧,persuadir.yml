@@ -1,6 +1,6 @@
 ﻿id: 勧
 clave: persuadir
-historia: Una de las mayores fuerzas (力) del pegaso () es su capacidad para persuadir.
+historia: Una de las mayores fuerzas (力) del pegaso es su capacidad para persuadir.
 solo_componente: 0
 componentes:
   - '力,fuerza'
