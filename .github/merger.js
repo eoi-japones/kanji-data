@@ -27,6 +27,10 @@ walk().then(() => {
 
 }).then(() => {
 
+    return process.env["LEXICON_DIR"] ? walk(process.env["LEXICON_DIR"]) : Promise.resolve()
+
+}).then(() => {
+
     return escribirEnFichero(f)
 
 }).then(() => {
@@ -103,6 +107,11 @@ async function acumularParaFichero(datos, tipo, entrada){
           d.profile = path.basename(path.dirname(entrada)).replace(/^profile\-/, '')
       break
 
+      case "LEXICON":
+          d.kind = "kanji.eoi/lexicon"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -145,6 +154,7 @@ async function walk(dir = process.env["DATA_DIR"]){
           (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
           (dir == "hints-kanji") ? "KANJI-HINT" : 
+          (dir == "lexicon") ? "LEXICON" : 
           (dir.match(/^profile\-/)) ? "KANJI-ALTER" : 
            "DESCONOCIDO"
 

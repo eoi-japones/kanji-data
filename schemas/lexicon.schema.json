@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+
+        "type": "string",
+
+        "description": "El carácter del kanji al que pertenece la familia de palabras. Debe existir en data/ y no puede ser un solo componente."
+
+      },
+
+      "palabras": {
+
+        "type": "array",
+
+        "description": "Familia de palabras que contienen el carácter. El orden del array es el orden de presentación al estudiante.",
+
+        "minItems": 3,
+
+        "items": {
+
+          "type": "object",
+
+          "properties": {
+
+            "palabra": {
+
+              "type": "string",
+
+              "description": "La palabra escrita, con kanji y kana tal y como se compone."
+
+            },
+
+            "lectura": {
+
+              "type": "string",
+
+              "description": "La lectura de la palabra entera, en kana."
+
+            },
+
+            "tipo_lectura": {
+
+              "type": "string",
+
+              "enum": ["on", "kun"],
+
+              "description": "Clase de la lectura de esta palabra: on o kun."
+
+            },
+
+            "significado": {
+
+              "type": "string",
+
+              "description": "El significado de la palabra, en castellano."
+
+            },
+
+            "mascara": {
+
+              "type": "string",
+
+              "description": "Reparto de la lectura entre los caracteres de la palabra: tantos guiones como kana de la lectura y un punto menos que caracteres de palabra."
+
+            },
+
+            "frase": {
+
+              "type": "string",
+
+              "description": "Frase de ejemplo en japonés, con el carácter de la familia marcado como Referencia entre paréntesis."
+
+            },
+
+            "traduccion": {
+
+              "type": "string",
+
+              "description": "La traducción de la frase de ejemplo, en castellano."
+
+            }
+
+          },
+
+          "additionalProperties": false,
+
+          "required": ["palabra", "lectura", "tipo_lectura", "significado", "mascara", "frase", "traduccion"]
+
+        }
+
+      }
+
+    },
+
+    "additionalProperties": false,
+
+    "required": ["id", "palabras"]
+
+}

@@ -65,7 +65,7 @@ Un itinerario es una agrupación ordenada de grupos de kanji. El orden **es rele
 - Nomenclatura: `<id del grupo>.yaml`
 - Esquema: `schemas/itinerario.schema.json`
 
-## 4. Paquete
+## 5. Paquete
 
 Es una agrupación de artefactos del mismo tipo que expresan una parte de la base de conocimiento del proyecto. 
 
@@ -75,6 +75,37 @@ Cada paquete está gobernado por un RULES.md que es **OBLIGATORIO** seguir siemp
 - `data/`: contiene los kanji y solo componentes.
 - `meta-data/grupos/`: contiene los grupos de kanji.
 - `meta-data/itinerarios/`: contiene los itinerarios de grupos de kanji
+- `lexicon/lexicon/`: contiene los lexicones.
+
+## 6. Lexicon
+
+Un lexicon es la **familia de palabras que comparten un kanji concreto**. Su propósito es ayudar al estudiante en el reconocimiento de palabras y en su aprendizaje.
+
+**Estructura:**
+- `id`: el carácter del kanji al que pertenece la familia.
+- `palabras`: array ordenado con un mínimo de tres entradas. Cada entrada lleva:
+  - `palabra`: la forma escrita, que **debe contener** el carácter `id`.
+  - `lectura`: la lectura de la palabra entera, en kana.
+  - `tipo_lectura`: `on` o `kun`.
+  - `significado`: el significado, en castellano.
+  - `mascara`: el reparto de la lectura entre los caracteres de la palabra.
+  - `frase`: frase de ejemplo en japonés, con el carácter `id` marcado como Referencia.
+  - `traduccion`: la traducción de la frase, en castellano.
+
+**Validación obligatoria:**
+- El `id` existe en `data/` y no es un solo componente.
+- Ninguna palabra se repite dentro del mismo lexicon.
+- Toda Referencia de la `frase` lleva un solo carácter y ese carácter existe en `data/`.
+
+**Almacenamiento:**
+- Carpeta: `lexicon/lexicon/`
+- Nomenclatura: `<id>.yaml`
+- Esquema: `schemas/lexicon.schema.json`
+
+**Límites:**
+- Un lexicon pertenece al **carácter**, no a la clave: si un kanji está estudiado bajo dos claves distintas, las dos comparten un solo lexicon.
+- Un solo componente no puede tener lexicon, porque no existe en la lengua japonesa.
+- Un lexicon convive con los `ejemplos` de los grupos yomi sin referenciarse mutuamente.
 
 
 ---

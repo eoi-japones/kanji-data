@@ -25,7 +25,7 @@ _Evitar_: lección, unidad, categoría
 _Evitar_: ruta, secuencia, programa
 
 **Paquete**:
-`DEFINICIONES.md`, sección 4 (Paquete).
+`DEFINICIONES.md`, sección 5 (Paquete).
 _Evitar_: módulo, directorio, carpeta
 
 ### Identidad y contenido de un kanji
@@ -83,7 +83,7 @@ Una palabra de muestra de un grupo yomi, acompañada de su significado, su lectu
 _Evitar_: muestra, ilustración, oración
 
 **Máscara**:
-La pauta que reparte la lectura de un ejemplo entre los kanji de la palabra. Cada `-` consume el siguiente kana de la lectura y lo atribuye al kanji en curso; cada `.` cierra ese kanji y pasa al siguiente. De ahí que lleve tantos guiones como caracteres de lectura y un punto menos que caracteres de palabra.
+La pauta que reparte la lectura entre los caracteres de la palabra, ya sea un ejemplo de un grupo yomi o una palabra de un lexicon. Cada `-` consume el siguiente kana de la lectura y lo atribuye al carácter en curso; cada `.` cierra ese carácter y pasa al siguiente. De ahí que lleve tantos guiones como caracteres de lectura y un punto menos que caracteres de palabra.
 _Evitar_: patrón, codificación, huella, plantilla
 
 **Itinerario yomi**:
@@ -93,7 +93,7 @@ _Evitar_: itinerario de yomi, ruta de lectura
 ### Marcado de los textos
 
 **Referencia**:
-Lo que va entre paréntesis dentro de una historia: nombra el kanji o componente del que se está hablando y la web lo muestra como enlace a su ficha. El paréntesis debe llevar dentro al carácter; un paréntesis vacío no se interpreta.
+Lo que va entre paréntesis dentro de una historia o dentro de una frase de ejemplo: nombra el kanji o componente del que se está hablando y la web lo muestra como enlace a su ficha. El paréntesis debe llevar dentro al carácter; un paréntesis vacío no se interpreta.
 _Evitar_: cita, enlace, hipervínculo
 
 **Resaltado**:
@@ -131,3 +131,21 @@ _Evitar_: exportación, compilación, volcado
 **Registro publicado**:
 Cada entrada del artefacto publicado, que añade a sus campos de origen una etiqueta de tipo `kanji.eoi/...` y una versión `v1`.
 _Evitar_: objeto, entrada suelta, JSON
+
+### Lexicones
+
+**Lexicon**:
+La familia de palabras que comparten un kanji concreto, guardada en `lexicon/lexicon/<id>.yaml`. Su propósito es ayudar al estudiante al reconocimiento de palabras y a su aprendizaje. Pertenece al **carácter**, no a la clave: un kanji estudiado bajo dos claves distintas tiene un solo lexicon. El plural oficial es **lexicones**.
+_Evitar_: lexicons, léxico, lexico, colección de palabras
+
+**Lectura de palabra**:
+La pronunciación de la palabra entera, en kana, que se guarda en el campo `lectura` de un lexicon. A diferencia de la *Lectura* de un grupo yomi, puede ser on o kun.
+_Evitar_: pronunciación, katakana, lectura de grupo
+
+**Tipo de lectura**:
+El valor que declara la clase de la lectura de una palabra de un lexicon, con valores admitidos `on` y `kun`.
+_Evitar_: clase, nivel, clase de lectura
+
+**Frase de ejemplo**:
+La frase en japonés que ilustra una palabra de un lexicon, con el carácter de la familia marcado como *Referencia*, acompañada de su traducción al castellano. Las dos son obligatorias.
+_Evitar_: oración de muestra, ilustración, frase suelta

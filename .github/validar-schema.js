@@ -9,6 +9,8 @@ const {validarGrupos} = require("./validar-grupos.js")
 
 const {validarItinerarios} = require("./validar-itinerarios.js")
 
+const {validarLexicones, validarMascarasYomi} = require("./validar-lexicones.js")
+
 const kanaSchema = require("../schemas/kana.schema.json")
 const kanjiSchema = require("../schemas/kanji.schema.json")
 const grupoSchema = require("../schemas/grupo.schema.json")
@@ -21,6 +23,8 @@ const kanjiHintSchema = require("../schemas/kanji-hint.schema.json")
 
 const KanjiAlterSchema = require("../schemas/kanji-alter.schema.json")
 
+const lexiconSchema = require("../schemas/lexicon.schema.json")
+
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
 const kanjiValidation = Ajv.compile(kanjiSchema)
@@ -30,6 +34,7 @@ const colaboradorValidation = Ajv.compile(colaboradorSchema)
 const grupoOnValidation = Ajv.compile(grupoOnSchema)
 const kanjiHintValidation = Ajv.compile(kanjiHintSchema)
 const kanjiAlterValidation = Ajv.compile(KanjiAlterSchema)
+const lexiconValidation = Ajv.compile(lexiconSchema)
 
 const processors = {
     procesarEntrada,
@@ -38,7 +43,9 @@ const processors = {
 const kanjisPorId = {}
 const clavesUnicas = {}
 const grupos = {}
+const gruposYomi = {}
 const itinerarios = {}
+const lexicones = {}
 
 utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
@@ -62,6 +69,12 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
 }).then(() => {
 
+    // Solo se recorre si la ruta está declarada: si no, walk() caería por
+    // defecto en META_DIR y procesaría los meta-datos dos veces.
+    return process.env["LEXICON_DIR"] ? utiles.walk(process.env["LEXICON_DIR"], processors) : Promise.resolve()
+
+}).then(() => {
+
     return validarGrupos(
         grupos,
         kanjisPorId
@@ -72,6 +85,13 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
         itinerarios,
         grupos
     )
+}).then(() => {
+
+    const errores = validarMascarasYomi(gruposYomi) + validarLexicones(lexicones, kanjisPorId)
+
+    if(errores != ""){
+        throw `\n${errores}`
+    }
 })
 
 function determinarTipo(entrada){
@@ -86,6 +106,7 @@ function determinarTipo(entrada){
         (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
         (dir == "colaboradores") ? "COLABORADOR" : 
         (dir == "hints-kanji") ? "KANJI-HINT" : 
+        (dir == "lexicon") ? "LEXICON" : 
         (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
          "DESCONOCIDO"
 
@@ -117,7 +138,7 @@ function procesarFichero(entrada){
 
           console.log(`Validando fichero de ${tipo} ${entrada}`)
 
-          validarFichero(data, tipo)
+          validarFichero(data, tipo, entrada)
         
           ok(entrada)
 
@@ -139,7 +160,7 @@ function procesarFichero(entrada){
 
 }
 
-function validarFichero(kanjiData, tipo){
+function validarFichero(kanjiData, tipo, ruta){
 
   const validador = (tipo === "KANJI") ? kanjiValidation : 
 
@@ -156,6 +177,8 @@ function validarFichero(kanjiData, tipo){
                       (tipo == "KANJI-HINT") ? kanjiHintValidation :
 
                       (tipo == "KANJI-ALTER") ? kanjiAlterValidation :
+
+                      (tipo == "LEXICON") ? lexiconValidation :
 
                       colaboradorValidation;
 
@@ -178,7 +201,19 @@ function validarFichero(kanjiData, tipo){
       return
 
   }
-  else if(tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "GRUPO-ON" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
+  else if(tipo == "GRUPO-ON"){
+
+      gruposYomi[kanjiData.id] = kanjiData
+
+      return
+  }
+  else if(tipo == "LEXICON"){
+
+      lexicones[kanjiData.id] = { ruta, datos: kanjiData }
+
+      return
+  }
+  else if(tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
 
       return 
   }

@@ -1,0 +1,1 @@
+../../../.opencode/skills/validar-lexicon/validar-lexicon.sh

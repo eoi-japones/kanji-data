@@ -1,0 +1,23 @@
+id: 読
+palabras:
+  - palabra: 読む
+    lectura: よむ
+    tipo_lectura: kun
+    significado: Leer
+    mascara: '-.-'
+    frase: 毎朝、新聞を(読)む。
+    traduccion: Cada mañana leo el periódico.
+  - palabra: 読書
+    lectura: どくしょ
+    tipo_lectura: on
+    significado: Lectura, lecturar
+    mascara: '--.--'
+    frase: 駅で本を(読)書する。
+    traduccion: Leo un libro en la estación.
+  - palabra: 読者
+    lectura: どくしゃ
+    tipo_lectura: on
+    significado: Lector
+    mascara: '--.--'
+    frase: この(読)者は有名な小説家だ。
+    traduccion: Este lector es un novelista famoso.

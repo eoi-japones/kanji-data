@@ -18,6 +18,7 @@ export META_DIR="$ROOT_DIR/meta-data/"
 export YOMI_DIR="$ROOT_DIR/yomi/"
 export KANA_DIR="$ROOT_DIR/kanas/"
 export KANJI_HINT_DIR="$ROOT_DIR/lexicon/hints-kanji/"
+export LEXICON_DIR="$ROOT_DIR/lexicon/lexicon/"
 export PROFILES_DIR="$ROOT_DIR/profiles/"
 
 # Comprobar si hay argumento
