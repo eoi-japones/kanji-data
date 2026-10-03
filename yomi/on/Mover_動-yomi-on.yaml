@@ -10,7 +10,7 @@ ejemplos:
   ejemplo-1:
     palabra: 自動車
     significado: Automóvil
-    mascara: '-.--.-'
+    mascara: '-.--.--'
     lectura: ジドウシャ
   ejemplo-2:
     palabra: 労働
