@@ -15,12 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
       - run: npm install js-yaml
       - name: Empaquetar kanjis
-        uses: actions/github-script@v4
-        with:
-          script: |
-            require('.github/merger.js')
+        run: node .github/merger.js
       - name: Calcular nombre de rama
         id: step-branch
         run: echo "::set-output name=branch::new-release/kanjis"

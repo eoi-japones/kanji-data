@@ -18,12 +18,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
       - run: npm install js-yaml ajv
       - name: validar contra esquema
-        uses: actions/github-script@v4
-        with:
-          script: |
-            require('.github/validar-schema.js')
+        run: node .github/validar-schema.js
       - name: Validate No PNGs Remain in Docs Folder
         run: |
           if ls docs/assets/historias/*.png 1> /dev/null 2>&1; then
