@@ -6,6 +6,13 @@ services:
       dockerfile: tools/Dockerfile
     environment:
       DATA_DIR: /library/data
-      OUTPUT_FILE: /library/docs/kanji.json
+      META_DIR: /library/meta-data
+      KANA_DIR: /library/kanas
+      YOMI_DIR: /library/yomi
+      KANJI_HINT_DIR: /library/lexicon/hints-kanji
+      LEXICON_DIR: /library/lexicon/lexicon
+      EXCEPCIONES_DIR: /library/lexicon/excepciones
+      PROFILES_DIR: /library/profiles
+      OUTPUT_FILE: /library/docs/kanji.data
     volumes:
       - .:/library

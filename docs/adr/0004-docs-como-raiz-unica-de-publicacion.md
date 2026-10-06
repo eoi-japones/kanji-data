@@ -6,6 +6,14 @@
 
 **aceptado**
 
+> **Nota (2026-10-06).** El merger ya no depende de que cada carpeta esté
+> declarada: usa la ruta del repositorio por defecto y sobrescribe el fichero de
+> salida, de modo que `node .github/merger.js` produce el bundle completo, con
+> los lexicones. Las dos vías de publicación (`make publish` y
+> `kanji-publish.yaml`) escriben ahora `docs/kanji.data`, el artefacto que este
+> ADR daba por previsto; `docs/kanji.json` sigue siendo el JSONL obsoleto y no se
+> toca.
+
 ## Opciones consideradas
 
 - **Rama dedicada o repositorio separado para los datos**: descartada. Exigiría publicar dos orígenes y sincronizarlos.
