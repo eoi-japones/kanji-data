@@ -11,6 +11,7 @@ env:
   YOMI_DIR: yomi
   KANJI_HINT_DIR: lexicon/hints-kanji
   LEXICON_DIR: lexicon/lexicon
+  EXCEPCIONES_DIR: lexicon/excepciones
   PROFILES_DIR: profiles
 jobs:
 
@@ -22,8 +23,15 @@ jobs:
         with:
           node-version: 24
       - run: npm install js-yaml ajv
+      - name: cachear los diccionarios
+        uses: actions/cache@v4
+        with:
+          path: .cache/diccionarios
+          key: diccionarios-${{ hashFiles('.github/generar-lexicones.js') }}
       - name: validar contra esquema
         run: node .github/validar-schema.js
+      - name: comprobar los lexicones
+        run: node .github/generar-lexicones.js --check
       - name: Validate No PNGs Remain in Docs Folder
         run: |
           if ls docs/assets/historias/*.png 1> /dev/null 2>&1; then

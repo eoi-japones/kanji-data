@@ -31,6 +31,10 @@ walk().then(() => {
 
 }).then(() => {
 
+    return process.env["EXCEPCIONES_DIR"] ? walk(process.env["EXCEPCIONES_DIR"]) : Promise.resolve()
+
+}).then(() => {
+
     return escribirEnFichero(f)
 
 }).then(() => {
@@ -112,6 +116,11 @@ async function acumularParaFichero(datos, tipo, entrada){
           d.version = "v1"
       break
 
+      case "EXCEPCION":
+          d.kind = "kanji.eoi/lexicon-excepciones"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -155,6 +164,7 @@ async function walk(dir = process.env["DATA_DIR"]){
           (dir == "colaboradores") ? "COLABORADOR" : 
           (dir == "hints-kanji") ? "KANJI-HINT" : 
           (dir == "lexicon") ? "LEXICON" : 
+          (dir == "excepciones") ? "EXCEPCION" : 
           (dir.match(/^profile\-/)) ? "KANJI-ALTER" : 
            "DESCONOCIDO"
 

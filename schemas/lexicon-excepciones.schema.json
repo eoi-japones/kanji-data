@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Identificador del artefacto de excepciones. Debe coincidir con el nombre del fichero."
+      },
+      "excepciones": {
+        "type": "array",
+        "description": "Repartos de lectura curados que corrigen a la generación determinista.",
+        "items": {
+          "type": "object",
+          "properties": {
+            "palabra": {
+              "type": "string",
+              "description": "La palabra escrita a la que se refiere la excepción."
+            },
+            "lectura": {
+              "type": "string",
+              "description": "La lectura de la palabra, en kana."
+            },
+            "mascara": {
+              "type": "string",
+              "description": "Reparto de la lectura entre los caracteres de la palabra: tantos guiones como kana y un punto menos que caracteres."
+            },
+            "tipo_lectura": {
+              "type": "string",
+              "enum": ["on", "kun"],
+              "description": "Clase de la lectura de la palabra: on o kun."
+            },
+            "motivo": {
+              "type": "string",
+              "description": "Por qué la generación determinista no basta: 熟字訓, ateji, lectura irregular…"
+            }
+          },
+          "additionalProperties": false,
+          "required": ["palabra", "lectura", "mascara", "tipo_lectura", "motivo"]
+        }
+      }
+    },
+    "additionalProperties": false,
+    "required": ["id", "excepciones"]
+}

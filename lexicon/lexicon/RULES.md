@@ -46,12 +46,13 @@ Más allá del esquema, `.github/validar-lexicones.js` comprueba en cada Pull Re
 1. El `id` existe en `data/`.
 2. El `id` **no** es un solo componente: los solo componentes no existen en la lengua y no pueden tener lexicon.
 3. El nombre del archivo es exactamente `<id>.yaml`.
-4. La familia tiene **un mínimo de 3 palabras**.
+4. La familia tiene **un mínimo de 2 palabras**.
 5. Cada `palabra` contiene literalmente el carácter `id`.
 6. Ninguna palabra se repite dentro del mismo lexicon.
 7. La `mascara` cuadra con `palabra` y `lectura`: tantos guiones como kana de la lectura y un punto menos que caracteres de palabra.
 8. La `frase` marca el carácter de la familia como Referencia: `(id)`.
 9. Toda Referencia de la `frase` lleva un solo carácter entre paréntesis y ese carácter existe en `data/`.
+10. El artefacto `lexicon/excepciones/` cumple su esquema y sus máscaras cuadran con `palabra` y `lectura`.
 
 La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan la misma pauta y el mismo código de la web.
 
@@ -74,8 +75,12 @@ La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan
 - **Nombre:** `validar-lexicon`
 - **Ubicación:** `.opencode/skills/validar-lexicon/SKILL.md` (y su copia en `.copilot/skills/validar-lexicon/SKILL.md`)
 
+**Skill oficial de generación:**
+- **Nombre:** `generar-lexicon`
+- **Ubicación:** `.opencode/skills/generar-lexicon/SKILL.md` (y su copia en `.copilot/skills/generar-lexicon/SKILL.md`)
+
 **Uso obligatorio:**
-Cualquier agente de IA que cree, modifique o revise archivos en este paquete **debe** aplicar primero la skill `validar-lexicon` antes de proponer cualquier cambio.
+Cualquier agente de IA que cree, modifique o revise archivos en este paquete **debe** aplicar primero la skill `validar-lexicon` antes de proponer cualquier cambio. Para regenerar el paquete desde JMdict **debe** aplicar `generar-lexicon`.
 
 ## 9. Comportamiento Obligatorio de las IAs
 

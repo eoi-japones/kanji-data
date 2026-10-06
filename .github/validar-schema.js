@@ -25,6 +25,8 @@ const KanjiAlterSchema = require("../schemas/kanji-alter.schema.json")
 
 const lexiconSchema = require("../schemas/lexicon.schema.json")
 
+const lexiconExcepcionesSchema = require("../schemas/lexicon-excepciones.schema.json")
+
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
 const kanjiValidation = Ajv.compile(kanjiSchema)
@@ -35,6 +37,7 @@ const grupoOnValidation = Ajv.compile(grupoOnSchema)
 const kanjiHintValidation = Ajv.compile(kanjiHintSchema)
 const kanjiAlterValidation = Ajv.compile(KanjiAlterSchema)
 const lexiconValidation = Ajv.compile(lexiconSchema)
+const lexiconExcepcionesValidation = Ajv.compile(lexiconExcepcionesSchema)
 
 const processors = {
     procesarEntrada,
@@ -75,6 +78,10 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
 }).then(() => {
 
+    return process.env["EXCEPCIONES_DIR"] ? utiles.walk(process.env["EXCEPCIONES_DIR"], processors) : Promise.resolve()
+
+}).then(() => {
+
     return validarGrupos(
         grupos,
         kanjisPorId
@@ -107,6 +114,7 @@ function determinarTipo(entrada){
         (dir == "colaboradores") ? "COLABORADOR" : 
         (dir == "hints-kanji") ? "KANJI-HINT" : 
         (dir == "lexicon") ? "LEXICON" : 
+        (dir == "excepciones") ? "EXCEPCION" : 
         (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
          "DESCONOCIDO"
 
@@ -180,6 +188,8 @@ function validarFichero(kanjiData, tipo, ruta){
 
                       (tipo == "LEXICON") ? lexiconValidation :
 
+                      (tipo == "EXCEPCION") ? lexiconExcepcionesValidation :
+
                       colaboradorValidation;
 
   if(!validador(kanjiData)){
@@ -210,6 +220,10 @@ function validarFichero(kanjiData, tipo, ruta){
   else if(tipo == "LEXICON"){
 
       lexicones[kanjiData.id] = { ruta, datos: kanjiData }
+
+      return
+  }
+  else if(tipo == "EXCEPCION"){
 
       return
   }

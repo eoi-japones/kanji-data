@@ -83,7 +83,7 @@ Un lexicon es la **familia de palabras que comparten un kanji concreto**. Su pro
 
 **Estructura:**
 - `id`: el carácter del kanji al que pertenece la familia.
-- `palabras`: array ordenado con un mínimo de tres entradas. Cada entrada lleva:
+- `palabras`: array ordenado con un mínimo de dos entradas. Cada entrada lleva:
   - `palabra`: la forma escrita, que **debe contener** el carácter `id`.
   - `lectura`: la lectura de la palabra entera, en kana.
   - `tipo_lectura`: `on` o `kun`.
@@ -101,6 +101,7 @@ Un lexicon es la **familia de palabras que comparten un kanji concreto**. Su pro
 - Carpeta: `lexicon/lexicon/`
 - Nomenclatura: `<id>.yaml`
 - Esquema: `schemas/lexicon.schema.json`
+- Las excepciones de reparto de lectura se guardan en `lexicon/excepciones/` y se publican como artefacto propio (`kanji.eoi/lexicon-excepciones`); no son un campo del lexicon.
 
 **Límites:**
 - Un lexicon pertenece al **carácter**, no a la clave: si un kanji está estudiado bajo dos claves distintas, las dos comparten un solo lexicon.

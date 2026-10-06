@@ -28,7 +28,7 @@ Asegurar que cada fichero YAML de lexicon cumpla **al 100%** con:
    - Los campos y tipos de `schemas/lexicon.schema.json` (no debe haber campos extra ni faltar ninguno obligatorio).
    - Nomenclatura exacta: archivo `<id>.yaml`, en la carpeta `lexicon/lexicon/`.
    - El `id` existe en `data/` y **no** es un solo componente.
-   - Un mínimo de **3 palabras**, cada una conteniendo literalmente el carácter `id`.
+   - Un mínimo de **2 palabras**, cada una conteniendo literalmente el carácter `id`.
    - Ninguna palabra repetida dentro del mismo lexicon.
    - La `mascara` cuadra: tantos guiones como kana de la `lectura` y un punto menos que caracteres de la `palabra`.
    - La `frase` marca el carácter de la familia: `(id)`, y toda Referencia lleva un solo carácter que exista en `data/`.
@@ -68,7 +68,7 @@ palabras:
 ## Ejemplo de validación incorrecta
 - Faltan campos obligatorios o sobran campos que no están en el esquema.
 - El archivo se llama `leer.yaml` en vez de `読.yaml`.
-- Hay menos de tres palabras, o una palabra no contiene el carácter de la familia.
+- Hay menos de dos palabras, o una palabra no contiene el carácter de la familia.
 - La máscara lleva un guion de más o un punto de menos.
 - La frase no marca `(id)`, o una Referencia apunta a un carácter que no existe en `data/`.
 - Un solo componente tiene lexicon.
