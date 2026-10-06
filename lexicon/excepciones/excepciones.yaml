@@ -1,0 +1,11 @@
+# Excepciones de reparto de lectura de los lexicones.
+#
+# La generación determinista (`.github/generar-lexicones.js`) reparte la lectura
+# de casi todas las palabras; lo que no puede resolver —熟字訓, ateji, lecturas
+# irregulares— sale en la lista de revisión y puede fijarse aquí.
+#
+# Cada excepción se indexa por `palabra` + `lectura` y sustituye el reparto
+# calculado. Ver `docs/adr/0007-los-lexicones-se-generan-desde-jmdict.md`.
+id: excepciones
+
+excepciones: []

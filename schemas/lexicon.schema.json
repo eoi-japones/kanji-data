@@ -16,7 +16,7 @@
 
         "description": "Familia de palabras que contienen el carácter. El orden del array es el orden de presentación al estudiante.",
 
-        "minItems": 3,
+        "minItems": 2,
 
         "items": {
 

@@ -8,3 +8,6 @@ package-lock*
 .de
 
 .github/launch.js
+
+.cache
+lexicon/pendientes.json

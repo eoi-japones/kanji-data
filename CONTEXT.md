@@ -135,8 +135,8 @@ _Evitar_: objeto, entrada suelta, JSON
 ### Lexicones
 
 **Lexicon**:
-La familia de palabras que comparten un kanji concreto, guardada en `lexicon/lexicon/<id>.yaml`. Su propósito es ayudar al estudiante al reconocimiento de palabras y a su aprendizaje. Pertenece al **carácter**, no a la clave: un kanji estudiado bajo dos claves distintas tiene un solo lexicon. El plural oficial es **lexicones**.
-_Evitar_: lexicons, léxico, lexico, colección de palabras
+La familia de palabras que comparten un kanji concreto, guardada en `lexicon/lexicon/<id>.yaml`. Su propósito es ayudar al estudiante al reconocimiento de palabras y a su aprendizaje. Pertenece al **carácter**, no a la clave: un kanji estudiado bajo dos claves distintas tiene un solo lexicon. El plural oficial es **lexicones**. No es una *Pista*: el lexicon es una familia de palabras y la pista, que vive en `lexicon/hints-kanji/`, es un texto de ayuda.
+_Evitar_: lexicons, léxico, lexico, colección de palabras, hint
 
 **Lectura de palabra**:
 La pronunciación de la palabra entera, en kana, que se guarda en el campo `lectura` de un lexicon. A diferencia de la *Lectura* de un grupo yomi, puede ser on o kun.
@@ -149,3 +149,11 @@ _Evitar_: clase, nivel, clase de lectura
 **Frase de ejemplo**:
 La frase en japonés que ilustra una palabra de un lexicon, con el carácter de la familia marcado como *Referencia*, acompañada de su traducción al castellano. Las dos son obligatorias.
 _Evitar_: oración de muestra, ilustración, frase suelta
+
+**Palabra de lexicon**:
+Una entrada de un lexicon: forma escrita, lectura, tipo de lectura, significado, máscara, frase de ejemplo y traducción. Se distingue del *Ejemplo* de un grupo yomi aunque la misma palabra japonesa pueda ser las dos cosas.
+_Evitar_: palabra, entrada, vocablo, ítem
+
+**Excepción de lexicon**:
+El reparto de lectura curado para una palabra cuya lectura no se puede atribuir a sus caracteres, como un 熟字訓, o la clase de lectura que la segmentación no resuelve. Se guarda en `lexicon/excepciones/` y se publica como artefacto propio; no es un campo del lexicon.
+_Evitar_: parche, override, caso especial
