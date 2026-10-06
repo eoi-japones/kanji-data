@@ -52,7 +52,8 @@ Más allá del esquema, `.github/validar-lexicones.js` comprueba en cada Pull Re
 7. La `mascara` cuadra con `palabra` y `lectura`: tantos guiones como kana de la lectura y un punto menos que caracteres de palabra.
 8. La `frase` marca el carácter de la familia como Referencia: `(id)`.
 9. Toda Referencia de la `frase` lleva un solo carácter entre paréntesis y ese carácter existe en `data/`.
-10. El artefacto `lexicon/excepciones/` cumple su esquema y sus máscaras cuadran con `palabra` y `lectura`.
+
+El artefacto `lexicon/excepciones/` se valida aparte: su esquema con `.github/validar-schema.js` (`schemas/lexicon-excepciones.schema.json`) y sus máscaras —tantos guiones como kana de la `lectura` y un punto menos que caracteres de `palabra`— con `.github/generar-lexicones.js`.
 
 La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan la misma pauta y el mismo código de la web.
 
@@ -67,7 +68,7 @@ La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan
 - No se permiten errores de ortografía en castellano en `significado`, `traduccion` ni en ningún otro texto.
 - `lectura` es la lectura de la palabra entera, en kana; `tipo_lectura` declara si es `on` o `kun`.
 - `frase` va en japonés y `traduccion` en castellano. Ambas son obligatorias.
-- El orden del array `palabras` es el **orden de presentación** al estudiante y lo decide quien redacta.
+- El orden del array `palabras` es el **orden de presentación** al estudiante y lo fija la frecuencia de uso (ADR 0007); no se reordena a mano.
 
 ## 8. Skills Obligatorias del Paquete
 

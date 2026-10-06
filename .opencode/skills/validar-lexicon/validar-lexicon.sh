@@ -20,6 +20,7 @@ export YOMI_DIR="$ROOT_DIR/yomi/"
 export KANA_DIR="$ROOT_DIR/kanas/"
 export KANJI_HINT_DIR="$ROOT_DIR/lexicon/hints-kanji/"
 export LEXICON_DIR="$ROOT_DIR/lexicon/lexicon/"
+export EXCEPCIONES_DIR="$ROOT_DIR/lexicon/excepciones/"
 export PROFILES_DIR="$ROOT_DIR/profiles/"
 
 cd "$ROOT_DIR"
