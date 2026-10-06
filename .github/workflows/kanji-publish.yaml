@@ -8,6 +8,13 @@ jobs:
   publicar:
     env:
       DATA_DIR: data
+      META_DIR: meta-data
+      KANA_DIR: kanas
+      YOMI_DIR: yomi
+      KANJI_HINT_DIR: lexicon/hints-kanji
+      LEXICON_DIR: lexicon/lexicon
+      EXCEPCIONES_DIR: lexicon/excepciones
+      PROFILES_DIR: profiles
       proyecto: kanji-data
       git_user: 'github-actions'
       git_email: 'github-actions@github.com'
