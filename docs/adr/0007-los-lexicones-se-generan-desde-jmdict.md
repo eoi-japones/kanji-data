@@ -6,6 +6,11 @@ Los lexicones del paquete `lexicon/lexicon/` dejan de redactarse a mano: un scri
 
 **aceptado**
 
+> **Nota (2026-10-06).** El motor `.github/generar-lexicones.js` y la skill
+> `generar-lexicon` se han trasladado a kanji-api (ADR 0006 de ese repositorio),
+> que los ejecuta y escribe los YAML en `lexicon/lexicon/`. El diseño de este ADR
+> sigue vigente; solo cambia dónde vive la maquinaria y, con ella, el `--check`.
+
 ## Decisión
 
 - **Universo**: todas las entradas de JMdict cuya grafía principal use **solo** kanji presentes en `data/` (raíz o `componentes/`) y que no sean nombres propios ni voces arcaicas u obsoletas. La familia la da un kanji no solo-componente de la palabra; los solo-componentes pueden aparecer como acompañantes (読者, con 者 en `data/componentes/`). No hay umbral de frecuencia.
