@@ -4,8 +4,6 @@ init:
 publish:
 	docker compose run --rm app node .github/merger.js
 
-lexicones:
-	docker compose run --rm app node .github/generar-lexicones.js --generar
-
-lexicones-check:
-	docker compose run --rm app node .github/generar-lexicones.js --check
+# La generación de lexicones ya no vive en este repositorio: la hace el motor de
+# kanji-api (`make lexicones` allí), que escribe en lexicon/lexicon/. Ver el ADR
+# 0006 de kanji-api.

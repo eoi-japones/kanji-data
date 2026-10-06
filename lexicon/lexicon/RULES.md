@@ -53,7 +53,7 @@ Más allá del esquema, `.github/validar-lexicones.js` comprueba en cada Pull Re
 8. La `frase` marca el carácter de la familia como Referencia: `(id)`.
 9. Toda Referencia de la `frase` lleva un solo carácter entre paréntesis y ese carácter existe en `data/`.
 
-El artefacto `lexicon/excepciones/` se valida aparte: su esquema con `.github/validar-schema.js` (`schemas/lexicon-excepciones.schema.json`) y sus máscaras —tantos guiones como kana de la `lectura` y un punto menos que caracteres de `palabra`— con `.github/generar-lexicones.js`.
+El artefacto `lexicon/excepciones/` se valida aparte: su esquema con `.github/validar-schema.js` (`schemas/lexicon-excepciones.schema.json`) y sus máscaras —tantos guiones como kana de la `lectura` y un punto menos que caracteres de `palabra`— con el motor de lexicones de kanji-api (skill `generar-lexicon` de ese repositorio).
 
 La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan la misma pauta y el mismo código de la web.
 
@@ -76,12 +76,8 @@ La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan
 - **Nombre:** `validar-lexicon`
 - **Ubicación:** `.opencode/skills/validar-lexicon/SKILL.md` (y su copia en `.copilot/skills/validar-lexicon/SKILL.md`)
 
-**Skill oficial de generación:**
-- **Nombre:** `generar-lexicon`
-- **Ubicación:** `.opencode/skills/generar-lexicon/SKILL.md` (y su copia en `.copilot/skills/generar-lexicon/SKILL.md`)
-
 **Uso obligatorio:**
-Cualquier agente de IA que cree, modifique o revise archivos en este paquete **debe** aplicar primero la skill `validar-lexicon` antes de proponer cualquier cambio. Para regenerar el paquete desde JMdict **debe** aplicar `generar-lexicon`.
+Cualquier agente de IA que cree, modifique o revise archivos en este paquete **debe** aplicar primero la skill `validar-lexicon` antes de proponer cualquier cambio. La regeneración del paquete desde JMdict se hace con el motor de lexicones de kanji-api (skill `generar-lexicon` de ese repositorio), que escribe los YAML en esta carpeta.
 
 ## 9. Comportamiento Obligatorio de las IAs
 
