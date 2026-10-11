@@ -4,34 +4,47 @@ const path = require("path")
 
 const output_file = process.env["OUTPUT_FILE"] || './kanji.data'
 
+// Cada paquete se lee de su ruta; sin variable de entorno se usa la del repo.
+// Antes, una carpeta sin declarar caía en DATA_DIR y el inventario se procesaba
+// varias veces. Las rutas son relativas a la raíz del repositorio (o al WORKDIR
+// del contenedor, que monta el repo).
+const DATA_DIR = process.env["DATA_DIR"] || "data"
+const META_DIR = process.env["META_DIR"] || "meta-data"
+const KANA_DIR = process.env["KANA_DIR"] || "kanas"
+const YOMI_DIR = process.env["YOMI_DIR"] || "yomi"
+const KANJI_HINT_DIR = process.env["KANJI_HINT_DIR"] || "lexicon/hints-kanji"
+const PROFILES_DIR = process.env["PROFILES_DIR"] || "profiles"
+const LEXICON_DIR = process.env["LEXICON_DIR"] || "lexicon/lexicon"
+const EXCEPCIONES_DIR = process.env["EXCEPCIONES_DIR"] || "lexicon/excepciones"
+
 const f = []
 
-walk().then(() => {
+walk(DATA_DIR).then(() => {
 
-    return walk(process.env["META_DIR"])
-
-}).then(() => {
-
-    return walk(process.env["KANA_DIR"])
+    return walk(META_DIR)
 
 }).then(() => {
 
-    return walk(process.env["YOMI_DIR"])
+    return walk(KANA_DIR)
 
 }).then(() => {
 
-    return walk(process.env["KANJI_HINT_DIR"])
-
-}).then(() => {
-    return walk(process.env["PROFILES_DIR"])
+    return walk(YOMI_DIR)
 
 }).then(() => {
 
-    return process.env["LEXICON_DIR"] ? walk(process.env["LEXICON_DIR"]) : Promise.resolve()
+    return walk(KANJI_HINT_DIR)
+
+}).then(() => {
+    return walk(PROFILES_DIR)
 
 }).then(() => {
 
-    return process.env["EXCEPCIONES_DIR"] ? walk(process.env["EXCEPCIONES_DIR"]) : Promise.resolve()
+    return walk(LEXICON_DIR)
+
+}).then(() => {
+
+    return walk(EXCEPCIONES_DIR)
 
 }).then(() => {
 
@@ -50,7 +63,9 @@ async function escribirEnFichero(datos){
 
   return new Promise((ok, ko) => {
 
-    fs.appendFile(output_file, JSON.stringify(datos), 'utf-8', (err) => {
+    // Se sobrescribe: el bundle es la foto completa, no un acumulado. Con
+    // appendFile, una segunda ejecución dejaba dos arrays concatenados.
+    fs.writeFile(output_file, JSON.stringify(datos), 'utf-8', (err) => {
       if(err)
         return ko(err)
       else
@@ -128,8 +143,10 @@ async function acumularParaFichero(datos, tipo, entrada){
 }
 
 
-async function walk(dir = process.env["DATA_DIR"]){
-  
+async function walk(dir){
+
+  if(!dir) return
+
   await Promise.all(
 
     (await leerDir(dir)).map((entrada) => {
