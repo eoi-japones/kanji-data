@@ -1,0 +1,23 @@
+id: 灰
+palabras:
+  - palabra: 灰
+    lectura: はい
+    tipo_lectura: kun
+    significado: Ceniza
+    mascara: '--'
+    frase: 暖炉の(灰)を掃きました。
+    traduccion: Barrié las cenizas de la chimenea.
+  - palabra: 灰色
+    lectura: はいいろ
+    tipo_lectura: kun
+    significado: Gris
+    mascara: '--.--'
+    frase: (灰)色のスーツを着ています。
+    traduccion: Lleva un traje gris.
+  - palabra: 石灰
+    lectura: せっかい
+    tipo_lectura: kun
+    significado: Cal
+    mascara: '----.'
+    frase: 壁に石(灰)を塗りました。
+    traduccion: Pinté la pared de cal.

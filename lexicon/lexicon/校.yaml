@@ -1,0 +1,30 @@
+id: 校
+palabras:
+  - palabra: 学校
+    lectura: がっこう
+    tipo_lectura: kun
+    significado: Escuela, colegio
+    mascara: '----.'
+    frase: 学(校)は八時に始まります。
+    traduccion: La escuela empieza a las ocho.
+  - palabra: 校門
+    lectura: こうもん
+    tipo_lectura: 'on'
+    significado: Puerta del colegio
+    mascara: '--.--'
+    frase: (校)門で先生に会いました。
+    traduccion: En la puerta del colegio me encontré con el profesor.
+  - palabra: 母校
+    lectura: ぼこう
+    tipo_lectura: 'on'
+    significado: Antiguo colegio, alma máter
+    mascara: '-.--'
+    frase: 今週、母(校)を訪れました。
+    traduccion: Esta semana visité mi antiguo colegio.
+  - palabra: 高校
+    lectura: こうこう
+    tipo_lectura: 'on'
+    significado: Instituto, bachillerato
+    mascara: '--.--'
+    frase: 彼は高(校)でサッカーをしました。
+    traduccion: Él jugó al fútbol en el instituto.

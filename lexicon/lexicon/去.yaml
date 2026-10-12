@@ -1,0 +1,16 @@
+id: 去
+palabras:
+  - palabra: 去る
+    lectura: さる
+    tipo_lectura: kun
+    significado: Marcharse, dejar
+    mascara: '-.-'
+    frase: 彼は静かに教室を(去)りました。
+    traduccion: Él salió en silencio del aula.
+  - palabra: 去来
+    lectura: きょらい
+    tipo_lectura: 'on'
+    significado: Ida y vuelta, venidas (de ideas)
+    mascara: '--.--'
+    frase: 不安な考えが(去)来します。
+    traduccion: Se me vienen y van pensamientos de inquietud.

@@ -1,0 +1,30 @@
+id: 少
+palabras:
+  - palabra: 多少
+    lectura: たしょう
+    tipo_lectura: 'on'
+    significado: Algo, en cierta medida
+    mascara: '-.---'
+    frase: 多(少)時間がかかります。
+    traduccion: Lleva algún tiempo.
+  - palabra: 少佐
+    lectura: しょうさ
+    tipo_lectura: 'on'
+    significado: Mayor (militar)
+    mascara: '---.-'
+    frase: (少)佐の制服がよく似合います。
+    traduccion: El uniforme de mayor le queda muy bien.
+  - palabra: 少数
+    lectura: しょうすう
+    tipo_lectura: 'on'
+    significado: Minoría, número escaso
+    mascara: '---.--'
+    frase: 賛成したのは(少)数でした。
+    traduccion: Los que estuvieron a favor fueron pocos.
+  - palabra: 数少ない
+    lectura: かずすくない
+    tipo_lectura: kun
+    significado: Muy pocos
+    mascara: '--.--.-.-'
+    frase: この町には古书店が数(少)ないです。
+    traduccion: En este pueblo hay muy pocas librerías de viejo.

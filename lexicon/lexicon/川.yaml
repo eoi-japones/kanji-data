@@ -1,0 +1,30 @@
+id: 川
+palabras:
+  - palabra: 天の川
+    lectura: あまのがわ
+    tipo_lectura: kun
+    significado: Vía Láctea
+    mascara: '--.-.--'
+    frase: 夜空に天の(川)が光っています。
+    traduccion: La Vía Láctea brilla en el cielo nocturno.
+  - palabra: 小川
+    lectura: おがわ
+    tipo_lectura: kun
+    significado: Arroyo, riachuelo
+    mascara: '-.--'
+    frase: 公園を小(川)が流れています。
+    traduccion: Un arroyo atraviesa el parque.
+  - palabra: 川
+    lectura: かわ
+    tipo_lectura: kun
+    significado: Río
+    mascara: '--'
+    frase: (川)の水がとてもきれいです。
+    traduccion: El agua del río está muy limpia.
+  - palabra: 河川
+    lectura: かせん
+    tipo_lectura: 'on'
+    significado: Ríos
+    mascara: '-.--'
+    frase: 雨で河(川)の水が増えました。
+    traduccion: Con la lluvia ha subido el agua de los ríos.

@@ -1,0 +1,23 @@
+id: 拝
+palabras:
+  - palabra: 参拝
+    lectura: さんぱい
+    tipo_lectura: 'on'
+    significado: Visita de culto
+    mascara: '--.--'
+    frase: 新年に神社へ参(拝)しました。
+    traduccion: Fui a rezar al santuario en Año Nuevo.
+  - palabra: 拝む
+    lectura: おがむ
+    tipo_lectura: kun
+    significado: Reverenciar, postrarse
+    mascara: '--.-'
+    frase: 神前で両手を合わせて(拝)みました。
+    traduccion: Junté las manos en oración ante el altar.
+  - palabra: 拝借
+    lectura: はいしゃく
+    tipo_lectura: 'on'
+    significado: Pedir prestado (humilde)
+    mascara: '--.---'
+    frase: そのノートを(拝)借してください。
+    traduccion: ¿Me presta ese cuaderno?

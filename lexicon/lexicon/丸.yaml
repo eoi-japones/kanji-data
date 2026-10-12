@@ -1,0 +1,23 @@
+id: 丸
+palabras:
+  - palabra: 丸
+    lectura: まる
+    tipo_lectura: kun
+    significado: Círculo, redondo
+    mascara: '--'
+    frase: 机の上に(丸)い紙があります。
+    traduccion: Sobre la mesa hay un papel redondo.
+  - palabra: 丸い
+    lectura: まるい
+    tipo_lectura: kun
+    significado: Redondo, circular
+    mascara: '--.-'
+    frase: 机の上に(丸)い時計があります。
+    traduccion: Sobre la mesa hay un reloj redondo.
+  - palabra: 丸ごと
+    lectura: まるごと
+    tipo_lectura: kun
+    significado: Entero, la cosa entera
+    mascara: '--.-.-'
+    frase: りんごを(丸)ごと食べました。
+    traduccion: Me comí la manzana entera.

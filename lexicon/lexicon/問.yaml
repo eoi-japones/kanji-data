@@ -1,0 +1,23 @@
+id: 問
+palabras:
+  - palabra: 問
+    lectura: もん
+    tipo_lectura: 'on'
+    significado: Pregunta (contador)
+    mascara: '--'
+    frase: 試験は五(問)あります。
+    traduccion: El examen tiene cinco preguntas.
+  - palabra: 問い
+    lectura: とい
+    tipo_lectura: kun
+    significado: Pregunta
+    mascara: '-.-'
+    frase: その(問)いに答えられませんでした。
+    traduccion: No pude responder a esa pregunta.
+  - palabra: 学問
+    lectura: がくもん
+    tipo_lectura: 'on'
+    significado: Estudio, erudición
+    mascara: '--.--'
+    frase: 彼は学(問)に励んでいます。
+    traduccion: Él se dedica con ahínco al estudio.

@@ -1,0 +1,51 @@
+id: 十
+palabras:
+  - palabra: 十七
+    lectura: じゅうなな
+    tipo_lectura: 'on'
+    significado: Diecisiete
+    mascara: '---.--'
+    frase: 来年、弟は(十)七歳になります。
+    traduccion: El año que viene mi hermano menor cumplirá diecisiete años.
+  - palabra: 十三
+    lectura: じゅうさん
+    tipo_lectura: 'on'
+    significado: Trece
+    mascara: '---.--'
+    frase: この教室には(十)三人います。
+    traduccion: En este aula hay trece personas.
+  - palabra: 十九
+    lectura: じゅうきゅう
+    tipo_lectura: 'on'
+    significado: Diecinueve
+    mascara: '---.---'
+    frase: 祖父は(十)九歳で日本に来ました。
+    traduccion: Mi abuelo vino a Japón con diecinueve años.
+  - palabra: 十二
+    lectura: じゅうに
+    tipo_lectura: 'on'
+    significado: Doce
+    mascara: '---.-'
+    frase: (十)二月に日本に来ました。
+    traduccion: Vine a Japón en diciembre.
+  - palabra: 十八
+    lectura: じゅうはち
+    tipo_lectura: 'on'
+    significado: Dieciocho
+    mascara: '---.--'
+    frase: 妹は(十)八歳で、大学生です。
+    traduccion: Mi hermana menor tiene dieciocho años y va a la universidad.
+  - palabra: 十六
+    lectura: じゅうろく
+    tipo_lectura: 'on'
+    significado: Dieciséis
+    mascara: '---.--'
+    frase: 弟は(十)六歳で高校生です。
+    traduccion: Mi hermano menor tiene dieciséis años y va al instituto.
+  - palabra: 数十
+    lectura: すうじゅう
+    tipo_lectura: 'on'
+    significado: Decenas, varias decenas
+    mascara: '--.---'
+    frase: 数(十)人が駅に集まりました。
+    traduccion: Se reunieron decenas de personas en la estación.

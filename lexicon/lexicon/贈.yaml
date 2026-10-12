@@ -1,0 +1,16 @@
+id: 贈
+palabras:
+  - palabra: 贈り主
+    lectura: おくりぬし
+    tipo_lectura: kun
+    significado: Remitente, dador
+    mascara: '--.-.--'
+    frase: (贈)り主の名前が書いてあります。
+    traduccion: Está escrito el nombre del remitente.
+  - palabra: 贈る
+    lectura: おくる
+    tipo_lectura: kun
+    significado: Regalar, enviar
+    mascara: '--.-'
+    frase: 誕生日に花を(贈)りました。
+    traduccion: Envié flores de regalo de cumpleaños.

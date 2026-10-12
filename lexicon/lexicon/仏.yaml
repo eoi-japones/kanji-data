@@ -1,0 +1,23 @@
+id: 仏
+palabras:
+  - palabra: 仏
+    lectura: ふつ
+    tipo_lectura: 'on'
+    significado: Francia
+    mascara: '--'
+    frase: いつか(仏)へ旅行したいです。
+    traduccion: Algún día me gustaría viajar a Francia.
+  - palabra: 仏教
+    lectura: ぶっきょう
+    tipo_lectura: kun
+    significado: Budismo
+    mascara: '-----.'
+    frase: (仏)教はインドで始まりました。
+    traduccion: El budismo empezó en la India.
+  - palabra: 大仏
+    lectura: だいぶつ
+    tipo_lectura: 'on'
+    significado: Gran Buda
+    mascara: '--.--'
+    frase: 奈良には有名な大(仏)があります。
+    traduccion: En Nara hay un famoso Gran Buda.

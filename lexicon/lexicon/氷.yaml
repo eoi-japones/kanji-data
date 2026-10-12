@@ -1,0 +1,23 @@
+id: 氷
+palabras:
+  - palabra: かき氷
+    lectura: かきごおり
+    tipo_lectura: kun
+    significado: Granizado
+    mascara: '-.-.---'
+    frase: 夏にかき(氷)を食べました。
+    traduccion: En verano comí un granizado.
+  - palabra: 氷
+    lectura: こおり
+    tipo_lectura: kun
+    significado: Hielo
+    mascara: '---'
+    frase: 飲み物に(氷)を入れます。
+    traduccion: Pongo hielo en la bebida.
+  - palabra: 氷山
+    lectura: ひょうざん
+    tipo_lectura: 'on'
+    significado: Iceberg
+    mascara: '---.--'
+    frase: (氷)山が海を漂っています。
+    traduccion: Un iceberg flota por el mar.

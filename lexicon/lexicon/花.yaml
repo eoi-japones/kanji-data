@@ -1,0 +1,16 @@
+id: 花
+palabras:
+  - palabra: 花火
+    lectura: はなび
+    tipo_lectura: kun
+    significado: Fuegos artificiales
+    mascara: '--.-'
+    frase: 夏の夜に(花)火を見ました。
+    traduccion: Vi fuegos artificiales en una noche de verano.
+  - palabra: 開花
+    lectura: かいか
+    tipo_lectura: 'on'
+    significado: Floración
+    mascara: '--.-'
+    frase: 今年は桜が早く開(花)しました。
+    traduccion: Este año los cerezos florecieron pronto.

@@ -1,0 +1,149 @@
+id: 人
+palabras:
+  - palabra: 一人っ子
+    lectura: ひとりっこ
+    tipo_lectura: kun
+    significado: Hijo único
+    mascara: '--.-.-.-'
+    frase: 私は一(人)っ子です。
+    traduccion: Soy hijo único.
+  - palabra: 万人
+    lectura: ばんにん
+    tipo_lectura: 'on'
+    significado: Todos, el público en general
+    mascara: '--.--'
+    frase: この映画は万(人)に愛されています。
+    traduccion: Esta película es querida por todos.
+  - palabra: 三人
+    lectura: さんにん
+    tipo_lectura: 'on'
+    significado: Tres personas
+    mascara: '--.--'
+    frase: 私たちの家族は三(人)です。
+    traduccion: Nuestra familia somos tres.
+  - palabra: 主人
+    lectura: しゅじん
+    tipo_lectura: 'on'
+    significado: Marido, amo de casa
+    mascara: '--.--'
+    frase: 主(人)は今、家にいません。
+    traduccion: Mi marido ahora no está en casa.
+  - palabra: 二人
+    lectura: ふたり
+    tipo_lectura: kun
+    significado: Dos personas
+    mascara: '--.-'
+    frase: 二(人)で駅まで歩きました。
+    traduccion: Caminamos hasta la estación los dos.
+  - palabra: 人体
+    lectura: じんたい
+    tipo_lectura: 'on'
+    significado: Cuerpo humano
+    mascara: '--.--'
+    frase: 理科の授業で(人)体の模型を見ました。
+    traduccion: En la clase de ciencias vi un modelo del cuerpo humano.
+  - palabra: 人参
+    lectura: にんじん
+    tipo_lectura: 'on'
+    significado: Zanahoria
+    mascara: '--.--'
+    frase: スープに(人)参を入れました。
+    traduccion: Puse zanahoria en la sopa.
+  - palabra: 人口
+    lectura: じんこう
+    tipo_lectura: 'on'
+    significado: Población
+    mascara: '--.--'
+    frase: この町の(人)口は二十万人です。
+    traduccion: La población de esta ciudad es de doscientos mil habitantes.
+  - palabra: 人影
+    lectura: ひとかげ
+    tipo_lectura: kun
+    significado: Figura de una persona
+    mascara: '--.--'
+    frase: まばらに(人)影が見えました。
+    traduccion: Se veían figuras de gente dispersas.
+  - palabra: 人数
+    lectura: にんずう
+    tipo_lectura: 'on'
+    significado: Número de personas
+    mascara: '--.--'
+    frase: 参加(人)数を教えてください。
+    traduccion: Dígame cuántos van a participar.
+  - palabra: 人間
+    lectura: にんげん
+    tipo_lectura: 'on'
+    significado: Ser humano, persona
+    mascara: '--.--'
+    frase: (人)間は誰でも間違えます。
+    traduccion: Todo ser humano se equivoca alguna vez.
+  - palabra: 別人
+    lectura: べつじん
+    tipo_lectura: 'on'
+    significado: Otra persona, alguien distinto
+    mascara: '--.--'
+    frase: 一年で別(人)のようになりました。
+    traduccion: En un año me he convertido en otra persona.
+  - palabra: 四人
+    lectura: よにん
+    tipo_lectura: 'on'
+    significado: Cuatro personas
+    mascara: '-.--'
+    frase: テーブルは四(人)用です。
+    traduccion: La mesa es para cuatro personas.
+  - palabra: 国際人
+    lectura: こくさいじん
+    tipo_lectura: 'on'
+    significado: Persona de mentalidad internacional
+    mascara: '--.--.--'
+    frase: 現代は国際(人)が求められます。
+    traduccion: En la actualidad se buscan personas con mentalidad internacional.
+  - palabra: 外国人
+    lectura: がいこくじん
+    tipo_lectura: 'on'
+    significado: Extranjero, ciudadano extranjero
+    mascara: '--.--.--'
+    frase: この町には外国(人)が増えています。
+    traduccion: En esta ciudad aumentan los extranjeros.
+  - palabra: 恋人
+    lectura: こいびと
+    tipo_lectura: kun
+    significado: Novio, novia, amante
+    mascara: '--.--'
+    frase: 彼には恋(人)がいます。
+    traduccion: Él tiene novia.
+  - palabra: 成人
+    lectura: せいじん
+    tipo_lectura: 'on'
+    significado: Mayoría de edad, adulto
+    mascara: '--.--'
+    frase: 今年で成(人)になりました。
+    traduccion: Este año he alcanzado la mayoría de edad.
+  - palabra: 男の人
+    lectura: おとこのひと
+    tipo_lectura: kun
+    significado: Hombre
+    mascara: '---.-.--'
+    frase: 男の(人)に道を聞きました。
+    traduccion: Pregunté el camino a un hombre.
+  - palabra: 美人
+    lectura: びじん
+    tipo_lectura: 'on'
+    significado: Belleza, mujer hermosa
+    mascara: '-.--'
+    frase: 彼女は町で有名な美(人)です。
+    traduccion: Ella es una belleza famosa en el pueblo.
+  - palabra: 老人
+    lectura: ろうじん
+    tipo_lectura: 'on'
+    significado: Persona mayor, anciano
+    mascara: '--.--'
+    frase: 電車で老(人)に席を譲りました。
+    traduccion: Cedí mi asiento a una persona mayor en el tren.
+  - palabra: 芸人
+    lectura: げいにん
+    tipo_lectura: 'on'
+    significado: Cómico, artista
+    mascara: '--.--'
+    frase: 彼は有名な芸(人)です。
+    traduccion: Él es un famoso cómico.

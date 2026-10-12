@@ -1,0 +1,23 @@
+id: 宵
+palabras:
+  - palabra: 今宵
+    lectura: こよい
+    tipo_lectura: kun
+    significado: Esta noche
+    mascara: '---.'
+    frase: 今(宵)は月がきれいです。
+    traduccion: Esta noche la luna está preciosa.
+  - palabra: 宵
+    lectura: よい
+    tipo_lectura: kun
+    significado: Noche temprana
+    mascara: '--'
+    frase: 夏の(宵)は涼しくなります。
+    traduccion: Al anochecer de verano se hace fresco.
+  - palabra: 宵月
+    lectura: よいづき
+    tipo_lectura: kun
+    significado: Luna de la noche temprana
+    mascara: '--.--'
+    frase: 西の空に(宵)月が出ました。
+    traduccion: En el cielo del oeste salió la luna de la noche temprana.

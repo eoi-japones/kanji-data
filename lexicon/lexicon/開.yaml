@@ -1,0 +1,30 @@
+id: 開
+palabras:
+  - palabra: 開ける
+    lectura: あける
+    tipo_lectura: kun
+    significado: Abrir
+    mascara: '-.-.-'
+    frase: ドアを(開)けてください。
+    traduccion: Abra la puerta, por favor.
+  - palabra: 開店
+    lectura: かいてん
+    tipo_lectura: 'on'
+    significado: Apertura de una tienda
+    mascara: '--.--'
+    frase: 駅前に新しい店が(開)店しました。
+    traduccion: Se ha abierto una tienda nueva delante de la estación.
+  - palabra: 開廷
+    lectura: かいてい
+    tipo_lectura: 'on'
+    significado: Apertura de la audiencia
+    mascara: '--.--'
+    frase: 今日は十時に(開)廷しました。
+    traduccion: Hoy abrió la audiencia a las diez.
+  - palabra: 開花
+    lectura: かいか
+    tipo_lectura: 'on'
+    significado: Floración
+    mascara: '--.-'
+    frase: 今年は桜が早く(開)花しました。
+    traduccion: Este año los cerezos florecieron pronto.

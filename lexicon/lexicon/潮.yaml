@@ -1,0 +1,23 @@
+id: 潮
+palabras:
+  - palabra: 潮
+    lectura: しお
+    tipo_lectura: kun
+    significado: Marea
+    mascara: '--'
+    frase: だんだん(潮)が満ちてきました。
+    traduccion: Poco a poco ha subido la marea.
+  - palabra: 潮時
+    lectura: しおどき
+    tipo_lectura: kun
+    significado: Momento oportuno
+    mascara: '--.--'
+    frase: 今は話す(潮)時ではありません。
+    traduccion: Ahora no es el momento oportuno para hablarlo.
+  - palabra: 黒潮
+    lectura: くろしお
+    tipo_lectura: kun
+    significado: Corriente Kuroshio
+    mascara: '--.--'
+    frase: 黒(潮)は日本沿岸を流れます。
+    traduccion: La corriente Kuroshio discurre por la costa de Japón.

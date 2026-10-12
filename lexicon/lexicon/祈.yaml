@@ -1,0 +1,23 @@
+id: 祈
+palabras:
+  - palabra: 祈り
+    lectura: いのり
+    tipo_lectura: kun
+    significado: Oración, ruego
+    mascara: '--.-'
+    frase: 静かに(祈)りを捧げました。
+    traduccion: Ofrecé una oración en silencio.
+  - palabra: 祈る
+    lectura: いのる
+    tipo_lectura: kun
+    significado: Rezar, pedir
+    mascara: '--.-'
+    frase: 神社で家族の健康を(祈)りました。
+    traduccion: Pedí por la salud de mi familia en el santuario.
+  - palabra: お祈り
+    lectura: おいのり
+    tipo_lectura: kun
+    significado: Oración
+    mascara: '-.--.-'
+    frase: 会議の始まりにお(祈)りをしました。
+    traduccion: Rezamos al empezar la reunión.

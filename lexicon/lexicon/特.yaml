@@ -1,0 +1,16 @@
+id: 特
+palabras:
+  - palabra: 特技
+    lectura: とくぎ
+    tipo_lectura: 'on'
+    significado: Habilidad especial
+    mascara: '--.-'
+    frase: 私の(特)技は料理です。
+    traduccion: Mi habilidad especial es cocinar.
+  - palabra: 特製
+    lectura: とくせい
+    tipo_lectura: 'on'
+    significado: Especial, de la casa
+    mascara: '--.--'
+    frase: 今日は(特)製のカレーを作りました。
+    traduccion: Hoy he hecho un curry especial de la casa.

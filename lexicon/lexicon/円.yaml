@@ -1,0 +1,23 @@
+id: 円
+palabras:
+  - palabra: 一円
+    lectura: いちえん
+    tipo_lectura: 'on'
+    significado: Un yen
+    mascara: '--.--'
+    frase: この商品は一(円)の値引きもしません。
+    traduccion: Este producto no admite ni un yen de descuento.
+  - palabra: 円
+    lectura: えん
+    tipo_lectura: 'on'
+    significado: Yen
+    mascara: '--'
+    frase: この本は千(円)です。
+    traduccion: Este libro cuesta mil yenes.
+  - palabra: 円高
+    lectura: えんだか
+    tipo_lectura: 'on'
+    significado: Yen fuerte, apreciación del yen
+    mascara: '--.--'
+    frase: 最近、(円)高が進んでいます。
+    traduccion: Últimamente el yen se está fortaleciendo.

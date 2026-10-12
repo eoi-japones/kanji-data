@@ -1,0 +1,23 @@
+id: 導
+palabras:
+  - palabra: 先導
+    lectura: せんどう
+    tipo_lectura: 'on'
+    significado: Ir en cabeza, guiar
+    mascara: '--.--'
+    frase: 案内人が先(導)します。
+    traduccion: El guía va en cabeza.
+  - palabra: 半導体
+    lectura: はんどうたい
+    tipo_lectura: 'on'
+    significado: Semiconductor
+    mascara: '--.--.--'
+    frase: 半(導)体は現代の技術の基礎です。
+    traduccion: Los semiconductores son la base de la tecnología actual.
+  - palabra: 導く
+    lectura: みちびく
+    tipo_lectura: kun
+    significado: Guiar, conducir
+    mascara: '---.-'
+    frase: 先生が道を(導)いてくれました。
+    traduccion: El profesor me mostró el camino.

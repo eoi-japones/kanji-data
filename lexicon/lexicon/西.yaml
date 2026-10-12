@@ -1,0 +1,44 @@
+id: 西
+palabras:
+  - palabra: 北西
+    lectura: ほくせい
+    tipo_lectura: 'on'
+    significado: Noroeste
+    mascara: '--.--'
+    frase: 図書館は駅の北(西)にあります。
+    traduccion: La biblioteca está al noroeste de la estación.
+  - palabra: 東西
+    lectura: とうざい
+    tipo_lectura: 'on'
+    significado: Este y oeste
+    mascara: '--.--'
+    frase: この通りは東(西)に走っています。
+    traduccion: Esta avenida discurre en dirección este-oeste.
+  - palabra: 西
+    lectura: にし
+    tipo_lectura: kun
+    significado: Oeste
+    mascara: '--'
+    frase: 夕日は(西)に沈みます。
+    traduccion: El sol se pone al oeste.
+  - palabra: 西口
+    lectura: にしぐち
+    tipo_lectura: kun
+    significado: Salida oeste
+    mascara: '--.--'
+    frase: 駅の(西)口で友達に会いました。
+    traduccion: Me encontré con un amigo en la salida oeste de la estación.
+  - palabra: 西日本
+    lectura: にしにほん
+    tipo_lectura: kun
+    significado: Oeste de Japón
+    mascara: '-----..'
+    frase: (西)日本は今週雨が多いです。
+    traduccion: Esta semana llueve mucho en el oeste de Japón.
+  - palabra: 西洋
+    lectura: せいよう
+    tipo_lectura: 'on'
+    significado: Occidente
+    mascara: '--.--'
+    frase: (西)洋料理も日本料理も好きです。
+    traduccion: Me gustan tanto la cocina occidental como la japonesa.

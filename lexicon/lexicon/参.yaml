@@ -1,0 +1,37 @@
+id: 参
+palabras:
+  - palabra: お参り
+    lectura: おまいり
+    tipo_lectura: kun
+    significado: Peregrinación (a un santuario)
+    mascara: '-.--.-'
+    frase: 初詣でお(参)りをしました。
+    traduccion: Fui de peregrinación de Año Nuevo al santuario.
+  - palabra: 人参
+    lectura: にんじん
+    tipo_lectura: 'on'
+    significado: Zanahoria
+    mascara: '--.--'
+    frase: スープに人(参)を入れました。
+    traduccion: Puse zanahoria en la sopa.
+  - palabra: 参拝
+    lectura: さんぱい
+    tipo_lectura: 'on'
+    significado: Visita de culto
+    mascara: '--.--'
+    frase: 新年に神社へ(参)拝しました。
+    traduccion: Fui a rezar al santuario en Año Nuevo.
+  - palabra: 参道
+    lectura: さんどう
+    tipo_lectura: 'on'
+    significado: Camino del santuario
+    mascara: '--.--'
+    frase: (参)道の両側に店が並びます。
+    traduccion: A ambos lados del camino del santuario se alinean tiendas.
+  - palabra: 墓参り
+    lectura: はかまいり
+    tipo_lectura: kun
+    significado: Visita a la tumba
+    mascara: '--.--.-'
+    frase: お盆に家族で墓(参)りをします。
+    traduccion: En el Obon visitamos las tumbas en familia.

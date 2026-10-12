@@ -1,0 +1,30 @@
+id: 票
+palabras:
+  - palabra: 一票
+    lectura: いっぴょう
+    tipo_lectura: kun
+    significado: Un voto
+    mascara: '-----.'
+    frase: 一(票)でも大切です。
+    traduccion: Cada voto cuenta.
+  - palabra: 伝票
+    lectura: でんぴょう
+    tipo_lectura: 'on'
+    significado: Resguardo, albarán
+    mascara: '--.---'
+    frase: 領収の伝(票)をもらいました。
+    traduccion: Me dieron el resguardo del recibo.
+  - palabra: 投票
+    lectura: とうひょう
+    tipo_lectura: 'on'
+    significado: Votación, voto
+    mascara: '--.---'
+    frase: 選挙で投(票)をしました。
+    traduccion: Voté en las elecciones.
+  - palabra: 票
+    lectura: ひょう
+    tipo_lectura: 'on'
+    significado: Voto, papeleta
+    mascara: '---'
+    frase: 候補者に(票)を投じました。
+    traduccion: Voté por el candidato.

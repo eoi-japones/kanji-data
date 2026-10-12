@@ -1,0 +1,30 @@
+id: 半
+palabras:
+  - palabra: 半導体
+    lectura: はんどうたい
+    tipo_lectura: 'on'
+    significado: Semiconductor
+    mascara: '--.--.--'
+    frase: (半)導体は現代の技術の基礎です。
+    traduccion: Los semiconductores son la base de la tecnología actual.
+  - palabra: 半日
+    lectura: はんにち
+    tipo_lectura: 'on'
+    significado: Media jornada, medio día
+    mascara: '--.--'
+    frase: 先生に(半)日休みをもらいました。
+    traduccion: El profesor me ha dado media jornada de libre.
+  - palabra: 大半
+    lectura: たいはん
+    tipo_lectura: 'on'
+    significado: La mayoría, casi todo
+    mascara: '--.--'
+    frase: 学生の大(半)が参加しました。
+    traduccion: La mayoría de los estudiantes participó.
+  - palabra: 時半
+    lectura: じはん
+    tipo_lectura: 'on'
+    significado: Y media, media hora
+    mascara: '-.--'
+    frase: 私は毎日六時(半)に起きます。
+    traduccion: Me levanto a las seis y media todos los días.

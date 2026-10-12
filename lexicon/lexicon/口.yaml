@@ -1,0 +1,51 @@
+id: 口
+palabras:
+  - palabra: 人口
+    lectura: じんこう
+    tipo_lectura: 'on'
+    significado: Población
+    mascara: '--.--'
+    frase: この町の人(口)は二十万人です。
+    traduccion: La población de esta ciudad es de doscientos mil habitantes.
+  - palabra: 北口
+    lectura: きたぐち
+    tipo_lectura: kun
+    significado: Salida norte
+    mascara: '--.--'
+    frase: 駅の北(口)で待ち合わせました。
+    traduccion: Quedamos en la salida norte de la estación.
+  - palabra: 口紅
+    lectura: くちべに
+    tipo_lectura: kun
+    significado: Pintura de labios
+    mascara: '--.--'
+    frase: 母は赤い(口)紅を塗っています。
+    traduccion: Mi madre lleva pintura de labios roja.
+  - palabra: 東口
+    lectura: ひがしぐち
+    tipo_lectura: kun
+    significado: Salida este
+    mascara: '---.--'
+    frase: 東(口)には大きなデパートがあります。
+    traduccion: En la salida este hay un gran almacén.
+  - palabra: 河口
+    lectura: かこう
+    tipo_lectura: 'on'
+    significado: Desembocadura del río
+    mascara: '-.--'
+    frase: 川の河(口)に大きな町があります。
+    traduccion: En la desembocadura del río hay una ciudad grande.
+  - palabra: 無口
+    lectura: むくち
+    tipo_lectura: kun
+    significado: Callado, taciturno
+    mascara: '-.--'
+    frase: 兄は無(口)ですが、とても優しい人です。
+    traduccion: Mi hermano mayor es callado, pero es una persona muy amable.
+  - palabra: 西口
+    lectura: にしぐち
+    tipo_lectura: kun
+    significado: Salida oeste
+    mascara: '--.--'
+    frase: 駅の西(口)で友達に会いました。
+    traduccion: Me encontré con un amigo en la salida oeste de la estación.

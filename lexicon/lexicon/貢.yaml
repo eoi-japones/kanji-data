@@ -1,0 +1,16 @@
+id: 貢
+palabras:
+  - palabra: 貢ぎ
+    lectura: みつぎ
+    tipo_lectura: kun
+    significado: Tributo
+    mascara: '--.-'
+    frase: 昔は領主に(貢)ぎを納めました。
+    traduccion: Antes se entregaba tributo al señor.
+  - palabra: 貢ぐ
+    lectura: みつぐ
+    tipo_lectura: kun
+    significado: Sostener económicamente
+    mascara: '--.-'
+    frase: 兄は家計を(貢)いでいます。
+    traduccion: Mi hermano sostiene económicamente a la familia.

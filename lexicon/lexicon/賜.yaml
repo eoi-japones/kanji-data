@@ -1,0 +1,23 @@
+id: 賜
+palabras:
+  - palabra: 下賜
+    lectura: かし
+    tipo_lectura: 'on'
+    significado: Concesión (de un superior)
+    mascara: '-.-'
+    frase: 天皇から額が下(賜)されました。
+    traduccion: El emperador concedió un pergamino.
+  - palabra: 賜る
+    lectura: たまわる
+    tipo_lectura: kun
+    significado: Recibir (de un superior)
+    mascara: '---.-'
+    frase: 社長に賞状を(賜)りました。
+    traduccion: Recibí el diploma de manos del presidente.
+  - palabra: 賜金
+    lectura: しきん
+    tipo_lectura: 'on'
+    significado: Ayuda económica del gobierno
+    mascara: '-.--'
+    frase: 政府から(賜)金が下りました。
+    traduccion: El gobierno concedió una ayuda económica.

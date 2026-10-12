@@ -1,0 +1,65 @@
+id: 家
+palabras:
+  - palabra: 一家
+    lectura: いっか
+    tipo_lectura: kun
+    significado: Una familia, un hogar
+    mascara: '---.'
+    frase: 彼は一(家)で日本へ移りました。
+    traduccion: Se mudó a Japón con toda su familia.
+  - palabra: 借家
+    lectura: しゃくや
+    tipo_lectura: kun
+    significado: Casa alquilada
+    mascara: '---.-'
+    frase: 借(家)暮らしは便利です。
+    traduccion: Vivir de alquiler es cómodo.
+  - palabra: 史家
+    lectura: しか
+    tipo_lectura: 'on'
+    significado: Historiador
+    mascara: '-.-'
+    frase: 彼は優れた史(家)です。
+    traduccion: Él es un historiador destacado.
+  - palabra: 宗家
+    lectura: そうけ
+    tipo_lectura: 'on'
+    significado: Casa principal, familia fundadora
+    mascara: '--.-'
+    frase: その芸能は代々宗(家)に受け継がれています。
+    traduccion: Ese arte se transmite de generación en generación en la casa principal.
+  - palabra: 家庭
+    lectura: かてい
+    tipo_lectura: 'on'
+    significado: Hogar, familia
+    mascara: '-.--'
+    frase: 彼は(家)庭を大切にしています。
+    traduccion: Él cuida mucho de su hogar.
+  - palabra: 家計
+    lectura: かけい
+    tipo_lectura: 'on'
+    significado: Hogar, economía doméstica
+    mascara: '-.--'
+    frase: 毎月、(家)計を記録します。
+    traduccion: Llevo la cuenta de los gastos cada mes.
+  - palabra: 専門家
+    lectura: せんもんか
+    tipo_lectura: 'on'
+    significado: Especialista
+    mascara: '--.--.-'
+    frase: この問題は専門(家)に聞いてください。
+    traduccion: Consulte este problema a un especialista.
+  - palabra: 画家
+    lectura: がか
+    tipo_lectura: 'on'
+    significado: Pintor
+    mascara: '-.-'
+    frase: 彼は有名な画(家)です。
+    traduccion: Él es un pintor famoso.
+  - palabra: 貸家
+    lectura: かしや
+    tipo_lectura: kun
+    significado: Casa de alquiler
+    mascara: '--.-'
+    frase: 都会で貸(家)を探しています。
+    traduccion: Busco una casa de alquiler en la ciudad.

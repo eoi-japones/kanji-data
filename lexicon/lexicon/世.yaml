@@ -1,0 +1,58 @@
+id: 世
+palabras:
+  - palabra: 世の中
+    lectura: よのなか
+    tipo_lectura: kun
+    significado: El mundo, la sociedad
+    mascara: '-.-.--'
+    frase: この三十年で(世)の中は大きく変わりました。
+    traduccion: En estos treinta años el mundo ha cambiado mucho.
+  - palabra: 世代
+    lectura: せだい
+    tipo_lectura: 'on'
+    significado: Generación
+    mascara: '-.--'
+    frase: 若い(世)代にも人気があります。
+    traduccion: También es popular entre las generaciones jóvenes.
+  - palabra: 世紀
+    lectura: せいき
+    tipo_lectura: 'on'
+    significado: Siglo
+    mascara: '--.-'
+    frase: この建物は一(世)紀前に建てられました。
+    traduccion: Este edificio se construyó hace un siglo.
+  - palabra: 世話
+    lectura: せわ
+    tipo_lectura: 'on'
+    significado: Cuidado, asistencia
+    mascara: '-.-'
+    frase: 旅行中、大変お(世)話になりました。
+    traduccion: Durante el viaje me ayudaron muchísimo.
+  - palabra: 世間
+    lectura: せけん
+    tipo_lectura: 'on'
+    significado: El mundo, la sociedad
+    mascara: '-.--'
+    frase: (世)間は狭いものです。
+    traduccion: El mundo es pequeño.
+  - palabra: 中世
+    lectura: ちゅうせい
+    tipo_lectura: 'on'
+    significado: Edad Media
+    mascara: '---.--'
+    frase: 旅行で中(世)の城を見ました。
+    traduccion: En el viaje vi un castillo medieval.
+  - palabra: 一世紀
+    lectura: いっせいき
+    tipo_lectura: kun
+    significado: Un siglo
+    mascara: '-----..'
+    frase: 一(世)紀は百年です。
+    traduccion: Un siglo son cien años.
+  - palabra: 今世紀
+    lectura: こんせいき
+    tipo_lectura: 'on'
+    significado: Este siglo
+    mascara: '--.--.-'
+    frase: 今(世)紀の技術は驚くべきです。
+    traduccion: La tecnología de este siglo es asombrosa.

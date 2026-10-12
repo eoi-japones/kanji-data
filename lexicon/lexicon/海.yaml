@@ -1,0 +1,30 @@
+id: 海
+palabras:
+  - palabra: 海
+    lectura: うみ
+    tipo_lectura: kun
+    significado: Mar
+    mascara: '--'
+    frase: 夏に(海)で泳ぎました。
+    traduccion: En verano nadé en el mar.
+  - palabra: 海外
+    lectura: かいがい
+    tipo_lectura: 'on'
+    significado: Extranjero, ultramar
+    mascara: '--.--'
+    frase: 夏に(海)外へ旅行しました。
+    traduccion: En verano viajé al extranjero.
+  - palabra: 海水
+    lectura: かいすい
+    tipo_lectura: 'on'
+    significado: Agua de mar
+    mascara: '--.--'
+    frase: (海)水で体を洗いました。
+    traduccion: Me lavé el cuerpo con agua de mar.
+  - palabra: 海賊
+    lectura: かいぞく
+    tipo_lectura: 'on'
+    significado: Pirata
+    mascara: '--.--'
+    frase: (海)賊の映画はいつも面白いです。
+    traduccion: Las películas de piratas siempre son divertidas.

@@ -1,0 +1,23 @@
+id: 埋
+palabras:
+  - palabra: 埋まる
+    lectura: うまる
+    tipo_lectura: kun
+    significado: Estar cubierto, rellenarse
+    mascara: '-.-.-'
+    frase: 穴が土で(埋)まりました。
+    traduccion: El hoyo se llenó de tierra.
+  - palabra: 埋める
+    lectura: うずめる
+    tipo_lectura: kun
+    significado: Cubrir, enterrar
+    mascara: '--.-.-'
+    frase: 木を植えて穴を(埋)めました。
+    traduccion: Planté un árbol y tapé el hoyo.
+  - palabra: 埋もれる
+    lectura: うもれる
+    tipo_lectura: kun
+    significado: Quedar enterrado, pasar desapercibido
+    mascara: '-.-.-.-'
+    frase: 才能が(埋)もれてしまいました。
+    traduccion: Su talento quedó enterrado.

@@ -1,0 +1,23 @@
+id: 紅
+palabras:
+  - palabra: 口紅
+    lectura: くちべに
+    tipo_lectura: kun
+    significado: Pintura de labios
+    mascara: '--.--'
+    frase: 母は赤い口(紅)を塗っています。
+    traduccion: Mi madre lleva pintura de labios roja.
+  - palabra: 紅茶
+    lectura: こうちゃ
+    tipo_lectura: 'on'
+    significado: Té negro
+    mascara: '--.--'
+    frase: 午後は(紅)茶を飲みます。
+    traduccion: Por la tarde tomo té negro.
+  - palabra: 紅葉
+    lectura: こうよう
+    tipo_lectura: 'on'
+    significado: Arces enrojecidos
+    mascara: '--.--'
+    frase: 秋に(紅)葉を見に行きます。
+    traduccion: En otoño voy a ver los arces.

@@ -1,0 +1,23 @@
+id: 林
+palabras:
+  - palabra: 林
+    lectura: はやし
+    tipo_lectura: kun
+    significado: Arboleda, bosque pequeño
+    mascara: '---'
+    frase: 家の後ろに(林)があります。
+    traduccion: Detrás de mi casa hay una arboleda.
+  - palabra: 林道
+    lectura: りんどう
+    tipo_lectura: 'on'
+    significado: Camino forestal
+    mascara: '--.--'
+    frase: (林)道を自転車で走りました。
+    traduccion: Recorrí en bicicleta el camino forestal.
+  - palabra: 森林
+    lectura: しんりん
+    tipo_lectura: 'on'
+    significado: Bosque, masa forestal
+    mascara: '--.--'
+    frase: 森(林)を守ることが大切です。
+    traduccion: Es importante proteger los bosques.

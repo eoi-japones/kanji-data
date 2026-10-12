@@ -1,0 +1,23 @@
+id: 冬
+palabras:
+  - palabra: 冬
+    lectura: ふゆ
+    tipo_lectura: kun
+    significado: Invierno
+    mascara: '--'
+    frase: 北海道の(冬)はとても寒いです。
+    traduccion: El invierno en Hokkaido es muy frío.
+  - palabra: 冬場
+    lectura: ふゆば
+    tipo_lectura: kun
+    significado: Época de invierno
+    mascara: '--.-'
+    frase: (冬)場はよくスケートをします。
+    traduccion: En invierno suelo patinar.
+  - palabra: 冬眠
+    lectura: とうみん
+    tipo_lectura: 'on'
+    significado: Hibernación
+    mascara: '--.--'
+    frase: クマは冬に(冬)眠します。
+    traduccion: Los osos hibernan en invierno.

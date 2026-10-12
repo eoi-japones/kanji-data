@@ -1,0 +1,30 @@
+id: 映
+palabras:
+  - palabra: 上映
+    lectura: じょうえい
+    tipo_lectura: 'on'
+    significado: Estreno, proyección
+    mascara: '---.--'
+    frase: この映画は来月上(映)されます。
+    traduccion: Esta película se estrena el mes que viene.
+  - palabra: 映す
+    lectura: うつす
+    tipo_lectura: kun
+    significado: Reflejar, proyectar
+    mascara: '--.-'
+    frase: 月が池に光を(映)しています。
+    traduccion: La luna refleja su luz en el estanque.
+  - palabra: 映る
+    lectura: うつる
+    tipo_lectura: kun
+    significado: Reflejarse, salir (en foto)
+    mascara: '--.-'
+    frase: 顔が鏡に(映)っています。
+    traduccion: Tu cara se refleja en el espejo.
+  - palabra: 映画
+    lectura: えいが
+    tipo_lectura: 'on'
+    significado: Película, cine
+    mascara: '--.-'
+    frase: 今週末に(映)画を見に行きます。
+    traduccion: El fin de semana voy a ver una película.

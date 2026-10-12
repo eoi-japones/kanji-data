@@ -1,0 +1,16 @@
+id: 規
+palabras:
+  - palabra: 規制
+    lectura: きせい
+    tipo_lectura: 'on'
+    significado: Regulación, normativa
+    mascara: '-.--'
+    frase: 交通の(規)制が厳しくなりました。
+    traduccion: Se han endurecido las normas de tráfico.
+  - palabra: 規約
+    lectura: きやく
+    tipo_lectura: 'on'
+    significado: Normas, condiciones
+    mascara: '-.--'
+    frase: サービスの(規)約を読みました。
+    traduccion: Leí las normas del servicio.

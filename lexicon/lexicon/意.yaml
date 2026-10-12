@@ -1,0 +1,23 @@
+id: 意
+palabras:
+  - palabra: 意外
+    lectura: いがい
+    tipo_lectura: 'on'
+    significado: Inesperado, sorprendente
+    mascara: '-.--'
+    frase: 彼は(意)外に速く走ります。
+    traduccion: Él corre sorprendentemente rápido.
+  - palabra: 意思
+    lectura: いし
+    tipo_lectura: 'on'
+    significado: Intención, voluntad
+    mascara: '-.-'
+    frase: 転校する(意)思はないです。
+    traduccion: No tengo intención de cambiarme de escuela.
+  - palabra: 決意
+    lectura: けつい
+    tipo_lectura: 'on'
+    significado: Decisión, determinación
+    mascara: '--.-'
+    frase: 留学する決(意)をしました。
+    traduccion: He decidido irme a estudiar al extranjero.

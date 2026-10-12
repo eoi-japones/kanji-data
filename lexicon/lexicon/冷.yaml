@@ -1,0 +1,23 @@
+id: 冷
+palabras:
+  - palabra: 冷える
+    lectura: ひえる
+    tipo_lectura: kun
+    significado: Enfriarse
+    mascara: '-.-.-'
+    frase: 夜になると体が(冷)えます。
+    traduccion: Al llegar la noche el cuerpo se enfría.
+  - palabra: 冷たい
+    lectura: つめたい
+    tipo_lectura: kun
+    significado: Frío (al tacto)
+    mascara: '--.-.-'
+    frase: 冬の水はとても(冷)たいです。
+    traduccion: El agua en invierno está muy fría.
+  - palabra: 冷凍
+    lectura: れいとう
+    tipo_lectura: 'on'
+    significado: Congelación
+    mascara: '--.--'
+    frase: 食品は(冷)凍で保存します。
+    traduccion: Los alimentos se conservan congelados.

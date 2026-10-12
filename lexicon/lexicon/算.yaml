@@ -1,0 +1,23 @@
+id: 算
+palabras:
+  - palabra: 決算
+    lectura: けっさん
+    tipo_lectura: kun
+    significado: Resultados (de una empresa)
+    mascara: '----.'
+    frase: 会社の決(算)が発表されました。
+    traduccion: Se anunciaron los resultados de la empresa.
+  - palabra: 算数
+    lectura: さんすう
+    tipo_lectura: 'on'
+    significado: Aritmética
+    mascara: '--.--'
+    frase: 小学校で(算)数を習います。
+    traduccion: En la primaria se aprende aritmética.
+  - palabra: 計算
+    lectura: けいさん
+    tipo_lectura: 'on'
+    significado: Cálculo
+    mascara: '--.--'
+    frase: 電車賃を計(算)しました。
+    traduccion: Calculé el billete del tren.

@@ -1,0 +1,23 @@
+id: 尻
+palabras:
+  - palabra: 尻
+    lectura: しり
+    tipo_lectura: kun
+    significado: Culo, trasero
+    mascara: '--'
+    frase: 転んで(尻)をぶつけました。
+    traduccion: Caí y me golpeé el culo.
+  - palabra: お尻
+    lectura: おしり
+    tipo_lectura: kun
+    significado: Culo, asiento
+    mascara: '-.--'
+    frase: 子供をお(尻)に乗せました。
+    traduccion: Puse al niño encima de mis caderas.
+  - palabra: 尻上がり
+    lectura: しりあがり
+    tipo_lectura: kun
+    significado: En ascenso, en auge
+    mascara: '--.-.-.-'
+    frase: 彼の出世は(尻)上がりです。
+    traduccion: Su carrera profesional va en ascenso.

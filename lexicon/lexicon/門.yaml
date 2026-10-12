@@ -1,0 +1,51 @@
+id: 門
+palabras:
+  - palabra: 専門
+    lectura: せんもん
+    tipo_lectura: 'on'
+    significado: Especialidad
+    mascara: '--.--'
+    frase: 私の専(門)は歴史です。
+    traduccion: Mi especialidad es la historia.
+  - palabra: 専門家
+    lectura: せんもんか
+    tipo_lectura: 'on'
+    significado: Especialista
+    mascara: '--.--.-'
+    frase: この問題は専(門)家に聞いてください。
+    traduccion: Consulte este problema a un especialista.
+  - palabra: 専門店
+    lectura: せんもんてん
+    tipo_lectura: 'on'
+    significado: Tienda especializada
+    mascara: '--.--.--'
+    frase: この街には楽器の専(門)店があります。
+    traduccion: En esta ciudad hay una tienda especializada en instrumentos musicales.
+  - palabra: 校門
+    lectura: こうもん
+    tipo_lectura: 'on'
+    significado: Puerta del colegio
+    mascara: '--.--'
+    frase: 校(門)で先生に会いました。
+    traduccion: En la puerta del colegio me encontré con el profesor.
+  - palabra: 正門
+    lectura: せいもん
+    tipo_lectura: 'on'
+    significado: Puerta principal
+    mascara: '--.--'
+    frase: 大学の正(門)から入りました。
+    traduccion: Entré por la puerta principal de la universidad.
+  - palabra: 門
+    lectura: もん
+    tipo_lectura: 'on'
+    significado: Puerta, portón
+    mascara: '--'
+    frase: 校庭の(門)が閉まっています。
+    traduccion: La puerta del patio del colegio está cerrada.
+  - palabra: 門下
+    lectura: もんか
+    tipo_lectura: 'on'
+    significado: Discípulo
+    mascara: '--.-'
+    frase: 彼は大先生の(門)下です。
+    traduccion: Él es discípulo del gran maestro.

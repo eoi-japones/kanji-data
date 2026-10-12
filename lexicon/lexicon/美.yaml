@@ -1,0 +1,30 @@
+id: 美
+palabras:
+  - palabra: 美しい
+    lectura: うつくしい
+    tipo_lectura: kun
+    significado: Hermoso
+    mascara: '---.-.-'
+    frase: 海の夕日は(美)しいです。
+    traduccion: El sol poniente sobre el mar es hermoso.
+  - palabra: 美人
+    lectura: びじん
+    tipo_lectura: 'on'
+    significado: Belleza, mujer hermosa
+    mascara: '-.--'
+    frase: 彼女は町で有名な(美)人です。
+    traduccion: Ella es una belleza famosa en el pueblo.
+  - palabra: 美学
+    lectura: びがく
+    tipo_lectura: 'on'
+    significado: Estética
+    mascara: '-.--'
+    frase: 先生は(美)学を研究しています。
+    traduccion: El profesor investiga sobre estética.
+  - palabra: 美術
+    lectura: びじゅつ
+    tipo_lectura: 'on'
+    significado: Bellas artes
+    mascara: '-.---'
+    frase: (美)術館で古い絵を見ました。
+    traduccion: Ví cuadros antiguos en el museo de bellas artes.

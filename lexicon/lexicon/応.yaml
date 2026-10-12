@@ -1,0 +1,23 @@
+id: 応
+palabras:
+  - palabra: 一応
+    lectura: いちおう
+    tipo_lectura: 'on'
+    significado: Por si acaso, de todas formas
+    mascara: '--.--'
+    frase: 一(応)確認しておきます。
+    traduccion: Lo confirmo por si acaso.
+  - palabra: 応える
+    lectura: こたえる
+    tipo_lectura: kun
+    significado: Responder, corresponder
+    mascara: '--.-.-'
+    frase: 子供の期待に(応)えました。
+    traduccion: Respondí a la expectativa del niño.
+  - palabra: 応じる
+    lectura: おうじる
+    tipo_lectura: 'on'
+    significado: Atender, hacer caso
+    mascara: '--.-.-'
+    frase: 申し込みに(応)じました。
+    traduccion: Atendí la solicitud.

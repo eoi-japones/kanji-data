@@ -1,0 +1,30 @@
+id: 伝
+palabras:
+  - palabra: お手伝い
+    lectura: おてつだい
+    tipo_lectura: kun
+    significado: Ayuda, auxilio
+    mascara: '-.-.--.-'
+    frase: 料理の準備で母のお手(伝)いをしました。
+    traduccion: Ayudé a mi madre con la preparación de la comida.
+  - palabra: 伝票
+    lectura: でんぴょう
+    tipo_lectura: 'on'
+    significado: Resguardo, albarán
+    mascara: '--.---'
+    frase: 領収の(伝)票をもらいました。
+    traduccion: Me dieron el resguardo del recibo.
+  - palabra: 伝言
+    lectura: でんごん
+    tipo_lectura: 'on'
+    significado: Mensaje
+    mascara: '--.--'
+    frase: 母に(伝)言を残しました。
+    traduccion: Dejé un mensaje para mi madre.
+  - palabra: 伝記
+    lectura: でんき
+    tipo_lectura: 'on'
+    significado: Biografía
+    mascara: '--.-'
+    frase: 偉人の(伝)記を読みました。
+    traduccion: Leí la biografía de un gran hombre.

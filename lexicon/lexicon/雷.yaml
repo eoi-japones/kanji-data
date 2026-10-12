@@ -1,0 +1,23 @@
+id: 雷
+palabras:
+  - palabra: 地雷
+    lectura: じらい
+    tipo_lectura: 'on'
+    significado: Mina terrestre
+    mascara: '-.--'
+    frase: 戦争の後も地(雷)が残っています。
+    traduccion: Tras la guerra aún quedan minas terrestres.
+  - palabra: 雷
+    lectura: かみなり
+    tipo_lectura: kun
+    significado: Trueno, rayo
+    mascara: '----'
+    frase: 夜中に(雷)が鳴りました。
+    traduccion: Tronó en mitad de la noche.
+  - palabra: 雷雨
+    lectura: らいう
+    tipo_lectura: 'on'
+    significado: Tormenta eléctrica
+    mascara: '--.-'
+    frase: (雷)雨のため電車が止まりました。
+    traduccion: Los trenes se pararon por la tormenta eléctrica.

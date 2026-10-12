@@ -1,0 +1,58 @@
+id: 計
+palabras:
+  - palabra: 体温計
+    lectura: たいおんけい
+    tipo_lectura: 'on'
+    significado: Termómetro
+    mascara: '--.--.--'
+    frase: 体温(計)で熱を測りました。
+    traduccion: Me medí la fiebre con el termómetro.
+  - palabra: 家計
+    lectura: かけい
+    tipo_lectura: 'on'
+    significado: Hogar, economía doméstica
+    mascara: '-.--'
+    frase: 毎月、家(計)を記録します。
+    traduccion: Llevo la cuenta de los gastos cada mes.
+  - palabra: 時計
+    lectura: とけい
+    tipo_lectura: 'on'
+    significado: Reloj
+    mascara: '-.--'
+    frase: 机の上に時(計)があります。
+    traduccion: Sobre la mesa hay un reloj.
+  - palabra: 目覚まし時計
+    lectura: めざましどけい
+    tipo_lectura: 'on'
+    significado: Despertador
+    mascara: '-.-.-.-.-.--'
+    frase: 目覚まし時(計)を六時にセットしました。
+    traduccion: He puesto el despertador a las seis.
+  - palabra: 砂時計
+    lectura: すなどけい
+    tipo_lectura: 'on'
+    significado: Reloj de arena
+    mascara: '--.-.--'
+    frase: 砂時(計)で三分を測りました。
+    traduccion: Medí tres minutos con el reloj de arena.
+  - palabra: 計測
+    lectura: けいそく
+    tipo_lectura: 'on'
+    significado: Medición
+    mascara: '--.--'
+    frase: 実験の前に温度を(計)測しました。
+    traduccion: Antes del experimento medí la temperatura.
+  - palabra: 計画
+    lectura: けいかく
+    tipo_lectura: 'on'
+    significado: Plan
+    mascara: '--.--'
+    frase: 旅行の(計)画を立てました。
+    traduccion: Elaboré un plan para el viaje.
+  - palabra: 計算
+    lectura: けいさん
+    tipo_lectura: 'on'
+    significado: Cálculo
+    mascara: '--.--'
+    frase: 電車賃を(計)算しました。
+    traduccion: Calculé el billete del tren.

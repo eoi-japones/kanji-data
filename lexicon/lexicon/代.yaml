@@ -1,0 +1,23 @@
+id: 代
+palabras:
+  - palabra: 世代
+    lectura: せだい
+    tipo_lectura: 'on'
+    significado: Generación
+    mascara: '-.--'
+    frase: 若い世(代)にも人気があります。
+    traduccion: También es popular entre las generaciones jóvenes.
+  - palabra: 永代
+    lectura: えいたい
+    tipo_lectura: 'on'
+    significado: Perpetuo, para siempre
+    mascara: '--.--'
+    frase: 寺院は永(代)の墓を守っています。
+    traduccion: El templo cuida las tumbas perpetuas.
+  - palabra: 現代
+    lectura: げんだい
+    tipo_lectura: 'on'
+    significado: Época actual, modernidad
+    mascara: '--.--'
+    frase: 現(代)の技術は本当にすごいです。
+    traduccion: La tecnología actual es de verdad asombrosa.

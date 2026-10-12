@@ -1,0 +1,16 @@
+id: 灯
+palabras:
+  - palabra: 蛍光灯
+    lectura: けいこうとう
+    tipo_lectura: 'on'
+    significado: Lámpara fluorescente
+    mascara: '--.--.--'
+    frase: 事務所は蛍光(灯)で明るいです。
+    traduccion: La oficina está iluminada con fluorescentes.
+  - palabra: 電灯
+    lectura: でんとう
+    tipo_lectura: 'on'
+    significado: Luz eléctrica
+    mascara: '--.--'
+    frase: 帰宅して電(灯)をつけました。
+    traduccion: Llegué a casa y encendí la luz.

@@ -1,0 +1,23 @@
+id: 裂
+palabras:
+  - palabra: 引き裂く
+    lectura: ひきさく
+    tipo_lectura: kun
+    significado: Rasgar en dos
+    mascara: '-.-.-.-'
+    frase: 彼は手紙を引き(裂)きました。
+    traduccion: Él rasgó la carta en dos.
+  - palabra: 裂ける
+    lectura: さける
+    tipo_lectura: kun
+    significado: Rasgarse, abrirse
+    mascara: '-.-.-'
+    frase: 少し引っ張ったら紙が(裂)けました。
+    traduccion: El papel viejo se rasgó.
+  - palabra: 裂け目
+    lectura: さけめ
+    tipo_lectura: kun
+    significado: Grieta, rajadura
+    mascara: '-.-.-'
+    frase: 壁に小さな(裂)け目があります。
+    traduccion: En la pared hay una grieta pequeña.

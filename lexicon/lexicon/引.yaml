@@ -1,0 +1,16 @@
+id: 引
+palabras:
+  - palabra: 字引
+    lectura: じびき
+    tipo_lectura: kun
+    significado: Diccionario
+    mascara: '---.'
+    frase: わからない言葉は字(引)で調べます。
+    traduccion: Las palabras que no sé las busco en el diccionario.
+  - palabra: 引き裂く
+    lectura: ひきさく
+    tipo_lectura: kun
+    significado: Rasgar en dos
+    mascara: '-.-.-.-'
+    frase: 彼は手紙を(引)き裂きました。
+    traduccion: Él rasgó la carta en dos.

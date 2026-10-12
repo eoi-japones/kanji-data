@@ -1,0 +1,16 @@
+id: 塾
+palabras:
+  - palabra: 塾
+    lectura: じゅく
+    tipo_lectura: 'on'
+    significado: Academia, preparatoria
+    mascara: '---'
+    frase: 放課後、(塾)へ行きます。
+    traduccion: Después de clase voy a la academia.
+  - palabra: 学習塾
+    lectura: がくしゅうじゅく
+    tipo_lectura: 'on'
+    significado: Academia de refuerzo
+    mascara: '--.---.---'
+    frase: 学習(塾)は駅の近くにあります。
+    traduccion: La academia está cerca de la estación.

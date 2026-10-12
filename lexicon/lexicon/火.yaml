@@ -1,0 +1,30 @@
+id: 火
+palabras:
+  - palabra: 火
+    lectura: ひ
+    tipo_lectura: kun
+    significado: Fuego
+    mascara: '-'
+    frase: (火)はとても危険です。
+    traduccion: El fuego es muy peligroso.
+  - palabra: 火曜日
+    lectura: かようび
+    tipo_lectura: 'on'
+    significado: Martes
+    mascara: '-.--.-'
+    frase: (火)曜日は授業がありません。
+    traduccion: Los martes no tengo clase.
+  - palabra: 火鉢
+    lectura: ひばち
+    tipo_lectura: kun
+    significado: Brasero
+    mascara: '-.--'
+    frase: 祖母は(火)鉢で手を温めました。
+    traduccion: Mi abuela se calentó las manos en el brasero.
+  - palabra: 花火
+    lectura: はなび
+    tipo_lectura: kun
+    significado: Fuegos artificiales
+    mascara: '--.-'
+    frase: 夏の夜に花(火)を見ました。
+    traduccion: Vi fuegos artificiales en una noche de verano.

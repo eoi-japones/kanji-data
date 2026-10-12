@@ -1,0 +1,30 @@
+id: 千
+palabras:
+  - palabra: 千
+    lectura: せん
+    tipo_lectura: 'on'
+    significado: Mil
+    mascara: '--'
+    frase: (千)円の札をもらいました。
+    traduccion: Recibí un billete de mil yenes.
+  - palabra: 千切る
+    lectura: ちぎる
+    tipo_lectura: kun
+    significado: Rasgar, desgarrar, romper
+    mascara: '-.-.-'
+    frase: 紙を(千)切らないでください。
+    traduccion: No rasgues el papel, por favor.
+  - palabra: 千里
+    lectura: せんり
+    tipo_lectura: 'on'
+    significado: Gran distancia
+    mascara: '--.-'
+    frase: (千)里の友に手紙を書きました。
+    traduccion: Escribí una carta a un amigo lejano.
+  - palabra: 数千
+    lectura: すうせん
+    tipo_lectura: 'on'
+    significado: Varios miles
+    mascara: '--.--'
+    frase: 数(千)人が試合に来ました。
+    traduccion: Varias miles de personas vinieron al partido.

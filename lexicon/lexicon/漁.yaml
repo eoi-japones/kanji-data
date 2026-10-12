@@ -1,0 +1,23 @@
+id: 漁
+palabras:
+  - palabra: 漁
+    lectura: りょう
+    tipo_lectura: 'on'
+    significado: Pesca, faena de pesca
+    mascara: '---'
+    frase: 祖父は若い時、(漁)をしていました。
+    traduccion: Mi abuelo pescaba de joven.
+  - palabra: 漁場
+    lectura: ぎょじょう
+    tipo_lectura: 'on'
+    significado: Pesquera, caladero
+    mascara: '--.---'
+    frase: この海は有名な(漁)場です。
+    traduccion: Este mar es una pesquera famosa.
+  - palabra: 漁船
+    lectura: ぎょせん
+    tipo_lectura: 'on'
+    significado: Barco de pesca
+    mascara: '--.--'
+    frase: (漁)船が港に戻りました。
+    traduccion: El barco de pesca ha vuelto al puerto.

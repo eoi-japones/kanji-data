@@ -1,0 +1,135 @@
+id: 一
+palabras:
+  - palabra: 一丁
+    lectura: いっちょう
+    tipo_lectura: kun
+    significado: Una pieza, una ración
+    mascara: '-----.'
+    frase: 食堂でラーメンを(一)丁食べました。
+    traduccion: Me comí un ramen entero en la cafetería.
+  - palabra: 一人っ子
+    lectura: ひとりっこ
+    tipo_lectura: kun
+    significado: Hijo único
+    mascara: '--.-.-.-'
+    frase: 私は(一)人っ子です。
+    traduccion: Soy hijo único.
+  - palabra: 一円
+    lectura: いちえん
+    tipo_lectura: 'on'
+    significado: Un yen
+    mascara: '--.--'
+    frase: この商品は(一)円の値引きもしません。
+    traduccion: Este producto no admite ni un yen de descuento.
+  - palabra: 一冊
+    lectura: いっさつ
+    tipo_lectura: kun
+    significado: Un libro, un volumen
+    mascara: '----.'
+    frase: 図書館で本を(一)冊借りました。
+    traduccion: Me presté un libro en la biblioteca.
+  - palabra: 一切
+    lectura: いっさい
+    tipo_lectura: kun
+    significado: En absoluto, todo
+    mascara: '----.'
+    frase: 会議に(一)切参加しませんでした。
+    traduccion: No asistí en absoluto a la reunión.
+  - palabra: 一家
+    lectura: いっか
+    tipo_lectura: kun
+    significado: Una familia, un hogar
+    mascara: '---.'
+    frase: 彼は(一)家で日本へ移りました。
+    traduccion: Se mudó a Japón con toda su familia.
+  - palabra: 一応
+    lectura: いちおう
+    tipo_lectura: 'on'
+    significado: Por si acaso, de todas formas
+    mascara: '--.--'
+    frase: (一)応確認しておきます。
+    traduccion: Lo confirmo por si acaso.
+  - palabra: 一日中
+    lectura: いちにちじゅう
+    tipo_lectura: kun
+    significado: Todo el día
+    mascara: '-------..'
+    frase: (一)日中、家にいました。
+    traduccion: Estuve en casa todo el día.
+  - palabra: 一昨日
+    lectura: おととい
+    tipo_lectura: kun
+    significado: Anteayer
+    mascara: '----..'
+    frase: (一)昨日、友達と会いました。
+    traduccion: Anteayer vi a un amigo.
+  - palabra: 一時
+    lectura: いちじ
+    tipo_lectura: 'on'
+    significado: Una en punto; una vez, por un momento
+    mascara: '--.-'
+    frase: 会議は(一)時からです。
+    traduccion: La reunión empieza a la una en punto.
+  - palabra: 一時間
+    lectura: いちじかん
+    tipo_lectura: 'on'
+    significado: Una hora
+    mascara: '--.-.--'
+    frase: 駅まで(一)時間もかかりました。
+    traduccion: Tardé hasta una hora en llegar a la estación.
+  - palabra: 一晩
+    lectura: ひとばん
+    tipo_lectura: kun
+    significado: Una noche
+    mascara: '--.--'
+    frase: (一)晩考えさせてください。
+    traduccion: Déjame pensarlo esta noche.
+  - palabra: 一歩
+    lectura: いっぽ
+    tipo_lectura: kun
+    significado: Un paso
+    mascara: '---.'
+    frase: (一)歩前へ進んでください。
+    traduccion: Dé un paso al frente.
+  - palabra: 一票
+    lectura: いっぴょう
+    tipo_lectura: kun
+    significado: Un voto
+    mascara: '-----.'
+    frase: (一)票でも大切です。
+    traduccion: Cada voto cuenta.
+  - palabra: 一隅
+    lectura: いちぐう
+    tipo_lectura: 'on'
+    significado: Un rincón
+    mascara: '--.--'
+    frase: 教室の(一)隅に置きました。
+    traduccion: Lo puse en un rincón del aula.
+  - palabra: 万が一
+    lectura: まんがいち
+    tipo_lectura: 'on'
+    significado: Caso improbable, por si acaso
+    mascara: '--.-.--'
+    frase: 万が(一)の事態に備えます。
+    traduccion: Me preparo para el caso improbable.
+  - palabra: 万一
+    lectura: まんいち
+    tipo_lectura: 'on'
+    significado: Emergencia, por si acaso
+    mascara: '--.--'
+    frase: 万(一)の時はこの番号にかけてください。
+    traduccion: En caso de emergencia llame a este número.
+  - palabra: 均一
+    lectura: きんいつ
+    tipo_lectura: 'on'
+    significado: Uniforme, igual
+    mascara: '--.--'
+    frase: すべて均(一)の価格です。
+    traduccion: Todo tiene el mismo precio.
+  - palabra: 一世紀
+    lectura: いっせいき
+    tipo_lectura: kun
+    significado: Un siglo
+    mascara: '-----..'
+    frase: (一)世紀は百年です。
+    traduccion: Un siglo son cien años.

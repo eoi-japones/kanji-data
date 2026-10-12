@@ -1,0 +1,30 @@
+id: 術
+palabras:
+  - palabra: 学術
+    lectura: がくじゅつ
+    tipo_lectura: 'on'
+    significado: Académico, erudito
+    mascara: '--.---'
+    frase: 学(術)の場で研究を発表しました。
+    traduccion: Presenté mi investigación en un foro académico.
+  - palabra: 技術
+    lectura: ぎじゅつ
+    tipo_lectura: 'on'
+    significado: Técnica, tecnología
+    mascara: '-.---'
+    frase: 彼の技(術)は本当に素晴らしいです。
+    traduccion: Su técnica es de verdad maravillosa.
+  - palabra: 美術
+    lectura: びじゅつ
+    tipo_lectura: 'on'
+    significado: Bellas artes
+    mascara: '-.---'
+    frase: 美(術)館で古い絵を見ました。
+    traduccion: Ví cuadros antiguos en el museo de bellas artes.
+  - palabra: 芸術
+    lectura: げいじゅつ
+    tipo_lectura: 'on'
+    significado: Arte
+    mascara: '--.---'
+    frase: この町には芸(術)の場がたくさんあります。
+    traduccion: En esta ciudad hay muchos espacios para el arte.

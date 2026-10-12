@@ -1,0 +1,23 @@
+id: 寺
+palabras:
+  - palabra: 国分寺
+    lectura: こくぶんじ
+    tipo_lectura: 'on'
+    significado: Templo provincial
+    mascara: '--.--.-'
+    frase: 国分(寺)の跡を見学しました。
+    traduccion: Visité las ruinas del templo provincial.
+  - palabra: 寺
+    lectura: てら
+    tipo_lectura: kun
+    significado: Templo budista
+    mascara: '--'
+    frase: 古い(寺)を訪れました。
+    traduccion: Visité un templo antiguo.
+  - palabra: 山寺
+    lectura: やまでら
+    tipo_lectura: kun
+    significado: Templo de montaña
+    mascara: '--.--'
+    frase: 山(寺)の鐘が聞こえます。
+    traduccion: Se oye la campana del templo de la montaña.

@@ -1,0 +1,23 @@
+id: 菜
+palabras:
+  - palabra: お菜
+    lectura: おかず
+    tipo_lectura: kun
+    significado: Guarnición, plato acompañante
+    mascara: '-.--'
+    frase: 母のお(菜)はいつもおいしいです。
+    traduccion: Los platos de mi madre siempre están ricos.
+  - palabra: 山菜
+    lectura: さんさい
+    tipo_lectura: 'on'
+    significado: Verduras silvestres
+    mascara: '--.--'
+    frase: 山で山(菜)を採りました。
+    traduccion: Recolecté verduras silvestres en la montaña.
+  - palabra: 菜食
+    lectura: さいしょく
+    tipo_lectura: 'on'
+    significado: Dieta vegetariana
+    mascara: '--.---'
+    frase: 健康のために(菜)食を始めました。
+    traduccion: Empecé dieta vegetariana por la salud.

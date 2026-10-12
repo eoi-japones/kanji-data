@@ -1,0 +1,23 @@
+id: 妹
+palabras:
+  - palabra: 妹
+    lectura: いもうと
+    tipo_lectura: kun
+    significado: Hermana menor
+    mascara: '----'
+    frase: (妹)は高校二年生です。
+    traduccion: Mi hermana menor va a segundo de instituto.
+  - palabra: 姉妹
+    lectura: しまい
+    tipo_lectura: 'on'
+    significado: Hermanas
+    mascara: '-.--'
+    frase: 彼女たちは姉(妹)です。
+    traduccion: Ellas son hermanas.
+  - palabra: 妹さん
+    lectura: いもうとさん
+    tipo_lectura: kun
+    significado: Hermana menor
+    mascara: '----.-.-'
+    frase: (妹)さんとよく映画を見ます。
+    traduccion: Suelo ver películas con tu hermana menor.

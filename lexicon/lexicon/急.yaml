@@ -1,0 +1,23 @@
+id: 急
+palabras:
+  - palabra: 急
+    lectura: きゅう
+    tipo_lectura: 'on'
+    significado: Repentino, urgente
+    mascara: '---'
+    frase: 台風は(急)な進路変更をしました。
+    traduccion: El tifón hizo un cambio de rumbo repentino.
+  - palabra: 急いで
+    lectura: いそいで
+    tipo_lectura: kun
+    significado: De prisa, apresuradamente
+    mascara: '--.-.-'
+    frase: (急)いで家を出ました。
+    traduccion: Salí de casa de prisa.
+  - palabra: 急行
+    lectura: きゅうこう
+    tipo_lectura: 'on'
+    significado: Express (tren)
+    mascara: '---.--'
+    frase: 電車は(急)行で東京へ向かいます。
+    traduccion: El tren express va hacia Tokio.

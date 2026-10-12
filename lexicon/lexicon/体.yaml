@@ -1,0 +1,72 @@
+id: 体
+palabras:
+  - palabra: 人体
+    lectura: じんたい
+    tipo_lectura: 'on'
+    significado: Cuerpo humano
+    mascara: '--.--'
+    frase: 理科の授業で人(体)の模型を見ました。
+    traduccion: En la clase de ciencias vi un modelo del cuerpo humano.
+  - palabra: 体
+    lectura: からだ
+    tipo_lectura: kun
+    significado: Cuerpo
+    mascara: '---'
+    frase: (体)にいい食べ物を食べます。
+    traduccion: Como cosas buenas para el cuerpo.
+  - palabra: 体制
+    lectura: たいせい
+    tipo_lectura: 'on'
+    significado: Sistema, estructura
+    mascara: '--.--'
+    frase: 新しい(体)制が始まりました。
+    traduccion: Ha comenzado un nuevo sistema.
+  - palabra: 体温計
+    lectura: たいおんけい
+    tipo_lectura: 'on'
+    significado: Termómetro
+    mascara: '--.--.--'
+    frase: (体)温計で熱を測りました。
+    traduccion: Me medí la fiebre con el termómetro.
+  - palabra: 勿体ない
+    lectura: もったいない
+    tipo_lectura: kun
+    significado: Lamentable, desperdiciar
+    mascara: '----..-.-'
+    frase: 料理を残すのは勿(体)ないです。
+    traduccion: Es una lástima dejar comida sin comer.
+  - palabra: 半導体
+    lectura: はんどうたい
+    tipo_lectura: 'on'
+    significado: Semiconductor
+    mascara: '--.--.--'
+    frase: 半導(体)は現代の技術の基礎です。
+    traduccion: Los semiconductores son la base de la tecnología actual.
+  - palabra: 機体
+    lectura: きたい
+    tipo_lectura: 'on'
+    significado: Fuselaje
+    mascara: '-.--'
+    frase: 機(体)に異音が聞こえました。
+    traduccion: Se oyó un ruido raro en el fuselaje.
+  - palabra: 船体
+    lectura: せんたい
+    tipo_lectura: 'on'
+    significado: Casco del barco
+    mascara: '--.--'
+    frase: 船(体)に小さな穴が開いていました。
+    traduccion: El casco tenía un agujero pequeño.
+  - palabra: 勿体ぶる
+    lectura: もったいぶる
+    tipo_lectura: kun
+    significado: Afectar, dar importancia
+    mascara: '----..-.-'
+    frase: 才能を勿(体)ぶらないでください。
+    traduccion: No desperdicies tu talento.
+  - palabra: 硝子体
+    lectura: しょうしたい
+    tipo_lectura: 'on'
+    significado: Humor vítreo
+    mascara: '---.-.--'
+    frase: 硝子(体)は目の内部にあります。
+    traduccion: El humor vítreo está dentro del ojo.

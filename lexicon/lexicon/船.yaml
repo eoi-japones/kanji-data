@@ -1,0 +1,30 @@
+id: 船
+palabras:
+  - palabra: 大船
+    lectura: おおぶね
+    tipo_lectura: kun
+    significado: Baque grande, buque
+    mascara: '--.--'
+    frase: 大(船)で海を渡りました。
+    traduccion: Crucé el mar en un buque grande.
+  - palabra: 漁船
+    lectura: ぎょせん
+    tipo_lectura: 'on'
+    significado: Barco de pesca
+    mascara: '--.--'
+    frase: 漁(船)が港に戻りました。
+    traduccion: El barco de pesca ha vuelto al puerto.
+  - palabra: 船
+    lectura: ふね
+    tipo_lectura: kun
+    significado: Barco, buque
+    mascara: '--'
+    frase: 港に大きな(船)が停まっています。
+    traduccion: En el puerto hay fondeado un barco grande.
+  - palabra: 船体
+    lectura: せんたい
+    tipo_lectura: 'on'
+    significado: Casco del barco
+    mascara: '--.--'
+    frase: (船)体に小さな穴が開いていました。
+    traduccion: El casco tenía un agujero pequeño.

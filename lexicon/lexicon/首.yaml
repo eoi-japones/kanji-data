@@ -1,0 +1,23 @@
+id: 首
+palabras:
+  - palabra: 手首
+    lectura: てくび
+    tipo_lectura: kun
+    significado: Muñeca
+    mascara: '-.--'
+    frase: 転んで手(首)をぶつけました。
+    traduccion: Caí y me golpeé la muñeca.
+  - palabra: 首
+    lectura: くび
+    tipo_lectura: kun
+    significado: Cuello
+    mascara: '--'
+    frase: 長い時間で(首)が痛いです。
+    traduccion: De tanto rato me duele el cuello.
+  - palabra: 首飾り
+    lectura: くびかざり
+    tipo_lectura: kun
+    significado: Collar, joya de cuello
+    mascara: '--.--.-'
+    frase: 母に(首)飾りを贈りました。
+    traduccion: Regalé un collar a mi madre.

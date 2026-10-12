@@ -1,0 +1,37 @@
+id: 主
+palabras:
+  - palabra: 主人
+    lectura: しゅじん
+    tipo_lectura: 'on'
+    significado: Marido, amo de casa
+    mascara: '--.--'
+    frase: (主)人は今、家にいません。
+    traduccion: Mi marido ahora no está en casa.
+  - palabra: 主語
+    lectura: しゅご
+    tipo_lectura: 'on'
+    significado: Sujeto (de la frase)
+    mascara: '--.-'
+    frase: この文の(主)語を探してください。
+    traduccion: Busque el sujeto de esta frase.
+  - palabra: 主食
+    lectura: しゅしょく
+    tipo_lectura: 'on'
+    significado: Alimento básico
+    mascara: '--.---'
+    frase: 日本の(主)食は米です。
+    traduccion: El alimento básico de Japón es el arroz.
+  - palabra: 株主
+    lectura: かぶぬし
+    tipo_lectura: kun
+    significado: Accionista
+    mascara: '--.--'
+    frase: 彼は大株(主)です。
+    traduccion: Él es un accionista principal.
+  - palabra: 贈り主
+    lectura: おくりぬし
+    tipo_lectura: kun
+    significado: Remitente, dador
+    mascara: '--.-.--'
+    frase: 贈り(主)の名前が書いてあります。
+    traduccion: Está escrito el nombre del remitente.

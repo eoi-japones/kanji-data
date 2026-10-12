@@ -1,0 +1,30 @@
+id: 才
+palabras:
+  - palabra: 多才
+    lectura: たさい
+    tipo_lectura: 'on'
+    significado: Dotado, de muchos talentos
+    mascara: '-.--'
+    frase: 彼女は多(才)で、何でもできます。
+    traduccion: Ella es muy dotada y puede hacer de todo.
+  - palabra: 天才
+    lectura: てんさい
+    tipo_lectura: 'on'
+    significado: Genio
+    mascara: '--.--'
+    frase: 彼は音楽の天(才)です。
+    traduccion: Él es un genio de la música.
+  - palabra: 才
+    lectura: さい
+    tipo_lectura: 'on'
+    significado: Talento, capacidad
+    mascara: '--'
+    frase: 彼は(才)のある人です。
+    traduccion: Él es una persona dotada.
+  - palabra: 画才
+    lectura: がさい
+    tipo_lectura: 'on'
+    significado: Talento para el dibujo
+    mascara: '-.--'
+    frase: 彼には画(才)があります。
+    traduccion: Él tiene talento para el dibujo.

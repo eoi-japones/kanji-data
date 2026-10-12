@@ -1,0 +1,37 @@
+id: 教
+palabras:
+  - palabra: 仏教
+    lectura: ぶっきょう
+    tipo_lectura: kun
+    significado: Budismo
+    mascara: '-----.'
+    frase: 仏(教)はインドで始まりました。
+    traduccion: El budismo empezó en la India.
+  - palabra: 宗教
+    lectura: しゅうきょう
+    tipo_lectura: 'on'
+    significado: Religión
+    mascara: '---.---'
+    frase: 日本には多くの宗(教)があります。
+    traduccion: En Japón hay muchas religiones.
+  - palabra: 教える
+    lectura: おしえる
+    tipo_lectura: kun
+    significado: Enseñar, contar
+    mascara: '--.-.-'
+    frase: 先生は毎日漢字を(教)えます。
+    traduccion: El profesor enseña kanji todos los días.
+  - palabra: 教わる
+    lectura: おそわる
+    tipo_lectura: kun
+    significado: Recibir clase, aprender de alguien
+    mascara: '--.-.-'
+    frase: 先輩に運転を(教)わりました。
+    traduccion: Aprendí a conducir con un compañero mayor.
+  - palabra: 教授
+    lectura: きょうじゅ
+    tipo_lectura: 'on'
+    significado: Profesor (de universidad)
+    mascara: '---.--'
+    frase: 彼は大学の歴史の(教)授です。
+    traduccion: Él es profesor de historia en la universidad.

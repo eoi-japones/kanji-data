@@ -1,0 +1,23 @@
+id: 湖
+palabras:
+  - palabra: 湖
+    lectura: みずうみ
+    tipo_lectura: kun
+    significado: Lago
+    mascara: '----'
+    frase: (湖)の周りを歩きました。
+    traduccion: Di una vuelta alrededor del lago.
+  - palabra: 湖水
+    lectura: こすい
+    tipo_lectura: 'on'
+    significado: Agua del lago
+    mascara: '-.--'
+    frase: 山の(湖)水はとても冷たいです。
+    traduccion: El agua del lago de montaña está muy fría.
+  - palabra: 湖沼
+    lectura: こしょう
+    tipo_lectura: 'on'
+    significado: Lagos y marismas
+    mascara: '-.---'
+    frase: 地図に(湖)沼がたくさん載っています。
+    traduccion: El mapa trae muchos lagos y marismas.

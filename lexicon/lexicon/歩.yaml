@@ -1,0 +1,37 @@
+id: 歩
+palabras:
+  - palabra: 一歩
+    lectura: いっぽ
+    tipo_lectura: kun
+    significado: Un paso
+    mascara: '---.'
+    frase: 一(歩)前へ進んでください。
+    traduccion: Dé un paso al frente.
+  - palabra: 歩く
+    lectura: あるく
+    tipo_lectura: kun
+    significado: Caminar
+    mascara: '--.-'
+    frase: 毎朝、公園を(歩)きます。
+    traduccion: Todas las mañanas camino por el parque.
+  - palabra: 歩行
+    lectura: ほこう
+    tipo_lectura: 'on'
+    significado: Andar, caminar
+    mascara: '-.--'
+    frase: この道は(歩)行者専用です。
+    traduccion: Este camino es solo para peatones.
+  - palabra: 歩道
+    lectura: ほどう
+    tipo_lectura: 'on'
+    significado: Acera
+    mascara: '-.--'
+    frase: (歩)道を自転車で走ってはいけません。
+    traduccion: No se debe circular en bicicleta por la acera.
+  - palabra: 歩測
+    lectura: ほそく
+    tipo_lectura: 'on'
+    significado: Medir a pasos
+    mascara: '-.--'
+    frase: 距離を(歩)測で確かめました。
+    traduccion: Comprobé la distancia midiendo a pasos.

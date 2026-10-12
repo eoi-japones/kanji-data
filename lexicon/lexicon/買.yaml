@@ -1,0 +1,23 @@
+id: 買
+palabras:
+  - palabra: 買い手
+    lectura: かいて
+    tipo_lectura: kun
+    significado: Comprador
+    mascara: '-.-.-'
+    frase: この絵には(買)い手がつきました。
+    traduccion: Este cuadro ya tiene comprador.
+  - palabra: 買う
+    lectura: かう
+    tipo_lectura: kun
+    significado: Comprar
+    mascara: '-.-'
+    frase: スーパーで野菜を(買)います。
+    traduccion: Compro verduras en el supermercado.
+  - palabra: 買い時
+    lectura: かいどき
+    tipo_lectura: kun
+    significado: Buen momento para comprar
+    mascara: '-.-.--'
+    frase: 今は車の(買)い時です。
+    traduccion: Ahora es buen momento para comprar un coche.

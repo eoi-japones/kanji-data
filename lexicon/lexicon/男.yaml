@@ -1,0 +1,23 @@
+id: 男
+palabras:
+  - palabra: 男
+    lectura: おとこ
+    tipo_lectura: kun
+    significado: Hombre, varón
+    mascara: '---'
+    frase: 写真の(男)は私の父です。
+    traduccion: El hombre de la foto es mi padre.
+  - palabra: 男の人
+    lectura: おとこのひと
+    tipo_lectura: kun
+    significado: Hombre
+    mascara: '---.-.--'
+    frase: (男)の人に道を聞きました。
+    traduccion: Pregunté el camino a un hombre.
+  - palabra: 男の子
+    lectura: おとこのこ
+    tipo_lectura: kun
+    significado: Niño, hijo varón
+    mascara: '---.-.-'
+    frase: (男)の子が公園で遊んでいます。
+    traduccion: Un niño está jugando en el parque.

@@ -1,0 +1,23 @@
+id: 影
+palabras:
+  - palabra: 人影
+    lectura: ひとかげ
+    tipo_lectura: kun
+    significado: Figura de una persona
+    mascara: '--.--'
+    frase: まばらに人(影)が見えました。
+    traduccion: Se veían figuras de gente dispersas.
+  - palabra: 影
+    lectura: かげ
+    tipo_lectura: kun
+    significado: Sombra
+    mascara: '--'
+    frase: 木の下に(影)ができています。
+    traduccion: Bajo el árbol se proyecta la sombra.
+  - palabra: 影絵
+    lectura: かげえ
+    tipo_lectura: kun
+    significado: Teatro de sombras
+    mascara: '--.-'
+    frase: 子供たちは(影)絵を作りました。
+    traduccion: Los niños montaron un teatro de sombras.

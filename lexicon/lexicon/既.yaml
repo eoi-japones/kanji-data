@@ -1,0 +1,23 @@
+id: 既
+palabras:
+  - palabra: 既に
+    lectura: すでに
+    tipo_lectura: kun
+    significado: Ya, de antemano
+    mascara: '--.-'
+    frase: 会議は(既)に始まっています。
+    traduccion: La reunión ya ha empezado.
+  - palabra: 既成
+    lectura: きせい
+    tipo_lectura: 'on'
+    significado: Hecho, de confección
+    mascara: '-.--'
+    frase: (既)成の服を買いました。
+    traduccion: Compré ropa de confección.
+  - palabra: 既払い
+    lectura: きばらい
+    tipo_lectura: 'on'
+    significado: Ya pagado
+    mascara: '-.--.-'
+    frase: この商品は(既)払いです。
+    traduccion: Este producto ya está pagado.

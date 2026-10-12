@@ -1,0 +1,93 @@
+id: 時
+palabras:
+  - palabra: 一時
+    lectura: いちじ
+    tipo_lectura: 'on'
+    significado: Una en punto; una vez, por un momento
+    mascara: '--.-'
+    frase: 会議は一(時)からです。
+    traduccion: La reunión empieza a la una en punto.
+  - palabra: 一時間
+    lectura: いちじかん
+    tipo_lectura: 'on'
+    significado: Una hora
+    mascara: '--.-.--'
+    frase: 駅まで一(時)間もかかりました。
+    traduccion: Tardé hasta una hora en llegar a la estación.
+  - palabra: 三時
+    lectura: さんじ
+    tipo_lectura: 'on'
+    significado: Las tres, tres en punto
+    mascara: '--.-'
+    frase: 三(時)に駅で会いましょう。
+    traduccion: Nos vemos en la estación a las tres.
+  - palabra: 日時
+    lectura: にちじ
+    tipo_lectura: 'on'
+    significado: Fecha y hora
+    mascara: '--.-'
+    frase: 出発の日(時)を教えてください。
+    traduccion: Dígame la fecha y la hora de la salida.
+  - palabra: 時半
+    lectura: じはん
+    tipo_lectura: 'on'
+    significado: Y media, media hora
+    mascara: '-.--'
+    frase: 私は毎日六(時)半に起きます。
+    traduccion: Me levanto a las seis y media todos los días.
+  - palabra: 時折
+    lectura: ときおり
+    tipo_lectura: kun
+    significado: De vez en cuando
+    mascara: '--.--'
+    frase: (時)折、公園を散歩します。
+    traduccion: De vez en cuando paseo por el parque.
+  - palabra: 時機
+    lectura: じき
+    tipo_lectura: 'on'
+    significado: Momento oportuno
+    mascara: '-.-'
+    frase: 今は話す(時)機ではありません。
+    traduccion: Ahora no es el momento de hablar.
+  - palabra: 時計
+    lectura: とけい
+    tipo_lectura: kun
+    significado: Reloj
+    mascara: '-.--'
+    frase: 机の上に(時)計があります。
+    traduccion: Sobre la mesa hay un reloj.
+  - palabra: 時間
+    lectura: じかん
+    tipo_lectura: 'on'
+    significado: Tiempo, horas
+    mascara: '-.--'
+    frase: 今、(時)間がありません。
+    traduccion: Ahora no tengo tiempo.
+  - palabra: 潮時
+    lectura: しおどき
+    tipo_lectura: kun
+    significado: Momento oportuno
+    mascara: '--.--'
+    frase: 今は話す潮(時)ではありません。
+    traduccion: Ahora no es el momento oportuno para hablarlo.
+  - palabra: 目覚まし時計
+    lectura: めざましどけい
+    tipo_lectura: kun
+    significado: Despertador
+    mascara: '-.-.-.-.-.--'
+    frase: 目覚まし(時)計を六時にセットしました。
+    traduccion: He puesto el despertador a las seis.
+  - palabra: 砂時計
+    lectura: すなどけい
+    tipo_lectura: kun
+    significado: Reloj de arena
+    mascara: '--.-.--'
+    frase: 砂(時)計で三分を測りました。
+    traduccion: Medí tres minutos con el reloj de arena.
+  - palabra: 買い時
+    lectura: かいどき
+    tipo_lectura: kun
+    significado: Buen momento para comprar
+    mascara: '-.-.--'
+    frase: 今は車の買い(時)です。
+    traduccion: Ahora es buen momento para comprar un coche.

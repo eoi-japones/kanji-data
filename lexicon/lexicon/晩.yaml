@@ -1,0 +1,30 @@
+id: 晩
+palabras:
+  - palabra: 一晩
+    lectura: ひとばん
+    tipo_lectura: 'on'
+    significado: Una noche
+    mascara: '--.--'
+    frase: 一(晩)考えさせてください。
+    traduccion: Déjame pensarlo esta noche.
+  - palabra: 今晩
+    lectura: こんばん
+    tipo_lectura: 'on'
+    significado: Esta noche
+    mascara: '--.--'
+    frase: 今(晩)は家で休みます。
+    traduccion: Esta noche descanso en casa.
+  - palabra: 昨晩
+    lectura: さくばん
+    tipo_lectura: 'on'
+    significado: Anoche
+    mascara: '--.--'
+    frase: 昨(晩)は全然眠れませんでした。
+    traduccion: Anoche no pude dormir en absoluto.
+  - palabra: 毎晩
+    lectura: まいばん
+    tipo_lectura: 'on'
+    significado: Todas las noches
+    mascara: '--.--'
+    frase: 毎(晩)十一時に寝ます。
+    traduccion: Me acuesto a las once todas las noches.

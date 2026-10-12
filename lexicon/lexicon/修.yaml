@@ -1,0 +1,23 @@
+id: 修
+palabras:
+  - palabra: 修める
+    lectura: おさめる
+    tipo_lectura: kun
+    significado: Completar (estudios), cultivar
+    mascara: '--.-.-'
+    frase: 彼は大学で学問を(修)めました。
+    traduccion: Él completó sus estudios en la universidad.
+  - palabra: 修正
+    lectura: しゅうせい
+    tipo_lectura: 'on'
+    significado: Corrección, enmienda
+    mascara: '---.--'
+    frase: 発表の内容を(修)正しました。
+    traduccion: Corregí el contenido del anuncio.
+  - palabra: 修行
+    lectura: しゅぎょう
+    tipo_lectura: 'on'
+    significado: Austeridad, disciplina
+    mascara: '--.---'
+    frase: 僧侶は山で(修)行をしました。
+    traduccion: El monje hizo austeridades en la montaña.

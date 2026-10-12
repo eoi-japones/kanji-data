@@ -1,0 +1,16 @@
+id: 叔
+palabras:
+  - palabra: 叔母
+    lectura: おば
+    tipo_lectura: kun
+    significado: Tía
+    mascara: '--.'
+    frase: (叔)母がケーキを焼きました。
+    traduccion: Mi tía horneó un bizcocho.
+  - palabra: 叔父
+    lectura: おじ
+    tipo_lectura: kun
+    significado: Tío
+    mascara: '--.'
+    frase: (叔)父は北海道に住んでいます。
+    traduccion: Mi tío vive en Hokkaido.

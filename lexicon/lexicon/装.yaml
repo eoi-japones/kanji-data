@@ -1,0 +1,44 @@
+id: 装
+palabras:
+  - palabra: 正装
+    lectura: せいそう
+    tipo_lectura: 'on'
+    significado: Vestimenta formal
+    mascara: '--.--'
+    frase: パーティーは正(装)で臨んでください。
+    traduccion: Acuda a la fiesta con traje formal.
+  - palabra: 舗装
+    lectura: ほそう
+    tipo_lectura: 'on'
+    significado: Asfaltado, pavimentado
+    mascara: '-.--'
+    frase: 前の道路が舗(装)されました。
+    traduccion: Han asfaltado la carretera de delante.
+  - palabra: 衣装
+    lectura: いしょう
+    tipo_lectura: 'on'
+    significado: Traje, atuendo
+    mascara: '-.---'
+    frase: 役者の衣(装)はとても華やかです。
+    traduccion: El traje del actor es muy vistoso.
+  - palabra: 装い
+    lectura: よそおい
+    tipo_lectura: kun
+    significado: Estilo, atuendo
+    mascara: '---.-'
+    frase: 彼女の(装)いはさっぱりしています。
+    traduccion: Su estilo de vestir es sencillo.
+  - palabra: 装う
+    lectura: よそおう
+    tipo_lectura: kun
+    significado: Afectar, aparentar
+    mascara: '---.-'
+    frase: 彼は親切を(装)っています。
+    traduccion: Él finge ser amable.
+  - palabra: 装飾
+    lectura: そうしょく
+    tipo_lectura: 'on'
+    significado: Decoración, adorno
+    mascara: '--.---'
+    frase: 部屋の(装)飾は華やかでした。
+    traduccion: La decoración de la habitación era vistosa.

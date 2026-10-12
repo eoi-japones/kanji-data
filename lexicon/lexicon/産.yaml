@@ -1,0 +1,30 @@
+id: 産
+palabras:
+  - palabra: お土産
+    lectura: おみやげ
+    tipo_lectura: kun
+    significado: Recuerdo, obsequio de un viaje
+    mascara: '-.---.'
+    frase: 旅行からお土(産)を持ってきました。
+    traduccion: He traído un recuerdo del viaje.
+  - palabra: お産
+    lectura: おさん
+    tipo_lectura: 'on'
+    significado: Parto
+    mascara: '-.--'
+    frase: 彼女は順調なお(産)でした。
+    traduccion: Su parto fue normal.
+  - palabra: 国産
+    lectura: こくさん
+    tipo_lectura: 'on'
+    significado: Fabricado en el país
+    mascara: '--.--'
+    frase: この車は国(産)です。
+    traduccion: Este coche es japonés.
+  - palabra: 土産
+    lectura: みやげ
+    tipo_lectura: kun
+    significado: Recuerdo, regalo de viaje
+    mascara: '---.'
+    frase: 旅行からお土(産)を持ってきました。
+    traduccion: Traje recuerdos del viaje.

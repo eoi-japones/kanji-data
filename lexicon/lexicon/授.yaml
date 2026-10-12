@@ -1,0 +1,16 @@
+id: 授
+palabras:
+  - palabra: 授ける
+    lectura: さずける
+    tipo_lectura: kun
+    significado: Conceder, otorgar
+    mascara: '--.-.-'
+    frase: 社長が優秀な社員に賞を(授)けました。
+    traduccion: El director otorgó un premio al empleado destacado.
+  - palabra: 教授
+    lectura: きょうじゅ
+    tipo_lectura: 'on'
+    significado: Profesor (de universidad)
+    mascara: '---.--'
+    frase: 彼は大学の歴史の教(授)です。
+    traduccion: Él es profesor de historia en la universidad.

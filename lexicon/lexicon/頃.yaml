@@ -1,0 +1,23 @@
+id: 頃
+palabras:
+  - palabra: 今頃
+    lectura: いまごろ
+    tipo_lectura: kun
+    significado: A estas horas
+    mascara: '--.--'
+    frase: 今(頃)、彼は駅に着いたでしょう。
+    traduccion: A estas horas ya habrá llegado a la estación.
+  - palabra: 小さい頃
+    lectura: ちいさいころ
+    tipo_lectura: kun
+    significado: Cuando era pequeño
+    mascara: '--.-.-.--'
+    frase: 小さい(頃)は京都に住んでいました。
+    traduccion: De pequeño vivía en Kioto.
+  - palabra: 近頃
+    lectura: ちかごろ
+    tipo_lectura: kun
+    significado: Últimamente
+    mascara: '--.--'
+    frase: 近(頃)は暑い日が続いています。
+    traduccion: Últimamente siguen los días de calor.

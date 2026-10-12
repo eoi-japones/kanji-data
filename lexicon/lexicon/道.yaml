@@ -1,0 +1,72 @@
+id: 道
+palabras:
+  - palabra: 参道
+    lectura: さんどう
+    tipo_lectura: 'on'
+    significado: Camino del santuario
+    mascara: '--.--'
+    frase: 参(道)の両側に店が並びます。
+    traduccion: A ambos lados del camino del santuario se alinean tiendas.
+  - palabra: 坂道
+    lectura: さかみち
+    tipo_lectura: kun
+    significado: Camino en cuesta
+    mascara: '--.--'
+    frase: 坂(道)を自転車で下りました。
+    traduccion: Bajé la cuesta en bicicleta.
+  - palabra: 山道
+    lectura: やまみち
+    tipo_lectura: kun
+    significado: Camino de montaña
+    mascara: '--.--'
+    frase: 山(道)は雨の後で歩きにくいです。
+    traduccion: El camino de montaña es difícil de andar después de la lluvia.
+  - palabra: 林道
+    lectura: りんどう
+    tipo_lectura: 'on'
+    significado: Camino forestal
+    mascara: '--.--'
+    frase: 林(道)を自転車で走りました。
+    traduccion: Recorrí en bicicleta el camino forestal.
+  - palabra: 歩道
+    lectura: ほどう
+    tipo_lectura: 'on'
+    significado: Acera
+    mascara: '-.--'
+    frase: 歩(道)を自転車で走ってはいけません。
+    traduccion: No se debe circular en bicicleta por la acera.
+  - palabra: 茶道
+    lectura: さどう
+    tipo_lectura: 'on'
+    significado: Ceremonia del té
+    mascara: '-.--'
+    frase: 姉は茶(道)を習っています。
+    traduccion: Mi hermana estudia la ceremonia del té.
+  - palabra: 裏道
+    lectura: うらみち
+    tipo_lectura: kun
+    significado: Calle de atrás, atajo
+    mascara: '--.--'
+    frase: 道が混むから裏(道)で行きます。
+    traduccion: Como va lleno, voy por la calle de atrás.
+  - palabra: 道
+    lectura: みち
+    tipo_lectura: kun
+    significado: Camino
+    mascara: '--'
+    frase: 学校までの(道)は暗いです。
+    traduccion: El camino hasta la escuela está oscuro.
+  - palabra: 鉄道
+    lectura: てつどう
+    tipo_lectura: 'on'
+    significado: Ferrocarril
+    mascara: '--.--'
+    frase: 父は鉄(道)会社で働いています。
+    traduccion: Mi padre trabaja en una compañía de ferrocarriles.
+  - palabra: 孝道
+    lectura: こうどう
+    tipo_lectura: 'on'
+    significado: Deber filial
+    mascara: '--.--'
+    frase: 昔は孝(道)が重んじられました。
+    traduccion: Antes se valoraba mucho el deber filial.

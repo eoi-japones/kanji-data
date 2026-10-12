@@ -1,0 +1,30 @@
+id: 約
+palabras:
+  - palabra: 制約
+    lectura: せいやく
+    tipo_lectura: 'on'
+    significado: Restricción, limitación
+    mascara: '--.--'
+    frase: 予算には多くの制(約)があります。
+    traduccion: El presupuesto tiene muchas restricciones.
+  - palabra: 約
+    lectura: やく
+    tipo_lectura: 'on'
+    significado: Aproximadamente
+    mascara: '--'
+    frase: ここから駅まで(約)一キロです。
+    traduccion: De aquí a la estación hay un kilómetro más o menos.
+  - palabra: 規約
+    lectura: きやく
+    tipo_lectura: 'on'
+    significado: Normas, condiciones
+    mascara: '-.--'
+    frase: サービスの規(約)を読みました。
+    traduccion: Leí las normas del servicio.
+  - palabra: 約数
+    lectura: やくすう
+    tipo_lectura: 'on'
+    significado: Divisor
+    mascara: '--.--'
+    frase: 十二の(約)数はいくつですか。
+    traduccion: ¿Cuántos divisores tiene doce?

@@ -1,0 +1,16 @@
+id: 父
+palabras:
+  - palabra: 叔父
+    lectura: おじ
+    tipo_lectura: kun
+    significado: Tío
+    mascara: '--.'
+    frase: 叔(父)は北海道に住んでいます。
+    traduccion: Mi tío vive en Hokkaido.
+  - palabra: 神父
+    lectura: しんぷ
+    tipo_lectura: 'on'
+    significado: Sacerdote
+    mascara: '--.-'
+    frase: 神(父)さんが教会で説教しました。
+    traduccion: El sacerdote dio un sermón en la iglesia.

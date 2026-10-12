@@ -1,0 +1,30 @@
+id: 昼
+palabras:
+  - palabra: お昼
+    lectura: おひる
+    tipo_lectura: kun
+    significado: Almuerzo, mediodía
+    mascara: '-.--'
+    frase: お(昼)は何を食べますか。
+    traduccion: ¿Qué comes para el almuerzo?
+  - palabra: 昼
+    lectura: ひる
+    tipo_lectura: kun
+    significado: Mediodía, día
+    mascara: '--'
+    frase: 今日は(昼)に買い物へ行きます。
+    traduccion: Hoy voy a comprar a mediodía.
+  - palabra: 昼間
+    lectura: ひるま
+    tipo_lectura: kun
+    significado: De día, durante el día
+    mascara: '--.-'
+    frase: (昼)間は家にいません。
+    traduccion: De día no estoy en casa.
+  - palabra: 昼食
+    lectura: ちゅうしょく
+    tipo_lectura: 'on'
+    significado: Almuerzo
+    mascara: '---.---'
+    frase: 友達と(昼)食を食べました。
+    traduccion: Comí el almuerzo con un amigo.

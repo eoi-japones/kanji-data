@@ -1,0 +1,23 @@
+id: 走
+palabras:
+  - palabra: 走り
+    lectura: はしり
+    tipo_lectura: kun
+    significado: Carrera, forma de correr
+    mascara: '--.-'
+    frase: 彼の(走)りはとても速いです。
+    traduccion: Él corre muy rápido.
+  - palabra: 走り書き
+    lectura: はしりがき
+    tipo_lectura: kun
+    significado: Apunte rápido, garabato
+    mascara: '--.-.-.-'
+    frase: メモを(走)り書きしました。
+    traduccion: Hice una nota rápida a mano.
+  - palabra: 走る
+    lectura: はしる
+    tipo_lectura: kun
+    significado: Correr
+    mascara: '--.-'
+    frase: ここで(走)らないでください。
+    traduccion: No corra aquí.

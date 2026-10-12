@@ -1,0 +1,30 @@
+id: 折
+palabras:
+  - palabra: 右折
+    lectura: うせつ
+    tipo_lectura: 'on'
+    significado: Giro a la derecha
+    mascara: '-.--'
+    frase: この交差点は右(折)が禁止されています。
+    traduccion: En este cruce está prohibido girar a la derecha.
+  - palabra: 折
+    lectura: おり
+    tipo_lectura: kun
+    significado: Oportunidad, ocasión
+    mascara: '--'
+    frase: (折)を見てお電話します。
+    traduccion: Le llamaré cuando pueda.
+  - palabra: 折り返す
+    lectura: おりかえす
+    tipo_lectura: kun
+    significado: Doblar, devolver
+    mascara: '-.-.--.-'
+    frase: ページの角を(折)り返してください。
+    traduccion: Doble la esquina de la página.
+  - palabra: 時折
+    lectura: ときおり
+    tipo_lectura: kun
+    significado: De vez en cuando
+    mascara: '--.--'
+    frase: 時(折)、公園を散歩します。
+    traduccion: De vez en cuando paseo por el parque.

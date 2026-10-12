@@ -1,0 +1,23 @@
+id: 副
+palabras:
+  - palabra: 副
+    lectura: ふく
+    tipo_lectura: 'on'
+    significado: Sub-, vice-
+    mascara: '--'
+    frase: 彼は会社の(副)社長です。
+    traduccion: Él es el vicepresidente de la empresa.
+  - palabra: 副手
+    lectura: ふくしゅ
+    tipo_lectura: 'on'
+    significado: Asistente, ayudante
+    mascara: '--.--'
+    frase: 彼は主役の(副)手を務めます。
+    traduccion: Él hace de asistente del protagonista.
+  - palabra: 副食
+    lectura: ふくしょく
+    tipo_lectura: 'on'
+    significado: Guarnición
+    mascara: '--.---'
+    frase: 学校給食には(副)食が付きます。
+    traduccion: El almuerzo escolar lleva guarnición.

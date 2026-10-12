@@ -1,0 +1,23 @@
+id: 帝
+palabras:
+  - palabra: 帝
+    lectura: みかど
+    tipo_lectura: kun
+    significado: Emperador (de Japón)
+    mascara: '---'
+    frase: (帝)は宮殿に住んでいました。
+    traduccion: El emperador vivía en el palacio.
+  - palabra: 帝国
+    lectura: ていこく
+    tipo_lectura: 'on'
+    significado: Imperio
+    mascara: '--.--'
+    frase: 昔、大きな(帝)国がありました。
+    traduccion: Antaño hubo un gran imperio.
+  - palabra: 皇帝
+    lectura: こうてい
+    tipo_lectura: 'on'
+    significado: Emperador
+    mascara: '--.--'
+    frase: この映画は皇(帝)の一生を描いています。
+    traduccion: Esta película retrata la vida de un emperador.

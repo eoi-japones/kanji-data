@@ -1,0 +1,51 @@
+id: 高
+palabras:
+  - palabra: 円高
+    lectura: えんだか
+    tipo_lectura: kun
+    significado: Yen fuerte, apreciación del yen
+    mascara: '--.--'
+    frase: 最近、円(高)が進んでいます。
+    traduccion: Últimamente el yen se está fortaleciendo.
+  - palabra: 名高い
+    lectura: なだかい
+    tipo_lectura: kun
+    significado: Célebre, de renombre
+    mascara: '-.--.-'
+    frase: 彼は世界で名(高)い学者です。
+    traduccion: Él es un erudito de renombre mundial.
+  - palabra: 標高
+    lectura: ひょうこう
+    tipo_lectura: 'on'
+    significado: Altitud
+    mascara: '---.--'
+    frase: この山の標(高)は三千メートルです。
+    traduccion: La altitud de esta montaña es de tres mil metros.
+  - palabra: 高い
+    lectura: たかい
+    tipo_lectura: kun
+    significado: Alto, caro
+    mascara: '--.-'
+    frase: この山はとても(高)いです。
+    traduccion: Esta montaña es muy alta.
+  - palabra: 高さ
+    lectura: たかさ
+    tipo_lectura: kun
+    significado: Altura
+    mascara: '--.-'
+    frase: ビルの(高)さを測りました。
+    traduccion: Medí la altura del edificio.
+  - palabra: 高山
+    lectura: こうざん
+    tipo_lectura: 'on'
+    significado: Montaña alta
+    mascara: '--.--'
+    frase: (高)山の空気はとても涼しいです。
+    traduccion: El aire de la montaña alta es muy fresco.
+  - palabra: 高校
+    lectura: こうこう
+    tipo_lectura: 'on'
+    significado: Instituto, bachillerato
+    mascara: '--.--'
+    frase: 彼は(高)校でサッカーをしました。
+    traduccion: Él jugó al fútbol en el instituto.

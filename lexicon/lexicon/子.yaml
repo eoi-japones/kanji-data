@@ -1,0 +1,121 @@
+id: 子
+palabras:
+  - palabra: 一人っ子
+    lectura: ひとりっこ
+    tipo_lectura: kun
+    significado: Hijo único
+    mascara: '--.-.-.-'
+    frase: 私は一人っ(子)です。
+    traduccion: Soy hijo único.
+  - palabra: 冊子
+    lectura: さっし
+    tipo_lectura: kun
+    significado: Librito, folleto encuadernado
+    mascara: '---.'
+    frase: 博物館で冊(子)を買いました。
+    traduccion: Compré un librito en el museo.
+  - palabra: 分子
+    lectura: ぶんし
+    tipo_lectura: 'on'
+    significado: Molécula
+    mascara: '--.-'
+    frase: 分(子)はとても小さいです。
+    traduccion: Las moléculas son muy pequeñas.
+  - palabra: 判子
+    lectura: はんこ
+    tipo_lectura: kun
+    significado: Sello personal (hanko)
+    mascara: '--.-'
+    frase: 書類に判(子)を押してください。
+    traduccion: Ponga el sello en el documento.
+  - palabra: 女の子
+    lectura: おんなのこ
+    tipo_lectura: kun
+    significado: Niña, hija
+    mascara: '---.-.-'
+    frase: 公園で女の(子)と遊びました。
+    traduccion: Jugué con una niña en el parque.
+  - palabra: 女子
+    lectura: じょし
+    tipo_lectura: 'on'
+    significado: Mujer, chica
+    mascara: '--.-'
+    frase: このクラスには女(子)が十人います。
+    traduccion: En esta clase hay diez chicas.
+  - palabra: 子牛
+    lectura: こうし
+    tipo_lectura: kun
+    significado: Ternero
+    mascara: '-.--'
+    frase: (子)牛が牧場で遊んでいます。
+    traduccion: Un ternero está jugando en la granja.
+  - palabra: 子犬
+    lectura: こいぬ
+    tipo_lectura: kun
+    significado: Cachorro
+    mascara: '-.--'
+    frase: (子)犬が三匹います。
+    traduccion: Hay tres cachorros.
+  - palabra: 子羊
+    lectura: こひつじ
+    tipo_lectura: kun
+    significado: Cordero
+    mascara: '-.---'
+    frase: (子)羊が草を食べています。
+    traduccion: Un cordero está comiendo hierba.
+  - palabra: 小冊子
+    lectura: しょうさっし
+    tipo_lectura: kun
+    significado: Folleto, librito
+    mascara: '------..'
+    frase: 入口で小冊(子)を配りました。
+    traduccion: Repartimos folletos en la entrada.
+  - palabra: 男の子
+    lectura: おとこのこ
+    tipo_lectura: kun
+    significado: Niño, hijo varón
+    mascara: '---.-.-'
+    frase: 男の(子)が公園で遊んでいます。
+    traduccion: Un niño está jugando en el parque.
+  - palabra: 硝子
+    lectura: ガラス
+    tipo_lectura: kun
+    significado: Cristal, vidrio
+    mascara: '---.'
+    frase: 台風で硝(子)の窓が割れました。
+    traduccion: Con el tifón se rompieron las ventanas de cristal.
+  - palabra: 里子
+    lectura: さとご
+    tipo_lectura: kun
+    significado: Hijo de acogida
+    mascara: '--.-'
+    frase: 彼は里(子)として育ちました。
+    traduccion: Él fue criado como hijo de acogida.
+  - palabra: 電子
+    lectura: でんし
+    tipo_lectura: 'on'
+    significado: Electrónico, electrón
+    mascara: '--.-'
+    frase: 電(子)レンジで料理を温めます。
+    traduccion: Caliento la comida en el microondas.
+  - palabra: 子午線
+    lectura: しごせん
+    tipo_lectura: 'on'
+    significado: Meridiano
+    mascara: '-.-.--'
+    frase: 地球には(子)午線が引かれています。
+    traduccion: Sobre la Tierra se trazan meridianos.
+  - palabra: 犬の子
+    lectura: いんのこ
+    tipo_lectura: kun
+    significado: Cachorro
+    mascara: '--.-.-'
+    frase: 犬の(子)はとてもかわいいです。
+    traduccion: Los cachorros son muy monos.
+  - palabra: 硝子体
+    lectura: しょうしたい
+    tipo_lectura: 'on'
+    significado: Humor vítreo
+    mascara: '---.-.--'
+    frase: 硝(子)体は目の内部にあります。
+    traduccion: El humor vítreo está dentro del ojo.

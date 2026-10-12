@@ -1,0 +1,23 @@
+id: 器
+palabras:
+  - palabra: 器
+    lectura: うつわ
+    tipo_lectura: kun
+    significado: Recipiente, vaso
+    mascara: '---'
+    frase: 料理をきれいな(器)に盛りました。
+    traduccion: Puse la comida en un recipiente bonito.
+  - palabra: 電器
+    lectura: でんき
+    tipo_lectura: 'on'
+    significado: Aparatos eléctricos
+    mascara: '--.-'
+    frase: 駅前の電(器)屋でラジオを買いました。
+    traduccion: Compré una radio en la tienda de electrodomésticos de la estación.
+  - palabra: 食器
+    lectura: しょっき
+    tipo_lectura: kun
+    significado: Trastos de cocina
+    mascara: '----.'
+    frase: 食(器)を洗って棚に収めました。
+    traduccion: Lavé los trastos y los guardé en el armario.

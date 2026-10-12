@@ -1,0 +1,23 @@
+id: 製
+palabras:
+  - palabra: 日本製
+    lectura: にほんせい
+    tipo_lectura: kun
+    significado: De fabricación japonesa
+    mascara: '-----..'
+    frase: この時計は日本(製)です。
+    traduccion: Este reloj es de fabricación japonesa.
+  - palabra: 木製
+    lectura: もくせい
+    tipo_lectura: 'on'
+    significado: De madera
+    mascara: '--.--'
+    frase: 机は木(製)です。
+    traduccion: El escritorio es de madera.
+  - palabra: 特製
+    lectura: とくせい
+    tipo_lectura: 'on'
+    significado: Especial, de la casa
+    mascara: '--.--'
+    frase: 今日は特(製)のカレーを作りました。
+    traduccion: Hoy he hecho un curry especial de la casa.

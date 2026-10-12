@@ -1,0 +1,16 @@
+id: 乙
+palabras:
+  - palabra: 乙
+    lectura: おつ
+    tipo_lectura: 'on'
+    significado: Segundo, nota B
+    mascara: '--'
+    frase: 試験の結果は(乙)でした。
+    traduccion: El resultado del examen fue un sobresaliente B.
+  - palabra: 乙女心
+    lectura: おとめごころ
+    tipo_lectura: kun
+    significado: Corazón de una joven
+    mascara: '--.-.---'
+    frase: (乙)女心は複雑です。
+    traduccion: El corazón de una joven es complejo.

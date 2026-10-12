@@ -1,0 +1,30 @@
+id: 夢
+palabras:
+  - palabra: 夢
+    lectura: ゆめ
+    tipo_lectura: kun
+    significado: Sueño
+    mascara: '--'
+    frase: 昨夜は変な(夢)を見ました。
+    traduccion: Anoche soñé algo raro.
+  - palabra: 夢にも
+    lectura: ゆめにも
+    tipo_lectura: kun
+    significado: Ni en sueños
+    mascara: '--.-.-'
+    frase: そんなことは(夢)にも思いませんでした。
+    traduccion: Ni en sueños se me habría ocurrido.
+  - palabra: 夢中
+    lectura: むちゅう
+    tipo_lectura: 'on'
+    significado: Absorto, enganchado
+    mascara: '-.---'
+    frase: 彼はゲームに(夢)中です。
+    traduccion: Él está enganchado a los videojuegos.
+  - palabra: 夢想
+    lectura: むそう
+    tipo_lectura: 'on'
+    significado: Ensueño, fantasía
+    mascara: '-.--'
+    frase: 彼は壮大な(夢)想を抱いています。
+    traduccion: Él alberga grandes ensueños.

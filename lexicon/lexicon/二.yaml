@@ -1,0 +1,23 @@
+id: 二
+palabras:
+  - palabra: 二人
+    lectura: ふたり
+    tipo_lectura: kun
+    significado: Dos personas
+    mascara: '--.-'
+    frase: (二)人で駅まで歩きました。
+    traduccion: Caminamos hasta la estación los dos.
+  - palabra: 二輪車
+    lectura: にりんしゃ
+    tipo_lectura: 'on'
+    significado: Vehículo de dos ruedas
+    mascara: '-.--.--'
+    frase: (二)輪車の事故が減りました。
+    traduccion: Han disminuido los accidentes de vehículos de dos ruedas.
+  - palabra: 十二
+    lectura: じゅうに
+    tipo_lectura: 'on'
+    significado: Doce
+    mascara: '---.-'
+    frase: 十(二)月に日本に来ました。
+    traduccion: Vine a Japón en diciembre.

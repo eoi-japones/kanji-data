@@ -1,0 +1,23 @@
+id: 紫
+palabras:
+  - palabra: 紫
+    lectura: むらさき
+    tipo_lectura: kun
+    significado: Morado, púrpura
+    mascara: '----'
+    frase: 庭に(紫)の花が咲いています。
+    traduccion: En el jardín florecen flores moradas.
+  - palabra: 紫外線
+    lectura: しがいせん
+    tipo_lectura: 'on'
+    significado: Rayos ultravioleta
+    mascara: '-.--.--'
+    frase: 日焼け止めは(紫)外線を防ぎます。
+    traduccion: La crema solar protege de los rayos ultravioleta.
+  - palabra: 紫色
+    lectura: むらさきいろ
+    tipo_lectura: kun
+    significado: Color morado
+    mascara: '----.--'
+    frase: (紫)色のカーテンを買いました。
+    traduccion: Compré unas cortinas moradas.

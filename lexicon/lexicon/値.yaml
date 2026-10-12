@@ -1,0 +1,16 @@
+id: 値
+palabras:
+  - palabra: 値上げ
+    lectura: ねあげ
+    tipo_lectura: kun
+    significado: Subida de precios
+    mascara: '-.-.-'
+    frase: 来月から(値)上げされます。
+    traduccion: El mes que viene suben los precios.
+  - palabra: 値打ち
+    lectura: ねうち
+    tipo_lectura: kun
+    significado: Valor, mérito
+    mascara: '-.-.-'
+    frase: この絵には高い(値)打ちがあります。
+    traduccion: Este cuadro tiene un valor alto.

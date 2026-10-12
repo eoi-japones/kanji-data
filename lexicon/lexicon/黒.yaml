@@ -1,0 +1,44 @@
+id: 黒
+palabras:
+  - palabra: 暗黒
+    lectura: あんこく
+    tipo_lectura: 'on'
+    significado: Oscuridad, tinieblas
+    mascara: '--.--'
+    frase: 停電で部屋は暗(黒)になりました。
+    traduccion: Con el apagón la habitación quedó a oscuras.
+  - palabra: 黒
+    lectura: くろ
+    tipo_lectura: kun
+    significado: Negro
+    mascara: '--'
+    frase: 鞄は(黒)を選んでください。
+    traduccion: Elija el color negro para la bolsa.
+  - palabra: 黒い
+    lectura: くろい
+    tipo_lectura: kun
+    significado: Negro
+    mascara: '--.-'
+    frase: 庭に(黒)い猫がいます。
+    traduccion: En el jardín hay un gato negro.
+  - palabra: 黒字
+    lectura: くろじ
+    tipo_lectura: kun
+    significado: Beneficio, superávit
+    mascara: '--.-'
+    frase: 今年の会社は(黒)字です。
+    traduccion: Este año la empresa va con beneficios.
+  - palabra: 黒潮
+    lectura: くろしお
+    tipo_lectura: kun
+    significado: Corriente Kuroshio
+    mascara: '--.--'
+    frase: (黒)潮は日本沿岸を流れます。
+    traduccion: La corriente Kuroshio discurre por la costa de Japón.
+  - palabra: 黒鉛
+    lectura: こくえん
+    tipo_lectura: 'on'
+    significado: Grafito
+    mascara: '--.--'
+    frase: 鉛筆の芯には(黒)鉛が使われます。
+    traduccion: En la mina del lápiz se usa grafito.

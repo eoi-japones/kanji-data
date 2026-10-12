@@ -1,0 +1,37 @@
+id: 九
+palabras:
+  - palabra: 九つ
+    lectura: ここのつ
+    tipo_lectura: kun
+    significado: Nueve; nueve años
+    mascara: '---.-'
+    frase: (九)つの質問に答えてください。
+    traduccion: Responda a nueve preguntas, por favor.
+  - palabra: 九九
+    lectura: くく
+    tipo_lectura: 'on'
+    significado: Tabla de multiplicar
+    mascara: '-.-'
+    frase: 弟は(九)九を暗唱できます。
+    traduccion: Mi hermano menor sabe recitar la tabla de multiplicar.
+  - palabra: 九州
+    lectura: きゅうしゅう
+    tipo_lectura: 'on'
+    significado: Kyushu
+    mascara: '---.---'
+    frase: 夏休みに(九)州へ旅行します。
+    traduccion: En vacaciones viajo a Kyushu.
+  - palabra: 十九
+    lectura: じゅうきゅう
+    tipo_lectura: 'on'
+    significado: Diecinueve
+    mascara: '---.---'
+    frase: 祖父は十(九)歳で日本に来ました。
+    traduccion: Mi abuelo vino a Japón con diecinueve años.
+  - palabra: 九分九厘
+    lectura: くぶくりん
+    tipo_lectura: 'on'
+    significado: Casi con certeza
+    mascara: '-.-.-.--'
+    frase: (九)分九厘の確率で成功します。
+    traduccion: Hay un 99% de probabilidad de éxito.

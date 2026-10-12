@@ -1,0 +1,23 @@
+id: 毎
+palabras:
+  - palabra: 毎日
+    lectura: まいにち
+    tipo_lectura: 'on'
+    significado: Todos los días
+    mascara: '--.--'
+    frase: (毎)日日本語を勉強します。
+    traduccion: Estudio japonés todos los días.
+  - palabra: 毎晩
+    lectura: まいばん
+    tipo_lectura: 'on'
+    significado: Todas las noches
+    mascara: '--.--'
+    frase: (毎)晩十一時に寝ます。
+    traduccion: Me acuesto a las once todas las noches.
+  - palabra: 毎月
+    lectura: まいつき
+    tipo_lectura: 'on'
+    significado: Todos los meses, cada mes
+    mascara: '--.--'
+    frase: (毎)月、家賃を払います。
+    traduccion: Pago el alquiler todos los meses.

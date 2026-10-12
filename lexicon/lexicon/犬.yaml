@@ -1,0 +1,23 @@
+id: 犬
+palabras:
+  - palabra: 子犬
+    lectura: こいぬ
+    tipo_lectura: kun
+    significado: Cachorro
+    mascara: '-.--'
+    frase: 子(犬)が三匹います。
+    traduccion: Hay tres cachorros.
+  - palabra: 犬
+    lectura: いぬ
+    tipo_lectura: kun
+    significado: Perro
+    mascara: '--'
+    frase: 公園で(犬)を散歩させました。
+    traduccion: Saqué a pasear al perro por el parque.
+  - palabra: 犬の子
+    lectura: いんのこ
+    tipo_lectura: kun
+    significado: Cachorro
+    mascara: '--.-.-'
+    frase: (犬)の子はとてもかわいいです。
+    traduccion: Los cachorros son muy monos.

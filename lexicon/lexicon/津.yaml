@@ -1,0 +1,23 @@
+id: 津
+palabras:
+  - palabra: 国津神
+    lectura: くにつかみ
+    tipo_lectura: kun
+    significado: Dioses de la tierra
+    mascara: '--.-.--'
+    frase: 国(津)神は地上を守ります。
+    traduccion: Los dioses de la tierra protegen el suelo.
+  - palabra: 天津神
+    lectura: あまつかみ
+    tipo_lectura: kun
+    significado: Dioses del cielo
+    mascara: '--.-.--'
+    frase: 天(津)神は高天原にいます。
+    traduccion: Los dioses del cielo habitan en Takamagahara.
+  - palabra: 津
+    lectura: つ
+    tipo_lectura: kun
+    significado: Puerto, Tsu
+    mascara: '-'
+    frase: 漁船が(津)に停まっています。
+    traduccion: Los barcos de pesca están atracados en el puerto.

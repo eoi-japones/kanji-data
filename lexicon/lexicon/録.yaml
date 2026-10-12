@@ -1,0 +1,23 @@
+id: 録
+palabras:
+  - palabra: 目録
+    lectura: もくろく
+    tipo_lectura: 'on'
+    significado: Catálogo, inventario
+    mascara: '--.--'
+    frase: 商品の目(録)を渡しました。
+    traduccion: Le entregué el catálogo de productos.
+  - palabra: 記録
+    lectura: きろく
+    tipo_lectura: 'on'
+    significado: Registro, constancia
+    mascara: '-.--'
+    frase: 会議の記(録)を残しました。
+    traduccion: Dejé constancia de la reunión.
+  - palabra: 録画
+    lectura: ろくが
+    tipo_lectura: 'on'
+    significado: Grabación (de vídeo)
+    mascara: '--.-'
+    frase: 番組を(録)画しておきました。
+    traduccion: Grabé el programa.

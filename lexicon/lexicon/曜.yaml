@@ -1,0 +1,51 @@
+id: 曜
+palabras:
+  - palabra: 土曜日
+    lectura: どようび
+    tipo_lectura: 'on'
+    significado: Sábado
+    mascara: '-.--.-'
+    frase: 土(曜)日は図書館へ行きます。
+    traduccion: Los sábados voy a la biblioteca.
+  - palabra: 曜日
+    lectura: ようび
+    tipo_lectura: 'on'
+    significado: Día de la semana
+    mascara: '--.-'
+    frase: 何(曜)日が好きですか。
+    traduccion: ¿Qué día de la semana te gusta?
+  - palabra: 月曜日
+    lectura: げつようび
+    tipo_lectura: 'on'
+    significado: Lunes
+    mascara: '--.--.-'
+    frase: 月(曜)日は学校に行きます。
+    traduccion: Los lunes voy a la escuela.
+  - palabra: 木曜日
+    lectura: もくようび
+    tipo_lectura: 'on'
+    significado: Jueves
+    mascara: '--.--.-'
+    frase: 木(曜)日に先生に会います。
+    traduccion: El jueves me veo con el profesor.
+  - palabra: 水曜日
+    lectura: すいようび
+    tipo_lectura: 'on'
+    significado: Miércoles
+    mascara: '--.--.-'
+    frase: 水(曜)日に試合があります。
+    traduccion: El miércoles hay un partido.
+  - palabra: 火曜日
+    lectura: かようび
+    tipo_lectura: 'on'
+    significado: Martes
+    mascara: '-.--.-'
+    frase: 火(曜)日は授業がありません。
+    traduccion: Los martes no tengo clase.
+  - palabra: 金曜日
+    lectura: きんようび
+    tipo_lectura: 'on'
+    significado: Viernes
+    mascara: '--.--.-'
+    frase: 金(曜)日は仕事が終わります。
+    traduccion: El viernes termina el trabajo.

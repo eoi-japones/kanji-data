@@ -1,0 +1,30 @@
+id: 紀
+palabras:
+  - palabra: 世紀
+    lectura: せいき
+    tipo_lectura: 'on'
+    significado: Siglo
+    mascara: '--.-'
+    frase: この建物は一世(紀)前に建てられました。
+    traduccion: Este edificio se construyó hace un siglo.
+  - palabra: 紀行
+    lectura: きこう
+    tipo_lectura: 'on'
+    significado: Diario de viaje
+    mascara: '-.--'
+    frase: 旅行の(紀)行をノートに書きました。
+    traduccion: Escribí el diario de viaje en el cuaderno.
+  - palabra: 一世紀
+    lectura: いっせいき
+    tipo_lectura: kun
+    significado: Un siglo
+    mascara: '-----..'
+    frase: 一世(紀)は百年です。
+    traduccion: Un siglo son cien años.
+  - palabra: 今世紀
+    lectura: こんせいき
+    tipo_lectura: 'on'
+    significado: Este siglo
+    mascara: '--.--.-'
+    frase: 今世(紀)の技術は驚くべきです。
+    traduccion: La tecnología de este siglo es asombrosa.

@@ -1,0 +1,23 @@
+id: 府
+palabras:
+  - palabra: 三府
+    lectura: さんぷ
+    tipo_lectura: 'on'
+    significado: Las tres ciudades prefecturales
+    mascara: '--.-'
+    frase: かつての三(府)は東京、京都、大阪です。
+    traduccion: Las tres ciudades prefecturales eran Tokio, Kioto y Osaka.
+  - palabra: 府下
+    lectura: ふか
+    tipo_lectura: 'on'
+    significado: Distrito metropolitano
+    mascara: '-.-'
+    frase: (府)下には多くの人口が住んでいます。
+    traduccion: En el distrito metropolitano viven muchos habitantes.
+  - palabra: 府中
+    lectura: ふちゅう
+    tipo_lectura: 'on'
+    significado: Fuchu (ciudad)
+    mascara: '-.---'
+    frase: (府)中には大きな公園があります。
+    traduccion: En Fuchu hay un parque grande.

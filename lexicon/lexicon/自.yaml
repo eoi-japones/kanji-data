@@ -1,0 +1,37 @@
+id: 自
+palabras:
+  - palabra: 自信
+    lectura: じしん
+    tipo_lectura: 'on'
+    significado: Confianza en uno mismo
+    mascara: '-.--'
+    frase: 面接では(自)信を持って話してください。
+    traduccion: En la entrevista hable con confianza.
+  - palabra: 自分で
+    lectura: じぶんで
+    tipo_lectura: 'on'
+    significado: Por uno mismo, yo mismo
+    mascara: '-.--.-'
+    frase: (自)分で朝ご飯を作りました。
+    traduccion: Preparé yo mismo el desayuno.
+  - palabra: 自己
+    lectura: じこ
+    tipo_lectura: 'on'
+    significado: Uno mismo, sí mismo
+    mascara: '-.-'
+    frase: 会議の最初に(自)己紹介をしました。
+    traduccion: Al principio de la reunión me presenté.
+  - palabra: 自習
+    lectura: じしゅう
+    tipo_lectura: 'on'
+    significado: Trabajo autónomo
+    mascara: '-.---'
+    frase: 放課後に教室で(自)習をしました。
+    traduccion: Hice trabajo autónomo en el aula después de clase.
+  - palabra: 自転車
+    lectura: じてんしゃ
+    tipo_lectura: 'on'
+    significado: Bicicleta
+    mascara: '-.--.--'
+    frase: 学校まで(自)転車で行きます。
+    traduccion: Voy al colegio en bicicleta.

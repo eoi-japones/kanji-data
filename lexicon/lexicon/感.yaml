@@ -1,0 +1,51 @@
+id: 感
+palabras:
+  - palabra: 五感
+    lectura: ごかん
+    tipo_lectura: 'on'
+    significado: Cinco sentidos
+    mascara: '-.--'
+    frase: 五(感)を使って料理を味わいます。
+    traduccion: Pruebo el plato usando los cinco sentidos.
+  - palabra: 感じ
+    lectura: かんじ
+    tipo_lectura: 'on'
+    significado: Sensación, impresión
+    mascara: '--.-'
+    frase: あの店はいい(感)じでした。
+    traduccion: Esa tienda me dejó buena sensación.
+  - palabra: 感じる
+    lectura: かんじる
+    tipo_lectura: 'on'
+    significado: Sentir, percibir
+    mascara: '--.-.-'
+    frase: 早く秋の気配を(感)じます。
+    traduccion: Pronto sentiré el aroma del otoño.
+  - palabra: 感心
+    lectura: かんしん
+    tipo_lectura: 'on'
+    significado: Admiración
+    mascara: '--.--'
+    frase: 彼女の努力に(感)心しました。
+    traduccion: Me admiré de su esfuerzo.
+  - palabra: 感想
+    lectura: かんそう
+    tipo_lectura: 'on'
+    significado: Impresión, opinión
+    mascara: '--.--'
+    frase: 映画の(感)想を教えてください。
+    traduccion: Cuéntame qué te pareció la película.
+  - palabra: 感覚
+    lectura: かんかく
+    tipo_lectura: 'on'
+    significado: Sensación, intuición
+    mascara: '--.--'
+    frase: 彼は音楽の(感)覚がいいです。
+    traduccion: Él tiene buen oído para la música.
+  - palabra: 感銘
+    lectura: かんめい
+    tipo_lectura: 'on'
+    significado: Profunda impresión
+    mascara: '--.--'
+    frase: 映画に深く(感)銘を受けました。
+    traduccion: La película me dejó una profunda impresión.

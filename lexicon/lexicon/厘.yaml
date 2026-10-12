@@ -1,0 +1,16 @@
+id: 厘
+palabras:
+  - palabra: 厘
+    lectura: りん
+    tipo_lectura: 'on'
+    significado: Milésima parte
+    mascara: '--'
+    frase: 手数料は一(厘)もかかりません。
+    traduccion: No se cobra ni un céntimo de comisión.
+  - palabra: 九分九厘
+    lectura: くぶくりん
+    tipo_lectura: 'on'
+    significado: Casi con certeza
+    mascara: '-.-.-.--'
+    frase: 九分九(厘)の確率で成功します。
+    traduccion: Hay un 99% de probabilidad de éxito.

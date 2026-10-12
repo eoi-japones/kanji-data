@@ -1,0 +1,65 @@
+id: 話
+palabras:
+  - palabra: お話
+    lectura: おはなし
+    tipo_lectura: kun
+    significado: Cuento, charla
+    mascara: '-.---'
+    frase: 面白いお(話)を聞きました。
+    traduccion: Escuché un cuento interesante.
+  - palabra: 世話
+    lectura: せわ
+    tipo_lectura: 'on'
+    significado: Cuidado, asistencia
+    mascara: '-.-'
+    frase: 旅行中、大変お世(話)になりました。
+    traduccion: Durante el viaje me ayudaron muchísimo.
+  - palabra: 手話
+    lectura: しゅわ
+    tipo_lectura: 'on'
+    significado: Lengua de señas
+    mascara: '--.-'
+    frase: 手(話)で自分の名前を紹介しました。
+    traduccion: Me presenté usando lengua de señas.
+  - palabra: 昔話
+    lectura: むかしばなし
+    tipo_lectura: kun
+    significado: Cuento de antaño, leyenda
+    mascara: '---.---'
+    frase: 祖母が昔(話)をしてくれました。
+    traduccion: Mi abuela me contó un cuento de antaño.
+  - palabra: 神話
+    lectura: しんわ
+    tipo_lectura: 'on'
+    significado: Mito, mitología
+    mascara: '--.-'
+    frase: 日本には古い神(話)がたくさんあります。
+    traduccion: Japón tiene muchos mitos antiguos.
+  - palabra: 話
+    lectura: はなし
+    tipo_lectura: kun
+    significado: Conversación, cuento
+    mascara: '---'
+    frase: 先生と長い(話)をしました。
+    traduccion: Tuve una conversación larga con el profesor.
+  - palabra: 話し言葉
+    lectura: はなしことば
+    tipo_lectura: kun
+    significado: Lenguaje hablado
+    mascara: '--.-.--.-'
+    frase: (話)し言葉は書き言葉と違います。
+    traduccion: El lenguaje hablado es distinto del lenguaje escrito.
+  - palabra: 電話
+    lectura: でんわ
+    tipo_lectura: 'on'
+    significado: Teléfono, llamada
+    mascara: '--.-'
+    frase: 友達に電(話)をかけました。
+    traduccion: Llamé por teléfono a un amigo.
+  - palabra: 電話機
+    lectura: でんわき
+    tipo_lectura: 'on'
+    significado: Aparato de teléfono
+    mascara: '--.-.-'
+    frase: 電(話)機の調子が悪いです。
+    traduccion: El teléfono va mal.

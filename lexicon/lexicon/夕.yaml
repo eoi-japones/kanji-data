@@ -1,0 +1,44 @@
+id: 夕
+palabras:
+  - palabra: 七夕
+    lectura: たなばた
+    tipo_lectura: kun
+    significado: Tanabata, fiesta de las estrellas
+    mascara: '----.'
+    frase: 七(夕)に短冊へ願いを書きます。
+    traduccion: En el Tanabata se escriben los deseos en tiras de papel.
+  - palabra: 夕
+    lectura: ゆう
+    tipo_lectura: kun
+    significado: Atardecer, ocaso
+    mascara: '--'
+    frase: 朝(夕)の風が涼しくなりました。
+    traduccion: Las brisas de mañana y tarde se han puesto frescas.
+  - palabra: 夕日
+    lectura: ゆうひ
+    tipo_lectura: kun
+    significado: Sol poniente
+    mascara: '--.-'
+    frase: 海の上で(夕)日が沈みます。
+    traduccion: El sol se pone sobre el mar.
+  - palabra: 夕焼け
+    lectura: ゆうやけ
+    tipo_lectura: kun
+    significado: Cielo encendido del atardecer
+    mascara: '--.-.-'
+    frase: 子供たちは(夕)焼けを見ています。
+    traduccion: Los niños están mirando el cielo encendido del atardecer.
+  - palabra: 夕霧
+    lectura: ゆうぎり
+    tipo_lectura: kun
+    significado: Niebla del atardecer
+    mascara: '--.--'
+    frase: 川の上で(夕)霧が漂っています。
+    traduccion: Sobre el río flota la niebla del atardecer.
+  - palabra: 夕食
+    lectura: ゆうしょく
+    tipo_lectura: kun
+    significado: Cena
+    mascara: '--.---'
+    frase: 今日の(夕)食はカレーです。
+    traduccion: La cena de hoy es curry.

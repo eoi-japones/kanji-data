@@ -1,0 +1,30 @@
+id: 飾
+palabras:
+  - palabra: 装飾
+    lectura: そうしょく
+    tipo_lectura: 'on'
+    significado: Decoración, adorno
+    mascara: '--.---'
+    frase: 部屋の装(飾)は華やかでした。
+    traduccion: La decoración de la habitación era vistosa.
+  - palabra: 飾り
+    lectura: かざり
+    tipo_lectura: kun
+    significado: Adorno, guirnalda
+    mascara: '--.-'
+    frase: 窓に(飾)りを掛けました。
+    traduccion: Colgué una decoración en la ventana.
+  - palabra: 飾る
+    lectura: かざる
+    tipo_lectura: kun
+    significado: Adornar, decorar
+    mascara: '--.-'
+    frase: 店先を花で(飾)りました。
+    traduccion: Adorné la fachada de la tienda con flores.
+  - palabra: 首飾り
+    lectura: くびかざり
+    tipo_lectura: kun
+    significado: Collar, joya de cuello
+    mascara: '--.--.-'
+    frase: 母に首(飾)りを贈りました。
+    traduccion: Regalé un collar a mi madre.

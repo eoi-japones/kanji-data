@@ -1,0 +1,23 @@
+id: 庭
+palabras:
+  - palabra: 中庭
+    lectura: なかにわ
+    tipo_lectura: kun
+    significado: Patio interior
+    mascara: '--.--'
+    frase: ホテルには美しい中(庭)があります。
+    traduccion: El hotel tiene un patio interior bonito.
+  - palabra: 家庭
+    lectura: かてい
+    tipo_lectura: 'on'
+    significado: Hogar, familia
+    mascara: '-.--'
+    frase: 彼は家(庭)を大切にしています。
+    traduccion: Él cuida mucho de su hogar.
+  - palabra: 庭
+    lectura: にわ
+    tipo_lectura: kun
+    significado: Jardín
+    mascara: '--'
+    frase: (庭)で花を植えました。
+    traduccion: Planté flores en el jardín.

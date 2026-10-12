@@ -1,0 +1,16 @@
+id: 沸
+palabras:
+  - palabra: 沸かす
+    lectura: わかす
+    tipo_lectura: kun
+    significado: Calentar (agua), hervir
+    mascara: '-.-.-'
+    frase: 湯を(沸)かしてください。
+    traduccion: Hierva agua, por favor.
+  - palabra: 沸く
+    lectura: わく
+    tipo_lectura: kun
+    significado: Hervir (agua)
+    mascara: '-.-'
+    frase: お湯が(沸)きました。
+    traduccion: El agua ya ha hervido.

@@ -1,0 +1,16 @@
+id: 午
+palabras:
+  - palabra: 正午
+    lectura: しょうご
+    tipo_lectura: 'on'
+    significado: Mediodía
+    mascara: '---.-'
+    frase: 正(午)に駅前で会いましょう。
+    traduccion: Quedemos a mediodía delante de la estación.
+  - palabra: 子午線
+    lectura: しごせん
+    tipo_lectura: 'on'
+    significado: Meridiano
+    mascara: '-.-.--'
+    frase: 地球には子(午)線が引かれています。
+    traduccion: Sobre la Tierra se trazan meridianos.

@@ -1,0 +1,23 @@
+id: 税
+palabras:
+  - palabra: 無税
+    lectura: むぜい
+    tipo_lectura: 'on'
+    significado: Libre de impuestos
+    mascara: '-.--'
+    frase: 空港で無(税)の酒を買いました。
+    traduccion: Compré alcohol libre de impuestos en el aeropuerto.
+  - palabra: 税制
+    lectura: ぜいせい
+    tipo_lectura: 'on'
+    significado: Sistema fiscal
+    mascara: '--.--'
+    frase: (税)制の改革が決まりました。
+    traduccion: Se decidió la reforma del sistema fiscal.
+  - palabra: 税金
+    lectura: ぜいきん
+    tipo_lectura: 'on'
+    significado: Impuesto
+    mascara: '--.--'
+    frase: この国の(税)金は高いです。
+    traduccion: Los impuestos de este país son caros.

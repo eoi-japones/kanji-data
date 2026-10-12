@@ -1,0 +1,23 @@
+id: 牛
+palabras:
+  - palabra: 子牛
+    lectura: こうし
+    tipo_lectura: kun
+    significado: Ternero
+    mascara: '-.--'
+    frase: 子(牛)が牧場で遊んでいます。
+    traduccion: Un ternero está jugando en la granja.
+  - palabra: 水牛
+    lectura: すいぎゅう
+    tipo_lectura: 'on'
+    significado: Búfalo de agua
+    mascara: '--.---'
+    frase: 水(牛)が田んぼで働いています。
+    traduccion: El búfalo de agua trabaja en el arrozal.
+  - palabra: 牛
+    lectura: うし
+    tipo_lectura: kun
+    significado: Vaca, buey
+    mascara: '--'
+    frase: 牧場で(牛)を見ました。
+    traduccion: Ví vacas en la granja.

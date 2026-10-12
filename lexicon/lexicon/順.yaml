@@ -1,0 +1,16 @@
+id: 順
+palabras:
+  - palabra: 手順
+    lectura: てじゅん
+    tipo_lectura: 'on'
+    significado: Procedimiento, paso a paso
+    mascara: '-.---'
+    frase: 作業の手(順)を丁寧に説明しました。
+    traduccion: Expliqué con detalle el procedimiento del trabajo.
+  - palabra: 順
+    lectura: じゅん
+    tipo_lectura: 'on'
+    significado: Orden, secuencia
+    mascara: '---'
+    frase: 名前を(順)に読み上げました。
+    traduccion: Leí los nombres en orden.

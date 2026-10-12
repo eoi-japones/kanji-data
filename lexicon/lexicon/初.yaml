@@ -1,0 +1,51 @@
+id: 初
+palabras:
+  - palabra: 初めて
+    lectura: はじめて
+    tipo_lectura: kun
+    significado: Por primera vez
+    mascara: '--.-.-'
+    frase: (初)めて日本へ行きました。
+    traduccion: Fui a Japón por primera vez.
+  - palabra: 初めまして
+    lectura: はじめまして
+    tipo_lectura: kun
+    significado: Encantado de conocerte
+    mascara: '--.-.-.-.-'
+    frase: (初)めまして、よろしくお願いします。
+    traduccion: Mucho gusto, encantado de conocerte.
+  - palabra: 初心
+    lectura: しょしん
+    tipo_lectura: 'on'
+    significado: Intención original, principiante
+    mascara: '--.--'
+    frase: (初)心に返って練習しました。
+    traduccion: Volví a los básicos y practiqué.
+  - palabra: 初老
+    lectura: しょろう
+    tipo_lectura: 'on'
+    significado: Cincuenta años, cercanía a la vejez
+    mascara: '--.--'
+    frase: 叔父は今年で(初)老を迎えます。
+    traduccion: Mi tío cumple cincuenta años este año.
+  - palabra: 初耳
+    lectura: はつみみ
+    tipo_lectura: kun
+    significado: Novedad, algo que se oye por primera vez
+    mascara: '--.--'
+    frase: その話は私にとって(初)耳です。
+    traduccion: Esa noticia es novedad para mí.
+  - palabra: 初釜
+    lectura: はつがま
+    tipo_lectura: kun
+    significado: Primera ceremonia del té del año
+    mascara: '--.--'
+    frase: (初)釜の茶会に出ました。
+    traduccion: Asistí a la primera ceremonia del té del año.
+  - palabra: 初項
+    lectura: しょこう
+    tipo_lectura: 'on'
+    significado: Primer término
+    mascara: '--.--'
+    frase: 数列の(初)項を求めます。
+    traduccion: Buscamos el primer término de la sucesión.

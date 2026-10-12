@@ -1,6 +1,6 @@
 **Paquete:** `lexicon/lexicon/`  
-**Versión:** 1.0  
-**Última actualización:** 2026-10-03  
+**Versión:** 1.1  
+**Última actualización:** 2026-10-11  
 
 **Single Source of Truth del paquete lexicon/lexicon/**
 
@@ -69,6 +69,7 @@ La misma comprobación 7 se aplica a los `ejemplos` de los grupos yomi, que usan
 - `lectura` es la lectura de la palabra entera, en kana; `tipo_lectura` declara si es `on` o `kun`.
 - `frase` va en japonés y `traduccion` en castellano. Ambas son obligatorias.
 - El orden del array `palabras` es el **orden de presentación** al estudiante y lo fija la frecuencia de uso (ADR 0007); no se reordena a mano.
+- Una forma escrita aparece **una sola vez** en el lexicon, aunque el diccionario la traiga con más de una lectura: se conserva la de uso más frecuente (ADR 0009).
 
 ## 8. Skills Obligatorias del Paquete
 

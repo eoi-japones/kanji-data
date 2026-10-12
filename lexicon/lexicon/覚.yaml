@@ -1,0 +1,30 @@
+id: 覚
+palabras:
+  - palabra: 感覚
+    lectura: かんかく
+    tipo_lectura: 'on'
+    significado: Sensación, intuición
+    mascara: '--.--'
+    frase: 彼は音楽の感(覚)がいいです。
+    traduccion: Él tiene buen oído para la música.
+  - palabra: 目覚まし時計
+    lectura: めざましどけい
+    tipo_lectura: kun
+    significado: Despertador
+    mascara: '-.-.-.-.-.--'
+    frase: 目(覚)まし時計を六時にセットしました。
+    traduccion: He puesto el despertador a las seis.
+  - palabra: 目覚める
+    lectura: めざめる
+    tipo_lectura: kun
+    significado: Despertarse
+    mascara: '-.-.-.-'
+    frase: 毎日六時に目(覚)めます。
+    traduccion: Despierto a las seis todos los días.
+  - palabra: 覚える
+    lectura: おぼえる
+    tipo_lectura: kun
+    significado: Memorizar, recordar
+    mascara: '--.-.-'
+    frase: この言葉を(覚)えてください。
+    traduccion: Memorice esta palabra.

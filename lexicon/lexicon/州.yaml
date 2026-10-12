@@ -1,0 +1,23 @@
+id: 州
+palabras:
+  - palabra: 九州
+    lectura: きゅうしゅう
+    tipo_lectura: 'on'
+    significado: Kyushu
+    mascara: '---.---'
+    frase: 夏休みに九(州)へ旅行します。
+    traduccion: En vacaciones viajo a Kyushu.
+  - palabra: 中州
+    lectura: なかす
+    tipo_lectura: 'on'
+    significado: Isla de un río
+    mascara: '--.-'
+    frase: 川の中(州)で休みました。
+    traduccion: Descansé en una isla del río.
+  - palabra: 本州
+    lectura: ほんしゅう
+    tipo_lectura: 'on'
+    significado: Honshu
+    mascara: '--.---'
+    frase: 本(州)と九州は橋でつながっています。
+    traduccion: Honshu y Kyushu están unidos por un puente.

@@ -1,0 +1,30 @@
+id: 続
+palabras:
+  - palabra: 手続き
+    lectura: てつづき
+    tipo_lectura: kun
+    significado: Trámite, procedimiento
+    mascara: '-.--.-'
+    frase: 入館の手(続)きをしてください。
+    traduccion: Haga el trámite de acceso.
+  - palabra: 永続
+    lectura: えいぞく
+    tipo_lectura: 'on'
+    significado: Permanencia, perduración
+    mascara: '--.--'
+    frase: 平和が永(続)することを願います。
+    traduccion: Deseo que la paz perdure.
+  - palabra: 続く
+    lectura: つづく
+    tipo_lectura: kun
+    significado: Continuar, durar
+    mascara: '--.-'
+    frase: 雨は三日間(続)きました。
+    traduccion: La lluvia duró tres días.
+  - palabra: 続ける
+    lectura: つづける
+    tipo_lectura: kun
+    significado: Continuar (algo), seguir
+    mascara: '--.-.-'
+    frase: 毎日練習を(続)けてください。
+    traduccion: Siga practicando todos los días.

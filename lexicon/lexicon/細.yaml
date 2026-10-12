@@ -1,0 +1,23 @@
+id: 細
+palabras:
+  - palabra: 明細
+    lectura: めいさい
+    tipo_lectura: 'on'
+    significado: Desglose, detalle
+    mascara: '--.--'
+    frase: 領収書の明(細)を見せてください。
+    traduccion: Muéstreme el desglose del recibo.
+  - palabra: 細い
+    lectura: ほそい
+    tipo_lectura: kun
+    significado: Delgado, fino
+    mascara: '--.-'
+    frase: 紙に(細)い線を引いてください。
+    traduccion: Dibuje una línea fina en el papel.
+  - palabra: 細かい
+    lectura: こまかい
+    tipo_lectura: kun
+    significado: Pequeño, detallado
+    mascara: '--.-.-'
+    frase: (細)かいお金がありません。
+    traduccion: No tengo cambio.

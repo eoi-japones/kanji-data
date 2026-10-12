@@ -1,0 +1,23 @@
+id: 未
+palabras:
+  - palabra: 未払い
+    lectura: みはらい
+    tipo_lectura: 'on'
+    significado: Impagado, sin pagar
+    mascara: '-.--.-'
+    frase: 今月の家賃が(未)払いです。
+    traduccion: El alquiler de este mes está sin pagar.
+  - palabra: 未明
+    lectura: みめい
+    tipo_lectura: 'on'
+    significado: Madrugada, primeras horas del día
+    mascara: '-.--'
+    frase: (未)明に家を出ました。
+    traduccion: Salí de casa en plena madrugada.
+  - palabra: 未来
+    lectura: みらい
+    tipo_lectura: 'on'
+    significado: Futuro
+    mascara: '-.--'
+    frase: (未)来の夢について話しました。
+    traduccion: Hablamos sobre los sueños del futuro.

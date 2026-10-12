@@ -1,0 +1,44 @@
+id: 記
+palabras:
+  - palabra: 伝記
+    lectura: でんき
+    tipo_lectura: 'on'
+    significado: Biografía
+    mascara: '--.-'
+    frase: 偉人の伝(記)を読みました。
+    traduccion: Leí la biografía de un gran hombre.
+  - palabra: 日記
+    lectura: にっき
+    tipo_lectura: kun
+    significado: Diario
+    mascara: '---.'
+    frase: 毎晩日(記)を書きます。
+    traduccion: Escribo en el diario todas las noches.
+  - palabra: 暗記
+    lectura: あんき
+    tipo_lectura: 'on'
+    significado: Memorización
+    mascara: '--.-'
+    frase: 試験のために漢字を暗(記)しました。
+    traduccion: Memoricé los kanji para el examen.
+  - palabra: 記す
+    lectura: しるす
+    tipo_lectura: kun
+    significado: Anotar, registrar
+    mascara: '--.-'
+    frase: 大事なことをノートに(記)しました。
+    traduccion: Anoté lo importante en el cuaderno.
+  - palabra: 記録
+    lectura: きろく
+    tipo_lectura: 'on'
+    significado: Registro, constancia
+    mascara: '-.--'
+    frase: 会議の(記)録を残しました。
+    traduccion: Dejé constancia de la reunión.
+  - palabra: 銘記
+    lectura: めいき
+    tipo_lectura: 'on'
+    significado: Grabar en la memoria
+    mascara: '--.-'
+    frase: 忠告を心に銘(記)します。
+    traduccion: Grabaré el consejo en el corazón.

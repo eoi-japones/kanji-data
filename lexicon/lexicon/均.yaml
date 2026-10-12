@@ -1,0 +1,23 @@
+id: 均
+palabras:
+  - palabra: １００均
+    lectura: ひゃっきん
+    tipo_lectura: kun
+    significado: Tienda de cien yenes
+    mascara: '-----...'
+    frase: １００(均)で文房具を買いました。
+    traduccion: Compré papelería en la tienda de cien yenes.
+  - palabra: 均一
+    lectura: きんいつ
+    tipo_lectura: 'on'
+    significado: Uniforme, igual
+    mascara: '--.--'
+    frase: すべて(均)一の価格です。
+    traduccion: Todo tiene el mismo precio.
+  - palabra: 地を均す
+    lectura: じをならす
+    tipo_lectura: kun
+    significado: Allanar el terreno
+    mascara: '-.-.--.-'
+    frase: 工事で地を(均)しました。
+    traduccion: En la obra allanaron el terreno.

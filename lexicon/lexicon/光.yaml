@@ -1,0 +1,37 @@
+id: 光
+palabras:
+  - palabra: 光
+    lectura: ひかり
+    tipo_lectura: kun
+    significado: Luz, claridad
+    mascara: '---'
+    frase: 部屋を明るい(光)で満たしました。
+    traduccion: Llené la habitación de luz brillante.
+  - palabra: 光る
+    lectura: ひかる
+    tipo_lectura: kun
+    significado: Brillar
+    mascara: '--.-'
+    frase: 彼の目が(光)っています。
+    traduccion: Sus ojos brillan.
+  - palabra: 光線
+    lectura: こうせん
+    tipo_lectura: 'on'
+    significado: Rayo de luz
+    mascara: '--.--'
+    frase: (光)線が強くて目が眩みました。
+    traduccion: La luz era tan fuerte que me deslumbró.
+  - palabra: 日光
+    lectura: にっこう
+    tipo_lectura: kun
+    significado: Luz del sol
+    mascara: '----.'
+    frase: 日(光)で洗濯物を干します。
+    traduccion: Seco la ropa al sol.
+  - palabra: 蛍光灯
+    lectura: けいこうとう
+    tipo_lectura: 'on'
+    significado: Lámpara fluorescente
+    mascara: '--.--.--'
+    frase: 事務所は蛍(光)灯で明るいです。
+    traduccion: La oficina está iluminada con fluorescentes.

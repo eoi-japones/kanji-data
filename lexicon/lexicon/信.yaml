@@ -1,0 +1,23 @@
+id: 信
+palabras:
+  - palabra: 信じる
+    lectura: しんじる
+    tipo_lectura: 'on'
+    significado: Creer, tener fe
+    mascara: '--.-.-'
+    frase: 彼の話は(信)じられません。
+    traduccion: No puedo creer su historia.
+  - palabra: 自信
+    lectura: じしん
+    tipo_lectura: 'on'
+    significado: Confianza en uno mismo
+    mascara: '-.--'
+    frase: 面接では自(信)を持って話してください。
+    traduccion: En la entrevista hable con confianza.
+  - palabra: 返信
+    lectura: へんしん
+    tipo_lectura: 'on'
+    significado: Respuesta (correo)
+    mascara: '--.--'
+    frase: 昨日のメールに返(信)しました。
+    traduccion: Respondí al correo de ayer.

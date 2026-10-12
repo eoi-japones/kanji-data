@@ -1,0 +1,23 @@
+id: 釜
+palabras:
+  - palabra: 釜
+    lectura: かま
+    tipo_lectura: kun
+    significado: Olla, caldera
+    mascara: '--'
+    frase: (釜)でお米を炊きました。
+    traduccion: Cociné el arroz en la olla.
+  - palabra: 初釜
+    lectura: はつがま
+    tipo_lectura: kun
+    significado: Primera ceremonia del té del año
+    mascara: '--.--'
+    frase: 初(釜)の茶会に出ました。
+    traduccion: Asistí a la primera ceremonia del té del año.
+  - palabra: 茶釜
+    lectura: ちゃがま
+    tipo_lectura: kun
+    significado: Tetera (de la ceremonia)
+    mascara: '--.--'
+    frase: 茶(釜)が湯気を上げています。
+    traduccion: La tetera echa vapor.

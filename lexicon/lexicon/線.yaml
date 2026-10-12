@@ -1,0 +1,44 @@
+id: 線
+palabras:
+  - palabra: 光線
+    lectura: こうせん
+    tipo_lectura: 'on'
+    significado: Rayo de luz
+    mascara: '--.--'
+    frase: 光(線)が強くて目が眩みました。
+    traduccion: La luz era tan fuerte que me deslumbró.
+  - palabra: 全線
+    lectura: ぜんせん
+    tipo_lectura: 'on'
+    significado: Todas las líneas
+    mascara: '--.--'
+    frase: 電車は全(線)で止まっています。
+    traduccion: Los trenes están parados en todas las líneas.
+  - palabra: 無線
+    lectura: むせん
+    tipo_lectura: 'on'
+    significado: Inalámbrico
+    mascara: '-.--'
+    frase: このヘッドフォンは無(線)です。
+    traduccion: Estos auriculares son inalámbricos.
+  - palabra: 紫外線
+    lectura: しがいせん
+    tipo_lectura: 'on'
+    significado: Rayos ultravioleta
+    mascara: '-.--.--'
+    frase: 日焼け止めは紫外(線)を防ぎます。
+    traduccion: La crema solar protege de los rayos ultravioleta.
+  - palabra: 電線
+    lectura: でんせん
+    tipo_lectura: 'on'
+    significado: Cable eléctrico
+    mascara: '--.--'
+    frase: 台風で電(線)が切れました。
+    traduccion: El tifón cortó los cables eléctricos.
+  - palabra: 子午線
+    lectura: しごせん
+    tipo_lectura: 'on'
+    significado: Meridiano
+    mascara: '-.-.--'
+    frase: 地球には子午(線)が引かれています。
+    traduccion: Sobre la Tierra se trazan meridianos.

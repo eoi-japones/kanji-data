@@ -1,0 +1,16 @@
+id: 貝
+palabras:
+  - palabra: 貝
+    lectura: かい
+    tipo_lectura: kun
+    significado: Concha, marisco
+    mascara: '--'
+    frase: 浜で(貝)を拾いました。
+    traduccion: Recogí conchas en la playa.
+  - palabra: 小貝
+    lectura: こがい
+    tipo_lectura: kun
+    significado: Conchita
+    mascara: '-.--'
+    frase: 砂浜に小(貝)がたくさんあります。
+    traduccion: En la arena hay muchas conchitas.

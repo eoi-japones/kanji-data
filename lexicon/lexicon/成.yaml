@@ -1,0 +1,44 @@
+id: 成
+palabras:
+  - palabra: 成り行き
+    lectura: なりゆき
+    tipo_lectura: kun
+    significado: Curso de los acontecimientos
+    mascara: '-.-.-.-'
+    frase: 今後は(成)り行きに任せます。
+    traduccion: De ahora en adelante lo dejo en manos de lo que surja.
+  - palabra: 成る
+    lectura: なる
+    tipo_lectura: kun
+    significado: Llegar a ser, hacerse
+    mascara: '-.-'
+    frase: 彼は医者に(成)るつもりです。
+    traduccion: Piensa hacerse médico.
+  - palabra: 成人
+    lectura: せいじん
+    tipo_lectura: 'on'
+    significado: Mayoría de edad, adulto
+    mascara: '--.--'
+    frase: 今年で(成)人になりました。
+    traduccion: Este año he alcanzado la mayoría de edad.
+  - palabra: 既成
+    lectura: きせい
+    tipo_lectura: 'on'
+    significado: Hecho, de confección
+    mascara: '-.--'
+    frase: 既(成)の服を買いました。
+    traduccion: Compré ropa de confección.
+  - palabra: 組成
+    lectura: そせい
+    tipo_lectura: 'on'
+    significado: Formación, composición
+    mascara: '-.--'
+    frase: 内閣の組(成)が発表されました。
+    traduccion: Se anunció la formación del gabinete.
+  - palabra: 結成
+    lectura: けっせい
+    tipo_lectura: kun
+    significado: Formación (de un grupo)
+    mascara: '----.'
+    frase: 彼らはバンドを結(成)しました。
+    traduccion: Ellos formaron una banda.

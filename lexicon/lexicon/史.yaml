@@ -1,0 +1,23 @@
+id: 史
+palabras:
+  - palabra: 史上
+    lectura: しじょう
+    tipo_lectura: 'on'
+    significado: En la historia
+    mascara: '-.---'
+    frase: これは(史)上最高の記録です。
+    traduccion: Este es el récord más alto de la historia.
+  - palabra: 史家
+    lectura: しか
+    tipo_lectura: 'on'
+    significado: Historiador
+    mascara: '-.-'
+    frase: 彼は優れた(史)家です。
+    traduccion: Él es un historiador destacado.
+  - palabra: 日本史
+    lectura: にほんし
+    tipo_lectura: kun
+    significado: Historia de Japón
+    mascara: '----..'
+    frase: 大学で日本(史)を勉強しました。
+    traduccion: Estudié historia de Japón en la universidad.

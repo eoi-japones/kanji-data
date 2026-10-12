@@ -106,6 +106,7 @@ Un lexicon es la **familia de palabras que comparten un kanji concreto**. Su pro
 **Límites:**
 - Un lexicon pertenece al **carácter**, no a la clave: si un kanji está estudiado bajo dos claves distintas, las dos comparten un solo lexicon.
 - Un solo componente no puede tener lexicon, porque no existe en la lengua japonesa.
+- Una forma escrita ocupa **una sola fila**: si el diccionario la trae con varias lecturas, se conserva la de uso más frecuente y la forma no se repite dentro del lexicon.
 - Un lexicon convive con los `ejemplos` de los grupos yomi sin referenciarse mutuamente.
 
 

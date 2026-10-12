@@ -1,0 +1,16 @@
+id: 霜
+palabras:
+  - palabra: 霜
+    lectura: しも
+    tipo_lectura: kun
+    significado: Escarcha
+    mascara: '--'
+    frase: 朝の芝生に(霜)が降りました。
+    traduccion: Cayó escarcha en el césped por la mañana.
+  - palabra: 霜焼け
+    lectura: しもやけ
+    tipo_lectura: kun
+    significado: Quemadura por frío, sabañones
+    mascara: '--.-.-'
+    frase: 寒さで指が(霜)焼けになりました。
+    traduccion: Por el frío se me helaron los dedos.

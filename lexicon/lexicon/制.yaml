@@ -1,0 +1,30 @@
+id: 制
+palabras:
+  - palabra: 体制
+    lectura: たいせい
+    tipo_lectura: 'on'
+    significado: Sistema, estructura
+    mascara: '--.--'
+    frase: 新しい体(制)が始まりました。
+    traduccion: Ha comenzado un nuevo sistema.
+  - palabra: 制約
+    lectura: せいやく
+    tipo_lectura: 'on'
+    significado: Restricción, limitación
+    mascara: '--.--'
+    frase: 予算には多くの(制)約があります。
+    traduccion: El presupuesto tiene muchas restricciones.
+  - palabra: 税制
+    lectura: ぜいせい
+    tipo_lectura: 'on'
+    significado: Sistema fiscal
+    mascara: '--.--'
+    frase: 税(制)の改革が決まりました。
+    traduccion: Se decidió la reforma del sistema fiscal.
+  - palabra: 規制
+    lectura: きせい
+    tipo_lectura: 'on'
+    significado: Regulación, normativa
+    mascara: '-.--'
+    frase: 交通の規(制)が厳しくなりました。
+    traduccion: Se han endurecido las normas de tráfico.

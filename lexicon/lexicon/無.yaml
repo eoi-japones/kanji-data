@@ -1,0 +1,44 @@
+id: 無
+palabras:
+  - palabra: 無口
+    lectura: むくち
+    tipo_lectura: 'on'
+    significado: Callado, taciturno
+    mascara: '-.--'
+    frase: 兄は(無)口ですが、とても優しい人です。
+    traduccion: Mi hermano mayor es callado, pero es una persona muy amable.
+  - palabra: 無数
+    lectura: むすう
+    tipo_lectura: 'on'
+    significado: Innumerables
+    mascara: '-.--'
+    frase: 空に(無)数の星があります。
+    traduccion: En el cielo hay innumerables estrellas.
+  - palabra: 無税
+    lectura: むぜい
+    tipo_lectura: 'on'
+    significado: Libre de impuestos
+    mascara: '-.--'
+    frase: 空港で(無)税の酒を買いました。
+    traduccion: Compré alcohol libre de impuestos en el aeropuerto.
+  - palabra: 無線
+    lectura: むせん
+    tipo_lectura: 'on'
+    significado: Inalámbrico
+    mascara: '-.--'
+    frase: このヘッドフォンは(無)線です。
+    traduccion: Estos auriculares son inalámbricos.
+  - palabra: 無茶
+    lectura: むちゃ
+    tipo_lectura: 'on'
+    significado: Descabellado, absurdo
+    mascara: '-.--'
+    frase: (無)茶なお願いはできません。
+    traduccion: No puedo aceptar peticiones descabelladas.
+  - palabra: 無言
+    lectura: むごん
+    tipo_lectura: 'on'
+    significado: Silencio, sin hablar
+    mascara: '-.--'
+    frase: 会議は(無)言のまま終わりました。
+    traduccion: La reunión terminó en silencio.

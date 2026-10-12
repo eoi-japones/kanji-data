@@ -1,0 +1,23 @@
+id: 祭
+palabras:
+  - palabra: 祭り
+    lectura: まつり
+    tipo_lectura: kun
+    significado: Fiesta, matsuri
+    mascara: '--.-'
+    frase: 町の(祭)りはとても賑やかでした。
+    traduccion: La fiesta del pueblo fue muy animada.
+  - palabra: 祭る
+    lectura: まつる
+    tipo_lectura: kun
+    significado: Venerar, oficiar culto
+    mascara: '--.-'
+    frase: 神社では神を(祭)ります。
+    traduccion: En el santuario se venera a los dioses.
+  - palabra: 祭日
+    lectura: さいじつ
+    tipo_lectura: 'on'
+    significado: Día festivo
+    mascara: '--.--'
+    frase: 次の(祭)日はいつですか。
+    traduccion: ¿Cuándo es el próximo día festivo?

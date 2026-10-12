@@ -1,0 +1,79 @@
+id: 上
+palabras:
+  - palabra: 上り坂
+    lectura: のぼりざか
+    tipo_lectura: kun
+    significado: Cuesta de subida, auge
+    mascara: '--.-.--'
+    frase: 人生は(上)り坂です。
+    traduccion: La vida es una cuesta de subida.
+  - palabra: 上下
+    lectura: うえした
+    tipo_lectura: kun
+    significado: Parte de arriba y de abajo
+    mascara: '--.--'
+    frase: 服の(上)下を一式買いました。
+    traduccion: Me compré el conjunto de ropa, arriba y abajo.
+  - palabra: 上手
+    lectura: じょうず
+    tipo_lectura: 'on'
+    significado: Hábil, experto
+    mascara: '---.-'
+    frase: 彼女は料理が(上)手です。
+    traduccion: Ella cocina muy bien.
+  - palabra: 上映
+    lectura: じょうえい
+    tipo_lectura: 'on'
+    significado: Estreno, proyección
+    mascara: '---.--'
+    frase: この映画は来月(上)映されます。
+    traduccion: Esta película se estrena el mes que viene.
+  - palabra: 値上げ
+    lectura: ねあげ
+    tipo_lectura: kun
+    significado: Subida de precios
+    mascara: '-.-.-'
+    frase: 来月から値(上)げされます。
+    traduccion: El mes que viene suben los precios.
+  - palabra: 史上
+    lectura: しじょう
+    tipo_lectura: 'on'
+    significado: En la historia
+    mascara: '-.---'
+    frase: これは史(上)最高の記録です。
+    traduccion: Este es el récord más alto de la historia.
+  - palabra: 売り上げ
+    lectura: うりあげ
+    tipo_lectura: kun
+    significado: Vendido, ingresos
+    mascara: '-.-.-.-'
+    frase: 今月の売り(上)げが増えました。
+    traduccion: Las ventas de este mes han aumentado.
+  - palabra: 炎上
+    lectura: えんじょう
+    tipo_lectura: 'on'
+    significado: Cráter de críticas, hacerse viral
+    mascara: '--.---'
+    frase: その発言はネットで炎(上)しました。
+    traduccion: Aquel comentario desató una tormenta de críticas en internet.
+  - palabra: 目上
+    lectura: めうえ
+    tipo_lectura: kun
+    significado: Superior, jefe
+    mascara: '-.--'
+    frase: 会社で目(上)の人に挨拶しました。
+    traduccion: Saludé a mi superior en la empresa.
+  - palabra: 尻上がり
+    lectura: しりあがり
+    tipo_lectura: kun
+    significado: En ascenso, en auge
+    mascara: '--.-.-.-'
+    frase: 彼の出世は尻(上)がりです。
+    traduccion: Su carrera profesional va en ascenso.
+  - palabra: 江上
+    lectura: こうじょう
+    tipo_lectura: 'on'
+    significado: Orilla de un río ancho
+    mascara: '--.---'
+    frase: 江(上)の風は涼しいです。
+    traduccion: La brisa en la orilla del río es fresca.

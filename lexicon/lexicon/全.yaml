@@ -1,0 +1,16 @@
+id: 全
+palabras:
+  - palabra: 全国
+    lectura: ぜんこく
+    tipo_lectura: 'on'
+    significado: Todo el país
+    mascara: '--.--'
+    frase: (全)国から人が集まりました。
+    traduccion: Se juntó gente de todo el país.
+  - palabra: 全線
+    lectura: ぜんせん
+    tipo_lectura: 'on'
+    significado: Todas las líneas
+    mascara: '--.--'
+    frase: 電車は(全)線で止まっています。
+    traduccion: Los trenes están parados en todas las líneas.

@@ -1,0 +1,16 @@
+id: 羊
+palabras:
+  - palabra: 子羊
+    lectura: こひつじ
+    tipo_lectura: kun
+    significado: Cordero
+    mascara: '-.---'
+    frase: 子(羊)が草を食べています。
+    traduccion: Un cordero está comiendo hierba.
+  - palabra: 羊
+    lectura: ひつじ
+    tipo_lectura: kun
+    significado: Oveja
+    mascara: '---'
+    frase: 牧場に(羊)がたくさんいます。
+    traduccion: En la granja hay muchas ovejas.

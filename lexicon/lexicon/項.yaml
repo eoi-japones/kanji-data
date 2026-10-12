@@ -1,0 +1,23 @@
+id: 項
+palabras:
+  - palabra: 項目
+    lectura: こうもく
+    tipo_lectura: 'on'
+    significado: Apartado, categoría
+    mascara: '--.--'
+    frase: 申込書の(項)目を埋めてください。
+    traduccion: Rellene los apartados del formulario.
+  - palabra: 初項
+    lectura: しょこう
+    tipo_lectura: 'on'
+    significado: Primer término
+    mascara: '--.--'
+    frase: 数列の初(項)を求めます。
+    traduccion: Buscamos el primer término de la sucesión.
+  - palabra: 別項
+    lectura: べっこう
+    tipo_lectura: kun
+    significado: Apartado aparte
+    mascara: '----.'
+    frase: その件は別(項)に記載しました。
+    traduccion: Ese asunto lo he anotado en un apartado aparte.

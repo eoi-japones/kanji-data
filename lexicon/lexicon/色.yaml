@@ -1,0 +1,65 @@
+id: 色
+palabras:
+  - palabra: 水色
+    lectura: みずいろ
+    tipo_lectura: kun
+    significado: Azul agua
+    mascara: '--.--'
+    frase: 水(色)のシャツを買いました。
+    traduccion: Me compré una camisa azul agua.
+  - palabra: 灰色
+    lectura: はいいろ
+    tipo_lectura: kun
+    significado: Gris
+    mascara: '--.--'
+    frase: 灰(色)のスーツを着ています。
+    traduccion: Lleva un traje gris.
+  - palabra: 紫色
+    lectura: むらさきいろ
+    tipo_lectura: kun
+    significado: Color morado
+    mascara: '----.--'
+    frase: 紫(色)のカーテンを買いました。
+    traduccion: Compré unas cortinas moradas.
+  - palabra: 緑色
+    lectura: みどりいろ
+    tipo_lectura: kun
+    significado: Color verde
+    mascara: '---.--'
+    frase: 緑(色)の帽子をかぶっています。
+    traduccion: Lleva un gorro verde.
+  - palabra: 色
+    lectura: いろ
+    tipo_lectura: kun
+    significado: Color
+    mascara: '--'
+    frase: この花はきれいな(色)です。
+    traduccion: Esta flor tiene un color bonito.
+  - palabra: 茶色
+    lectura: ちゃいろ
+    tipo_lectura: kun
+    significado: Marrón
+    mascara: '--.--'
+    frase: 彼は茶(色)の鞄を持っています。
+    traduccion: Él lleva un bolso marrón.
+  - palabra: 銀色
+    lectura: ぎんいろ
+    tipo_lectura: kun
+    significado: Color plateado
+    mascara: '--.--'
+    frase: 銀(色)の車が好きです。
+    traduccion: Me gustan los coches plateados.
+  - palabra: 青色
+    lectura: あおいろ
+    tipo_lectura: kun
+    significado: Color azul
+    mascara: '--.--'
+    frase: 青(色)の旗を立てました。
+    traduccion: Colocamos una bandera azul.
+  - palabra: 朱色
+    lectura: しゅいろ
+    tipo_lectura: kun
+    significado: Color bermellón
+    mascara: '--.--'
+    frase: 朱(色)の門が目に飛び込みます。
+    traduccion: La puerta bermellón salta a la vista.

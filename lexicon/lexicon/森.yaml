@@ -1,0 +1,16 @@
+id: 森
+palabras:
+  - palabra: 森
+    lectura: もり
+    tipo_lectura: kun
+    significado: Bosque
+    mascara: '--'
+    frase: (森)の中で鳥の声が聞こえます。
+    traduccion: En el bosque se oyen los pájaros.
+  - palabra: 森林
+    lectura: しんりん
+    tipo_lectura: 'on'
+    significado: Bosque, masa forestal
+    mascara: '--.--'
+    frase: (森)林を守ることが大切です。
+    traduccion: Es importante proteger los bosques.

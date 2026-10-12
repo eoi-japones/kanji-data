@@ -1,0 +1,23 @@
+id: 緑
+palabras:
+  - palabra: 緑
+    lectura: みどり
+    tipo_lectura: kun
+    significado: Verde, verdor
+    mascara: '---'
+    frase: 山の(緑)がきれいです。
+    traduccion: El verde de la montaña es precioso.
+  - palabra: 緑色
+    lectura: みどりいろ
+    tipo_lectura: kun
+    significado: Color verde
+    mascara: '---.--'
+    frase: (緑)色の帽子をかぶっています。
+    traduccion: Lleva un gorro verde.
+  - palabra: 緑茶
+    lectura: りょくちゃ
+    tipo_lectura: 'on'
+    significado: Té verde
+    mascara: '---.--'
+    frase: 午後は(緑)茶を淹れました。
+    traduccion: Por la tarde he preparado té verde.

@@ -1,0 +1,16 @@
+id: 江
+palabras:
+  - palabra: 江
+    lectura: え
+    tipo_lectura: kun
+    significado: Ensenada, río ancho
+    mascara: '-'
+    frase: 湖には細い(江)が入っています。
+    traduccion: En el lago entra una ensenada estrecha.
+  - palabra: 江上
+    lectura: こうじょう
+    tipo_lectura: 'on'
+    significado: Orilla de un río ancho
+    mascara: '--.---'
+    frase: (江)上の風は涼しいです。
+    traduccion: La brisa en la orilla del río es fresca.

@@ -1,0 +1,114 @@
+id: 国
+palabras:
+  - palabra: 中国
+    lectura: ちゅうごく
+    tipo_lectura: 'on'
+    significado: China
+    mascara: '---.--'
+    frase: 中(国)の料理が好きです。
+    traduccion: Me gusta la comida china.
+  - palabra: 中国語
+    lectura: ちゅうごくご
+    tipo_lectura: 'on'
+    significado: Chino, lengua china
+    mascara: '---.--.-'
+    frase: 彼女は中(国)語が話せます。
+    traduccion: Ella sabe hablar chino.
+  - palabra: 全国
+    lectura: ぜんこく
+    tipo_lectura: 'on'
+    significado: Todo el país
+    mascara: '--.--'
+    frase: 全(国)から人が集まりました。
+    traduccion: Se juntó gente de todo el país.
+  - palabra: 国分寺
+    lectura: こくぶんじ
+    tipo_lectura: 'on'
+    significado: Templo provincial
+    mascara: '--.--.-'
+    frase: (国)分寺の跡を見学しました。
+    traduccion: Visité las ruinas del templo provincial.
+  - palabra: 国土
+    lectura: こくど
+    tipo_lectura: 'on'
+    significado: Territorio nacional
+    mascara: '--.-'
+    frase: 日本の(国)土の三分の二是山です。
+    traduccion: Dos tercios del territorio de Japón son montañas.
+  - palabra: 国技
+    lectura: こくぎ
+    tipo_lectura: 'on'
+    significado: Deporte nacional
+    mascara: '--.-'
+    frase: 相撲は日本の(国)技です。
+    traduccion: El sumo es el deporte nacional de Japón.
+  - palabra: 国産
+    lectura: こくさん
+    tipo_lectura: 'on'
+    significado: Fabricado en el país
+    mascara: '--.--'
+    frase: この車は(国)産です。
+    traduccion: Este coche es japonés.
+  - palabra: 国際人
+    lectura: こくさいじん
+    tipo_lectura: 'on'
+    significado: Persona de mentalidad internacional
+    mascara: '--.--.--'
+    frase: 現代は(国)際人が求められます。
+    traduccion: En la actualidad se buscan personas con mentalidad internacional.
+  - palabra: 外国
+    lectura: がいこく
+    tipo_lectura: 'on'
+    significado: Extranjero, país extranjero
+    mascara: '--.--'
+    frase: 来年、外(国)へ留学します。
+    traduccion: El año que viene me voy a estudiar al extranjero.
+  - palabra: 外国人
+    lectura: がいこくじん
+    tipo_lectura: 'on'
+    significado: Extranjero, ciudadano extranjero
+    mascara: '--.--.--'
+    frase: この町には外(国)人が増えています。
+    traduccion: En esta ciudad aumentan los extranjeros.
+  - palabra: 外国語
+    lectura: がいこくご
+    tipo_lectura: 'on'
+    significado: Lengua extranjera
+    mascara: '--.--.-'
+    frase: 大学で外(国)語を勉強しました。
+    traduccion: Estudié lenguas extranjeras en la universidad.
+  - palabra: 天国
+    lectura: てんごく
+    tipo_lectura: 'on'
+    significado: Cielo, paraíso
+    mascara: '--.--'
+    frase: 祖母は天(国)にいます。
+    traduccion: Mi abuela está en el cielo.
+  - palabra: 帝国
+    lectura: ていこく
+    tipo_lectura: 'on'
+    significado: Imperio
+    mascara: '--.--'
+    frase: 昔、大きな帝(国)がありました。
+    traduccion: Antaño hubo un gran imperio.
+  - palabra: 建国
+    lectura: けんこく
+    tipo_lectura: 'on'
+    significado: Fundación de una nación
+    mascara: '--.--'
+    frase: 来年で建(国)百年を迎えます。
+    traduccion: El año que viene se cumplen cien años de fundación del país.
+  - palabra: 祖国
+    lectura: そこく
+    tipo_lectura: 'on'
+    significado: Patria
+    mascara: '-.--'
+    frase: 彼はやがて祖(国)へ帰りました。
+    traduccion: Él al final volvió a su patria.
+  - palabra: 国津神
+    lectura: くにつかみ
+    tipo_lectura: kun
+    significado: Dioses de la tierra
+    mascara: '--.-.--'
+    frase: (国)津神は地上を守ります。
+    traduccion: Los dioses de la tierra protegen el suelo.

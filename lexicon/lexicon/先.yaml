@@ -1,0 +1,79 @@
+id: 先
+palabras:
+  - palabra: お先に
+    lectura: おさきに
+    tipo_lectura: kun
+    significado: Me adelanto
+    mascara: '-.--.-'
+    frase: では、お(先)に失礼します。
+    traduccion: Pues nada, me adelanto. Hasta luego.
+  - palabra: 先導
+    lectura: せんどう
+    tipo_lectura: 'on'
+    significado: Ir en cabeza, guiar
+    mascara: '--.--'
+    frase: 案内人が(先)導します。
+    traduccion: El guía va en cabeza.
+  - palabra: 先手
+    lectura: せんて
+    tipo_lectura: 'on'
+    significado: Iniciativa, jugada previa
+    mascara: '--.-'
+    frase: (先)手を打つのが大事です。
+    traduccion: Lo importante es tomar la iniciativa.
+  - palabra: 先日
+    lectura: せんじつ
+    tipo_lectura: 'on'
+    significado: El otro día, hace unos días
+    mascara: '--.--'
+    frase: (先)日はお世話になりました。
+    traduccion: Gracias por su ayuda el otro día.
+  - palabra: 先月
+    lectura: せんげつ
+    tipo_lectura: 'on'
+    significado: El mes pasado
+    mascara: '--.--'
+    frase: (先)月、東京へ行きました。
+    traduccion: El mes pasado fui a Tokio.
+  - palabra: 先祖
+    lectura: せんぞ
+    tipo_lectura: 'on'
+    significado: Antepasados
+    mascara: '--.-'
+    frase: 家には(先)祖の写真が飾ってあります。
+    traduccion: En casa hay fotos de los antepasados.
+  - palabra: 先頭
+    lectura: せんとう
+    tipo_lectura: 'on'
+    significado: Frente, cabeza (de una cola)
+    mascara: '--.--'
+    frase: 列の(先)頭に並びました。
+    traduccion: Me puse al frente de la cola.
+  - palabra: 刃先
+    lectura: はさき
+    tipo_lectura: kun
+    significado: Punta del filo
+    mascara: '-.--'
+    frase: 刃(先)に気をつけてください。
+    traduccion: Tenga cuidado con la punta del filo.
+  - palabra: 祖先
+    lectura: そせん
+    tipo_lectura: 'on'
+    significado: Antepasado, progenitor
+    mascara: '-.--'
+    frase: 日本の祖(先)は大陸から来ました。
+    traduccion: Los antepasados de Japón vinieron del continente.
+  - palabra: 行き先
+    lectura: いきさき
+    tipo_lectura: kun
+    significado: Destino
+    mascara: '-.-.--'
+    frase: 今回の行き(先)は京都です。
+    traduccion: El destino de esta vez es Kioto.
+  - palabra: 鼻先
+    lectura: はなさき
+    tipo_lectura: kun
+    significado: Punta de la nariz
+    mascara: '--.--'
+    frase: 外は寒くて鼻(先)が赤くなりました。
+    traduccion: Hace frío fuera y se me puso roja la punta de la nariz.

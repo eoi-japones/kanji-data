@@ -1,0 +1,23 @@
+id: 万
+palabras:
+  - palabra: 万が一
+    lectura: まんがいち
+    tipo_lectura: 'on'
+    significado: Caso improbable, por si acaso
+    mascara: '--.-.--'
+    frase: (万)が一の事態に備えます。
+    traduccion: Me preparo para el caso improbable.
+  - palabra: 万一
+    lectura: まんいち
+    tipo_lectura: 'on'
+    significado: Emergencia, por si acaso
+    mascara: '--.--'
+    frase: (万)一の時はこの番号にかけてください。
+    traduccion: En caso de emergencia llame a este número.
+  - palabra: 万人
+    lectura: ばんにん
+    tipo_lectura: 'on'
+    significado: Todos, el público en general
+    mascara: '--.--'
+    frase: この映画は(万)人に愛されています。
+    traduccion: Esta película es querida por todos.

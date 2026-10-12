@@ -1,0 +1,30 @@
+id: 鉄
+palabras:
+  - palabra: 地下鉄
+    lectura: ちかてつ
+    tipo_lectura: 'on'
+    significado: Metro
+    mascara: '-.-.--'
+    frase: 市内は地下(鉄)で行けます。
+    traduccion: Por la ciudad se va en metro.
+  - palabra: 鉄
+    lectura: てつ
+    tipo_lectura: 'on'
+    significado: Hierro
+    mascara: '--'
+    frase: この橋は(鉄)でできています。
+    traduccion: Este puente está hecho de hierro.
+  - palabra: 鉄橋
+    lectura: てっきょう
+    tipo_lectura: kun
+    significado: Puente de hierro
+    mascara: '-----.'
+    frase: 電車は(鉄)橋を渡ります。
+    traduccion: El tren cruza un puente de hierro.
+  - palabra: 鉄道
+    lectura: てつどう
+    tipo_lectura: 'on'
+    significado: Ferrocarril
+    mascara: '--.--'
+    frase: 父は(鉄)道会社で働いています。
+    traduccion: Mi padre trabaja en una compañía de ferrocarriles.

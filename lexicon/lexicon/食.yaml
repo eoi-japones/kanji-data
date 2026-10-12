@@ -1,0 +1,100 @@
+id: 食
+palabras:
+  - palabra: 主食
+    lectura: しゅしょく
+    tipo_lectura: 'on'
+    significado: Alimento básico
+    mascara: '--.---'
+    frase: 日本の主(食)は米です。
+    traduccion: El alimento básico de Japón es el arroz.
+  - palabra: 乞食
+    lectura: こじき
+    tipo_lectura: 'on'
+    significado: Mendigo
+    mascara: '-.--'
+    frase: 駅前で乞(食)が金を求めていました。
+    traduccion: Un mendigo pedía dinero delante de la estación.
+  - palabra: 夕食
+    lectura: ゆうしょく
+    tipo_lectura: 'on'
+    significado: Cena
+    mascara: '--.---'
+    frase: 今日の夕(食)はカレーです。
+    traduccion: La cena de hoy es curry.
+  - palabra: 外食
+    lectura: がいしょく
+    tipo_lectura: 'on'
+    significado: Comer fuera
+    mascara: '--.---'
+    frase: 週末は外(食)をします。
+    traduccion: Los fines de semana salgo a comer.
+  - palabra: 昼食
+    lectura: ちゅうしょく
+    tipo_lectura: 'on'
+    significado: Almuerzo
+    mascara: '---.---'
+    frase: 友達と昼(食)を食べました。
+    traduccion: Comí el almuerzo con un amigo.
+  - palabra: 洋食
+    lectura: ようしょく
+    tipo_lectura: 'on'
+    significado: Cocina occidental
+    mascara: '--.---'
+    frase: 今日は洋(食)を作ります。
+    traduccion: Hoy preparo comida occidental.
+  - palabra: 菜食
+    lectura: さいしょく
+    tipo_lectura: 'on'
+    significado: Dieta vegetariana
+    mascara: '--.---'
+    frase: 健康のために菜(食)を始めました。
+    traduccion: Empecé dieta vegetariana por la salud.
+  - palabra: 食器
+    lectura: しょっき
+    tipo_lectura: kun
+    significado: Trastos de cocina
+    mascara: '----.'
+    frase: (食)器を洗って棚に収めました。
+    traduccion: Lavé los trastos y los guardé en el armario.
+  - palabra: 食費
+    lectura: しょくひ
+    tipo_lectura: 'on'
+    significado: Gastos de comida
+    mascara: '---.-'
+    frase: 毎月の(食)費を記録します。
+    traduccion: Registro los gastos de comida de cada mes.
+  - palabra: 飲食店
+    lectura: いんしょくてん
+    tipo_lectura: 'on'
+    significado: Restaurante, local de comida
+    mascara: '--.---.--'
+    frase: 駅の近くに飲(食)店がたくさんあります。
+    traduccion: Cerca de la estación hay muchos restaurantes.
+  - palabra: 副食
+    lectura: ふくしょく
+    tipo_lectura: 'on'
+    significado: Guarnición
+    mascara: '--.---'
+    frase: 学校給食には副(食)が付きます。
+    traduccion: El almuerzo escolar lleva guarnición.
+  - palabra: 虫食い
+    lectura: むしくい
+    tipo_lectura: kun
+    significado: Agujero de gusano
+    mascara: '--.-.-'
+    frase: りんごに虫(食)いの穴があります。
+    traduccion: La manzana tiene agujeros de gusano.
+  - palabra: 蚕食
+    lectura: さんしょく
+    tipo_lectura: 'on'
+    significado: Ir ganando terreno
+    mascara: '--.---'
+    frase: ライバル社が市場を蚕(食)しています。
+    traduccion: La empresa rival va ganando terreno en el mercado.
+  - palabra: 衣食
+    lectura: いしょく
+    tipo_lectura: 'on'
+    significado: Alimento y vestido, sustento
+    mascara: '-.---'
+    frase: 最近は衣(食)に困っています。
+    traduccion: Últimamente no me llega para el sustento.

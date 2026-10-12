@@ -1,0 +1,16 @@
+id: 朱
+palabras:
+  - palabra: 朱
+    lectura: あけ
+    tipo_lectura: kun
+    significado: Bermellón
+    mascara: '--'
+    frase: 神社の鳥居は(朱)に塗られています。
+    traduccion: El torii del santuario está pintado de bermellón.
+  - palabra: 朱色
+    lectura: しゅいろ
+    tipo_lectura: 'on'
+    significado: Color bermellón
+    mascara: '--.--'
+    frase: (朱)色の門が目に飛び込みます。
+    traduccion: La puerta bermellón salta a la vista.

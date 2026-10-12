@@ -1,0 +1,23 @@
+id: 近
+palabras:
+  - palabra: 近日
+    lectura: きんじつ
+    tipo_lectura: 'on'
+    significado: En unos días, próximamente
+    mascara: '--.--'
+    frase: (近)日中にご連絡します。
+    traduccion: Me pondré en contacto en unos días.
+  - palabra: 近頃
+    lectura: ちかごろ
+    tipo_lectura: kun
+    significado: Últimamente
+    mascara: '--.--'
+    frase: (近)頃は暑い日が続いています。
+    traduccion: Últimamente siguen los días de calor.
+  - palabra: 間近
+    lectura: まぢか
+    tipo_lectura: kun
+    significado: Cerca, inminente
+    mascara: '-.--'
+    frase: 試験が間(近)に迫っています。
+    traduccion: El examen se acerca.

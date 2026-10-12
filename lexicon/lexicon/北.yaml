@@ -1,0 +1,23 @@
+id: 北
+palabras:
+  - palabra: 北口
+    lectura: きたぐち
+    tipo_lectura: kun
+    significado: Salida norte
+    mascara: '--.--'
+    frase: 駅の(北)口で待ち合わせました。
+    traduccion: Quedamos en la salida norte de la estación.
+  - palabra: 北西
+    lectura: ほくせい
+    tipo_lectura: 'on'
+    significado: Noroeste
+    mascara: '--.--'
+    frase: 図書館は駅の(北)西にあります。
+    traduccion: La biblioteca está al noroeste de la estación.
+  - palabra: 東北
+    lectura: とうほく
+    tipo_lectura: 'on'
+    significado: Noreste
+    mascara: '--.--'
+    frase: 来月、東(北)へ旅行します。
+    traduccion: El mes que viene viajo al noreste.

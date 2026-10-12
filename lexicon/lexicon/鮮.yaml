@@ -1,0 +1,16 @@
+id: 鮮
+palabras:
+  - palabra: 鮮やか
+    lectura: あざやか
+    tipo_lectura: kun
+    significado: Vivo, llamativo
+    mascara: '--.-.-'
+    frase: 花の色がとても(鮮)やかです。
+    traduccion: Los colores de las flores son muy vivos.
+  - palabra: 鮮明
+    lectura: せんめい
+    tipo_lectura: 'on'
+    significado: Nítido, claro
+    mascara: '--.--'
+    frase: 雨上がりの空が(鮮)明に見えます。
+    traduccion: El cielo tras la lluvia se ve nítido.

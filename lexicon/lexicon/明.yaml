@@ -1,0 +1,58 @@
+id: 明
+palabras:
+  - palabra: 判明
+    lectura: はんめい
+    tipo_lectura: 'on'
+    significado: Quedar claro, aclararse
+    mascara: '--.--'
+    frase: 犯人の正体が判(明)しました。
+    traduccion: Se aclaró la identidad del culpable.
+  - palabra: 文明
+    lectura: ぶんめい
+    tipo_lectura: 'on'
+    significado: Civilización
+    mascara: '--.--'
+    frase: 古代の文(明)に興味があります。
+    traduccion: Me interesa la civilización antigua.
+  - palabra: 明かり
+    lectura: あかり
+    tipo_lectura: kun
+    significado: Luz, claridad
+    mascara: '-.-.-'
+    frase: 手元に(明)かりを当ててください。
+    traduccion: Acércale luz a lo que escribes.
+  - palabra: 明るい
+    lectura: あかるい
+    tipo_lectura: kun
+    significado: Luminoso, alegre
+    mascara: '--.-.-'
+    frase: この部屋は(明)るいです。
+    traduccion: Esta habitación está luminosa.
+  - palabra: 明日
+    lectura: あした
+    tipo_lectura: kun
+    significado: Mañana
+    mascara: '---.'
+    frase: (明)日の朝、友達に会います。
+    traduccion: Mañana por la mañana me encuentro con un amigo.
+  - palabra: 明細
+    lectura: めいさい
+    tipo_lectura: 'on'
+    significado: Desglose, detalle
+    mascara: '--.--'
+    frase: 領収書の(明)細を見せてください。
+    traduccion: Muéstreme el desglose del recibo.
+  - palabra: 未明
+    lectura: みめい
+    tipo_lectura: 'on'
+    significado: Madrugada, primeras horas del día
+    mascara: '-.--'
+    frase: 未(明)に家を出ました。
+    traduccion: Salí de casa en plena madrugada.
+  - palabra: 鮮明
+    lectura: せんめい
+    tipo_lectura: 'on'
+    significado: Nítido, claro
+    mascara: '--.--'
+    frase: 雨上がりの空が鮮(明)に見えます。
+    traduccion: El cielo tras la lluvia se ve nítido.

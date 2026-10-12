@@ -1,0 +1,16 @@
+id: 銭
+palabras:
+  - palabra: 小銭
+    lectura: こぜに
+    tipo_lectura: kun
+    significado: Monedas, calderilla
+    mascara: '-.--'
+    frase: 財布に小(銭)がたくさんあります。
+    traduccion: Tengo muchas monedas en la cartera.
+  - palabra: 金銭
+    lectura: きんせん
+    tipo_lectura: 'on'
+    significado: Dinero, cantidad
+    mascara: '--.--'
+    frase: 金(銭)のトラブルは避けたいです。
+    traduccion: Quiero evitar los problemas de dinero.

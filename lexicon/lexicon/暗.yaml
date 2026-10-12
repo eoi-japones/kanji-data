@@ -1,0 +1,23 @@
+id: 暗
+palabras:
+  - palabra: 暗い
+    lectura: くらい
+    tipo_lectura: kun
+    significado: Oscuro
+    mascara: '--.-'
+    frase: 夜道は(暗)いです。
+    traduccion: El camino por la noche está oscuro.
+  - palabra: 暗記
+    lectura: あんき
+    tipo_lectura: 'on'
+    significado: Memorización
+    mascara: '--.-'
+    frase: 試験のために漢字を(暗)記しました。
+    traduccion: Memoricé los kanji para el examen.
+  - palabra: 暗黒
+    lectura: あんこく
+    tipo_lectura: 'on'
+    significado: Oscuridad, tinieblas
+    mascara: '--.--'
+    frase: 停電で部屋は(暗)黒になりました。
+    traduccion: Con el apagón la habitación quedó a oscuras.

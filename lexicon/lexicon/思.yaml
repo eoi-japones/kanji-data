@@ -1,0 +1,37 @@
+id: 思
+palabras:
+  - palabra: 思い
+    lectura: おもい
+    tipo_lectura: kun
+    significado: Pensamiento, sentimiento
+    mascara: '--.-'
+    frase: 母への(思)いを手紙に書きました。
+    traduccion: Escribí en la carta mis sentimientos hacia mi madre.
+  - palabra: 思いがけない
+    lectura: おもいがけない
+    tipo_lectura: kun
+    significado: Inesperado
+    mascara: '--.-.-.-.-.-'
+    frase: (思)いがけない出会いがありました。
+    traduccion: Tuve un encuentro inesperado.
+  - palabra: 思い切り
+    lectura: おもいきり
+    tipo_lectura: kun
+    significado: A todo lo que da, a fondo
+    mascara: '--.-.-.-'
+    frase: 公園で(思)い切り走りました。
+    traduccion: Corrí a todo lo que pude por el parque.
+  - palabra: 思想
+    lectura: しそう
+    tipo_lectura: 'on'
+    significado: Pensamiento, ideología
+    mascara: '-.--'
+    frase: この本の(思)想はとても複雑です。
+    traduccion: El pensamiento de este libro es muy complejo.
+  - palabra: 意思
+    lectura: いし
+    tipo_lectura: 'on'
+    significado: Intención, voluntad
+    mascara: '-.-'
+    frase: 転校する意(思)はないです。
+    traduccion: No tengo intención de cambiarme de escuela.

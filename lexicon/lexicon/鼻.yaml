@@ -1,0 +1,23 @@
+id: 鼻
+palabras:
+  - palabra: 鼻
+    lectura: はな
+    tipo_lectura: kun
+    significado: Nariz
+    mascara: '--'
+    frase: 風邪で(鼻)が詰まっています。
+    traduccion: Tengo la nariz tapada por el catarro.
+  - palabra: 鼻先
+    lectura: はなさき
+    tipo_lectura: kun
+    significado: Punta de la nariz
+    mascara: '--.--'
+    frase: 外は寒くて(鼻)先が赤くなりました。
+    traduccion: Hace frío fuera y se me puso roja la punta de la nariz.
+  - palabra: 鼻水
+    lectura: はなみず
+    tipo_lectura: kun
+    significado: Mocos, coriza
+    mascara: '--.--'
+    frase: 寒いので(鼻)水が出ます。
+    traduccion: Con el frío se me echan los mocos.

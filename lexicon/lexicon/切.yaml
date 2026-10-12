@@ -1,0 +1,58 @@
+id: 切
+palabras:
+  - palabra: 一切
+    lectura: いっさい
+    tipo_lectura: kun
+    significado: En absoluto, todo
+    mascara: '----.'
+    frase: 会議に一(切)参加しませんでした。
+    traduccion: No asistí en absoluto a la reunión.
+  - palabra: 切れ目
+    lectura: きれめ
+    tipo_lectura: kun
+    significado: Corte, brecha
+    mascara: '-.-.-'
+    frase: 山の(切)れ目に道があります。
+    traduccion: En la brecha de la montaña hay un camino.
+  - palabra: 切手
+    lectura: きって
+    tipo_lectura: kun
+    significado: Sello (de correos)
+    mascara: '---.'
+    frase: 封筒に(切)手を貼りました。
+    traduccion: Pegué un sello en el sobre.
+  - palabra: 千切る
+    lectura: ちぎる
+    tipo_lectura: kun
+    significado: Rasgar, desgarrar, romper
+    mascara: '-.-.-'
+    frase: 紙を千(切)らないでください。
+    traduccion: No rasgues el papel, por favor.
+  - palabra: 売り切れ
+    lectura: うりきれ
+    tipo_lectura: kun
+    significado: Agotado
+    mascara: '-.-.-.-'
+    frase: 人気の商品は売り(切)れです。
+    traduccion: El producto más popular está agotado.
+  - palabra: 小切手
+    lectura: こぎって
+    tipo_lectura: kun
+    significado: Cheque
+    mascara: '----..'
+    frase: 会社に小(切)手を渡しました。
+    traduccion: Entregué un cheque a la empresa.
+  - palabra: 思い切り
+    lectura: おもいきり
+    tipo_lectura: kun
+    significado: A todo lo que da, a fondo
+    mascara: '--.-.-.-'
+    frase: 公園で思い(切)り走りました。
+    traduccion: Corrí a todo lo que pude por el parque.
+  - palabra: 裏切る
+    lectura: うらぎる
+    tipo_lectura: kun
+    significado: Traicionar
+    mascara: '--.-.-'
+    frase: 大(切)な友達を裏切ってしまいました。
+    traduccion: Traicioné a un amigo importante.

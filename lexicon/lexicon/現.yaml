@@ -1,0 +1,30 @@
+id: 現
+palabras:
+  - palabra: 現代
+    lectura: げんだい
+    tipo_lectura: 'on'
+    significado: Época actual, modernidad
+    mascara: '--.--'
+    frase: (現)代の技術は本当にすごいです。
+    traduccion: La tecnología actual es de verdad asombrosa.
+  - palabra: 現地
+    lectura: げんち
+    tipo_lectura: 'on'
+    significado: Lugar, lugar de los hechos
+    mascara: '--.-'
+    frase: (現)地のガイドに会いました。
+    traduccion: Me encontré con el guía local.
+  - palabra: 現場
+    lectura: げんば
+    tipo_lectura: 'on'
+    significado: Lugar de los hechos
+    mascara: '--.-'
+    frase: 警察がすぐ(現)場に着きました。
+    traduccion: La policía llegó enseguida al lugar.
+  - palabra: 現金
+    lectura: げんきん
+    tipo_lectura: 'on'
+    significado: Efectivo
+    mascara: '--.--'
+    frase: この店は(現)金しか受け付けません。
+    traduccion: Esta tienda solo acepta efectivo.

@@ -1,0 +1,23 @@
+id: 費
+palabras:
+  - palabra: 学費
+    lectura: がくひ
+    tipo_lectura: 'on'
+    significado: Matrícula, gastos de estudios
+    mascara: '--.-'
+    frase: 大学の学(費)は高いです。
+    traduccion: La matrícula de la universidad es cara.
+  - palabra: 費やす
+    lectura: ついやす
+    tipo_lectura: kun
+    significado: Dedicar, gastar (tiempo)
+    mascara: '--.-.-'
+    frase: 勉強に時間を(費)やしました。
+    traduccion: Dediqué tiempo al estudio.
+  - palabra: 食費
+    lectura: しょくひ
+    tipo_lectura: 'on'
+    significado: Gastos de comida
+    mascara: '---.-'
+    frase: 毎月の食(費)を記録します。
+    traduccion: Registro los gastos de comida de cada mes.

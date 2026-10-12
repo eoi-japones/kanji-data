@@ -1,0 +1,23 @@
+id: 銘
+palabras:
+  - palabra: 感銘
+    lectura: かんめい
+    tipo_lectura: 'on'
+    significado: Profunda impresión
+    mascara: '--.--'
+    frase: 映画に深く感(銘)を受けました。
+    traduccion: La película me dejó una profunda impresión.
+  - palabra: 銘々
+    lectura: めいめい
+    tipo_lectura: kun
+    significado: Cada uno, uno por uno
+    mascara: '----.'
+    frase: (銘)々にお土産を渡しました。
+    traduccion: Repartí un recuerdo a cada uno.
+  - palabra: 銘記
+    lectura: めいき
+    tipo_lectura: 'on'
+    significado: Grabar en la memoria
+    mascara: '--.-'
+    frase: 忠告を心に(銘)記します。
+    traduccion: Grabaré el consejo en el corazón.

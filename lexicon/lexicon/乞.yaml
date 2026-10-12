@@ -1,0 +1,16 @@
+id: 乞
+palabras:
+  - palabra: 乞食
+    lectura: こじき
+    tipo_lectura: kun
+    significado: Mendigo
+    mascara: '-.--'
+    frase: 駅前で(乞)食が金を求めていました。
+    traduccion: Un mendigo pedía dinero delante de la estación.
+  - palabra: 雨乞い
+    lectura: あまごい
+    tipo_lectura: kun
+    significado: Petición de lluvia
+    mascara: '--.-.-'
+    frase: 昔は雨(乞)いの祈祷が行われました。
+    traduccion: Antes se celebraban rituales de petición de lluvia.

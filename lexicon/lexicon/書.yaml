@@ -1,0 +1,51 @@
+id: 書
+palabras:
+  - palabra: 下書き
+    lectura: したがき
+    tipo_lectura: kun
+    significado: Borrador
+    mascara: '--.-.-'
+    frase: 作文の下(書)きをしました。
+    traduccion: Hice un borrador de la composición.
+  - palabra: 手書き
+    lectura: てがき
+    tipo_lectura: kun
+    significado: Escrito a mano
+    mascara: '-.-.-'
+    frase: 手(書)きの手紙をもらいました。
+    traduccion: Recibí una carta escrita a mano.
+  - palabra: 書き言葉
+    lectura: かきことば
+    tipo_lectura: kun
+    significado: Lenguaje escrito
+    mascara: '-.-.--.-'
+    frase: メールは(書)き言葉の一種です。
+    traduccion: El correo electrónico es una forma de lenguaje escrito.
+  - palabra: 書店
+    lectura: しょてん
+    tipo_lectura: 'on'
+    significado: Librería
+    mascara: '--.--'
+    frase: 大学の近くに小さな(書)店があります。
+    traduccion: Cerca de la universidad hay una librería pequeña.
+  - palabra: 絵葉書
+    lectura: えはがき
+    tipo_lectura: kun
+    significado: Postal
+    mascara: '-.-.--'
+    frase: 旅行先から絵葉(書)を送りました。
+    traduccion: Envié una postal desde el lugar de vacaciones.
+  - palabra: 読書
+    lectura: どくしょ
+    tipo_lectura: 'on'
+    significado: Lectura, lecturar
+    mascara: '--.--'
+    frase: 駅で本を読(書)する。
+    traduccion: Leo un libro en la estación.
+  - palabra: 走り書き
+    lectura: はしりがき
+    tipo_lectura: kun
+    significado: Apunte rápido, garabato
+    mascara: '--.-.-.-'
+    frase: メモを走り(書)きしました。
+    traduccion: Hice una nota rápida a mano.
