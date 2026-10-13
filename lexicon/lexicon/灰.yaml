@@ -16,7 +16,7 @@ palabras:
     traduccion: Lleva un traje gris.
   - palabra: 石灰
     lectura: せっかい
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Cal
     mascara: '----.'
     frase: 壁に石(灰)を塗りました。

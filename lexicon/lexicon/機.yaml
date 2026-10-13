@@ -2,7 +2,7 @@ id: 機
 palabras:
   - palabra: コピー機
     lectura: コピーき
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Fotocopiadora
     mascara: '----...'
     frase: コピー(機)で資料をコピーしました。

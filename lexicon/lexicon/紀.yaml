@@ -16,7 +16,7 @@ palabras:
     traduccion: Escribí el diario de viaje en el cuaderno.
   - palabra: 一世紀
     lectura: いっせいき
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Un siglo
     mascara: '-----..'
     frase: 一世(紀)は百年です。

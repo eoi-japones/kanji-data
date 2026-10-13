@@ -2,7 +2,7 @@ id: 教
 palabras:
   - palabra: 仏教
     lectura: ぶっきょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Budismo
     mascara: '-----.'
     frase: 仏(教)はインドで始まりました。

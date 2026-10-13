@@ -2,7 +2,7 @@ id: 校
 palabras:
   - palabra: 学校
     lectura: がっこう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Escuela, colegio
     mascara: '----.'
     frase: 学(校)は八時に始まります。

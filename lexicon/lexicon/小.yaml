@@ -9,7 +9,7 @@ palabras:
     traduccion: De pequeño vivía en Kioto.
   - palabra: 小冊子
     lectura: しょうさっし
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Folleto, librito
     mascara: '------..'
     frase: 入口で(小)冊子を配りました。

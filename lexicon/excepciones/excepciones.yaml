@@ -9,4 +9,124 @@
 # calculado. Ver `docs/adr/0007-los-lexicones-se-generan-desde-jmdict.md`.
 id: excepciones
 
-excepciones: []
+excepciones:
+  - palabra: コピー機
+    lectura: コピーき
+    mascara: '----...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一丁
+    lectura: いっちょう
+    mascara: '-----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一世紀
+    lectura: いっせいき
+    mascara: '-----..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一冊
+    lectura: いっさつ
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一票
+    lectura: いっぴょう
+    mascara: '-----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 仏教
+    lectura: ぶっきょう
+    mascara: '-----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 冊子
+    lectura: さっし
+    mascara: '---.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 別冊
+    lectura: べっさつ
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 別項
+    lectura: べっこう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 天皇
+    lectura: てんのう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 学校
+    lectura: がっこう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 小冊子
+    lectura: しょうさっし
+    mascara: '------..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 延々
+    lectura: えんえん
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 日本刀
+    lectura: にほんとう
+    mascara: '-----..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 日本史
+    lectura: にほんし
+    mascara: '----..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 日本製
+    lectura: にほんせい
+    mascara: '-----..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 決算
+    lectura: けっさん
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 石灰
+    lectura: せっかい
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 結成
+    lectura: けっせい
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 蝶々
+    lectura: ちょうちょう
+    mascara: '------.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 鉄橋
+    lectura: てっきょう
+    mascara: '-----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 銘々
+    lectura: めいめい
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 食器
+    lectura: しょっき
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: １００均
+    lectura: ひゃっきん
+    mascara: '-----...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'

@@ -9,7 +9,7 @@ palabras:
     traduccion: Una mariposa revolotea sobre la flor.
   - palabra: 蝶々
     lectura: ちょうちょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Mariposa
     mascara: '------.'
     frase: 庭に(蝶)々が飛んでいます。

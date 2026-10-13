@@ -9,7 +9,7 @@ palabras:
     traduccion: La película me dejó una profunda impresión.
   - palabra: 銘々
     lectura: めいめい
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Cada uno, uno por uno
     mascara: '----.'
     frase: (銘)々にお土産を渡しました。

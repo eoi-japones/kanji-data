@@ -9,7 +9,7 @@ palabras:
     traduccion: Soy hijo único.
   - palabra: 冊子
     lectura: さっし
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Librito, folleto encuadernado
     mascara: '---.'
     frase: 博物館で冊(子)を買いました。
@@ -65,7 +65,7 @@ palabras:
     traduccion: Un cordero está comiendo hierba.
   - palabra: 小冊子
     lectura: しょうさっし
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Folleto, librito
     mascara: '------..'
     frase: 入口で小冊(子)を配りました。

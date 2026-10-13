@@ -44,7 +44,7 @@ palabras:
     traduccion: En el viaje vi un castillo medieval.
   - palabra: 一世紀
     lectura: いっせいき
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Un siglo
     mascara: '-----..'
     frase: 一(世)紀は百年です。

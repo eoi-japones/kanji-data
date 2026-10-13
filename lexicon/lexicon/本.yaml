@@ -16,21 +16,21 @@ palabras:
     traduccion: Japón tiene las cuatro estaciones muy marcadas.
   - palabra: 日本刀
     lectura: にほんとう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Espada japonesa
     mascara: '-----..'
     frase: 博物館で日(本)刀を見ました。
     traduccion: Vi una espada japonesa en el museo.
   - palabra: 日本史
     lectura: にほんし
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Historia de Japón
     mascara: '----..'
     frase: 大学で日(本)史を勉強しました。
     traduccion: Estudié historia de Japón en la universidad.
   - palabra: 日本製
     lectura: にほんせい
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: De fabricación japonesa
     mascara: '-----..'
     frase: この時計は日(本)製です。

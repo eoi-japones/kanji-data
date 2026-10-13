@@ -2,7 +2,7 @@ id: 皇
 palabras:
   - palabra: 天皇
     lectura: てんのう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Emperador de Japón
     mascara: '----.'
     frase: 天(皇)は日本の象徴です。

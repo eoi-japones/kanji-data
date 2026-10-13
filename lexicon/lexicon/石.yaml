@@ -30,7 +30,7 @@ palabras:
     traduccion: Un viejo puente de piedra cruza el río.
   - palabra: 石灰
     lectura: せっかい
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Cal
     mascara: '----.'
     frase: 壁に(石)灰を塗りました。

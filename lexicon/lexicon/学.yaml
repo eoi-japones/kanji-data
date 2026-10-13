@@ -23,7 +23,7 @@ palabras:
     traduccion: Él se dedica con ahínco al estudio.
   - palabra: 学校
     lectura: がっこう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Escuela, colegio
     mascara: '----.'
     frase: (学)校は八時に始まります。

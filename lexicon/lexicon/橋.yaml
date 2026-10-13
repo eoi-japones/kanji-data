@@ -5,7 +5,7 @@ palabras:
     tipo_lectura: kun
     significado: Puente
     mascara: '--'
-    frase: 川に(橋)を渡ります。
+    frase: 川の(橋)を渡ります。
     traduccion: Cruzo el río por el puente.
   - palabra: 石橋
     lectura: いしばし
@@ -16,7 +16,7 @@ palabras:
     traduccion: Un viejo puente de piedra cruza el río.
   - palabra: 鉄橋
     lectura: てっきょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Puente de hierro
     mascara: '-----.'
     frase: 電車は鉄(橋)を渡ります。

@@ -16,7 +16,7 @@ palabras:
     traduccion: Buscamos el primer término de la sucesión.
   - palabra: 別項
     lectura: べっこう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Apartado aparte
     mascara: '----.'
     frase: その件は別(項)に記載しました。

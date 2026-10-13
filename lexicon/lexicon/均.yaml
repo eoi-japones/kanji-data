@@ -2,7 +2,7 @@ id: 均
 palabras:
   - palabra: １００均
     lectura: ひゃっきん
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Tienda de cien yenes
     mascara: '-----...'
     frase: １００(均)で文房具を買いました。

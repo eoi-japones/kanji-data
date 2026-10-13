@@ -16,7 +16,7 @@ palabras:
     traduccion: Compré una radio en la tienda de electrodomésticos de la estación.
   - palabra: 食器
     lectura: しょっき
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Trastos de cocina
     mascara: '----.'
     frase: 食(器)を洗って棚に収めました。

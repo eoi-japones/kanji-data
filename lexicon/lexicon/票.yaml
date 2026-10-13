@@ -2,7 +2,7 @@ id: 票
 palabras:
   - palabra: 一票
     lectura: いっぴょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Un voto
     mascara: '-----.'
     frase: 一(票)でも大切です。

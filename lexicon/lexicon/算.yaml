@@ -2,7 +2,7 @@ id: 算
 palabras:
   - palabra: 決算
     lectura: けっさん
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Resultados (de una empresa)
     mascara: '----.'
     frase: 会社の決(算)が発表されました。

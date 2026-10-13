@@ -37,7 +37,7 @@ palabras:
     traduccion: Se anunció la formación del gabinete.
   - palabra: 結成
     lectura: けっせい
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Formación (de un grupo)
     mascara: '----.'
     frase: 彼らはバンドを結(成)しました。

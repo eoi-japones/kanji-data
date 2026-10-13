@@ -12,8 +12,8 @@ palabras:
     tipo_lectura: kun
     significado: Detenerse, pararse
     mascara: '--.-.-'
-    frase: バスは駅前で(止)まります。
-    traduccion: El autobús se detiene delante de la estación.
+    frase: バスは駅前に三十分(止)どまります。
+    traduccion: El autobús se queda treinta minutos delante de la estación.
   - palabra: 止める
     lectura: とめる
     tipo_lectura: kun

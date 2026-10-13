@@ -2,7 +2,7 @@ id: 製
 palabras:
   - palabra: 日本製
     lectura: にほんせい
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: De fabricación japonesa
     mascara: '-----..'
     frase: この時計は日本(製)です。

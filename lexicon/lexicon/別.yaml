@@ -30,14 +30,14 @@ palabras:
     traduccion: En un año me he convertido en otra persona.
   - palabra: 別冊
     lectura: べっさつ
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Suplemento, volumen aparte
     mascara: '----.'
     frase: 雑誌に(別)冊が付いています。
     traduccion: La revista viene con un suplemento aparte.
   - palabra: 別項
     lectura: べっこう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Apartado aparte
     mascara: '----.'
     frase: その件は(別)項に記載しました。

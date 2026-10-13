@@ -2,7 +2,7 @@ id: 一
 palabras:
   - palabra: 一丁
     lectura: いっちょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Una pieza, una ración
     mascara: '-----.'
     frase: 食堂でラーメンを(一)丁食べました。
@@ -23,11 +23,11 @@ palabras:
     traduccion: Este producto no admite ni un yen de descuento.
   - palabra: 一冊
     lectura: いっさつ
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Un libro, un volumen
     mascara: '----.'
     frase: 図書館で本を(一)冊借りました。
-    traduccion: Me presté un libro en la biblioteca.
+    traduccion: Tomé prestado un libro en la biblioteca.
   - palabra: 一切
     lectura: いっさい
     tipo_lectura: kun
@@ -93,7 +93,7 @@ palabras:
     traduccion: Dé un paso al frente.
   - palabra: 一票
     lectura: いっぴょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Un voto
     mascara: '-----.'
     frase: (一)票でも大切です。
@@ -128,7 +128,7 @@ palabras:
     traduccion: Todo tiene el mismo precio.
   - palabra: 一世紀
     lectura: いっせいき
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Un siglo
     mascara: '-----..'
     frase: (一)世紀は百年です。

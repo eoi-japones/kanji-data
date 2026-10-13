@@ -16,7 +16,7 @@ palabras:
     traduccion: He decidido irme a estudiar al extranjero.
   - palabra: 決算
     lectura: けっさん
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Resultados (de una empresa)
     mascara: '----.'
     frase: 会社の(決)算が発表されました。

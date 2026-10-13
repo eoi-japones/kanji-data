@@ -30,7 +30,7 @@ palabras:
     traduccion: Él es un genio de la música.
   - palabra: 天皇
     lectura: てんのう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Emperador de Japón
     mascara: '----.'
     frase: (天)皇は日本の象徴です。

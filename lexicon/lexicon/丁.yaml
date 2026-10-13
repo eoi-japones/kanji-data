@@ -2,7 +2,7 @@ id: 丁
 palabras:
   - palabra: 一丁
     lectura: いっちょう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Una pieza, una ración
     mascara: '-----.'
     frase: 食堂でラーメンを一(丁)食べました。

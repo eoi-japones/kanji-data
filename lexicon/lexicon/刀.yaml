@@ -16,7 +16,7 @@ palabras:
     traduccion: Uso un cuchillo pequeño para cocinar.
   - palabra: 日本刀
     lectura: にほんとう
-    tipo_lectura: kun
+    tipo_lectura: 'on'
     significado: Espada japonesa
     mascara: '-----..'
     frase: 博物館で日本(刀)を見ました。
