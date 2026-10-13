@@ -98,6 +98,13 @@ palabras:
     mascara: '--.-'
     frase: 電(子)レンジで料理を温めます。
     traduccion: Caliento la comida en el microondas.
+  - palabra: 吾子
+    lectura: あこ
+    tipo_lectura: kun
+    significado: Mi hijo
+    mascara: '-.-'
+    frase: 吾(子)という言葉は、自分の子供のことを意味します。
+    traduccion: Esta palabra antigua significa «mi hijo».
   - palabra: 子午線
     lectura: しごせん
     tipo_lectura: 'on'

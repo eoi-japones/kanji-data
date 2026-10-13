@@ -70,3 +70,10 @@ palabras:
     mascara: '-.--'
     frase: 政府から賜(金)が下りました。
     traduccion: El gobierno concedió una ayuda económica.
+  - palabra: 金吾
+    lectura: きんご
+    tipo_lectura: 'on'
+    significado: Juego de cartas parecido al black jack
+    mascara: '--.-'
+    frase: (金)吾はブラックジャックに似たカードゲームです。
+    traduccion: Es un juego de cartas parecido al black jack.

@@ -21,3 +21,17 @@ palabras:
     mascara: '--.--'
     frase: 黒(潮)は日本沿岸を流れます。
     traduccion: La corriente Kuroshio discurre por la costa de Japón.
+  - palabra: 潮汐
+    lectura: ちょうせき
+    tipo_lectura: 'on'
+    significado: Marea
+    mascara: '---.--'
+    frase: この海岸では(潮)汐の変化が大きいです。
+    traduccion: En esta costa los cambios de marea son grandes.
+  - palabra: 潮汐表
+    lectura: ちょうせきひょう
+    tipo_lectura: 'on'
+    significado: Tabla de mareas
+    mascara: '---.--.---'
+    frase: 船長が(潮)汐表を見て出発しました。
+    traduccion: El capitán zarpó mirando la tabla de mareas.

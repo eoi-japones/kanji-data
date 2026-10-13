@@ -35,3 +35,10 @@ palabras:
     mascara: '-.--'
     frase: 車窓から(田)畑が見えました。
     traduccion: Desde la ventanilla del tren se veían los campos.
+  - palabra: 田紳
+    lectura: でんしん
+    tipo_lectura: 'on'
+    significado: Señor del campo
+    mascara: '--.--'
+    frase: (田)紳は村の集まりで話しました。
+    traduccion: El señor del campo habló en la reunión.

@@ -27,6 +27,10 @@ Se utiliza como **andamio pedagógico** para la construcción de historias.
 
 Sigue **exactamente** las mismas normas de almacenamiento y nomenclatura que el Kanji (ver sección 1).
 
+**Límites:**
+- Un mismo carácter puede tener **dos fichas**: la del kanji y la del componente (ver ADR 0010).
+- «Solo componente» es una propiedad del **carácter**, no de la ficha: el carácter es solo componente **si todas sus fichas** lo declaran así. Basta una ficha con `solo_componente: 0` para que exista en la lengua y pueda tener lexicon.
+
 ## 3. Grupo
 
 Un grupo es una estructura que engloba kanji unidos por algún criterio semántico. Un grupo **solo puede estar hecho de kanji**.

@@ -1,0 +1,16 @@
+id: 紳
+palabras:
+  - palabra: 紳士
+    lectura: しんし
+    tipo_lectura: 'on'
+    significado: Caballero
+    mascara: '--.-'
+    frase: 彼はいつも(紳)士のような振る舞いをします。
+    traduccion: Siempre se comporta como un caballero.
+  - palabra: 田紳
+    lectura: でんしん
+    tipo_lectura: 'on'
+    significado: Señor del campo
+    mascara: '--.--'
+    frase: 田(紳)は村の集まりで話しました。
+    traduccion: El señor del campo habló en la reunión.
