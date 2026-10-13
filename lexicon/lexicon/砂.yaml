@@ -1,0 +1,23 @@
+id: 砂
+palabras:
+  - palabra: 砂
+    lectura: すな
+    tipo_lectura: kun
+    significado: Arena
+    mascara: '--'
+    frase: 夏は(砂)浜を走ります。
+    traduccion: En verano corro por la playa de arena.
+  - palabra: 砂利
+    lectura: じゃり
+    tipo_lectura: 'on'
+    significado: Grava
+    mascara: '--.-'
+    frase: 道に(砂)利が敷いてあります。
+    traduccion: El camino está cubierto de grava.
+  - palabra: 砂時計
+    lectura: すなどけい
+    tipo_lectura: kun
+    significado: Reloj de arena
+    mascara: '--.-.--'
+    frase: (砂)時計で三分を測りました。
+    traduccion: Medí tres minutos con el reloj de arena.

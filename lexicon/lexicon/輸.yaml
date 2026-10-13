@@ -1,0 +1,16 @@
+id: 輸
+palabras:
+  - palabra: 輸銀
+    lectura: ゆぎん
+    tipo_lectura: 'on'
+    significado: Banco de exportación-importación
+    mascara: '-.--'
+    frase: (輸)銀は政府系の銀行です。
+    traduccion: El banco de exportación-importación es un banco público.
+  - palabra: 運輸
+    lectura: うんゆ
+    tipo_lectura: 'on'
+    significado: Transporte
+    mascara: '--.-'
+    frase: 鉄道は重要な運(輸)手段です。
+    traduccion: El ferrocarril es un medio de transporte importante.

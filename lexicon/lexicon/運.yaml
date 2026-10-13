@@ -1,0 +1,30 @@
+id: 運
+palabras:
+  - palabra: 運
+    lectura: うん
+    tipo_lectura: 'on'
+    significado: Suerte
+    mascara: '--'
+    frase: 今日は(運)がいいです。
+    traduccion: Hoy tengo suerte.
+  - palabra: 運ぶ
+    lectura: はこぶ
+    tipo_lectura: kun
+    significado: Transportar, llevar
+    mascara: '--.-'
+    frase: 荷物を車に(運)びました。
+    traduccion: Cargué las maletas en el coche.
+  - palabra: 運転
+    lectura: うんてん
+    tipo_lectura: 'on'
+    significado: Conducción
+    mascara: '--.--'
+    frase: 彼は十年の(運)転経験があります。
+    traduccion: Él tiene diez años de experiencia al volante.
+  - palabra: 運輸
+    lectura: うんゆ
+    tipo_lectura: 'on'
+    significado: Transporte
+    mascara: '--.-'
+    frase: 鉄道は重要な(運)輸手段です。
+    traduccion: El ferrocarril es un medio de transporte importante.

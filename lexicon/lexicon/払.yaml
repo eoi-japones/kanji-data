@@ -1,0 +1,30 @@
+id: 払
+palabras:
+  - palabra: 払い
+    lectura: はらい
+    tipo_lectura: kun
+    significado: Pago
+    mascara: '--.-'
+    frase: 電気の(払)いを忘れました。
+    traduccion: Se me olvidó pagar la luz.
+  - palabra: 払う
+    lectura: はらう
+    tipo_lectura: kun
+    significado: Pagar
+    mascara: '--.-'
+    frase: 店で現金で(払)いました。
+    traduccion: Pagué en efectivo en la tienda.
+  - palabra: 未払い
+    lectura: みはらい
+    tipo_lectura: kun
+    significado: Impagado, sin pagar
+    mascara: '-.--.-'
+    frase: 今月の家賃が未(払)いです。
+    traduccion: El alquiler de este mes está sin pagar.
+  - palabra: 既払い
+    lectura: きばらい
+    tipo_lectura: kun
+    significado: Ya pagado
+    mascara: '-.--.-'
+    frase: この商品は既(払)いです。
+    traduccion: Este producto ya está pagado.

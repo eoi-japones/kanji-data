@@ -1,0 +1,23 @@
+id: 昔
+palabras:
+  - palabra: 大昔
+    lectura: おおむかし
+    tipo_lectura: kun
+    significado: Tiempos remotos
+    mascara: '--.---'
+    frase: 大(昔)の写真を見ました。
+    traduccion: Ví fotos de tiempos remotos.
+  - palabra: 昔
+    lectura: むかし
+    tipo_lectura: kun
+    significado: Antaño, el otro día
+    mascara: '---'
+    frase: (昔)はこの辺が田舎でした。
+    traduccion: Antes esta zona era campo.
+  - palabra: 昔話
+    lectura: むかしばなし
+    tipo_lectura: kun
+    significado: Cuento de antaño, leyenda
+    mascara: '---.---'
+    frase: 祖母が(昔)話をしてくれました。
+    traduccion: Mi abuela me contó un cuento de antaño.

@@ -1,0 +1,51 @@
+id: 今
+palabras:
+  - palabra: 今宵
+    lectura: こよい
+    tipo_lectura: kun
+    significado: Esta noche
+    mascara: '---.'
+    frase: (今)宵は月がきれいです。
+    traduccion: Esta noche la luna está preciosa.
+  - palabra: 今日
+    lectura: きょう
+    tipo_lectura: kun
+    significado: Hoy
+    mascara: '---.'
+    frase: (今)日は寒いです。
+    traduccion: Hoy hace frío.
+  - palabra: 今晩
+    lectura: こんばん
+    tipo_lectura: 'on'
+    significado: Esta noche
+    mascara: '--.--'
+    frase: (今)晩は家で休みます。
+    traduccion: Esta noche descanso en casa.
+  - palabra: 今月
+    lectura: こんげつ
+    tipo_lectura: 'on'
+    significado: Este mes
+    mascara: '--.--'
+    frase: (今)月はとても忙しいです。
+    traduccion: Este mes estoy muy ocupado.
+  - palabra: 今頃
+    lectura: いまごろ
+    tipo_lectura: kun
+    significado: A estas horas
+    mascara: '--.--'
+    frase: (今)頃、彼は駅に着いたでしょう。
+    traduccion: A estas horas ya habrá llegado a la estación.
+  - palabra: 昨今
+    lectura: さっこん
+    tipo_lectura: kun
+    significado: Últimamente, hoy en día
+    mascara: '----.'
+    frase: 昨(今)の物価は高いです。
+    traduccion: Los precios de ahora son altos.
+  - palabra: 今世紀
+    lectura: こんせいき
+    tipo_lectura: 'on'
+    significado: Este siglo
+    mascara: '--.--.-'
+    frase: (今)世紀の技術は驚くべきです。
+    traduccion: La tecnología de este siglo es asombrosa.

@@ -1,0 +1,23 @@
+id: 投
+palabras:
+  - palabra: 投げる
+    lectura: なげる
+    tipo_lectura: kun
+    significado: Lanzar, tirar
+    mascara: '-.-.-'
+    frase: 犬にボールを(投)げました。
+    traduccion: Tiré la pelota al perro.
+  - palabra: 投手
+    lectura: とうしゅ
+    tipo_lectura: 'on'
+    significado: Lanzador (de béisbol)
+    mascara: '--.--'
+    frase: この(投)手は速い球を投げます。
+    traduccion: Este lanzador tira bolas rápidas.
+  - palabra: 投票
+    lectura: とうひょう
+    tipo_lectura: 'on'
+    significado: Votación, voto
+    mascara: '--.---'
+    frase: 選挙で(投)票をしました。
+    traduccion: Voté en las elecciones.

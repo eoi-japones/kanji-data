@@ -1,0 +1,79 @@
+id: 金
+palabras:
+  - palabra: お金
+    lectura: おかね
+    tipo_lectura: kun
+    significado: Dinero
+    mascara: '-.--'
+    frase: お(金)を財布に入れました。
+    traduccion: Metí el dinero en la cartera.
+  - palabra: 借金
+    lectura: しゃっきん
+    tipo_lectura: kun
+    significado: Deuda
+    mascara: '-----.'
+    frase: 彼はようやく借(金)を返しました。
+    traduccion: Por fin él devolvió la deuda.
+  - palabra: 大金
+    lectura: たいきん
+    tipo_lectura: 'on'
+    significado: Dineral, gran cantidad de dinero
+    mascara: '--.--'
+    frase: 車を買うのに大(金)を使いました。
+    traduccion: Gasté un dineral en comprar el coche.
+  - palabra: 現金
+    lectura: げんきん
+    tipo_lectura: 'on'
+    significado: Efectivo
+    mascara: '--.--'
+    frase: この店は現(金)しか受け付けません。
+    traduccion: Esta tienda solo acepta efectivo.
+  - palabra: 税金
+    lectura: ぜいきん
+    tipo_lectura: 'on'
+    significado: Impuesto
+    mascara: '--.--'
+    frase: この国の税(金)は高いです。
+    traduccion: Los impuestos de este país son caros.
+  - palabra: 返金
+    lectura: へんきん
+    tipo_lectura: 'on'
+    significado: Reembolso
+    mascara: '--.--'
+    frase: 商品に不備があったので返(金)しました。
+    traduccion: El producto tenía defectos y me devolvieron el dinero.
+  - palabra: 金曜日
+    lectura: きんようび
+    tipo_lectura: 'on'
+    significado: Viernes
+    mascara: '--.--.-'
+    frase: (金)曜日は仕事が終わります。
+    traduccion: El viernes termina el trabajo.
+  - palabra: 金銭
+    lectura: きんせん
+    tipo_lectura: 'on'
+    significado: Dinero, cantidad
+    mascara: '--.--'
+    frase: (金)銭のトラブルは避けたいです。
+    traduccion: Quiero evitar los problemas de dinero.
+  - palabra: 金魚
+    lectura: きんぎょ
+    tipo_lectura: 'on'
+    significado: Pez dorado
+    mascara: '--.--'
+    frase: 水槽の中で(金)魚が泳いでいます。
+    traduccion: Un pez dorado nada en el acuario.
+  - palabra: 賜金
+    lectura: しきん
+    tipo_lectura: 'on'
+    significado: Ayuda económica del gobierno
+    mascara: '-.--'
+    frase: 政府から賜(金)が下りました。
+    traduccion: El gobierno concedió una ayuda económica.
+  - palabra: 金吾
+    lectura: きんご
+    tipo_lectura: 'on'
+    significado: Juego de cartas parecido al black jack
+    mascara: '--.-'
+    frase: (金)吾はブラックジャックに似たカードゲームです。
+    traduccion: Es un juego de cartas parecido al black jack.

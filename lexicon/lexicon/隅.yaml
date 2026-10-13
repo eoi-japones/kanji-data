@@ -1,0 +1,23 @@
+id: 隅
+palabras:
+  - palabra: 一隅
+    lectura: いちぐう
+    tipo_lectura: 'on'
+    significado: Un rincón
+    mascara: '--.--'
+    frase: 教室の一(隅)に置きました。
+    traduccion: Lo puse en un rincón del aula.
+  - palabra: 四隅
+    lectura: よすみ
+    tipo_lectura: kun
+    significado: Las cuatro esquinas
+    mascara: '-.--'
+    frase: 箱の四(隅)をテープで留めました。
+    traduccion: Fijé con cinta las cuatro esquinas de la caja.
+  - palabra: 隅
+    lectura: すみ
+    tipo_lectura: kun
+    significado: Esquina, rincón
+    mascara: '--'
+    frase: 部屋の(隅)に本棚があります。
+    traduccion: En la esquina de la habitación hay una estantería.

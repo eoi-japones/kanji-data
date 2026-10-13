@@ -1,0 +1,37 @@
+id: 葉
+palabras:
+  - palabra: 書き言葉
+    lectura: かきことば
+    tipo_lectura: kun
+    significado: Lenguaje escrito
+    mascara: '-.-.--.-'
+    frase: メールは書き言(葉)の一種です。
+    traduccion: El correo electrónico es una forma de lenguaje escrito.
+  - palabra: 木の葉
+    lectura: このは
+    tipo_lectura: kun
+    significado: Hoja de árbol
+    mascara: '-.-.-'
+    frase: 秋になると木の(葉)が赤くなります。
+    traduccion: En otoño las hojas de los árboles se ponen rojas.
+  - palabra: 紅葉
+    lectura: こうよう
+    tipo_lectura: 'on'
+    significado: Arces enrojecidos
+    mascara: '--.--'
+    frase: 秋に紅(葉)を見に行きます。
+    traduccion: En otoño voy a ver los arces.
+  - palabra: 絵葉書
+    lectura: えはがき
+    tipo_lectura: kun
+    significado: Postal
+    mascara: '-.-.--'
+    frase: 旅行先から絵(葉)書を送りました。
+    traduccion: Envié una postal desde el lugar de vacaciones.
+  - palabra: 話し言葉
+    lectura: はなしことば
+    tipo_lectura: kun
+    significado: Lenguaje hablado
+    mascara: '--.-.--.-'
+    frase: 話し言(葉)は書き言葉と違います。
+    traduccion: El lenguaje hablado es distinto del lenguaje escrito.

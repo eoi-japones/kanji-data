@@ -1,0 +1,16 @@
+id: 蚕
+palabras:
+  - palabra: 蚕
+    lectura: かいこ
+    tipo_lectura: kun
+    significado: Gusano de seda
+    mascara: '---'
+    frase: (蚕)は桑の葉を食べます。
+    traduccion: El gusano de seda come hojas de morera.
+  - palabra: 蚕食
+    lectura: さんしょく
+    tipo_lectura: 'on'
+    significado: Ir ganando terreno
+    mascara: '--.---'
+    frase: ライバル社が市場を(蚕)食しています。
+    traduccion: La empresa rival va ganando terreno en el mercado.

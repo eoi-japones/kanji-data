@@ -1,0 +1,16 @@
+id: 虫
+palabras:
+  - palabra: 虫
+    lectura: むし
+    tipo_lectura: kun
+    significado: Insecto, bicho
+    mascara: '--'
+    frase: 夏は(虫)の声が聞こえます。
+    traduccion: En verano se oyen los insectos.
+  - palabra: 虫食い
+    lectura: むしくい
+    tipo_lectura: kun
+    significado: Agujero de gusano
+    mascara: '--.-.-'
+    frase: りんごに(虫)食いの穴があります。
+    traduccion: La manzana tiene agujeros de gusano.

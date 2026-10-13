@@ -1,0 +1,30 @@
+id: 閉
+palabras:
+  - palabra: 閉まる
+    lectura: しまる
+    tipo_lectura: kun
+    significado: Estar cerrado, cerrarse
+    mascara: '-.-.-'
+    frase: 店は十時に(閉)まります。
+    traduccion: La tienda cierra a las diez.
+  - palabra: 閉める
+    lectura: しめる
+    tipo_lectura: kun
+    significado: Cerrar
+    mascara: '-.-.-'
+    frase: 帰る前に窓を(閉)めてください。
+    traduccion: Cierre la ventana antes de irse.
+  - palabra: 閉店
+    lectura: へいてん
+    tipo_lectura: 'on'
+    significado: Cierre del local
+    mascara: '--.--'
+    frase: この店は今月末で(閉)店します。
+    traduccion: Esta tienda cierra a fin de mes.
+  - palabra: 閉廷
+    lectura: へいてい
+    tipo_lectura: 'on'
+    significado: Cierre de la audiencia
+    mascara: '--.--'
+    frase: 法廷は五時に(閉)廷しました。
+    traduccion: El tribunal se cerró a las cinco.

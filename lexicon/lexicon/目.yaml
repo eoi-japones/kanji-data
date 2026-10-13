@@ -1,0 +1,79 @@
+id: 目
+palabras:
+  - palabra: 丁目
+    lectura: ちょうめ
+    tipo_lectura: kun
+    significado: Barrio numerado, distrito de una ciudad
+    mascara: '---.-'
+    frase: 駅は三丁(目)にあります。
+    traduccion: La estación está en el distrito número tres.
+  - palabra: 切れ目
+    lectura: きれめ
+    tipo_lectura: kun
+    significado: Corte, brecha
+    mascara: '-.-.-'
+    frase: 山の切れ(目)に道があります。
+    traduccion: En la brecha de la montaña hay un camino.
+  - palabra: 目上
+    lectura: めうえ
+    tipo_lectura: kun
+    significado: Superior, jefe
+    mascara: '-.--'
+    frase: 会社で(目)上の人に挨拶しました。
+    traduccion: Saludé a mi superior en la empresa.
+  - palabra: 目下
+    lectura: めした
+    tipo_lectura: kun
+    significado: Subordinado, inferior
+    mascara: '-.--'
+    frase: 彼は私たちの(目)下の者です。
+    traduccion: Él es nuestro subordinado.
+  - palabra: 目標
+    lectura: もくひょう
+    tipo_lectura: 'on'
+    significado: Meta, objetivo
+    mascara: '--.---'
+    frase: 今年の(目)標は日本語能力試験です。
+    traduccion: La meta de este año es el examen de japonés.
+  - palabra: 目測
+    lectura: もくそく
+    tipo_lectura: 'on'
+    significado: Medición a ojo
+    mascara: '--.--'
+    frase: (目)測で長さを決めました。
+    traduccion: Determiné la longitud a ojo.
+  - palabra: 目覚まし時計
+    lectura: めざましどけい
+    tipo_lectura: kun
+    significado: Despertador
+    mascara: '-.-.-.-.-.--'
+    frase: (目)覚まし時計を六時にセットしました。
+    traduccion: He puesto el despertador a las seis.
+  - palabra: 目覚める
+    lectura: めざめる
+    tipo_lectura: kun
+    significado: Despertarse
+    mascara: '-.-.-.-'
+    frase: 毎日六時に(目)覚めます。
+    traduccion: Despierto a las seis todos los días.
+  - palabra: 目録
+    lectura: もくろく
+    tipo_lectura: 'on'
+    significado: Catálogo, inventario
+    mascara: '--.--'
+    frase: 商品の(目)録を渡しました。
+    traduccion: Le entregué el catálogo de productos.
+  - palabra: 裂け目
+    lectura: さけめ
+    tipo_lectura: kun
+    significado: Grieta, rajadura
+    mascara: '-.-.-'
+    frase: 壁に小さな裂け(目)があります。
+    traduccion: En la pared hay una grieta pequeña.
+  - palabra: 項目
+    lectura: こうもく
+    tipo_lectura: 'on'
+    significado: Apartado, categoría
+    mascara: '--.--'
+    frase: 申込書の項(目)を埋めてください。
+    traduccion: Rellene los apartados del formulario.

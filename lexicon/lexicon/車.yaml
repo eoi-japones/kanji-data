@@ -1,0 +1,51 @@
+id: 車
+palabras:
+  - palabra: 下車
+    lectura: げしゃ
+    tipo_lectura: 'on'
+    significado: Bajarse (del transporte)
+    mascara: '-.--'
+    frase: 次の駅で下(車)してください。
+    traduccion: Baje en la próxima estación, por favor.
+  - palabra: 二輪車
+    lectura: にりんしゃ
+    tipo_lectura: 'on'
+    significado: Vehículo de dos ruedas
+    mascara: '-.--.--'
+    frase: 二輪(車)の事故が減りました。
+    traduccion: Han disminuido los accidentes de vehículos de dos ruedas.
+  - palabra: 四輪車
+    lectura: よんりんしゃ
+    tipo_lectura: 'on'
+    significado: Automóvil, coche
+    mascara: '--.--.--'
+    frase: 父は四輪(車)を新しく買いました。
+    traduccion: Mi padre ha comprado un coche nuevo.
+  - palabra: 自転車
+    lectura: じてんしゃ
+    tipo_lectura: 'on'
+    significado: Bicicleta
+    mascara: '-.--.--'
+    frase: 学校まで自転(車)で行きます。
+    traduccion: Voy al colegio en bicicleta.
+  - palabra: 車
+    lectura: くるま
+    tipo_lectura: kun
+    significado: Coche, vehículo
+    mascara: '---'
+    frase: 父は新しい(車)を買いました。
+    traduccion: Mi padre compró un coche nuevo.
+  - palabra: 車輪
+    lectura: しゃりん
+    tipo_lectura: 'on'
+    significado: Rueda (de vehículo)
+    mascara: '--.--'
+    frase: (車)輪が泥にはまりました。
+    traduccion: Las ruedas se clavaron en el barro.
+  - palabra: 電車
+    lectura: でんしゃ
+    tipo_lectura: 'on'
+    significado: Tren eléctrico
+    mascara: '--.--'
+    frase: 毎朝、電(車)で会社へ行きます。
+    traduccion: Todos los mañanas voy al trabajo en tren.

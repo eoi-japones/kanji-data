@@ -1,0 +1,23 @@
+id: 想
+palabras:
+  - palabra: 夢想
+    lectura: むそう
+    tipo_lectura: 'on'
+    significado: Ensueño, fantasía
+    mascara: '-.--'
+    frase: 彼は壮大な夢(想)を抱いています。
+    traduccion: Él alberga grandes ensueños.
+  - palabra: 思想
+    lectura: しそう
+    tipo_lectura: 'on'
+    significado: Pensamiento, ideología
+    mascara: '-.--'
+    frase: この本の思(想)はとても複雑です。
+    traduccion: El pensamiento de este libro es muy complejo.
+  - palabra: 感想
+    lectura: かんそう
+    tipo_lectura: 'on'
+    significado: Impresión, opinión
+    mascara: '--.--'
+    frase: 映画の感(想)を教えてください。
+    traduccion: Cuéntame qué te pareció la película.

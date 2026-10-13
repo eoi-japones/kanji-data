@@ -1,0 +1,23 @@
+id: 頭
+palabras:
+  - palabra: 先頭
+    lectura: せんとう
+    tipo_lectura: 'on'
+    significado: Frente, cabeza (de una cola)
+    mascara: '--.--'
+    frase: 列の先(頭)に並びました。
+    traduccion: Me puse al frente de la cola.
+  - palabra: 頭
+    lectura: あたま
+    tipo_lectura: kun
+    significado: Cabeza
+    mascara: '---'
+    frase: 昨日から(頭)が痛いです。
+    traduccion: Desde ayer me duele la cabeza.
+  - palabra: 頭文字
+    lectura: かしらもじ
+    tipo_lectura: kun
+    significado: Inicial
+    mascara: '-----..'
+    frase: 名前の(頭)文字は何ですか。
+    traduccion: ¿Cuál es la inicial de tu nombre?

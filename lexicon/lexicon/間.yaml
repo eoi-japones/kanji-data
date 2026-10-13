@@ -1,0 +1,93 @@
+id: 間
+palabras:
+  - palabra: あっという間
+    lectura: あっというま
+    tipo_lectura: kun
+    significado: En un instante
+    mascara: '-.-.-.-.-.-'
+    frase: 十年はあっという(間)でした。
+    traduccion: Diez años pasaron en un instante.
+  - palabra: この間
+    lectura: このあいだ
+    tipo_lectura: kun
+    significado: El otro día, hace poco
+    mascara: '-.-.---'
+    frase: この(間)、大阪へ行きました。
+    traduccion: El otro día fui a Osaka.
+  - palabra: 一時間
+    lectura: いちじかん
+    tipo_lectura: 'on'
+    significado: Una hora
+    mascara: '--.-.--'
+    frase: 駅まで一時(間)もかかりました。
+    traduccion: Tardé hasta una hora en llegar a la estación.
+  - palabra: 世間
+    lectura: せけん
+    tipo_lectura: 'on'
+    significado: El mundo, la sociedad
+    mascara: '-.--'
+    frase: 世(間)は狭いものです。
+    traduccion: El mundo es pequeño.
+  - palabra: 中間
+    lectura: ちゅうかん
+    tipo_lectura: 'on'
+    significado: Mitad, término medio
+    mascara: '---.--'
+    frase: 中(間)試験は来週あります。
+    traduccion: El examen parcial es la semana que viene.
+  - palabra: 人間
+    lectura: にんげん
+    tipo_lectura: 'on'
+    significado: Ser humano, persona
+    mascara: '--.--'
+    frase: 人(間)は誰でも間違えます。
+    traduccion: Todo ser humano se equivoca alguna vez.
+  - palabra: 分間
+    lectura: ふんかん
+    tipo_lectura: 'on'
+    significado: Durante unos minutos
+    mascara: '--.--'
+    frase: 授業は四十分(間)続きます。
+    traduccion: La clase dura cuarenta minutos.
+  - palabra: 昼間
+    lectura: ひるま
+    tipo_lectura: kun
+    significado: De día, durante el día
+    mascara: '--.-'
+    frase: 昼(間)は家にいません。
+    traduccion: De día no estoy en casa.
+  - palabra: 時間
+    lectura: じかん
+    tipo_lectura: 'on'
+    significado: Tiempo, horas
+    mascara: '-.--'
+    frase: 今、時(間)がありません。
+    traduccion: Ahora no tengo tiempo.
+  - palabra: 洋間
+    lectura: ようま
+    tipo_lectura: kun
+    significado: Habitación de estilo occidental
+    mascara: '--.-'
+    frase: ホテルの洋(間)を予約しました。
+    traduccion: Reservé una habitación de estilo occidental en el hotel.
+  - palabra: 間近
+    lectura: まぢか
+    tipo_lectura: kun
+    significado: Cerca, inminente
+    mascara: '-.--'
+    frase: 試験が(間)近に迫っています。
+    traduccion: El examen se acerca.
+  - palabra: 間際
+    lectura: まぎわ
+    tipo_lectura: kun
+    significado: Vísperas, umbral
+    mascara: '-.--'
+    frase: 出発の(間)際に雨が降りました。
+    traduccion: Justo antes de salir empezó a llover.
+  - palabra: 雲間
+    lectura: くもま
+    tipo_lectura: kun
+    significado: Hueco entre nubes
+    mascara: '--.-'
+    frase: 雲(間)から星が見えます。
+    traduccion: Entre las nubes se ven las estrellas.

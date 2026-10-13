@@ -1,0 +1,23 @@
+id: 河
+palabras:
+  - palabra: 河口
+    lectura: かこう
+    tipo_lectura: 'on'
+    significado: Desembocadura del río
+    mascara: '-.--'
+    frase: 川の(河)口に大きな町があります。
+    traduccion: En la desembocadura del río hay una ciudad grande.
+  - palabra: 河川
+    lectura: かせん
+    tipo_lectura: 'on'
+    significado: Ríos
+    mascara: '-.--'
+    frase: 雨で(河)川の水が増えました。
+    traduccion: Con la lluvia ha subido el agua de los ríos.
+  - palabra: 銀河
+    lectura: ぎんが
+    tipo_lectura: 'on'
+    significado: Vía Láctea, galaxia
+    mascara: '--.-'
+    frase: 夜空に銀(河)が見えます。
+    traduccion: En el cielo nocturno se ve la Vía Láctea.

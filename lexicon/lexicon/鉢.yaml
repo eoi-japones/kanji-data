@@ -1,0 +1,23 @@
+id: 鉢
+palabras:
+  - palabra: 火鉢
+    lectura: ひばち
+    tipo_lectura: 'on'
+    significado: Brasero
+    mascara: '-.--'
+    frase: 祖母は火(鉢)で手を温めました。
+    traduccion: Mi abuela se calentó las manos en el brasero.
+  - palabra: 鉢
+    lectura: はち
+    tipo_lectura: 'on'
+    significado: Maceta, cuenco
+    mascara: '--'
+    frase: 窓辺に花の(鉢)が並んでいます。
+    traduccion: Junto a la ventana se alinean macetas de flores.
+  - palabra: 小鉢
+    lectura: こばち
+    tipo_lectura: 'on'
+    significado: Cuenco pequeño
+    mascara: '-.--'
+    frase: 小(鉢)に小菜を盛りました。
+    traduccion: Puse una guarnición en el cuenco pequeño.

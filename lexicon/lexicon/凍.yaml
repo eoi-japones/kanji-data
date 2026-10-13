@@ -1,0 +1,30 @@
+id: 凍
+palabras:
+  - palabra: 冷凍
+    lectura: れいとう
+    tipo_lectura: 'on'
+    significado: Congelación
+    mascara: '--.--'
+    frase: 食品は冷(凍)で保存します。
+    traduccion: Los alimentos se conservan congelados.
+  - palabra: 凍える
+    lectura: こごえる
+    tipo_lectura: kun
+    significado: Helarse (de frío)
+    mascara: '--.-.-'
+    frase: 手が(凍)えて指が動きません。
+    traduccion: Se me helaron las manos y no puedo mover los dedos.
+  - palabra: 凍る
+    lectura: こおる
+    tipo_lectura: kun
+    significado: Helarse
+    mascara: '--.-'
+    frase: 池の表面が(凍)りました。
+    traduccion: La superficie del estanque se heló.
+  - palabra: 凍結
+    lectura: とうけつ
+    tipo_lectura: 'on'
+    significado: Congelación, bloqueo
+    mascara: '--.--'
+    frase: アカウントが(凍)結されました。
+    traduccion: La cuenta ha quedado bloqueada.

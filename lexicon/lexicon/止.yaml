@@ -1,0 +1,23 @@
+id: 止
+palabras:
+  - palabra: 中止
+    lectura: ちゅうし
+    tipo_lectura: 'on'
+    significado: Suspensión, cancelación
+    mascara: '---.-'
+    frase: 雨で試合が中(止)になりました。
+    traduccion: El partido se suspendió por la lluvia.
+  - palabra: 止まる
+    lectura: とどまる
+    tipo_lectura: kun
+    significado: Detenerse, pararse
+    mascara: '--.-.-'
+    frase: バスは駅前に三十分(止)どまります。
+    traduccion: El autobús se queda treinta minutos delante de la estación.
+  - palabra: 止める
+    lectura: とめる
+    tipo_lectura: kun
+    significado: Parar, detener
+    mascara: '-.-.-'
+    frase: ここで車を(止)めてください。
+    traduccion: Pare el coche aquí.

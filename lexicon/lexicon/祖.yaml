@@ -1,0 +1,37 @@
+id: 祖
+palabras:
+  - palabra: 先祖
+    lectura: せんぞ
+    tipo_lectura: 'on'
+    significado: Antepasados
+    mascara: '--.-'
+    frase: 家には先(祖)の写真が飾ってあります。
+    traduccion: En casa hay fotos de los antepasados.
+  - palabra: 宗祖
+    lectura: しゅうそ
+    tipo_lectura: 'on'
+    significado: Fundador de una secta
+    mascara: '---.-'
+    frase: 寺には宗(祖)の像が祭られています。
+    traduccion: En el templo está venerada la estatua del fundador.
+  - palabra: 祖先
+    lectura: そせん
+    tipo_lectura: 'on'
+    significado: Antepasado, progenitor
+    mascara: '-.--'
+    frase: 日本の(祖)先は大陸から来ました。
+    traduccion: Los antepasados de Japón vinieron del continente.
+  - palabra: 祖国
+    lectura: そこく
+    tipo_lectura: 'on'
+    significado: Patria
+    mascara: '-.--'
+    frase: 彼はやがて(祖)国へ帰りました。
+    traduccion: Él al final volvió a su patria.
+  - palabra: 祖母
+    lectura: そぼ
+    tipo_lectura: 'on'
+    significado: Abuela
+    mascara: '-.-'
+    frase: (祖)母は田舎に住んでいます。
+    traduccion: Mi abuela vive en el campo.

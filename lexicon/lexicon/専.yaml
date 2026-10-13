@@ -1,0 +1,30 @@
+id: 専
+palabras:
+  - palabra: 専ら
+    lectura: もっぱら
+    tipo_lectura: kun
+    significado: Sobre todo, exclusivamente
+    mascara: '---.-'
+    frase: 彼は(専)ら本を読んでいます。
+    traduccion: Él se dedica sobre todo a leer libros.
+  - palabra: 専門
+    lectura: せんもん
+    tipo_lectura: 'on'
+    significado: Especialidad
+    mascara: '--.--'
+    frase: 私の(専)門は歴史です。
+    traduccion: Mi especialidad es la historia.
+  - palabra: 専門家
+    lectura: せんもんか
+    tipo_lectura: 'on'
+    significado: Especialista
+    mascara: '--.--.-'
+    frase: この問題は(専)門家に聞いてください。
+    traduccion: Consulte este problema a un especialista.
+  - palabra: 専門店
+    lectura: せんもんてん
+    tipo_lectura: 'on'
+    significado: Tienda especializada
+    mascara: '--.--.--'
+    frase: この街には楽器の(専)門店があります。
+    traduccion: En esta ciudad hay una tienda especializada en instrumentos musicales.

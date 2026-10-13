@@ -1,0 +1,30 @@
+id: 機
+palabras:
+  - palabra: コピー機
+    lectura: コピーき
+    tipo_lectura: 'on'
+    significado: Fotocopiadora
+    mascara: '----...'
+    frase: コピー(機)で資料をコピーしました。
+    traduccion: Copié los documentos en la fotocopiadora.
+  - palabra: 時機
+    lectura: じき
+    tipo_lectura: 'on'
+    significado: Momento oportuno
+    mascara: '-.-'
+    frase: 今は話す時(機)ではありません。
+    traduccion: Ahora no es el momento de hablar.
+  - palabra: 機体
+    lectura: きたい
+    tipo_lectura: 'on'
+    significado: Fuselaje
+    mascara: '-.--'
+    frase: (機)体に異音が聞こえました。
+    traduccion: Se oyó un ruido raro en el fuselaje.
+  - palabra: 電話機
+    lectura: でんわき
+    tipo_lectura: 'on'
+    significado: Aparato de teléfono
+    mascara: '--.-.-'
+    frase: 電話(機)の調子が悪いです。
+    traduccion: El teléfono va mal.

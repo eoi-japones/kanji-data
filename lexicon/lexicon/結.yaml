@@ -1,0 +1,30 @@
+id: 結
+palabras:
+  - palabra: 凍結
+    lectura: とうけつ
+    tipo_lectura: 'on'
+    significado: Congelación, bloqueo
+    mascara: '--.--'
+    frase: アカウントが凍(結)されました。
+    traduccion: La cuenta ha quedado bloqueada.
+  - palabra: 結び
+    lectura: むすび
+    tipo_lectura: kun
+    significado: Nudo, desenlace
+    mascara: '--.-'
+    frase: 映画の(結)びは感動的でした。
+    traduccion: El desenlace de la película fue conmovedor.
+  - palabra: 結ぶ
+    lectura: むすぶ
+    tipo_lectura: kun
+    significado: Atar, unir
+    mascara: '--.-'
+    frase: 靴のひもを(結)びました。
+    traduccion: Até los cordones de los zapatos.
+  - palabra: 結成
+    lectura: けっせい
+    tipo_lectura: 'on'
+    significado: Formación (de un grupo)
+    mascara: '----.'
+    frase: 彼らはバンドを(結)成しました。
+    traduccion: Ellos formaron una banda.

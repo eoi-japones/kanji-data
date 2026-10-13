@@ -1,0 +1,72 @@
+id: 天
+palabras:
+  - palabra: 天の川
+    lectura: あまのがわ
+    tipo_lectura: kun
+    significado: Vía Láctea
+    mascara: '--.-.--'
+    frase: 夜空に(天)の川が光っています。
+    traduccion: La Vía Láctea brilla en el cielo nocturno.
+  - palabra: 天ぷら
+    lectura: てんぷら
+    tipo_lectura: 'on'
+    significado: Tempura
+    mascara: '--.-.-'
+    frase: 今日は(天)ぷらを作ります。
+    traduccion: Hoy voy a preparar tempura.
+  - palabra: 天国
+    lectura: てんごく
+    tipo_lectura: 'on'
+    significado: Cielo, paraíso
+    mascara: '--.--'
+    frase: 祖母は(天)国にいます。
+    traduccion: Mi abuela está en el cielo.
+  - palabra: 天才
+    lectura: てんさい
+    tipo_lectura: 'on'
+    significado: Genio
+    mascara: '--.--'
+    frase: 彼は音楽の(天)才です。
+    traduccion: Él es un genio de la música.
+  - palabra: 天皇
+    lectura: てんのう
+    tipo_lectura: 'on'
+    significado: Emperador de Japón
+    mascara: '----.'
+    frase: (天)皇は日本の象徴です。
+    traduccion: El emperador es el símbolo de Japón.
+  - palabra: 晴天
+    lectura: せいてん
+    tipo_lectura: 'on'
+    significado: Cielo despejado
+    mascara: '--.--'
+    frase: 運動会は晴(天)に恵まれました。
+    traduccion: El día del deporte nos dio un cielo despejado.
+  - palabra: 炎天
+    lectura: えんてん
+    tipo_lectura: 'on'
+    significado: Sol abrasador
+    mascara: '--.--'
+    frase: 炎(天)下で運動会を行いました。
+    traduccion: Hicimos el día del deporte bajo el sol abrasador.
+  - palabra: 天津神
+    lectura: あまつかみ
+    tipo_lectura: kun
+    significado: Dioses del cielo
+    mascara: '--.-.--'
+    frase: (天)津神は高天原にいます。
+    traduccion: Los dioses del cielo habitan en Takamagahara.
+  - palabra: 天険
+    lectura: てんけん
+    tipo_lectura: 'on'
+    significado: Barranco natural, defensa natural
+    mascara: '--.--'
+    frase: 城は(天)険に守られています。
+    traduccion: El castillo está protegido por barrancos naturales.
+  - palabra: 沖天
+    lectura: ちゅうてん
+    tipo_lectura: 'on'
+    significado: Alzarse al cielo
+    mascara: '---.--'
+    frase: 炎が沖(天)にそびえました。
+    traduccion: Las llamas se alzaron hasta el cielo.

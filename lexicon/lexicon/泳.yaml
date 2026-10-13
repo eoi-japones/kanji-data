@@ -1,0 +1,23 @@
+id: 泳
+palabras:
+  - palabra: 水泳
+    lectura: すいえい
+    tipo_lectura: 'on'
+    significado: Natación
+    mascara: '--.--'
+    frase: 水(泳)の練習を毎日しています。
+    traduccion: Entreno natación todos los días.
+  - palabra: 泳ぎ
+    lectura: およぎ
+    tipo_lectura: kun
+    significado: Natación, nado
+    mascara: '--.-'
+    frase: プールで(泳)ぎをしました。
+    traduccion: Nadé en la piscina.
+  - palabra: 泳ぐ
+    lectura: およぐ
+    tipo_lectura: kun
+    significado: Nadar
+    mascara: '--.-'
+    frase: 夏は川で(泳)ぎます。
+    traduccion: En verano nado en el río.

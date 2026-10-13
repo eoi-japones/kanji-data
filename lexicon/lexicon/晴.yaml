@@ -1,0 +1,23 @@
+id: 晴
+palabras:
+  - palabra: 晴れ
+    lectura: はれ
+    tipo_lectura: kun
+    significado: Día despejado, sol
+    mascara: '-.-'
+    frase: 今日は(晴)れです。
+    traduccion: Hoy hace sol.
+  - palabra: 晴れる
+    lectura: はれる
+    tipo_lectura: kun
+    significado: Despejarse, cesar la lluvia
+    mascara: '-.-.-'
+    frase: 午後から雨が(晴)れるでしょう。
+    traduccion: Por la tarde dejará de llover.
+  - palabra: 晴天
+    lectura: せいてん
+    tipo_lectura: 'on'
+    significado: Cielo despejado
+    mascara: '--.--'
+    frase: 運動会は(晴)天に恵まれました。
+    traduccion: El día del deporte nos dio un cielo despejado.

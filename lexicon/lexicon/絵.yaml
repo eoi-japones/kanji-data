@@ -1,0 +1,37 @@
+id: 絵
+palabras:
+  - palabra: 影絵
+    lectura: かげえ
+    tipo_lectura: 'on'
+    significado: Teatro de sombras
+    mascara: '--.-'
+    frase: 子供たちは影(絵)を作りました。
+    traduccion: Los niños montaron un teatro de sombras.
+  - palabra: 絵
+    lectura: え
+    tipo_lectura: 'on'
+    significado: Dibujo, pintura
+    mascara: '-'
+    frase: 子供はきれいな(絵)を描きました。
+    traduccion: El niño dibujó un dibujo bonito.
+  - palabra: 絵本
+    lectura: えほん
+    tipo_lectura: 'on'
+    significado: Libro ilustrado
+    mascara: '-.--'
+    frase: 寝る前に子供に(絵)本を読みます。
+    traduccion: Antes de dormir leo un libro ilustrado al niño.
+  - palabra: 絵画
+    lectura: かいが
+    tipo_lectura: 'on'
+    significado: Pintura (como disciplina)
+    mascara: '--.-'
+    frase: 学校で(絵)画の授業があります。
+    traduccion: En el colegio hay clase de pintura.
+  - palabra: 絵葉書
+    lectura: えはがき
+    tipo_lectura: 'on'
+    significado: Postal
+    mascara: '-.-.--'
+    frase: 旅行先から(絵)葉書を送りました。
+    traduccion: Envié una postal desde el lugar de vacaciones.

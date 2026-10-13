@@ -1,0 +1,30 @@
+id: 冊
+palabras:
+  - palabra: 一冊
+    lectura: いっさつ
+    tipo_lectura: 'on'
+    significado: Un libro, un volumen
+    mascara: '----.'
+    frase: 図書館で本を一(冊)借りました。
+    traduccion: Tomé prestado un libro en la biblioteca.
+  - palabra: 冊子
+    lectura: さっし
+    tipo_lectura: 'on'
+    significado: Librito, folleto encuadernado
+    mascara: '---.'
+    frase: 博物館で(冊)子を買いました。
+    traduccion: Compré un librito en el museo.
+  - palabra: 別冊
+    lectura: べっさつ
+    tipo_lectura: 'on'
+    significado: Suplemento, volumen aparte
+    mascara: '----.'
+    frase: 雑誌に別(冊)が付いています。
+    traduccion: La revista viene con un suplemento aparte.
+  - palabra: 小冊子
+    lectura: しょうさっし
+    tipo_lectura: 'on'
+    significado: Folleto, librito
+    mascara: '------..'
+    frase: 入口で小(冊)子を配りました。
+    traduccion: Repartimos folletos en la entrada.

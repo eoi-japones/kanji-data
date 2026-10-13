@@ -1,0 +1,30 @@
+id: 習
+palabras:
+  - palabra: 学習
+    lectura: がくしゅう
+    tipo_lectura: 'on'
+    significado: Estudio, aprendizaje
+    mascara: '--.---'
+    frase: 毎朝、机で学(習)します。
+    traduccion: Cada mañana estudio en mi escritorio.
+  - palabra: 習う
+    lectura: ならう
+    tipo_lectura: kun
+    significado: Aprender, estudiar con profesor
+    mascara: '--.-'
+    frase: 毎週、日本語を(習)っています。
+    traduccion: Cada semana tomo clases de japonés.
+  - palabra: 自習
+    lectura: じしゅう
+    tipo_lectura: 'on'
+    significado: Trabajo autónomo
+    mascara: '-.---'
+    frase: 放課後に教室で自(習)をしました。
+    traduccion: Hice trabajo autónomo en el aula después de clase.
+  - palabra: 学習塾
+    lectura: がくしゅうじゅく
+    tipo_lectura: 'on'
+    significado: Academia de refuerzo
+    mascara: '--.---.---'
+    frase: 学(習)塾は駅の近くにあります。
+    traduccion: La academia está cerca de la estación.

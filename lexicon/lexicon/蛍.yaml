@@ -1,0 +1,16 @@
+id: 蛍
+palabras:
+  - palabra: 蛍
+    lectura: ほたる
+    tipo_lectura: kun
+    significado: Luciérnaga
+    mascara: '---'
+    frase: 夏の夜に(蛍)が舞いました。
+    traduccion: En la noche de verano bailaban luciérnagas.
+  - palabra: 蛍光灯
+    lectura: けいこうとう
+    tipo_lectura: 'on'
+    significado: Lámpara fluorescente
+    mascara: '--.--.--'
+    frase: 事務所は(蛍)光灯で明るいです。
+    traduccion: La oficina está iluminada con fluorescentes.

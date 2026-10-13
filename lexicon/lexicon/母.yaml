@@ -1,0 +1,44 @@
+id: 母
+palabras:
+  - palabra: 分母
+    lectura: ぶんぼ
+    tipo_lectura: 'on'
+    significado: Denominador
+    mascara: '--.-'
+    frase: 分数では下の数が分(母)です。
+    traduccion: En una fracción, el número de abajo es el denominador.
+  - palabra: 叔母
+    lectura: おば
+    tipo_lectura: kun
+    significado: Tía
+    mascara: '--.'
+    frase: 叔(母)がケーキを焼きました。
+    traduccion: Mi tía horneó un bizcocho.
+  - palabra: 母
+    lectura: はは
+    tipo_lectura: kun
+    significado: Madre
+    mascara: '--'
+    frase: (母)の料理はとてもおいしいです。
+    traduccion: La comida de mi madre está muy rica.
+  - palabra: 母さん
+    lectura: かあさん
+    tipo_lectura: kun
+    significado: Madre, mamá
+    mascara: '--.-.-'
+    frase: (母)さんと一緒に買い物へ行きました。
+    traduccion: Fui de compras con mi madre.
+  - palabra: 母校
+    lectura: ぼこう
+    tipo_lectura: 'on'
+    significado: Antiguo colegio, alma máter
+    mascara: '-.--'
+    frase: 今週、(母)校を訪れました。
+    traduccion: Esta semana visité mi antiguo colegio.
+  - palabra: 祖母
+    lectura: そぼ
+    tipo_lectura: 'on'
+    significado: Abuela
+    mascara: '-.-'
+    frase: 祖(母)は田舎に住んでいます。
+    traduccion: Mi abuela vive en el campo.

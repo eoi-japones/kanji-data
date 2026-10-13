@@ -1,0 +1,16 @@
+id: 丁
+palabras:
+  - palabra: 一丁
+    lectura: いっちょう
+    tipo_lectura: 'on'
+    significado: Una pieza, una ración
+    mascara: '-----.'
+    frase: 食堂でラーメンを一(丁)食べました。
+    traduccion: Me comí un ramen entero en la cafetería.
+  - palabra: 丁目
+    lectura: ちょうめ
+    tipo_lectura: 'on'
+    significado: Barrio numerado, distrito de una ciudad
+    mascara: '---.-'
+    frase: 駅は三(丁)目にあります。
+    traduccion: La estación está en el distrito número tres.

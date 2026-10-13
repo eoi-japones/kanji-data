@@ -1,0 +1,23 @@
+id: 泉
+palabras:
+  - palabra: 泉
+    lectura: いずみ
+    tipo_lectura: kun
+    significado: Fuente, manantial
+    mascara: '---'
+    frase: 庭に古い(泉)があります。
+    traduccion: En el jardín hay una fuente vieja.
+  - palabra: 泉水
+    lectura: せんすい
+    tipo_lectura: 'on'
+    significado: Fuente (de jardín)
+    mascara: '--.--'
+    frase: 寺の庭には小さな(泉)水があります。
+    traduccion: En el jardín del templo hay una fuente pequeña.
+  - palabra: 温泉
+    lectura: おんせん
+    tipo_lectura: 'on'
+    significado: Aguas termales, onsen
+    mascara: '--.--'
+    frase: 週末に温(泉)へ行きました。
+    traduccion: El fin de semana fui a unos baños termales.

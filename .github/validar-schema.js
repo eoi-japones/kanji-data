@@ -240,7 +240,14 @@ function validarFichero(kanjiData, tipo, ruta){
   else{
 
     clavesUnicas[kanjiData.clave] = kanjiData
-    kanjisPorId[kanjiData.id] = kanjiData
+
+    // Un mismo carácter puede tener dos fichas: la del kanji y la del
+    // componente (冊, 𠂢). Solo es «solo componente» si todas sus fichas lo
+    // declaran así; basta una ficha de kanji real para que exista en la
+    // lengua y pueda tener lexicon. Ver ADR 0010.
+    const previo = kanjisPorId[kanjiData.id]
+
+    kanjisPorId[kanjiData.id] = (previo && !previo.solo_componente) ? previo : kanjiData
   }
 
 }

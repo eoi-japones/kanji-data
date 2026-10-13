@@ -1,0 +1,23 @@
+id: 八
+palabras:
+  - palabra: お八つ
+    lectura: おやつ
+    tipo_lectura: kun
+    significado: Merienda, alimento de media tarde
+    mascara: '-.-.-'
+    frase: お(八)つにパンとお茶を食べました。
+    traduccion: Comí pan y tomé té de merienda.
+  - palabra: 八つ
+    lectura: やっつ
+    tipo_lectura: kun
+    significado: Ocho; ocho años
+    mascara: '--.-'
+    frase: (八)つ葉のクローバーを見つけました。
+    traduccion: Encontré un trébol de ocho hojas.
+  - palabra: 十八
+    lectura: じゅうはち
+    tipo_lectura: 'on'
+    significado: Dieciocho
+    mascara: '---.--'
+    frase: 妹は十(八)歳で、大学生です。
+    traduccion: Mi hermana menor tiene dieciocho años y va a la universidad.

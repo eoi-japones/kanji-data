@@ -1,0 +1,37 @@
+id: 洋
+palabras:
+  - palabra: 東洋
+    lectura: とうよう
+    tipo_lectura: 'on'
+    significado: Oriente
+    mascara: '--.--'
+    frase: 東(洋)の文化にとても興味があります。
+    traduccion: Me interesa mucho la cultura oriental.
+  - palabra: 洋画
+    lectura: ようが
+    tipo_lectura: 'on'
+    significado: Cine extranjero
+    mascara: '--.-'
+    frase: (洋)画と邦画のどちらが好きですか。
+    traduccion: ¿Qué prefieres, el cine extranjero o el japonés?
+  - palabra: 洋間
+    lectura: ようま
+    tipo_lectura: 'on'
+    significado: Habitación de estilo occidental
+    mascara: '--.-'
+    frase: ホテルの(洋)間を予約しました。
+    traduccion: Reservé una habitación de estilo occidental en el hotel.
+  - palabra: 洋食
+    lectura: ようしょく
+    tipo_lectura: 'on'
+    significado: Cocina occidental
+    mascara: '--.---'
+    frase: 今日は(洋)食を作ります。
+    traduccion: Hoy preparo comida occidental.
+  - palabra: 西洋
+    lectura: せいよう
+    tipo_lectura: 'on'
+    significado: Occidente
+    mascara: '--.--'
+    frase: 西(洋)料理も日本料理も好きです。
+    traduccion: Me gustan tanto la cocina occidental como la japonesa.

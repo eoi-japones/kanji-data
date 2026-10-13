@@ -1,0 +1,23 @@
+id: 舗
+palabras:
+  - palabra: 店舗
+    lectura: てんぽ
+    tipo_lectura: 'on'
+    significado: Local, tienda
+    mascara: '--.-'
+    frase: 近くに新しい店(舗)ができました。
+    traduccion: Cerca se ha abierto un local nuevo.
+  - palabra: 老舗
+    lectura: しにせ
+    tipo_lectura: kun
+    significado: Comercio centenario
+    mascara: '---.'
+    frase: この町には老(舗)の菓子屋があります。
+    traduccion: En este pueblo hay una confitería centenaria.
+  - palabra: 舗装
+    lectura: ほそう
+    tipo_lectura: 'on'
+    significado: Asfaltado, pavimentado
+    mascara: '-.--'
+    frase: 前の道路が(舗)装されました。
+    traduccion: Han asfaltado la carretera de delante.

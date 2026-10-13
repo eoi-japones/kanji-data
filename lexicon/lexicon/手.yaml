@@ -1,0 +1,142 @@
+id: 手
+palabras:
+  - palabra: お手伝い
+    lectura: おてつだい
+    tipo_lectura: kun
+    significado: Ayuda, auxilio
+    mascara: '-.-.--.-'
+    frase: 料理の準備で母のお(手)伝いをしました。
+    traduccion: Ayudé a mi madre con la preparación de la comida.
+  - palabra: 上手
+    lectura: じょうず
+    tipo_lectura: 'on'
+    significado: Hábil, experto
+    mascara: '---.-'
+    frase: 彼女は料理が上(手)です。
+    traduccion: Ella cocina muy bien.
+  - palabra: 先手
+    lectura: せんて
+    tipo_lectura: kun
+    significado: Iniciativa, jugada previa
+    mascara: '--.-'
+    frase: 先(手)を打つのが大事です。
+    traduccion: Lo importante es tomar la iniciativa.
+  - palabra: 切手
+    lectura: きって
+    tipo_lectura: kun
+    significado: Sello (de correos)
+    mascara: '---.'
+    frase: 封筒に切(手)を貼りました。
+    traduccion: Pegué un sello en el sobre.
+  - palabra: 右手
+    lectura: みぎて
+    tipo_lectura: kun
+    significado: Mano derecha
+    mascara: '--.-'
+    frase: 彼は右(手)でボールを投げます。
+    traduccion: Él lanza la bola con la mano derecha.
+  - palabra: 小切手
+    lectura: こぎって
+    tipo_lectura: kun
+    significado: Cheque
+    mascara: '----..'
+    frase: 会社に小切(手)を渡しました。
+    traduccion: Entregué un cheque a la empresa.
+  - palabra: 左手
+    lectura: ひだりて
+    tipo_lectura: kun
+    significado: Mano izquierda
+    mascara: '---.-'
+    frase: 左(手)でペンを持ちます。
+    traduccion: Sostengo el bolígrafo con la mano izquierda.
+  - palabra: 手
+    lectura: て
+    tipo_lectura: kun
+    significado: Mano
+    mascara: '-'
+    frase: 食事の前に(手)を洗ってください。
+    traduccion: Lávate las manos antes de comer.
+  - palabra: 手堅い
+    lectura: てがたい
+    tipo_lectura: kun
+    significado: Sólido, fiable
+    mascara: '-.--.-'
+    frase: 彼の仕事は(手)堅いです。
+    traduccion: Su trabajo es sólido.
+  - palabra: 手書き
+    lectura: てがき
+    tipo_lectura: kun
+    significado: Escrito a mano
+    mascara: '-.-.-'
+    frase: (手)書きの手紙をもらいました。
+    traduccion: Recibí una carta escrita a mano.
+  - palabra: 手本
+    lectura: てほん
+    tipo_lectura: kun
+    significado: Modelo, ejemplo
+    mascara: '-.--'
+    frase: 先生の字を(手)本にしてください。
+    traduccion: Use la letra del profesor como modelo.
+  - palabra: 手続き
+    lectura: てつづき
+    tipo_lectura: kun
+    significado: Trámite, procedimiento
+    mascara: '-.--.-'
+    frase: 入館の(手)続きをしてください。
+    traduccion: Haga el trámite de acceso.
+  - palabra: 手話
+    lectura: しゅわ
+    tipo_lectura: 'on'
+    significado: Lengua de señas
+    mascara: '--.-'
+    frase: (手)話で自分の名前を紹介しました。
+    traduccion: Me presenté usando lengua de señas.
+  - palabra: 手際
+    lectura: てぎわ
+    tipo_lectura: kun
+    significado: Manejo, destreza
+    mascara: '-.--'
+    frase: 彼の(手)際は見事でした。
+    traduccion: Su manejo fue espectacular.
+  - palabra: 手順
+    lectura: てじゅん
+    tipo_lectura: kun
+    significado: Procedimiento, paso a paso
+    mascara: '-.---'
+    frase: 作業の(手)順を丁寧に説明しました。
+    traduccion: Expliqué con detalle el procedimiento del trabajo.
+  - palabra: 手首
+    lectura: てくび
+    tipo_lectura: kun
+    significado: Muñeca
+    mascara: '-.--'
+    frase: 転んで(手)首をぶつけました。
+    traduccion: Caí y me golpeé la muñeca.
+  - palabra: 投手
+    lectura: とうしゅ
+    tipo_lectura: 'on'
+    significado: Lanzador (de béisbol)
+    mascara: '--.--'
+    frase: この投(手)は速い球を投げます。
+    traduccion: Este lanzador tira bolas rápidas.
+  - palabra: 聞き手
+    lectura: ききて
+    tipo_lectura: kun
+    significado: Quien escucha, entrevistador
+    mascara: '-.-.-'
+    frase: インタビューでは聞き(手)が大切です。
+    traduccion: En una entrevista quien entrevista es importante.
+  - palabra: 買い手
+    lectura: かいて
+    tipo_lectura: kun
+    significado: Comprador
+    mascara: '-.-.-'
+    frase: この絵には買い(手)がつきました。
+    traduccion: Este cuadro ya tiene comprador.
+  - palabra: 副手
+    lectura: ふくしゅ
+    tipo_lectura: 'on'
+    significado: Asistente, ayudante
+    mascara: '--.--'
+    frase: 彼は主役の副(手)を務めます。
+    traduccion: Él hace de asistente del protagonista.

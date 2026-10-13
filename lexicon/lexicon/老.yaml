@@ -1,0 +1,30 @@
+id: 老
+palabras:
+  - palabra: 初老
+    lectura: しょろう
+    tipo_lectura: 'on'
+    significado: Cincuenta años, cercanía a la vejez
+    mascara: '--.--'
+    frase: 叔父は今年で初(老)を迎えます。
+    traduccion: Mi tío cumple cincuenta años este año.
+  - palabra: 老い
+    lectura: おい
+    tipo_lectura: kun
+    significado: Vejez, envejecimiento
+    mascara: '-.-'
+    frase: 最近、(老)いを感じるようになりました。
+    traduccion: Últimamente empecé a sentir el peso de la edad.
+  - palabra: 老人
+    lectura: ろうじん
+    tipo_lectura: 'on'
+    significado: Persona mayor, anciano
+    mascara: '--.--'
+    frase: 電車で(老)人に席を譲りました。
+    traduccion: Cedí mi asiento a una persona mayor en el tren.
+  - palabra: 老舗
+    lectura: しにせ
+    tipo_lectura: kun
+    significado: Comercio centenario
+    mascara: '---.'
+    frase: この町には(老)舗の菓子屋があります。
+    traduccion: En este pueblo hay una confitería centenaria.

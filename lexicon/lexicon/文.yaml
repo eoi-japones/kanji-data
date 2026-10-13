@@ -1,0 +1,58 @@
+id: 文
+palabras:
+  - palabra: 大文字
+    lectura: おおもじ
+    tipo_lectura: kun
+    significado: Mayúscula
+    mascara: '----..'
+    frase: 名前は大(文)字で書いてください。
+    traduccion: Escriba el nombre con mayúsculas.
+  - palabra: 小文字
+    lectura: こもじ
+    tipo_lectura: kun
+    significado: Minúscula
+    mascara: '---..'
+    frase: 小(文)字で書くと読みにくいです。
+    traduccion: En minúsculas se lee mal.
+  - palabra: 文字
+    lectura: もじ
+    tipo_lectura: kun
+    significado: Carácter, letra
+    mascara: '--.'
+    frase: この(文)字は漢字です。
+    traduccion: Este carácter es un kanji.
+  - palabra: 文学
+    lectura: ぶんがく
+    tipo_lectura: 'on'
+    significado: Literatura
+    mascara: '--.--'
+    frase: 彼は(文)学に大きな興味があります。
+    traduccion: Él tiene mucho interés por la literatura.
+  - palabra: 文明
+    lectura: ぶんめい
+    tipo_lectura: 'on'
+    significado: Civilización
+    mascara: '--.--'
+    frase: 古代の(文)明に興味があります。
+    traduccion: Me interesa la civilización antigua.
+  - palabra: 文芸
+    lectura: ぶんげい
+    tipo_lectura: 'on'
+    significado: Literatura y artes
+    mascara: '--.--'
+    frase: 週末に(文)芸誌を読みました。
+    traduccion: El fin de semana leí una revista literaria.
+  - palabra: 頭文字
+    lectura: かしらもじ
+    tipo_lectura: kun
+    significado: Inicial
+    mascara: '-----..'
+    frase: 名前の頭(文)字は何ですか。
+    traduccion: ¿Cuál es la inicial de tu nombre?
+  - palabra: 文旦
+    lectura: ぶんたん
+    tipo_lectura: 'on'
+    significado: Pomelo
+    mascara: '--.--'
+    frase: (文)旦は冬の果物です。
+    traduccion: El pomelo es una fruta de invierno.

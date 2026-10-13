@@ -1,0 +1,23 @@
+id: 百
+palabras:
+  - palabra: 四百
+    lectura: よんひゃく
+    tipo_lectura: 'on'
+    significado: Cuatrocientos
+    mascara: '--.---'
+    frase: この切手は四(百)円です。
+    traduccion: Este sello cuesta cuatrocientos yenes.
+  - palabra: 数百
+    lectura: すうひゃく
+    tipo_lectura: 'on'
+    significado: Varios cientos
+    mascara: '--.---'
+    frase: 数(百)人が集まりました。
+    traduccion: Se reunieron varios cientos de personas.
+  - palabra: 百
+    lectura: ひゃく
+    tipo_lectura: 'on'
+    significado: Cien
+    mascara: '---'
+    frase: この本は(百)ページあります。
+    traduccion: Este libro tiene cien páginas.

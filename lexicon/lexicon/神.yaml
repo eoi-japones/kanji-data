@@ -1,0 +1,37 @@
+id: 神
+palabras:
+  - palabra: 女神
+    lectura: めがみ
+    tipo_lectura: kun
+    significado: Diosa
+    mascara: '-.--'
+    frase: その神話には女(神)が登場します。
+    traduccion: En ese mito aparece una diosa.
+  - palabra: 神父
+    lectura: しんぷ
+    tipo_lectura: 'on'
+    significado: Sacerdote
+    mascara: '--.-'
+    frase: (神)父さんが教会で説教しました。
+    traduccion: El sacerdote dio un sermón en la iglesia.
+  - palabra: 神話
+    lectura: しんわ
+    tipo_lectura: 'on'
+    significado: Mito, mitología
+    mascara: '--.-'
+    frase: 日本には古い(神)話がたくさんあります。
+    traduccion: Japón tiene muchos mitos antiguos.
+  - palabra: 国津神
+    lectura: くにつかみ
+    tipo_lectura: kun
+    significado: Dioses de la tierra
+    mascara: '--.-.--'
+    frase: 国津(神)は地上を守ります。
+    traduccion: Los dioses de la tierra protegen el suelo.
+  - palabra: 天津神
+    lectura: あまつかみ
+    tipo_lectura: kun
+    significado: Dioses del cielo
+    mascara: '--.-.--'
+    frase: 天津(神)は高天原にいます。
+    traduccion: Los dioses del cielo habitan en Takamagahara.

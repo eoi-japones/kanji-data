@@ -1,0 +1,23 @@
+id: 赤
+palabras:
+  - palabra: 赤い
+    lectura: あかい
+    tipo_lectura: kun
+    significado: Rojo
+    mascara: '--.-'
+    frase: (赤)い車が好きです。
+    traduccion: Me gustan los coches rojos.
+  - palabra: 赤ちゃん
+    lectura: あかちゃん
+    tipo_lectura: kun
+    significado: Bebé
+    mascara: '--.-.-.-'
+    frase: 隣の部屋で(赤)ちゃんが泣いています。
+    traduccion: En la habitación de al lado llora un bebé.
+  - palabra: 赤字
+    lectura: あかじ
+    tipo_lectura: kun
+    significado: Números rojos, déficit
+    mascara: '--.-'
+    frase: 会社は今年(赤)字になりました。
+    traduccion: La empresa ha cerrado el año en números rojos.

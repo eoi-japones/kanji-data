@@ -1,0 +1,23 @@
+id: 判
+palabras:
+  - palabra: 判子
+    lectura: はんこ
+    tipo_lectura: 'on'
+    significado: Sello personal (hanko)
+    mascara: '--.-'
+    frase: 書類に(判)子を押してください。
+    traduccion: Ponga el sello en el documento.
+  - palabra: 判明
+    lectura: はんめい
+    tipo_lectura: 'on'
+    significado: Quedar claro, aclararse
+    mascara: '--.--'
+    frase: 犯人の正体が(判)明しました。
+    traduccion: Se aclaró la identidad del culpable.
+  - palabra: 判決
+    lectura: はんけつ
+    tipo_lectura: 'on'
+    significado: Sentencia, fallo
+    mascara: '--.--'
+    frase: 裁判の(判)決が下りました。
+    traduccion: Se dictó la sentencia del juicio.

@@ -1,0 +1,44 @@
+id: 転
+palabras:
+  - palabra: 移転
+    lectura: いてん
+    tipo_lectura: 'on'
+    significado: Mudanza, traslado
+    mascara: '-.--'
+    frase: 来月アパートに移(転)します。
+    traduccion: El mes que viene me mudo de piso.
+  - palabra: 自転車
+    lectura: じてんしゃ
+    tipo_lectura: 'on'
+    significado: Bicicleta
+    mascara: '-.--.--'
+    frase: 学校まで自(転)車で行きます。
+    traduccion: Voy al colegio en bicicleta.
+  - palabra: 転がす
+    lectura: ころがす
+    tipo_lectura: kun
+    significado: Hacer rodar
+    mascara: '--.-.-'
+    frase: 段ボールを(転)がして運びました。
+    traduccion: Hice rodar la caja de cartón para moverla.
+  - palabra: 転がる
+    lectura: ころがる
+    tipo_lectura: kun
+    significado: Rodar
+    mascara: '--.-.-'
+    frase: ボールが坂を(転)がりました。
+    traduccion: La pelota rodó cuesta abajo.
+  - palabra: 転売
+    lectura: てんばい
+    tipo_lectura: 'on'
+    significado: Revender, reventa
+    mascara: '--.--'
+    frase: チケットの(転)売は違法です。
+    traduccion: Revender entradas es ilegal.
+  - palabra: 運転
+    lectura: うんてん
+    tipo_lectura: 'on'
+    significado: Conducción
+    mascara: '--.--'
+    frase: 彼は十年の運(転)経験があります。
+    traduccion: Él tiene diez años de experiencia al volante.

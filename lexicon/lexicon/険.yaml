@@ -1,0 +1,16 @@
+id: 険
+palabras:
+  - palabra: 険しい
+    lectura: けわしい
+    tipo_lectura: kun
+    significado: Escarpado, abrupto
+    mascara: '--.-.-'
+    frase: この山道は(険)しいです。
+    traduccion: Este camino de montaña es escarpado.
+  - palabra: 天険
+    lectura: てんけん
+    tipo_lectura: 'on'
+    significado: Barranco natural, defensa natural
+    mascara: '--.--'
+    frase: 城は天(険)に守られています。
+    traduccion: El castillo está protegido por barrancos naturales.

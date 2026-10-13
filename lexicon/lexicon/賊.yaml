@@ -1,0 +1,16 @@
+id: 賊
+palabras:
+  - palabra: 山賊
+    lectura: さんぞく
+    tipo_lectura: 'on'
+    significado: Bandido
+    mascara: '--.--'
+    frase: 山(賊)が旅人を襲いました。
+    traduccion: Los bandidos atacaron a los viajeros.
+  - palabra: 海賊
+    lectura: かいぞく
+    tipo_lectura: 'on'
+    significado: Pirata
+    mascara: '--.--'
+    frase: 海(賊)の映画はいつも面白いです。
+    traduccion: Las películas de piratas siempre son divertidas.

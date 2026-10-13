@@ -1,0 +1,44 @@
+id: 三
+palabras:
+  - palabra: 三つ
+    lectura: みっつ
+    tipo_lectura: kun
+    significado: Tres; tres años
+    mascara: '--.-'
+    frase: りんごを(三)つください。
+    traduccion: Deme tres manzanas, por favor.
+  - palabra: 三人
+    lectura: さんにん
+    tipo_lectura: 'on'
+    significado: Tres personas
+    mascara: '--.--'
+    frase: 私たちの家族は(三)人です。
+    traduccion: Nuestra familia somos tres.
+  - palabra: 三日月
+    lectura: みかづき
+    tipo_lectura: kun
+    significado: Luna creciente, luna nueva
+    mascara: '-.-.--'
+    frase: 夜空に(三)日月が出ました。
+    traduccion: Salió la luna creciente en el cielo nocturno.
+  - palabra: 三時
+    lectura: さんじ
+    tipo_lectura: 'on'
+    significado: Las tres, tres en punto
+    mascara: '--.-'
+    frase: (三)時に駅で会いましょう。
+    traduccion: Nos vemos en la estación a las tres.
+  - palabra: 十三
+    lectura: じゅうさん
+    tipo_lectura: 'on'
+    significado: Trece
+    mascara: '---.--'
+    frase: この教室には十(三)人います。
+    traduccion: En este aula hay trece personas.
+  - palabra: 三府
+    lectura: さんぷ
+    tipo_lectura: 'on'
+    significado: Las tres ciudades prefecturales
+    mascara: '--.-'
+    frase: かつての(三)府は東京、京都、大阪です。
+    traduccion: Las tres ciudades prefecturales eran Tokio, Kioto y Osaka.

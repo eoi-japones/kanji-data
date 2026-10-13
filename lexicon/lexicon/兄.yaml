@@ -1,0 +1,23 @@
+id: 兄
+palabras:
+  - palabra: お兄さん
+    lectura: おにいさん
+    tipo_lectura: kun
+    significado: Hermano mayor
+    mascara: '-.--.-.-'
+    frase: お(兄)さんは会社で働いています。
+    traduccion: Mi hermano mayor trabaja en una empresa.
+  - palabra: 兄
+    lectura: あに
+    tipo_lectura: kun
+    significado: Hermano mayor
+    mascara: '--'
+    frase: 私の(兄)は医者です。
+    traduccion: Mi hermano mayor es médico.
+  - palabra: 兄さん
+    lectura: にいさん
+    tipo_lectura: kun
+    significado: Hermano mayor
+    mascara: '--.-.-'
+    frase: (兄)さんによろしくと言ってください。
+    traduccion: Pasa de mi parte un saludo a tu hermano mayor.

@@ -1,0 +1,16 @@
+id: 蝶
+palabras:
+  - palabra: 蝶
+    lectura: ちょう
+    tipo_lectura: 'on'
+    significado: Mariposa
+    mascara: '---'
+    frase: (蝶)が花の上で舞っています。
+    traduccion: Una mariposa revolotea sobre la flor.
+  - palabra: 蝶々
+    lectura: ちょうちょう
+    tipo_lectura: 'on'
+    significado: Mariposa
+    mascara: '------.'
+    frase: 庭に(蝶)々が飛んでいます。
+    traduccion: Vuelan mariposas por el jardín.

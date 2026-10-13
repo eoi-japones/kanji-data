@@ -1,0 +1,23 @@
+id: 揺
+palabras:
+  - palabra: 揺する
+    lectura: ゆする
+    tipo_lectura: kun
+    significado: Sacudir, mecer
+    mascara: '-.-.-'
+    frase: 眠れない子供を静かに(揺)しました。
+    traduccion: Mecí despacio al niño que no podía dormir.
+  - palabra: 揺らぎ
+    lectura: ゆらぎ
+    tipo_lectura: kun
+    significado: Temblores, vaivén
+    mascara: '-.-.-'
+    frase: 炎の(揺)らぎを見つめました。
+    traduccion: Me quedé mirando el temblor de la llama.
+  - palabra: 揺らぐ
+    lectura: ゆらぐ
+    tipo_lectura: kun
+    significado: Balancearse, vacilar
+    mascara: '-.-.-'
+    frase: 強い風で木が(揺)らぎました。
+    traduccion: El viento fuerte hizo balancear los árboles.

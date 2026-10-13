@@ -1,0 +1,44 @@
+id: 田
+palabras:
+  - palabra: 水田
+    lectura: すいでん
+    tipo_lectura: 'on'
+    significado: Arrozal inundado
+    mascara: '--.--'
+    frase: 夏になると水(田)が緑になります。
+    traduccion: En verano los arrozales se ponen verdes.
+  - palabra: 沼田
+    lectura: ぬまた
+    tipo_lectura: kun
+    significado: Arrozal de barro profundo
+    mascara: '--.-'
+    frase: 沼(田)は群馬県の市です。
+    traduccion: Numata es una ciudad de la prefectura de Gunma.
+  - palabra: 田
+    lectura: た
+    tipo_lectura: kun
+    significado: Campo de arroz, arrozal
+    mascara: '-'
+    frase: 祖父の家は(田)の中にあります。
+    traduccion: La casa de mi abuelo está en medio de los campos de arroz.
+  - palabra: 田んぼ
+    lectura: たんぼ
+    tipo_lectura: kun
+    significado: Arrozal, campo inundado
+    mascara: '-.-.-'
+    frase: 雨の後で(田)んぼに水がたまりました。
+    traduccion: Tras la lluvia se ha acumulado agua en el arrozal.
+  - palabra: 田畑
+    lectura: たはた
+    tipo_lectura: kun
+    significado: Campos de arroz y secano
+    mascara: '-.--'
+    frase: 車窓から(田)畑が見えました。
+    traduccion: Desde la ventanilla del tren se veían los campos.
+  - palabra: 田紳
+    lectura: でんしん
+    tipo_lectura: 'on'
+    significado: Señor del campo
+    mascara: '--.--'
+    frase: (田)紳は村の集まりで話しました。
+    traduccion: El señor del campo habló en la reunión.

@@ -1,0 +1,23 @@
+id: 宿
+palabras:
+  - palabra: 宿
+    lectura: やど
+    tipo_lectura: kun
+    significado: Posada, ryokan
+    mascara: '--'
+    frase: 海辺の(宿)に二泊しました。
+    traduccion: Me alojé dos noches en una posada de la costa.
+  - palabra: 宿る
+    lectura: やどる
+    tipo_lectura: kun
+    significado: Habitar, albergar
+    mascara: '--.-'
+    frase: この木には霊が(宿)ると言われます。
+    traduccion: Se dice que en este árbol habita un espíritu.
+  - palabra: 雨宿り
+    lectura: あまやどり
+    tipo_lectura: kun
+    significado: Refugiarse de la lluvia
+    mascara: '--.--.-'
+    frase: 急な雨で店で雨(宿)りをしました。
+    traduccion: Con la lluvia repentina me refugié en una tienda.

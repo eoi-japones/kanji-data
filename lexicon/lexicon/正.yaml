@@ -1,0 +1,44 @@
+id: 正
+palabras:
+  - palabra: 修正
+    lectura: しゅうせい
+    tipo_lectura: 'on'
+    significado: Corrección, enmienda
+    mascara: '---.--'
+    frase: 発表の内容を修(正)しました。
+    traduccion: Corregí el contenido del anuncio.
+  - palabra: 正しい
+    lectura: ただしい
+    tipo_lectura: kun
+    significado: Correcto, acertado
+    mascara: '--.-.-'
+    frase: (正)しい答えは三番です。
+    traduccion: La respuesta correcta es la número tres.
+  - palabra: 正午
+    lectura: しょうご
+    tipo_lectura: 'on'
+    significado: Mediodía
+    mascara: '---.-'
+    frase: (正)午に駅前で会いましょう。
+    traduccion: Quedemos a mediodía delante de la estación.
+  - palabra: 正月
+    lectura: しょうがつ
+    tipo_lectura: 'on'
+    significado: Año Nuevo
+    mascara: '---.--'
+    frase: (正)月は実家へ帰ります。
+    traduccion: Para el Año Nuevo vuelvo a casa de mis padres.
+  - palabra: 正装
+    lectura: せいそう
+    tipo_lectura: 'on'
+    significado: Vestimenta formal
+    mascara: '--.--'
+    frase: パーティーは(正)装で臨んでください。
+    traduccion: Acuda a la fiesta con traje formal.
+  - palabra: 正門
+    lectura: せいもん
+    tipo_lectura: 'on'
+    significado: Puerta principal
+    mascara: '--.--'
+    frase: 大学の(正)門から入りました。
+    traduccion: Entré por la puerta principal de la universidad.

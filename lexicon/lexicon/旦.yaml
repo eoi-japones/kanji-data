@@ -1,0 +1,16 @@
+id: 旦
+palabras:
+  - palabra: 文旦
+    lectura: ぶんたん
+    tipo_lectura: 'on'
+    significado: Pomelo
+    mascara: '--.--'
+    frase: 文(旦)は冬の果物です。
+    traduccion: El pomelo es una fruta de invierno.
+  - palabra: 旦つく
+    lectura: だんつく
+    tipo_lectura: 'on'
+    significado: Casarse (del hombre)
+    mascara: '--.-.-'
+    frase: (旦)つく前に家を建てました。
+    traduccion: Antes de casarme construí la casa.

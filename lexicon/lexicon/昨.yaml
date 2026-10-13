@@ -1,0 +1,30 @@
+id: 昨
+palabras:
+  - palabra: 一昨日
+    lectura: おととい
+    tipo_lectura: kun
+    significado: Anteayer
+    mascara: '----..'
+    frase: 一(昨)日、友達と会いました。
+    traduccion: Anteayer vi a un amigo.
+  - palabra: 昨今
+    lectura: さっこん
+    tipo_lectura: kun
+    significado: Últimamente, hoy en día
+    mascara: '----.'
+    frase: (昨)今の物価は高いです。
+    traduccion: Los precios de ahora son altos.
+  - palabra: 昨日
+    lectura: きのう
+    tipo_lectura: kun
+    significado: Ayer
+    mascara: '---.'
+    frase: (昨)日は学校へ行きませんでした。
+    traduccion: Ayer no fui al colegio.
+  - palabra: 昨晩
+    lectura: さくばん
+    tipo_lectura: 'on'
+    significado: Anoche
+    mascara: '--.--'
+    frase: (昨)晩は全然眠れませんでした。
+    traduccion: Anoche no pude dormir en absoluto.

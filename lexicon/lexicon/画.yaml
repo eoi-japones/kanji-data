@@ -1,0 +1,65 @@
+id: 画
+palabras:
+  - palabra: 名画
+    lectura: めいが
+    tipo_lectura: 'on'
+    significado: Obra maestra (pintura o película)
+    mascara: '--.-'
+    frase: この映画は名(画)として知られています。
+    traduccion: Esta película está considerada una obra maestra.
+  - palabra: 映画
+    lectura: えいが
+    tipo_lectura: 'on'
+    significado: Película, cine
+    mascara: '--.-'
+    frase: 今週末に映(画)を見に行きます。
+    traduccion: El fin de semana voy a ver una película.
+  - palabra: 洋画
+    lectura: ようが
+    tipo_lectura: 'on'
+    significado: Cine extranjero
+    mascara: '--.-'
+    frase: 洋(画)と邦画のどちらが好きですか。
+    traduccion: ¿Qué prefieres, el cine extranjero o el japonés?
+  - palabra: 画
+    lectura: かく
+    tipo_lectura: 'on'
+    significado: Trazo (de un kanji)
+    mascara: '--'
+    frase: この字の(画)は三画です。
+    traduccion: Este kanji tiene tres trazos.
+  - palabra: 画家
+    lectura: がか
+    tipo_lectura: 'on'
+    significado: Pintor
+    mascara: '-.-'
+    frase: 彼は有名な(画)家です。
+    traduccion: Él es un pintor famoso.
+  - palabra: 絵画
+    lectura: かいが
+    tipo_lectura: 'on'
+    significado: Pintura (como disciplina)
+    mascara: '--.-'
+    frase: 学校で絵(画)の授業があります。
+    traduccion: En el colegio hay clase de pintura.
+  - palabra: 計画
+    lectura: けいかく
+    tipo_lectura: 'on'
+    significado: Plan
+    mascara: '--.--'
+    frase: 旅行の計(画)を立てました。
+    traduccion: Elaboré un plan para el viaje.
+  - palabra: 録画
+    lectura: ろくが
+    tipo_lectura: 'on'
+    significado: Grabación (de vídeo)
+    mascara: '--.-'
+    frase: 番組を録(画)しておきました。
+    traduccion: Grabé el programa.
+  - palabra: 画才
+    lectura: がさい
+    tipo_lectura: 'on'
+    significado: Talento para el dibujo
+    mascara: '-.--'
+    frase: 彼には(画)才があります。
+    traduccion: Él tiene talento para el dibujo.

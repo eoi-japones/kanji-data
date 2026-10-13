@@ -1,0 +1,23 @@
+id: 孝
+palabras:
+  - palabra: 孝行
+    lectura: こうこう
+    tipo_lectura: 'on'
+    significado: Devoción filial
+    mascara: '--.--'
+    frase: 彼は親(孝)行な息子です。
+    traduccion: Él es un hijo que cuida bien de sus padres.
+  - palabra: 孝心
+    lectura: こうしん
+    tipo_lectura: 'on'
+    significado: Corazón filial
+    mascara: '--.--'
+    frase: (孝)心から母の手伝いをしました。
+    traduccion: Por devoción filial ayudé a mi madre.
+  - palabra: 孝道
+    lectura: こうどう
+    tipo_lectura: 'on'
+    significado: Deber filial
+    mascara: '--.--'
+    frase: 昔は(孝)道が重んじられました。
+    traduccion: Antes se valoraba mucho el deber filial.

@@ -1,0 +1,23 @@
+id: 雲
+palabras:
+  - palabra: 雨雲
+    lectura: あまぐも
+    tipo_lectura: kun
+    significado: Nube de lluvia
+    mascara: '--.--'
+    frase: 雨(雲)が近づいてきました。
+    traduccion: Se están acercando las nubes de lluvia.
+  - palabra: 雲
+    lectura: くも
+    tipo_lectura: kun
+    significado: Nube
+    mascara: '--'
+    frase: 空に白い(雲)が浮かんでいます。
+    traduccion: En el cielo flotan nubes blancas.
+  - palabra: 雲間
+    lectura: くもま
+    tipo_lectura: kun
+    significado: Hueco entre nubes
+    mascara: '--.-'
+    frase: (雲)間から星が見えます。
+    traduccion: Entre las nubes se ven las estrellas.

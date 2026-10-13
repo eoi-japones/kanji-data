@@ -1,0 +1,23 @@
+id: 七
+palabras:
+  - palabra: 七つ
+    lectura: ななつ
+    tipo_lectura: kun
+    significado: Siete; siete años
+    mascara: '--.-'
+    frase: 祖母の庭に(七)つの花が咲いています。
+    traduccion: En el jardín de mi abuela florecen siete flores.
+  - palabra: 七夕
+    lectura: たなばた
+    tipo_lectura: kun
+    significado: Tanabata, fiesta de las estrellas
+    mascara: '----.'
+    frase: (七)夕に短冊へ願いを書きます。
+    traduccion: En el Tanabata se escriben los deseos en tiras de papel.
+  - palabra: 十七
+    lectura: じゅうなな
+    tipo_lectura: kun
+    significado: Diecisiete
+    mascara: '---.--'
+    frase: 来年、弟は十(七)歳になります。
+    traduccion: El año que viene mi hermano menor cumplirá diecisiete años.

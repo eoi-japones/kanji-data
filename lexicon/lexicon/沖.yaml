@@ -1,0 +1,16 @@
+id: 沖
+palabras:
+  - palabra: 沖
+    lectura: おき
+    tipo_lectura: kun
+    significado: Mar abierto
+    mascara: '--'
+    frase: 船が(沖)へ出ました。
+    traduccion: El barco salió al mar abierto.
+  - palabra: 沖天
+    lectura: ちゅうてん
+    tipo_lectura: 'on'
+    significado: Alzarse al cielo
+    mascara: '---.--'
+    frase: 炎が(沖)天にそびえました。
+    traduccion: Las llamas se alzaron hasta el cielo.

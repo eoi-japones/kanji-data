@@ -1,0 +1,30 @@
+id: 市
+palabras:
+  - palabra: 市
+    lectura: いち
+    tipo_lectura: kun
+    significado: Mercado, feria
+    mascara: '--'
+    frase: 毎週日曜日に(市)が立ちます。
+    traduccion: Todos los domingos se celebra el mercado.
+  - palabra: 市中
+    lectura: しちゅう
+    tipo_lectura: 'on'
+    significado: En toda la ciudad, por la ciudad
+    mascara: '-.---'
+    frase: (市)中の道路が混んでいます。
+    traduccion: Las calles de la ciudad están atascadas.
+  - palabra: 市場
+    lectura: いちば
+    tipo_lectura: kun
+    significado: Mercado
+    mascara: '--.-'
+    frase: 駅前の(市)場で野菜を買いました。
+    traduccion: Compré verduras en el mercado que hay delante de la estación.
+  - palabra: 魚市場
+    lectura: うおいちば
+    tipo_lectura: kun
+    significado: Mercado de pescado
+    mascara: '--.--.-'
+    frase: 魚(市)場は朝がとても賑やかです。
+    traduccion: El mercado de pescado bulle por la mañana.

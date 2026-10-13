@@ -1,0 +1,65 @@
+id: 分
+palabras:
+  - palabra: 五分
+    lectura: ごぶ
+    tipo_lectura: 'on'
+    significado: Mitad, cincuenta por ciento
+    mascara: '-.-'
+    frase: 今のところ、勝負は五(分)五分です。
+    traduccion: De momento, el partido está completamente igualado.
+  - palabra: 分別
+    lectura: ふんべつ
+    tipo_lectura: 'on'
+    significado: Separación (de la basura)
+    mascara: '--.--'
+    frase: ゴミは(分)別して出してください。
+    traduccion: Saque la basura separada, por favor.
+  - palabra: 分子
+    lectura: ぶんし
+    tipo_lectura: 'on'
+    significado: Molécula
+    mascara: '--.-'
+    frase: (分)子はとても小さいです。
+    traduccion: Las moléculas son muy pequeñas.
+  - palabra: 分母
+    lectura: ぶんぼ
+    tipo_lectura: 'on'
+    significado: Denominador
+    mascara: '--.-'
+    frase: 分数では下の数が(分)母です。
+    traduccion: En una fracción, el número de abajo es el denominador.
+  - palabra: 分間
+    lectura: ふんかん
+    tipo_lectura: 'on'
+    significado: Durante unos minutos
+    mascara: '--.--'
+    frase: 授業は四十(分)間続きます。
+    traduccion: La clase dura cuarenta minutos.
+  - palabra: 国分寺
+    lectura: こくぶんじ
+    tipo_lectura: 'on'
+    significado: Templo provincial
+    mascara: '--.--.-'
+    frase: 国(分)寺の跡を見学しました。
+    traduccion: Visité las ruinas del templo provincial.
+  - palabra: 多分
+    lectura: たぶん
+    tipo_lectura: 'on'
+    significado: Probablemente
+    mascara: '-.--'
+    frase: 多(分)、彼は今日は来ません。
+    traduccion: Probablemente él no venga hoy.
+  - palabra: 自分で
+    lectura: じぶんで
+    tipo_lectura: 'on'
+    significado: Por uno mismo, yo mismo
+    mascara: '-.--.-'
+    frase: 自(分)で朝ご飯を作りました。
+    traduccion: Preparé yo mismo el desayuno.
+  - palabra: 九分九厘
+    lectura: くぶくりん
+    tipo_lectura: 'on'
+    significado: Casi con certeza
+    mascara: '-.-.-.--'
+    frase: 九(分)九厘の確率で成功します。
+    traduccion: Hay un 99% de probabilidad de éxito.

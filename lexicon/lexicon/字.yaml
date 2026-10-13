@@ -1,0 +1,72 @@
+id: 字
+palabras:
+  - palabra: ローマ字
+    lectura: ローマじ
+    tipo_lectura: kun
+    significado: Letras latinas
+    mascara: '----...'
+    frase: 名前をローマ(字)で書きました。
+    traduccion: Escribí el nombre con letras latinas.
+  - palabra: 大文字
+    lectura: おおもじ
+    tipo_lectura: kun
+    significado: Mayúscula
+    mascara: '----..'
+    frase: 名前は大文(字)で書いてください。
+    traduccion: Escriba el nombre con mayúsculas.
+  - palabra: 字引
+    lectura: じびき
+    tipo_lectura: kun
+    significado: Diccionario
+    mascara: '---.'
+    frase: わからない言葉は(字)引で調べます。
+    traduccion: Las palabras que no sé las busco en el diccionario.
+  - palabra: 小文字
+    lectura: こもじ
+    tipo_lectura: kun
+    significado: Minúscula
+    mascara: '---..'
+    frase: 小文(字)で書くと読みにくいです。
+    traduccion: En minúsculas se lee mal.
+  - palabra: 数字
+    lectura: すうじ
+    tipo_lectura: 'on'
+    significado: Cifra, número
+    mascara: '--.-'
+    frase: この番号は数(字)で書きます。
+    traduccion: Este número se escribe con cifras.
+  - palabra: 文字
+    lectura: もじ
+    tipo_lectura: kun
+    significado: Carácter, letra
+    mascara: '--.'
+    frase: この文(字)は漢字です。
+    traduccion: Este carácter es un kanji.
+  - palabra: 苗字
+    lectura: みょうじ
+    tipo_lectura: 'on'
+    significado: Apellido
+    mascara: '---.-'
+    frase: 苗(字)を漢字で書けますか。
+    traduccion: ¿Puede escribir su apellido en kanji?
+  - palabra: 赤字
+    lectura: あかじ
+    tipo_lectura: 'on'
+    significado: Números rojos, déficit
+    mascara: '--.-'
+    frase: 会社は今年赤(字)になりました。
+    traduccion: La empresa ha cerrado el año en números rojos.
+  - palabra: 頭文字
+    lectura: かしらもじ
+    tipo_lectura: kun
+    significado: Inicial
+    mascara: '-----..'
+    frase: 名前の頭文(字)は何ですか。
+    traduccion: ¿Cuál es la inicial de tu nombre?
+  - palabra: 黒字
+    lectura: くろじ
+    tipo_lectura: 'on'
+    significado: Beneficio, superávit
+    mascara: '--.-'
+    frase: 今年の会社は黒(字)です。
+    traduccion: Este año la empresa va con beneficios.

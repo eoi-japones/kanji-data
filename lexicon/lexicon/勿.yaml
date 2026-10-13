@@ -1,0 +1,16 @@
+id: 勿
+palabras:
+  - palabra: 勿体ない
+    lectura: もったいない
+    tipo_lectura: kun
+    significado: Lamentable, desperdiciar
+    mascara: '----..-.-'
+    frase: 料理を残すのは(勿)体ないです。
+    traduccion: Es una lástima dejar comida sin comer.
+  - palabra: 勿体ぶる
+    lectura: もったいぶる
+    tipo_lectura: kun
+    significado: Afectar, dar importancia
+    mascara: '----..-.-'
+    frase: 才能を(勿)体ぶらないでください。
+    traduccion: No desperdicies tu talento.

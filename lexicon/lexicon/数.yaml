@@ -1,0 +1,93 @@
+id: 数
+palabras:
+  - palabra: 人数
+    lectura: にんずう
+    tipo_lectura: 'on'
+    significado: Número de personas
+    mascara: '--.--'
+    frase: 参加人(数)を教えてください。
+    traduccion: Dígame cuántos van a participar.
+  - palabra: 多数
+    lectura: たすう
+    tipo_lectura: 'on'
+    significado: Gran número, mayoría
+    mascara: '-.--'
+    frase: 賛成票は多(数)でした。
+    traduccion: Los votos a favor fueron la mayoría.
+  - palabra: 少数
+    lectura: しょうすう
+    tipo_lectura: 'on'
+    significado: Minoría, número escaso
+    mascara: '---.--'
+    frase: 賛成したのは少(数)でした。
+    traduccion: Los que estuvieron a favor fueron pocos.
+  - palabra: 数十
+    lectura: すうじゅう
+    tipo_lectura: 'on'
+    significado: Decenas, varias decenas
+    mascara: '--.---'
+    frase: (数)十人が駅に集まりました。
+    traduccion: Se reunieron decenas de personas en la estación.
+  - palabra: 数千
+    lectura: すうせん
+    tipo_lectura: 'on'
+    significado: Varios miles
+    mascara: '--.--'
+    frase: (数)千人が試合に来ました。
+    traduccion: Varios miles de personas vinieron al partido.
+  - palabra: 数字
+    lectura: すうじ
+    tipo_lectura: 'on'
+    significado: Cifra, número
+    mascara: '--.-'
+    frase: この番号は(数)字で書きます。
+    traduccion: Este número se escribe con cifras.
+  - palabra: 数学
+    lectura: すうがく
+    tipo_lectura: 'on'
+    significado: Matemáticas
+    mascara: '--.--'
+    frase: (数)学の問題をたくさん解きました。
+    traduccion: Resolví muchos problemas de matemáticas.
+  - palabra: 数少ない
+    lectura: かずすくない
+    tipo_lectura: kun
+    significado: Muy pocos
+    mascara: '--.--.-.-'
+    frase: この町には古書店が(数)少ないです。
+    traduccion: En este pueblo hay muy pocas librerías de viejo.
+  - palabra: 数日
+    lectura: すうじつ
+    tipo_lectura: 'on'
+    significado: Unos días
+    mascara: '--.--'
+    frase: (数)日後にお返事します。
+    traduccion: Respondo en unos días.
+  - palabra: 数百
+    lectura: すうひゃく
+    tipo_lectura: 'on'
+    significado: Varios cientos
+    mascara: '--.---'
+    frase: (数)百人が集まりました。
+    traduccion: Se reunieron varios cientos de personas.
+  - palabra: 無数
+    lectura: むすう
+    tipo_lectura: 'on'
+    significado: Innumerables
+    mascara: '-.--'
+    frase: 空に無(数)の星があります。
+    traduccion: En el cielo hay innumerables estrellas.
+  - palabra: 算数
+    lectura: さんすう
+    tipo_lectura: 'on'
+    significado: Aritmética
+    mascara: '--.--'
+    frase: 小学校で算(数)を習います。
+    traduccion: En la primaria se aprende aritmética.
+  - palabra: 約数
+    lectura: やくすう
+    tipo_lectura: 'on'
+    significado: Divisor
+    mascara: '--.--'
+    frase: 十二の約(数)はいくつですか。
+    traduccion: ¿Cuántos divisores tiene doce?

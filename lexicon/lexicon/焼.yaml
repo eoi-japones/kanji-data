@@ -1,0 +1,37 @@
+id: 焼
+palabras:
+  - palabra: たこ焼き
+    lectura: たこやき
+    tipo_lectura: kun
+    significado: Takoyaki
+    mascara: '-.-.-.-'
+    frase: 大阪でたこ(焼)きを食べました。
+    traduccion: Comí takoyaki en Osaka.
+  - palabra: 夕焼け
+    lectura: ゆうやけ
+    tipo_lectura: kun
+    significado: Cielo encendido del atardecer
+    mascara: '--.-.-'
+    frase: 子供たちは夕(焼)けを見ています。
+    traduccion: Los niños están mirando el cielo encendido del atardecer.
+  - palabra: 日焼け
+    lectura: ひやけ
+    tipo_lectura: kun
+    significado: Quemadura de sol
+    mascara: '-.-.-'
+    frase: 海で日(焼)けをしました。
+    traduccion: Me quemé el sol en la playa.
+  - palabra: 焼く
+    lectura: やく
+    tipo_lectura: kun
+    significado: Asar, hornear, quemar
+    mascara: '-.-'
+    frase: 毎週パンを(焼)きます。
+    traduccion: Horneo pan todas las semanas.
+  - palabra: 霜焼け
+    lectura: しもやけ
+    tipo_lectura: kun
+    significado: Quemadura por frío, sabañones
+    mascara: '--.-.-'
+    frase: 寒さで指が霜(焼)けになりました。
+    traduccion: Por el frío se me helaron los dedos.

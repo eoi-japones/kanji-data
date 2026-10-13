@@ -1,0 +1,58 @@
+id: 心
+palabras:
+  - palabra: 中心
+    lectura: ちゅうしん
+    tipo_lectura: 'on'
+    significado: Centro
+    mascara: '---.--'
+    frase: 市の中(心)に大きな公園があります。
+    traduccion: En el centro de la ciudad hay un parque grande.
+  - palabra: 初心
+    lectura: しょしん
+    tipo_lectura: 'on'
+    significado: Intención original, principiante
+    mascara: '--.--'
+    frase: 初(心)に返って練習しました。
+    traduccion: Volví a los básicos y practiqué.
+  - palabra: 心地よい
+    lectura: ここちよい
+    tipo_lectura: kun
+    significado: Agradable, placentero
+    mascara: '--.-.-.-'
+    frase: 朝の風が(心)地よいです。
+    traduccion: La brisa de la mañana es agradable.
+  - palabra: 恋心
+    lectura: こいごころ
+    tipo_lectura: kun
+    significado: Sentimiento amoroso
+    mascara: '--.---'
+    frase: 同僚に恋(心)が芽生えました。
+    traduccion: Me enamoré de mi compañero de trabajo.
+  - palabra: 感心
+    lectura: かんしん
+    tipo_lectura: 'on'
+    significado: Admiración
+    mascara: '--.--'
+    frase: 彼女の努力に感(心)しました。
+    traduccion: Me admiré de su esfuerzo.
+  - palabra: 本心
+    lectura: ほんしん
+    tipo_lectura: 'on'
+    significado: Verdadera intención, sentimientos verdaderos
+    mascara: '--.--'
+    frase: 彼の本(心)はまだわかりません。
+    traduccion: Todavía no sé cuáles son sus verdaderas intenciones.
+  - palabra: 乙女心
+    lectura: おとめごころ
+    tipo_lectura: kun
+    significado: Corazón de una joven
+    mascara: '--.-.---'
+    frase: 乙女(心)は複雑です。
+    traduccion: El corazón de una joven es complejo.
+  - palabra: 孝心
+    lectura: こうしん
+    tipo_lectura: 'on'
+    significado: Corazón filial
+    mascara: '--.--'
+    frase: 孝(心)から母の手伝いをしました。
+    traduccion: Por devoción filial ayudé a mi madre.

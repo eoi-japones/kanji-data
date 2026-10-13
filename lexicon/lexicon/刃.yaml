@@ -1,0 +1,16 @@
+id: 刃
+palabras:
+  - palabra: 刃
+    lectura: は
+    tipo_lectura: kun
+    significado: Filo, hoja (de cuchillo)
+    mascara: '-'
+    frase: この包丁は(刃)がよく切れます。
+    traduccion: Este cuchillo tiene el filo muy afilado.
+  - palabra: 刃先
+    lectura: はさき
+    tipo_lectura: kun
+    significado: Punta del filo
+    mascara: '-.--'
+    frase: (刃)先に気をつけてください。
+    traduccion: Tenga cuidado con la punta del filo.

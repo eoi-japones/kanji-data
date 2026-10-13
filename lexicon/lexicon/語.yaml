@@ -1,0 +1,44 @@
+id: 語
+palabras:
+  - palabra: 中国語
+    lectura: ちゅうごくご
+    tipo_lectura: 'on'
+    significado: Chino, lengua china
+    mascara: '---.--.-'
+    frase: 彼女は中国(語)が話せます。
+    traduccion: Ella sabe hablar chino.
+  - palabra: 主語
+    lectura: しゅご
+    tipo_lectura: 'on'
+    significado: Sujeto (de la frase)
+    mascara: '--.-'
+    frase: この文の主(語)を探してください。
+    traduccion: Busque el sujeto de esta frase.
+  - palabra: 外国語
+    lectura: がいこくご
+    tipo_lectura: 'on'
+    significado: Lengua extranjera
+    mascara: '--.--.-'
+    frase: 大学で外国(語)を勉強しました。
+    traduccion: Estudié lenguas extranjeras en la universidad.
+  - palabra: 外来語
+    lectura: がいらいご
+    tipo_lectura: 'on'
+    significado: Extranjerismo, palabra de origen extranjero
+    mascara: '--.--.-'
+    frase: 外来(語)はカタカナで書きます。
+    traduccion: Los extranjerismos se escriben en katakana.
+  - palabra: 日本語
+    lectura: にほんご
+    tipo_lectura: kun
+    significado: Japonés, lengua japonesa
+    mascara: '----..'
+    frase: 日本(語)はとても面白いです。
+    traduccion: El japonés es muy interesante.
+  - palabra: 標語
+    lectura: ひょうご
+    tipo_lectura: 'on'
+    significado: Lema
+    mascara: '---.-'
+    frase: 工場に安全の標(語)が貼ってあります。
+    traduccion: En la fábrica hay un lema de seguridad.

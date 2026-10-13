@@ -1,0 +1,23 @@
+id: 炎
+palabras:
+  - palabra: 炎
+    lectura: ほのお
+    tipo_lectura: kun
+    significado: Llama
+    mascara: '---'
+    frase: 暖炉に(炎)が揺れています。
+    traduccion: En la chimenea titila la llama.
+  - palabra: 炎上
+    lectura: えんじょう
+    tipo_lectura: 'on'
+    significado: Oleada de críticas, hacerse viral
+    mascara: '--.---'
+    frase: その発言はネットで(炎)上しました。
+    traduccion: Aquel comentario desató una tormenta de críticas en internet.
+  - palabra: 炎天
+    lectura: えんてん
+    tipo_lectura: 'on'
+    significado: Sol abrasador
+    mascara: '--.--'
+    frase: (炎)天下で運動会を行いました。
+    traduccion: Hicimos el día del deporte bajo el sol abrasador.

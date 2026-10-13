@@ -1,0 +1,30 @@
+id: 東
+palabras:
+  - palabra: 東北
+    lectura: とうほく
+    tipo_lectura: 'on'
+    significado: Noreste
+    mascara: '--.--'
+    frase: 来月、(東)北へ旅行します。
+    traduccion: El mes que viene viajo al noreste.
+  - palabra: 東口
+    lectura: ひがしぐち
+    tipo_lectura: kun
+    significado: Salida este
+    mascara: '---.--'
+    frase: (東)口には大きなデパートがあります。
+    traduccion: En la salida este hay un gran almacén.
+  - palabra: 東洋
+    lectura: とうよう
+    tipo_lectura: 'on'
+    significado: Oriente
+    mascara: '--.--'
+    frase: (東)洋の文化にとても興味があります。
+    traduccion: Me interesa mucho la cultura oriental.
+  - palabra: 東西
+    lectura: とうざい
+    tipo_lectura: 'on'
+    significado: Este y oeste
+    mascara: '--.--'
+    frase: この通りは(東)西に走っています。
+    traduccion: Esta avenida discurre en dirección este-oeste.

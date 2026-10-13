@@ -1,0 +1,72 @@
+id: 行
+palabras:
+  - palabra: 修行
+    lectura: しゅぎょう
+    tipo_lectura: 'on'
+    significado: Austeridad, disciplina
+    mascara: '--.---'
+    frase: 僧侶は山で修(行)をしました。
+    traduccion: El monje hizo austeridades en la montaña.
+  - palabra: 売れ行き
+    lectura: うれゆき
+    tipo_lectura: kun
+    significado: Salida de la mercancía, demanda
+    mascara: '-.-.-.-'
+    frase: この商品は売れ(行)きがいいです。
+    traduccion: Este producto se vende bien.
+  - palabra: 孝行
+    lectura: こうこう
+    tipo_lectura: 'on'
+    significado: Devoción filial
+    mascara: '--.--'
+    frase: 彼は親孝(行)な息子です。
+    traduccion: Él es un hijo que cuida bien de sus padres.
+  - palabra: 急行
+    lectura: きゅうこう
+    tipo_lectura: 'on'
+    significado: Express (tren)
+    mascara: '---.--'
+    frase: 電車は急(行)で東京へ向かいます。
+    traduccion: El tren express va hacia Tokio.
+  - palabra: 成り行き
+    lectura: なりゆき
+    tipo_lectura: kun
+    significado: Curso de los acontecimientos
+    mascara: '-.-.-.-'
+    frase: 今後は成り(行)きに任せます。
+    traduccion: De ahora en adelante lo dejo en manos de lo que surja.
+  - palabra: 歩行
+    lectura: ほこう
+    tipo_lectura: 'on'
+    significado: Andar, caminar
+    mascara: '-.--'
+    frase: この道は歩(行)者専用です。
+    traduccion: Este camino es solo para peatones.
+  - palabra: 紀行
+    lectura: きこう
+    tipo_lectura: 'on'
+    significado: Diario de viaje
+    mascara: '-.--'
+    frase: 旅行の紀(行)をノートに書きました。
+    traduccion: Escribí el diario de viaje en el cuaderno.
+  - palabra: 行き先
+    lectura: いきさき
+    tipo_lectura: kun
+    significado: Destino
+    mascara: '-.-.--'
+    frase: 今回の(行)き先は京都です。
+    traduccion: El destino de esta vez es Kioto.
+  - palabra: 銀行
+    lectura: ぎんこう
+    tipo_lectura: 'on'
+    significado: Banco
+    mascara: '--.--'
+    frase: 銀(行)でお金を受け取りました。
+    traduccion: Retiré dinero del banco.
+  - palabra: 舟行
+    lectura: しゅうこう
+    tipo_lectura: 'on'
+    significado: Paseo en barca
+    mascara: '---.--'
+    frase: 川の舟(行)を楽しみました。
+    traduccion: Disfruté de un paseo en barca por el río.

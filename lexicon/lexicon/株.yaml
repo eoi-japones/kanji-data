@@ -1,0 +1,16 @@
+id: 株
+palabras:
+  - palabra: 株
+    lectura: かぶ
+    tipo_lectura: kun
+    significado: Acción
+    mascara: '--'
+    frase: この会社の(株)を買いました。
+    traduccion: Compré acciones de esta empresa.
+  - palabra: 株主
+    lectura: かぶぬし
+    tipo_lectura: kun
+    significado: Accionista
+    mascara: '--.--'
+    frase: 彼は大(株)主です。
+    traduccion: Él es un accionista principal.

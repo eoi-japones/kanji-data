@@ -1,0 +1,30 @@
+id: 青
+palabras:
+  - palabra: 青
+    lectura: あお
+    tipo_lectura: kun
+    significado: Azul, verde (semáforo)
+    mascara: '--'
+    frase: 信号が(青)に変わりました。
+    traduccion: El semáforo se ha puesto en verde.
+  - palabra: 青い
+    lectura: あおい
+    tipo_lectura: kun
+    significado: Azul, verde
+    mascara: '--.-'
+    frase: 今日の空は(青)いです。
+    traduccion: El cielo de hoy está azul.
+  - palabra: 青色
+    lectura: あおいろ
+    tipo_lectura: kun
+    significado: Color azul
+    mascara: '--.--'
+    frase: (青)色の旗を立てました。
+    traduccion: Colocamos una bandera azul.
+  - palabra: 青銅
+    lectura: せいどう
+    tipo_lectura: 'on'
+    significado: Bronce
+    mascara: '--.--'
+    frase: 古い(青)銅の像があります。
+    traduccion: Hay una estatua antigua de bronce.

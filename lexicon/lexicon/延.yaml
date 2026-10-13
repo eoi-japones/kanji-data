@@ -1,0 +1,23 @@
+id: 延
+palabras:
+  - palabra: まん延
+    lectura: まんえん
+    tipo_lectura: 'on'
+    significado: Propagarse, extenderse
+    mascara: '-.-.--'
+    frase: 病気がまん(延)しています。
+    traduccion: La enfermedad se está extendiendo.
+  - palabra: 延々
+    lectura: えんえん
+    tipo_lectura: 'on'
+    significado: Sin cesar, prolongándose
+    mascara: '----.'
+    frase: (延)々と説明が続きました。
+    traduccion: La explicación se fue prolongando sin fin.
+  - palabra: 延べ
+    lectura: のべ
+    tipo_lectura: kun
+    significado: En total, acumulado
+    mascara: '-.-'
+    frase: (延)べ千人が参加しました。
+    traduccion: En total participaron mil personas.

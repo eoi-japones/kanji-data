@@ -1,0 +1,16 @@
+id: 頁
+palabras:
+  - palabra: 頁
+    lectura: ページ
+    tipo_lectura: kun
+    significado: Página
+    mascara: '---'
+    frase: 教科書の(頁)に線を引きました。
+    traduccion: Subrayé la página del libro de texto.
+  - palabra: 余白頁
+    lectura: よはくページ
+    tipo_lectura: kun
+    significado: Página en blanco
+    mascara: '------..'
+    frase: 余白(頁)にメモを書きました。
+    traduccion: Escribí un apunte en la página en blanco.

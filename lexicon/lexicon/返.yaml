@@ -1,0 +1,44 @@
+id: 返
+palabras:
+  - palabra: お返し
+    lectura: おかえし
+    tipo_lectura: kun
+    significado: Contrarregalo
+    mascara: '-.--.-'
+    frase: お(返)しにクッキーを渡しました。
+    traduccion: Le di unas galletas de contrarregalo.
+  - palabra: 折り返す
+    lectura: おりかえす
+    tipo_lectura: kun
+    significado: Doblar, devolver
+    mascara: '-.-.--.-'
+    frase: ページの角を折り(返)してください。
+    traduccion: Doble la esquina de la página.
+  - palabra: 言い返す
+    lectura: いいかえす
+    tipo_lectura: kun
+    significado: Replicar, contestar
+    mascara: '-.-.--.-'
+    frase: 先生に言い(返)してはいけません。
+    traduccion: No se le debe replicar al profesor.
+  - palabra: 返す
+    lectura: かえす
+    tipo_lectura: kun
+    significado: Devolver
+    mascara: '--.-'
+    frase: 借りた本は明日(返)します。
+    traduccion: Devuelvo el libro prestado mañana.
+  - palabra: 返信
+    lectura: へんしん
+    tipo_lectura: 'on'
+    significado: Respuesta (correo)
+    mascara: '--.--'
+    frase: 昨日のメールに(返)信しました。
+    traduccion: Respondí al correo de ayer.
+  - palabra: 返金
+    lectura: へんきん
+    tipo_lectura: 'on'
+    significado: Reembolso
+    mascara: '--.--'
+    frase: 商品に不備があったので(返)金しました。
+    traduccion: El producto tenía defectos y me devolvieron el dinero.

@@ -1,0 +1,16 @@
+id: 鉛
+palabras:
+  - palabra: 鉛
+    lectura: なまり
+    tipo_lectura: kun
+    significado: Plomo
+    mascara: '---'
+    frase: (鉛)筆の芯は純粋な鉛ではありません。
+    traduccion: La mina del lápiz no es plomo puro.
+  - palabra: 黒鉛
+    lectura: こくえん
+    tipo_lectura: 'on'
+    significado: Grafito
+    mascara: '--.--'
+    frase: 鉛筆の芯には黒(鉛)が使われます。
+    traduccion: En la mina del lápiz se usa grafito.

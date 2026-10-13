@@ -1,0 +1,30 @@
+id: 技
+palabras:
+  - palabra: 国技
+    lectura: こくぎ
+    tipo_lectura: 'on'
+    significado: Deporte nacional
+    mascara: '--.-'
+    frase: 相撲は日本の国(技)です。
+    traduccion: El sumo es el deporte nacional de Japón.
+  - palabra: 技
+    lectura: わざ
+    tipo_lectura: kun
+    significado: Técnica, habilidad
+    mascara: '--'
+    frase: 彼は踊りの(技)が上手です。
+    traduccion: Tiene buena técnica de baile.
+  - palabra: 技術
+    lectura: ぎじゅつ
+    tipo_lectura: 'on'
+    significado: Técnica, tecnología
+    mascara: '-.---'
+    frase: 彼の(技)術は本当に素晴らしいです。
+    traduccion: Su técnica es de verdad maravillosa.
+  - palabra: 特技
+    lectura: とくぎ
+    tipo_lectura: 'on'
+    significado: Habilidad especial
+    mascara: '--.-'
+    frase: 私の特(技)は料理です。
+    traduccion: Mi habilidad especial es cocinar.

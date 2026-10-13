@@ -1,0 +1,23 @@
+id: 裏
+palabras:
+  - palabra: 裏
+    lectura: うら
+    tipo_lectura: kun
+    significado: Revés, detrás
+    mascara: '--'
+    frase: 建物の(裏)に駐車場があります。
+    traduccion: Detrás del edificio hay un aparcamiento.
+  - palabra: 裏切る
+    lectura: うらぎる
+    tipo_lectura: kun
+    significado: Traicionar
+    mascara: '--.-.-'
+    frase: 大切な友達を(裏)切ってしまいました。
+    traduccion: Traicioné a un amigo importante.
+  - palabra: 裏道
+    lectura: うらみち
+    tipo_lectura: kun
+    significado: Calle de atrás, atajo
+    mascara: '--.--'
+    frase: 道が混むから(裏)道で行きます。
+    traduccion: Como va lleno, voy por la calle de atrás.

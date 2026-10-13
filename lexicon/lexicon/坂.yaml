@@ -1,0 +1,23 @@
+id: 坂
+palabras:
+  - palabra: 上り坂
+    lectura: のぼりざか
+    tipo_lectura: kun
+    significado: Cuesta de subida, auge
+    mascara: '--.-.--'
+    frase: 人生は上り(坂)です。
+    traduccion: La vida es una cuesta de subida.
+  - palabra: 坂
+    lectura: さか
+    tipo_lectura: kun
+    significado: Cuesta, pendiente
+    mascara: '--'
+    frase: この(坂)はとても急です。
+    traduccion: Esta cuesta es muy empinada.
+  - palabra: 坂道
+    lectura: さかみち
+    tipo_lectura: kun
+    significado: Camino en cuesta
+    mascara: '--.--'
+    frase: (坂)道を自転車で下りました。
+    traduccion: Bajé la cuesta en bicicleta.

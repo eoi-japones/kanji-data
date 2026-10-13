@@ -1,0 +1,23 @@
+id: 飲
+palabras:
+  - palabra: 飲み水
+    lectura: のみみず
+    tipo_lectura: kun
+    significado: Agua para beber
+    mascara: '-.-.--'
+    frase: 外では(飲)み水を買ってください。
+    traduccion: Para fuera, compre agua para beber.
+  - palabra: 飲む
+    lectura: のむ
+    tipo_lectura: kun
+    significado: Beber, tomar
+    mascara: '-.-'
+    frase: 薬を一日三回(飲)みます。
+    traduccion: Tomo el medicamento tres veces al día.
+  - palabra: 飲食店
+    lectura: いんしょくてん
+    tipo_lectura: 'on'
+    significado: Restaurante, local de comida
+    mascara: '--.---.--'
+    frase: 駅の近くに(飲)食店がたくさんあります。
+    traduccion: Cerca de la estación hay muchos restaurantes.

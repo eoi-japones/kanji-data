@@ -1,0 +1,23 @@
+id: 際
+palabras:
+  - palabra: 国際人
+    lectura: こくさいじん
+    tipo_lectura: 'on'
+    significado: Persona de mentalidad internacional
+    mascara: '--.--.--'
+    frase: 現代は国(際)人が求められます。
+    traduccion: En la actualidad se buscan personas con mentalidad internacional.
+  - palabra: 手際
+    lectura: てぎわ
+    tipo_lectura: kun
+    significado: Manejo, destreza
+    mascara: '-.--'
+    frase: 彼の手(際)は見事でした。
+    traduccion: Su manejo fue espectacular.
+  - palabra: 間際
+    lectura: まぎわ
+    tipo_lectura: kun
+    significado: Vísperas, umbral
+    mascara: '-.--'
+    frase: 出発の間(際)に雨が降りました。
+    traduccion: Justo antes de salir empezó a llover.

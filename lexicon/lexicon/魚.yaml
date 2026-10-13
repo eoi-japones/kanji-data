@@ -1,0 +1,23 @@
+id: 魚
+palabras:
+  - palabra: 金魚
+    lectura: きんぎょ
+    tipo_lectura: 'on'
+    significado: Pez dorado
+    mascara: '--.--'
+    frase: 水槽の中で金(魚)が泳いでいます。
+    traduccion: Un pez dorado nada en el acuario.
+  - palabra: 魚
+    lectura: さかな
+    tipo_lectura: kun
+    significado: Pez, pescado
+    mascara: '---'
+    frase: 昨日、(魚)を食べました。
+    traduccion: Ayer comí pescado.
+  - palabra: 魚市場
+    lectura: うおいちば
+    tipo_lectura: kun
+    significado: Mercado de pescado
+    mascara: '--.--.-'
+    frase: (魚)市場は朝がとても賑やかです。
+    traduccion: El mercado de pescado bulle por la mañana.

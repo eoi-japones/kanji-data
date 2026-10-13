@@ -1,0 +1,30 @@
+id: 墓
+palabras:
+  - palabra: 墓
+    lectura: はか
+    tipo_lectura: kun
+    significado: Tumba
+    mascara: '--'
+    frase: 祖母の(墓)を掃除しました。
+    traduccion: Limpié la tumba de mi abuela.
+  - palabra: 墓参り
+    lectura: はかまいり
+    tipo_lectura: kun
+    significado: Visita a la tumba
+    mascara: '--.--.-'
+    frase: お盆に家族で(墓)参りをします。
+    traduccion: En el Obon visitamos las tumbas en familia.
+  - palabra: 墓地
+    lectura: ぼち
+    tipo_lectura: 'on'
+    significado: Cementerio
+    mascara: '-.-'
+    frase: (墓)地は静かな場所です。
+    traduccion: El cementerio es un lugar tranquilo.
+  - palabra: 墓石
+    lectura: ぼせき
+    tipo_lectura: 'on'
+    significado: Lápida
+    mascara: '-.--'
+    frase: (墓)石に名前が刻まれています。
+    traduccion: En la lápida está grabado el nombre.

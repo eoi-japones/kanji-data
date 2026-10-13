@@ -1,0 +1,44 @@
+id: 多
+palabras:
+  - palabra: 博多
+    lectura: はかた
+    tipo_lectura: kun
+    significado: Hakata
+    mascara: '---.'
+    frase: 博(多)で有名なラーメンを食べました。
+    traduccion: Comí un ramen famoso en Hakata.
+  - palabra: 多い
+    lectura: おおい
+    tipo_lectura: kun
+    significado: Hay muchos, numeroso
+    mascara: '--.-'
+    frase: この町には人が(多)いです。
+    traduccion: En este pueblo hay mucha gente.
+  - palabra: 多分
+    lectura: たぶん
+    tipo_lectura: 'on'
+    significado: Probablemente
+    mascara: '-.--'
+    frase: (多)分、彼は今日は来ません。
+    traduccion: Probablemente él no venga hoy.
+  - palabra: 多少
+    lectura: たしょう
+    tipo_lectura: 'on'
+    significado: Algo, en cierta medida
+    mascara: '-.---'
+    frase: (多)少時間がかかります。
+    traduccion: Lleva algún tiempo.
+  - palabra: 多才
+    lectura: たさい
+    tipo_lectura: 'on'
+    significado: Dotado, de muchos talentos
+    mascara: '-.--'
+    frase: 彼女は(多)才で、何でもできます。
+    traduccion: Ella es muy dotada y puede hacer de todo.
+  - palabra: 多数
+    lectura: たすう
+    tipo_lectura: 'on'
+    significado: Gran número, mayoría
+    mascara: '-.--'
+    frase: 賛成票は(多)数でした。
+    traduccion: Los votos a favor fueron la mayoría.

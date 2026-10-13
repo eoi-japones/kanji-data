@@ -1,0 +1,23 @@
+id: 六
+palabras:
+  - palabra: 六
+    lectura: ろく
+    tipo_lectura: 'on'
+    significado: Seis
+    mascara: '--'
+    frase: (六)月は雨が多いです。
+    traduccion: En junio llueve mucho.
+  - palabra: 六つ
+    lectura: むっつ
+    tipo_lectura: kun
+    significado: Seis; seis años
+    mascara: '--.-'
+    frase: 店で卵を(六)つ買いました。
+    traduccion: Compré seis huevos en la tienda.
+  - palabra: 十六
+    lectura: じゅうろく
+    tipo_lectura: 'on'
+    significado: Dieciséis
+    mascara: '---.--'
+    frase: 弟は十(六)歳で高校生です。
+    traduccion: Mi hermano menor tiene dieciséis años y va al instituto.

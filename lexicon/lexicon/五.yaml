@@ -1,0 +1,23 @@
+id: 五
+palabras:
+  - palabra: 五つ
+    lectura: いつつ
+    tipo_lectura: kun
+    significado: Cinco; cinco años
+    mascara: '--.-'
+    frase: このカバンには(五)つポケットがあります。
+    traduccion: Este bolso tiene cinco bolsillos.
+  - palabra: 五分
+    lectura: ごぶ
+    tipo_lectura: 'on'
+    significado: Mitad, cincuenta por ciento
+    mascara: '-.-'
+    frase: 今のところ、勝負は(五)分五分です。
+    traduccion: De momento, el partido está completamente igualado.
+  - palabra: 五感
+    lectura: ごかん
+    tipo_lectura: 'on'
+    significado: Cinco sentidos
+    mascara: '-.--'
+    frase: (五)感を使って料理を味わいます。
+    traduccion: Pruebo el plato usando los cinco sentidos.

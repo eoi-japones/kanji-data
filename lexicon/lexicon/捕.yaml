@@ -1,0 +1,30 @@
+id: 捕
+palabras:
+  - palabra: 捕まえる
+    lectura: つかまえる
+    tipo_lectura: kun
+    significado: Atrapar, coger
+    mascara: '--.-.-.-'
+    frase: 警察は犯人を(捕)まえました。
+    traduccion: La policía atrapó al delincuente.
+  - palabra: 捕まる
+    lectura: つかまる
+    tipo_lectura: kun
+    significado: Quedar atrapado
+    mascara: '--.-.-'
+    frase: 魚が釣り針に(捕)まりました。
+    traduccion: El pez quedó enganchado en el anzuelo.
+  - palabra: 捕る
+    lectura: とる
+    tipo_lectura: kun
+    significado: Capturar, pescar
+    mascara: '-.-'
+    frase: 川で魚を(捕)りました。
+    traduccion: Pesqué peces en el río.
+  - palabra: 捕鯨
+    lectura: ほげい
+    tipo_lectura: 'on'
+    significado: Caza de ballenas
+    mascara: '-.--'
+    frase: この国では(捕)鯨が続いています。
+    traduccion: En este país continúa la caza de ballenas.

@@ -1,0 +1,37 @@
+id: 売
+palabras:
+  - palabra: 売り上げ
+    lectura: うりあげ
+    tipo_lectura: kun
+    significado: Vendido, ingresos
+    mascara: '-.-.-.-'
+    frase: 今月の(売)り上げが増えました。
+    traduccion: Las ventas de este mes han aumentado.
+  - palabra: 売り切れ
+    lectura: うりきれ
+    tipo_lectura: kun
+    significado: Agotado
+    mascara: '-.-.-.-'
+    frase: 人気の商品は(売)り切れです。
+    traduccion: El producto más popular está agotado.
+  - palabra: 売り場
+    lectura: うりば
+    tipo_lectura: kun
+    significado: Mostrador, sección de venta
+    mascara: '-.-.-'
+    frase: 靴の(売)り場は二階です。
+    traduccion: El mostrador de zapatos está en la planta primera.
+  - palabra: 売れ行き
+    lectura: うれゆき
+    tipo_lectura: kun
+    significado: Salida de la mercancía, demanda
+    mascara: '-.-.-.-'
+    frase: この商品は(売)れ行きがいいです。
+    traduccion: Este producto se vende bien.
+  - palabra: 転売
+    lectura: てんばい
+    tipo_lectura: 'on'
+    significado: Revender, reventa
+    mascara: '--.--'
+    frase: チケットの転(売)は違法です。
+    traduccion: Revender entradas es ilegal.

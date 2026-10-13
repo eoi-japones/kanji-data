@@ -1,0 +1,79 @@
+id: 外
+palabras:
+  - palabra: 外す
+    lectura: はずす
+    tipo_lectura: kun
+    significado: Quitar, separar
+    mascara: '--.-'
+    frase: 会議では眼鏡を(外)しました。
+    traduccion: En la reunión me quité las gafas.
+  - palabra: 外れ
+    lectura: はずれ
+    tipo_lectura: kun
+    significado: Extremo, afueras
+    mascara: '--.-'
+    frase: この店は駅の(外)れにあります。
+    traduccion: Esta tienda está en las afueras de la estación.
+  - palabra: 外国
+    lectura: がいこく
+    tipo_lectura: 'on'
+    significado: Extranjero, país extranjero
+    mascara: '--.--'
+    frase: 来年、(外)国へ留学します。
+    traduccion: El año que viene me voy a estudiar al extranjero.
+  - palabra: 外国人
+    lectura: がいこくじん
+    tipo_lectura: 'on'
+    significado: Extranjero, ciudadano extranjero
+    mascara: '--.--.--'
+    frase: この町には(外)国人が増えています。
+    traduccion: En esta ciudad aumentan los extranjeros.
+  - palabra: 外国語
+    lectura: がいこくご
+    tipo_lectura: 'on'
+    significado: Lengua extranjera
+    mascara: '--.--.-'
+    frase: 大学で(外)国語を勉強しました。
+    traduccion: Estudié lenguas extranjeras en la universidad.
+  - palabra: 外来語
+    lectura: がいらいご
+    tipo_lectura: 'on'
+    significado: Extranjerismo, palabra de origen extranjero
+    mascara: '--.--.-'
+    frase: (外)来語はカタカナで書きます。
+    traduccion: Los extranjerismos se escriben en katakana.
+  - palabra: 外食
+    lectura: がいしょく
+    tipo_lectura: 'on'
+    significado: Comer fuera
+    mascara: '--.---'
+    frase: 週末は(外)食をします。
+    traduccion: Los fines de semana salgo a comer.
+  - palabra: 意外
+    lectura: いがい
+    tipo_lectura: 'on'
+    significado: Inesperado, sorprendente
+    mascara: '-.--'
+    frase: 彼は意(外)に速く走ります。
+    traduccion: Él corre sorprendentemente rápido.
+  - palabra: 海外
+    lectura: かいがい
+    tipo_lectura: 'on'
+    significado: Extranjero, ultramar
+    mascara: '--.--'
+    frase: 夏に海(外)へ旅行しました。
+    traduccion: En verano viajé al extranjero.
+  - palabra: 紫外線
+    lectura: しがいせん
+    tipo_lectura: 'on'
+    significado: Rayos ultravioleta
+    mascara: '-.--.--'
+    frase: 日焼け止めは紫(外)線を防ぎます。
+    traduccion: La crema solar protege de los rayos ultravioleta.
+  - palabra: 外廷
+    lectura: がいてい
+    tipo_lectura: 'on'
+    significado: Patio exterior (del palacio)
+    mascara: '--.--'
+    frase: (外)廷で式典が行われました。
+    traduccion: La ceremonia se celebró en el patio exterior del palacio.

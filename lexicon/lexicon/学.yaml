@@ -1,0 +1,79 @@
+id: 学
+palabras:
+  - palabra: 博学
+    lectura: はくがく
+    tipo_lectura: 'on'
+    significado: Erudición
+    mascara: '--.--'
+    frase: 先生は博(学)で知られています。
+    traduccion: El profesor es conocido por su erudición.
+  - palabra: 大学
+    lectura: だいがく
+    tipo_lectura: 'on'
+    significado: Universidad
+    mascara: '--.--'
+    frase: 大(学)で歴史を勉強します。
+    traduccion: Estudio historia en la universidad.
+  - palabra: 学問
+    lectura: がくもん
+    tipo_lectura: 'on'
+    significado: Estudio, erudición
+    mascara: '--.--'
+    frase: 彼は(学)問に励んでいます。
+    traduccion: Él se dedica con ahínco al estudio.
+  - palabra: 学校
+    lectura: がっこう
+    tipo_lectura: 'on'
+    significado: Escuela, colegio
+    mascara: '----.'
+    frase: (学)校は八時に始まります。
+    traduccion: La escuela empieza a las ocho.
+  - palabra: 学習
+    lectura: がくしゅう
+    tipo_lectura: 'on'
+    significado: Estudio, aprendizaje
+    mascara: '--.---'
+    frase: 毎朝、机で(学)習します。
+    traduccion: Cada mañana estudio en mi escritorio.
+  - palabra: 学術
+    lectura: がくじゅつ
+    tipo_lectura: 'on'
+    significado: Académico, erudito
+    mascara: '--.---'
+    frase: (学)術の場で研究を発表しました。
+    traduccion: Presenté mi investigación en un foro académico.
+  - palabra: 学費
+    lectura: がくひ
+    tipo_lectura: 'on'
+    significado: Matrícula, gastos de estudios
+    mascara: '--.-'
+    frase: 大学の(学)費は高いです。
+    traduccion: La matrícula de la universidad es cara.
+  - palabra: 数学
+    lectura: すうがく
+    tipo_lectura: 'on'
+    significado: Matemáticas
+    mascara: '--.--'
+    frase: 数(学)の問題をたくさん解きました。
+    traduccion: Resolví muchos problemas de matemáticas.
+  - palabra: 文学
+    lectura: ぶんがく
+    tipo_lectura: 'on'
+    significado: Literatura
+    mascara: '--.--'
+    frase: 彼は文(学)に大きな興味があります。
+    traduccion: Él tiene mucho interés por la literatura.
+  - palabra: 美学
+    lectura: びがく
+    tipo_lectura: 'on'
+    significado: Estética
+    mascara: '-.--'
+    frase: 先生は美(学)を研究しています。
+    traduccion: El profesor investiga sobre estética.
+  - palabra: 学習塾
+    lectura: がくしゅうじゅく
+    tipo_lectura: 'on'
+    significado: Academia de refuerzo
+    mascara: '--.---.---'
+    frase: (学)習塾は駅の近くにあります。
+    traduccion: La academia está cerca de la estación.

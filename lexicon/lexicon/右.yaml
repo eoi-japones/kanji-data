@@ -1,0 +1,30 @@
+id: 右
+palabras:
+  - palabra: 右
+    lectura: みぎ
+    tipo_lectura: kun
+    significado: Derecha
+    mascara: '--'
+    frase: 交差点を(右)に曲がります。
+    traduccion: Giro a la derecha en el cruce.
+  - palabra: 右手
+    lectura: みぎて
+    tipo_lectura: kun
+    significado: Mano derecha
+    mascara: '--.-'
+    frase: 彼は(右)手でボールを投げます。
+    traduccion: Él lanza la bola con la mano derecha.
+  - palabra: 右折
+    lectura: うせつ
+    tipo_lectura: 'on'
+    significado: Giro a la derecha
+    mascara: '-.--'
+    frase: この交差点は(右)折が禁止されています。
+    traduccion: En este cruce está prohibido girar a la derecha.
+  - palabra: 左右
+    lectura: さゆう
+    tipo_lectura: 'on'
+    significado: Izquierda y derecha
+    mascara: '-.--'
+    frase: この建物は左(右)対称です。
+    traduccion: Este edificio es simétrico.

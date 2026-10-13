@@ -1,0 +1,30 @@
+id: 沼
+palabras:
+  - palabra: 沼
+    lectura: ぬま
+    tipo_lectura: kun
+    significado: Charca, ciénaga
+    mascara: '--'
+    frase: 川のほとりに(沼)があります。
+    traduccion: Junto al río hay una charca.
+  - palabra: 沼地
+    lectura: ぬまち
+    tipo_lectura: kun
+    significado: Terreno pantanoso
+    mascara: '--.-'
+    frase: (沼)地は立ち入りが危険です。
+    traduccion: El terreno pantanoso es peligroso de entrar.
+  - palabra: 沼田
+    lectura: ぬまた
+    tipo_lectura: kun
+    significado: Arrozal de barro profundo
+    mascara: '--.-'
+    frase: (沼)田は群馬県の市です。
+    traduccion: Numata es una ciudad de la prefectura de Gunma.
+  - palabra: 湖沼
+    lectura: こしょう
+    tipo_lectura: 'on'
+    significado: Lagos y marismas
+    mascara: '-.---'
+    frase: 地図に湖(沼)がたくさん載っています。
+    traduccion: El mapa trae muchos lagos y marismas.

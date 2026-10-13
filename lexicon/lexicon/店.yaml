@@ -1,0 +1,51 @@
+id: 店
+palabras:
+  - palabra: お店
+    lectura: おみせ
+    tipo_lectura: kun
+    significado: Tienda, comercio
+    mascara: '-.--'
+    frase: 駅前のお(店)でパンを買いました。
+    traduccion: Compré pan en la tienda que hay delante de la estación.
+  - palabra: 専門店
+    lectura: せんもんてん
+    tipo_lectura: 'on'
+    significado: Tienda especializada
+    mascara: '--.--.--'
+    frase: この街には楽器の専門(店)があります。
+    traduccion: En esta ciudad hay una tienda especializada en instrumentos musicales.
+  - palabra: 店舗
+    lectura: てんぽ
+    tipo_lectura: 'on'
+    significado: Local, tienda
+    mascara: '--.-'
+    frase: 近くに新しい(店)舗ができました。
+    traduccion: Cerca se ha abierto un local nuevo.
+  - palabra: 書店
+    lectura: しょてん
+    tipo_lectura: 'on'
+    significado: Librería
+    mascara: '--.--'
+    frase: 大学の近くに小さな書(店)があります。
+    traduccion: Cerca de la universidad hay una librería pequeña.
+  - palabra: 閉店
+    lectura: へいてん
+    tipo_lectura: 'on'
+    significado: Cierre del local
+    mascara: '--.--'
+    frase: この店は今月末で閉(店)します。
+    traduccion: Esta tienda cierra a fin de mes.
+  - palabra: 開店
+    lectura: かいてん
+    tipo_lectura: 'on'
+    significado: Apertura de una tienda
+    mascara: '--.--'
+    frase: 駅前に新しい店が開(店)しました。
+    traduccion: Se ha abierto una tienda nueva delante de la estación.
+  - palabra: 飲食店
+    lectura: いんしょくてん
+    tipo_lectura: 'on'
+    significado: Restaurante, local de comida
+    mascara: '--.---.--'
+    frase: 駅の近くに飲食(店)がたくさんあります。
+    traduccion: Cerca de la estación hay muchos restaurantes.

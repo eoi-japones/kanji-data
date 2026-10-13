@@ -1,0 +1,44 @@
+id: 土
+palabras:
+  - palabra: お土産
+    lectura: おみやげ
+    tipo_lectura: kun
+    significado: Recuerdo, obsequio de un viaje
+    mascara: '-.---.'
+    frase: 旅行からお(土)産を持ってきました。
+    traduccion: He traído un recuerdo del viaje.
+  - palabra: 国土
+    lectura: こくど
+    tipo_lectura: 'on'
+    significado: Territorio nacional
+    mascara: '--.-'
+    frase: 日本の国(土)の三分の二是山です。
+    traduccion: Dos tercios del territorio de Japón son montañas.
+  - palabra: 土
+    lectura: つち
+    tipo_lectura: kun
+    significado: Tierra, suelo
+    mascara: '--'
+    frase: 庭の(土)が乾いています。
+    traduccion: La tierra del jardín está seca.
+  - palabra: 土地
+    lectura: とち
+    tipo_lectura: 'on'
+    significado: Terreno, solar
+    mascara: '-.-'
+    frase: 会社が新しい(土)地を買いました。
+    traduccion: La empresa ha comprado un terreno nuevo.
+  - palabra: 土曜日
+    lectura: どようび
+    tipo_lectura: 'on'
+    significado: Sábado
+    mascara: '-.--.-'
+    frase: (土)曜日は図書館へ行きます。
+    traduccion: Los sábados voy a la biblioteca.
+  - palabra: 土産
+    lectura: みやげ
+    tipo_lectura: kun
+    significado: Recuerdo, regalo de viaje
+    mascara: '---.'
+    frase: 旅行からお(土)産を持ってきました。
+    traduccion: Traje recuerdos del viaje.

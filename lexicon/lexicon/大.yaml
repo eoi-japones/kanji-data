@@ -1,0 +1,65 @@
+id: 大
+palabras:
+  - palabra: 大仏
+    lectura: だいぶつ
+    tipo_lectura: 'on'
+    significado: Gran Buda
+    mascara: '--.--'
+    frase: 奈良には有名な(大)仏があります。
+    traduccion: En Nara hay un famoso Gran Buda.
+  - palabra: 大佐
+    lectura: たいさ
+    tipo_lectura: 'on'
+    significado: Coronel
+    mascara: '--.-'
+    frase: 映画に(大)佐が登場します。
+    traduccion: En la película aparece un coronel.
+  - palabra: 大半
+    lectura: たいはん
+    tipo_lectura: 'on'
+    significado: La mayoría, casi todo
+    mascara: '--.--'
+    frase: 学生の(大)半が参加しました。
+    traduccion: La mayoría de los estudiantes participó.
+  - palabra: 大学
+    lectura: だいがく
+    tipo_lectura: 'on'
+    significado: Universidad
+    mascara: '--.--'
+    frase: (大)学で歴史を勉強します。
+    traduccion: Estudio historia en la universidad.
+  - palabra: 大文字
+    lectura: おおもじ
+    tipo_lectura: kun
+    significado: Mayúscula
+    mascara: '----..'
+    frase: 名前は(大)文字で書いてください。
+    traduccion: Escriba el nombre con mayúsculas.
+  - palabra: 大昔
+    lectura: おおむかし
+    tipo_lectura: kun
+    significado: Tiempos remotos
+    mascara: '--.---'
+    frase: (大)昔の写真を見ました。
+    traduccion: Ví fotos de tiempos remotos.
+  - palabra: 大船
+    lectura: おおぶね
+    tipo_lectura: kun
+    significado: Baque grande, buque
+    mascara: '--.--'
+    frase: (大)船で海を渡りました。
+    traduccion: Crucé el mar en un buque grande.
+  - palabra: 大金
+    lectura: たいきん
+    tipo_lectura: 'on'
+    significado: Dineral, gran cantidad de dinero
+    mascara: '--.--'
+    frase: 車を買うのに(大)金を使いました。
+    traduccion: Gasté un dineral en comprar el coche.
+  - palabra: 大雨
+    lectura: おおあめ
+    tipo_lectura: kun
+    significado: Lluvia torrencial, aguacero
+    mascara: '--.--'
+    frase: (大)雨で電車が止まりました。
+    traduccion: Por la lluvia torrencial se pararon los trenes.

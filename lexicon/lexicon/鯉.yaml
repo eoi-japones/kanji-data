@@ -1,0 +1,16 @@
+id: 鯉
+palabras:
+  - palabra: 鯉
+    lectura: こい
+    tipo_lectura: kun
+    significado: Carpa
+    mascara: '--'
+    frase: 庭の池に(鯉)がいます。
+    traduccion: En el estanque del jardín hay carpas.
+  - palabra: 鯉こく
+    lectura: こいこく
+    tipo_lectura: kun
+    significado: Carpa guisada en miso
+    mascara: '--.-.-'
+    frase: (鯉)こくは汁物の一種です。
+    traduccion: El koikoku es un tipo de sopa.

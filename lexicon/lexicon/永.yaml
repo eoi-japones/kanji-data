@@ -1,0 +1,23 @@
+id: 永
+palabras:
+  - palabra: 永久
+    lectura: えいきゅう
+    tipo_lectura: 'on'
+    significado: Eternidad, permanente
+    mascara: '--.---'
+    frase: この記憶は(永)久に残ります。
+    traduccion: Este recuerdo se queda para siempre.
+  - palabra: 永代
+    lectura: えいたい
+    tipo_lectura: 'on'
+    significado: Perpetuo, para siempre
+    mascara: '--.--'
+    frase: 寺院は(永)代の墓を守っています。
+    traduccion: El templo cuida las tumbas perpetuas.
+  - palabra: 永続
+    lectura: えいぞく
+    tipo_lectura: 'on'
+    significado: Permanencia, perduración
+    mascara: '--.--'
+    frase: 平和が(永)続することを願います。
+    traduccion: Deseo que la paz perdure.

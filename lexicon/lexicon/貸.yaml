@@ -1,0 +1,23 @@
+id: 貸
+palabras:
+  - palabra: 貸し
+    lectura: かし
+    tipo_lectura: kun
+    significado: Préstamo
+    mascara: '-.-'
+    frase: この本の(貸)しは三週間です。
+    traduccion: El préstamo de este libro es de tres semanas.
+  - palabra: 貸す
+    lectura: かす
+    tipo_lectura: kun
+    significado: Prestar, alquilar
+    mascara: '-.-'
+    frase: 自転車を友達に(貸)しました。
+    traduccion: Le presté la bicicleta a un amigo.
+  - palabra: 貸家
+    lectura: かしや
+    tipo_lectura: kun
+    significado: Casa de alquiler
+    mascara: '--.-'
+    frase: 都会で(貸)家を探しています。
+    traduccion: Busco una casa de alquiler en la ciudad.

@@ -1,0 +1,51 @@
+id: 茶
+palabras:
+  - palabra: 無茶
+    lectura: むちゃ
+    tipo_lectura: 'on'
+    significado: Descabellado, absurdo
+    mascara: '-.--'
+    frase: 無(茶)なお願いはできません。
+    traduccion: No puedo aceptar peticiones descabelladas.
+  - palabra: 紅茶
+    lectura: こうちゃ
+    tipo_lectura: 'on'
+    significado: Té negro
+    mascara: '--.--'
+    frase: 午後は紅(茶)を飲みます。
+    traduccion: Por la tarde tomo té negro.
+  - palabra: 緑茶
+    lectura: りょくちゃ
+    tipo_lectura: 'on'
+    significado: Té verde
+    mascara: '---.--'
+    frase: 午後は緑(茶)を淹れました。
+    traduccion: Por la tarde he preparado té verde.
+  - palabra: 茶色
+    lectura: ちゃいろ
+    tipo_lectura: 'on'
+    significado: Marrón
+    mascara: '--.--'
+    frase: 彼は(茶)色の鞄を持っています。
+    traduccion: Él lleva un bolso marrón.
+  - palabra: 茶道
+    lectura: さどう
+    tipo_lectura: 'on'
+    significado: Ceremonia del té
+    mascara: '-.--'
+    frase: 姉は(茶)道を習っています。
+    traduccion: Mi hermana estudia la ceremonia del té.
+  - palabra: 茶畑
+    lectura: ちゃばたけ
+    tipo_lectura: 'on'
+    significado: Campo de té
+    mascara: '--.---'
+    frase: 静岡には広い(茶)畑があります。
+    traduccion: En Shizuoka hay extensos campos de té.
+  - palabra: 茶釜
+    lectura: ちゃがま
+    tipo_lectura: 'on'
+    significado: Tetera (de la ceremonia)
+    mascara: '--.--'
+    frase: (茶)釜が湯気を上げています。
+    traduccion: La tetera echa vapor.

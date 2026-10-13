@@ -1,0 +1,51 @@
+id: 来
+palabras:
+  - palabra: 去来
+    lectura: きょらい
+    tipo_lectura: 'on'
+    significado: Ida y vuelta, venidas (de ideas)
+    mascara: '--.--'
+    frase: 不安な考えが去(来)します。
+    traduccion: Se me vienen y van pensamientos de inquietud.
+  - palabra: 外来語
+    lectura: がいらいご
+    tipo_lectura: 'on'
+    significado: Extranjerismo, palabra de origen extranjero
+    mascara: '--.--.-'
+    frase: 外(来)語はカタカナで書きます。
+    traduccion: Los extranjerismos se escriben en katakana.
+  - palabra: 未来
+    lectura: みらい
+    tipo_lectura: 'on'
+    significado: Futuro
+    mascara: '-.--'
+    frase: 未(来)の夢について話しました。
+    traduccion: Hablamos sobre los sueños del futuro.
+  - palabra: 本来
+    lectura: ほんらい
+    tipo_lectura: 'on'
+    significado: En esencia, originalmente
+    mascara: '--.--'
+    frase: 本(来)の目的に戻りましょう。
+    traduccion: Volvamos al propósito original.
+  - palabra: 来る
+    lectura: くる
+    tipo_lectura: kun
+    significado: Venir
+    mascara: '-.-'
+    frase: (来)年、日本へ来ます。
+    traduccion: El año que viene vendré a Japón.
+  - palabra: 来日
+    lectura: らいにち
+    tipo_lectura: 'on'
+    significado: Visita a Japón
+    mascara: '--.--'
+    frase: 首相の(来)日が報じられました。
+    traduccion: Se informó de la visita del primer ministro a Japón.
+  - palabra: 来月
+    lectura: らいげつ
+    tipo_lectura: 'on'
+    significado: El mes que viene
+    mascara: '--.--'
+    frase: (来)月、日本語の試験があります。
+    traduccion: El mes que viene hay un examen de japonés.

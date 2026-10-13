@@ -1,0 +1,23 @@
+id: 町
+palabras:
+  - palabra: 下町
+    lectura: したまち
+    tipo_lectura: kun
+    significado: Barrio bajo, barrio popular
+    mascara: '--.--'
+    frase: 下(町)の商店街を散歩しました。
+    traduccion: Paseé por el mercado del barrio bajo.
+  - palabra: 町
+    lectura: まち
+    tipo_lectura: kun
+    significado: Pueblo, ciudad, barrio
+    mascara: '--'
+    frase: この(町)には古いお寺が多くあります。
+    traduccion: En este pueblo hay muchos templos antiguos.
+  - palabra: 町中
+    lectura: まちなか
+    tipo_lectura: kun
+    significado: Centro del pueblo, toda la ciudad
+    mascara: '--.--'
+    frase: (町)中を探しても見つかりませんでした。
+    traduccion: Lo busqué por todo el pueblo y no lo encontré.

@@ -1,0 +1,37 @@
+id: 輪
+palabras:
+  - palabra: 二輪車
+    lectura: にりんしゃ
+    tipo_lectura: 'on'
+    significado: Vehículo de dos ruedas
+    mascara: '-.--.--'
+    frase: 二(輪)車の事故が減りました。
+    traduccion: Han disminuido los accidentes de vehículos de dos ruedas.
+  - palabra: 四輪車
+    lectura: よんりんしゃ
+    tipo_lectura: 'on'
+    significado: Automóvil, coche
+    mascara: '--.--.--'
+    frase: 父は四(輪)車を新しく買いました。
+    traduccion: Mi padre ha comprado un coche nuevo.
+  - palabra: 車輪
+    lectura: しゃりん
+    tipo_lectura: 'on'
+    significado: Rueda (de vehículo)
+    mascara: '--.--'
+    frase: 車(輪)が泥にはまりました。
+    traduccion: Las ruedas se clavaron en el barro.
+  - palabra: 輪
+    lectura: わ
+    tipo_lectura: kun
+    significado: Ronda, círculo
+    mascara: '-'
+    frase: みんなで(輪)を作りました。
+    traduccion: Hicimos una ronda entre todos.
+  - palabra: 輪ゴム
+    lectura: わゴム
+    tipo_lectura: kun
+    significado: Goma elástica
+    mascara: '---..'
+    frase: 紙束を(輪)ゴムで止めました。
+    traduccion: Uní el fajo de papeles con una goma.

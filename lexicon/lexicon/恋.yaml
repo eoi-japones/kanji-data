@@ -1,0 +1,23 @@
+id: 恋
+palabras:
+  - palabra: 恋
+    lectura: こい
+    tipo_lectura: kun
+    significado: Amor, enamoramiento
+    mascara: '--'
+    frase: 彼に(恋)をしています。
+    traduccion: Estoy enamorada de él.
+  - palabra: 恋人
+    lectura: こいびと
+    tipo_lectura: kun
+    significado: Novio, novia, amante
+    mascara: '--.--'
+    frase: 彼には(恋)人がいます。
+    traduccion: Él tiene novia.
+  - palabra: 恋心
+    lectura: こいごころ
+    tipo_lectura: kun
+    significado: Sentimiento amoroso
+    mascara: '--.---'
+    frase: 同僚に(恋)心が芽生えました。
+    traduccion: Me enamoré de mi compañero de trabajo.

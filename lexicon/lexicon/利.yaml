@@ -1,0 +1,16 @@
+id: 利
+palabras:
+  - palabra: 利己
+    lectura: りこ
+    tipo_lectura: 'on'
+    significado: Egoísmo, interés propio
+    mascara: '-.-'
+    frase: (利)己な考えはやめましょう。
+    traduccion: Dejemos de lado el pensamiento egoísta.
+  - palabra: 砂利
+    lectura: じゃり
+    tipo_lectura: 'on'
+    significado: Grava
+    mascara: '--.-'
+    frase: 道に砂(利)が敷いてあります。
+    traduccion: El camino está cubierto de grava.

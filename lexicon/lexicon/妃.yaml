@@ -1,0 +1,16 @@
+id: 妃
+palabras:
+  - palabra: 妃
+    lectura: ひ
+    tipo_lectura: 'on'
+    significado: Reina consorte, princesa
+    mascara: '-'
+    frase: この映画は王(妃)の話です。
+    traduccion: Esta película trata de una reina consorte.
+  - palabra: 皇妃
+    lectura: こうひ
+    tipo_lectura: 'on'
+    significado: Emperatriz
+    mascara: '--.-'
+    frase: 皇(妃)は式典で静かに微笑みました。
+    traduccion: La emperatriz sonrió con calma en la ceremonia.

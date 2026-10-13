@@ -1,0 +1,23 @@
+id: 廷
+palabras:
+  - palabra: 開廷
+    lectura: かいてい
+    tipo_lectura: 'on'
+    significado: Apertura de la audiencia
+    mascara: '--.--'
+    frase: 今日は十時に開(廷)しました。
+    traduccion: Hoy abrió la audiencia a las diez.
+  - palabra: 外廷
+    lectura: がいてい
+    tipo_lectura: 'on'
+    significado: Patio exterior (del palacio)
+    mascara: '--.--'
+    frase: 外(廷)で式典が行われました。
+    traduccion: La ceremonia se celebró en el patio exterior del palacio.
+  - palabra: 閉廷
+    lectura: へいてい
+    tipo_lectura: 'on'
+    significado: Cierre de la audiencia
+    mascara: '--.--'
+    frase: 法廷は五時に閉(廷)しました。
+    traduccion: El tribunal se cerró a las cinco.

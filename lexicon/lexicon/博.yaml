@@ -1,0 +1,23 @@
+id: 博
+palabras:
+  - palabra: 博
+    lectura: はく
+    tipo_lectura: 'on'
+    significado: Doctorado, exposición
+    mascara: '--'
+    frase: 彼は医学の(博)士です。
+    traduccion: Él es doctor en medicina.
+  - palabra: 博多
+    lectura: はかた
+    tipo_lectura: kun
+    significado: Hakata
+    mascara: '---.'
+    frase: (博)多で有名なラーメンを食べました。
+    traduccion: Comí un ramen famoso en Hakata.
+  - palabra: 博学
+    lectura: はくがく
+    tipo_lectura: 'on'
+    significado: Erudición
+    mascara: '--.--'
+    frase: 先生は(博)学で知られています。
+    traduccion: El profesor es conocido por su erudición.

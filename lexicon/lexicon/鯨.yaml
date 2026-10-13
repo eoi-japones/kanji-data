@@ -1,0 +1,16 @@
+id: 鯨
+palabras:
+  - palabra: 捕鯨
+    lectura: ほげい
+    tipo_lectura: 'on'
+    significado: Caza de ballenas
+    mascara: '-.--'
+    frase: この国では捕(鯨)が続いています。
+    traduccion: En este país continúa la caza de ballenas.
+  - palabra: 鯨
+    lectura: くじら
+    tipo_lectura: kun
+    significado: Ballena
+    mascara: '---'
+    frase: 海で(鯨)を見ました。
+    traduccion: Ví una ballena en el mar.

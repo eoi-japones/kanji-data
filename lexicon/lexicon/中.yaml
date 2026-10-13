@@ -1,0 +1,128 @@
+id: 中
+palabras:
+  - palabra: 一日中
+    lectura: いちにちじゅう
+    tipo_lectura: kun
+    significado: Todo el día
+    mascara: '-------..'
+    frase: 一日(中)、家にいました。
+    traduccion: Estuve en casa todo el día.
+  - palabra: 世の中
+    lectura: よのなか
+    tipo_lectura: kun
+    significado: El mundo, la sociedad
+    mascara: '-.-.--'
+    frase: この三十年で世の(中)は大きく変わりました。
+    traduccion: En estos treinta años el mundo ha cambiado mucho.
+  - palabra: 中世
+    lectura: ちゅうせい
+    tipo_lectura: 'on'
+    significado: Edad Media
+    mascara: '---.--'
+    frase: 旅行で(中)世の城を見ました。
+    traduccion: En el viaje vi un castillo medieval.
+  - palabra: 中佐
+    lectura: ちゅうさ
+    tipo_lectura: 'on'
+    significado: Comandante
+    mascara: '---.-'
+    frase: 彼は(中)佐に昇進しました。
+    traduccion: Él ascendió a comandante.
+  - palabra: 中国
+    lectura: ちゅうごく
+    tipo_lectura: 'on'
+    significado: China
+    mascara: '---.--'
+    frase: (中)国の料理が好きです。
+    traduccion: Me gusta la comida china.
+  - palabra: 中国語
+    lectura: ちゅうごくご
+    tipo_lectura: 'on'
+    significado: Chino, lengua china
+    mascara: '---.--.-'
+    frase: 彼女は(中)国語が話せます。
+    traduccion: Ella sabe hablar chino.
+  - palabra: 中堅
+    lectura: ちゅうけん
+    tipo_lectura: 'on'
+    significado: Cuadro medio, base
+    mascara: '---.--'
+    frase: 会社の(中)堅として働いています。
+    traduccion: Trabaja como cuadro medio de la empresa.
+  - palabra: 中庭
+    lectura: なかにわ
+    tipo_lectura: kun
+    significado: Patio interior
+    mascara: '--.--'
+    frase: ホテルには美しい(中)庭があります。
+    traduccion: El hotel tiene un patio interior bonito.
+  - palabra: 中心
+    lectura: ちゅうしん
+    tipo_lectura: 'on'
+    significado: Centro
+    mascara: '---.--'
+    frase: 市の(中)心に大きな公園があります。
+    traduccion: En el centro de la ciudad hay un parque grande.
+  - palabra: 中止
+    lectura: ちゅうし
+    tipo_lectura: 'on'
+    significado: Suspensión, cancelación
+    mascara: '---.-'
+    frase: 雨で試合が(中)止になりました。
+    traduccion: El partido se suspendió por la lluvia.
+  - palabra: 中耳
+    lectura: ちゅうじ
+    tipo_lectura: 'on'
+    significado: Oído medio
+    mascara: '---.-'
+    frase: (中)耳炎で耳が痛かったです。
+    traduccion: Me dolía el oído por una otitis.
+  - palabra: 中間
+    lectura: ちゅうかん
+    tipo_lectura: 'on'
+    significado: Mitad, término medio
+    mascara: '---.--'
+    frase: (中)間試験は来週あります。
+    traduccion: El examen parcial es la semana que viene.
+  - palabra: 夢中
+    lectura: むちゅう
+    tipo_lectura: 'on'
+    significado: Absorto, enganchado
+    mascara: '-.---'
+    frase: 彼はゲームに夢(中)です。
+    traduccion: Él está enganchado a los videojuegos.
+  - palabra: 市中
+    lectura: しちゅう
+    tipo_lectura: 'on'
+    significado: En toda la ciudad, por la ciudad
+    mascara: '-.---'
+    frase: 市(中)の道路が混んでいます。
+    traduccion: Las calles de la ciudad están atascadas.
+  - palabra: 水中
+    lectura: すいちゅう
+    tipo_lectura: 'on'
+    significado: Debajo del agua, en el agua
+    mascara: '--.---'
+    frase: 海で水(中)写真を撮りました。
+    traduccion: Hice fotos submarinas en el mar.
+  - palabra: 町中
+    lectura: まちなか
+    tipo_lectura: kun
+    significado: Centro del pueblo, toda la ciudad
+    mascara: '--.--'
+    frase: 町(中)を探しても見つかりませんでした。
+    traduccion: Lo busqué por todo el pueblo y no lo encontré.
+  - palabra: 中州
+    lectura: なかす
+    tipo_lectura: kun
+    significado: Isla de un río
+    mascara: '--.-'
+    frase: 川の(中)州で休みました。
+    traduccion: Descansé en una isla del río.
+  - palabra: 府中
+    lectura: ふちゅう
+    tipo_lectura: 'on'
+    significado: Fuchu (ciudad)
+    mascara: '-.---'
+    frase: 府(中)には大きな公園があります。
+    traduccion: En Fuchu hay un parque grande.

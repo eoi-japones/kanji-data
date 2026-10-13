@@ -1,0 +1,30 @@
+id: 久
+palabras:
+  - palabra: お久しぶり
+    lectura: おひさしぶり
+    tipo_lectura: kun
+    significado: Cuánto tiempo
+    mascara: '-.--.-.-.-'
+    frase: お(久)しぶりです、お元気でしたか。
+    traduccion: Hola, ¡cuánto tiempo! ¿Cómo has estado?
+  - palabra: 久々
+    lectura: ひさびさ
+    tipo_lectura: kun
+    significado: Hace mucho (sin hacer algo)
+    mascara: '----.'
+    frase: (久)々に映画を見ました。
+    traduccion: Vi una película después de mucho tiempo.
+  - palabra: 久しぶり
+    lectura: ひさしぶり
+    tipo_lectura: kun
+    significado: Después de mucho tiempo
+    mascara: '--.-.-.-'
+    frase: (久)しぶりに友達に会いました。
+    traduccion: Volví a ver a un amigo después de mucho tiempo.
+  - palabra: 永久
+    lectura: えいきゅう
+    tipo_lectura: 'on'
+    significado: Eternidad, permanente
+    mascara: '--.---'
+    frase: この記憶は永(久)に残ります。
+    traduccion: Este recuerdo se queda para siempre.

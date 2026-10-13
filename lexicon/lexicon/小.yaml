@@ -1,0 +1,86 @@
+id: 小
+palabras:
+  - palabra: 小さい頃
+    lectura: ちいさいころ
+    tipo_lectura: kun
+    significado: Cuando era pequeño
+    mascara: '--.-.-.--'
+    frase: (小)さい頃は京都に住んでいました。
+    traduccion: De pequeño vivía en Kioto.
+  - palabra: 小冊子
+    lectura: しょうさっし
+    tipo_lectura: 'on'
+    significado: Folleto, librito
+    mascara: '------..'
+    frase: 入口で(小)冊子を配りました。
+    traduccion: Repartimos folletos en la entrada.
+  - palabra: 小刀
+    lectura: こがたな
+    tipo_lectura: kun
+    significado: Cuchillo pequeño, navaja
+    mascara: '-.---'
+    frase: 料理に(小)刀を使います。
+    traduccion: Uso un cuchillo pequeño para cocinar.
+  - palabra: 小切手
+    lectura: こぎって
+    tipo_lectura: kun
+    significado: Cheque
+    mascara: '----..'
+    frase: 会社に(小)切手を渡しました。
+    traduccion: Entregué un cheque a la empresa.
+  - palabra: 小川
+    lectura: おがわ
+    tipo_lectura: kun
+    significado: Arroyo, riachuelo
+    mascara: '-.--'
+    frase: 公園を(小)川が流れています。
+    traduccion: Un arroyo atraviesa el parque.
+  - palabra: 小文字
+    lectura: こもじ
+    tipo_lectura: kun
+    significado: Minúscula
+    mascara: '---..'
+    frase: (小)文字で書くと読みにくいです。
+    traduccion: En minúsculas se lee mal.
+  - palabra: 小石
+    lectura: こいし
+    tipo_lectura: kun
+    significado: Piedrecita, guijarro
+    mascara: '-.--'
+    frase: 庭に(小)石を敷きました。
+    traduccion: Esparcí piedrecitas por el jardín.
+  - palabra: 小舟
+    lectura: こぶね
+    tipo_lectura: kun
+    significado: Barca pequeña
+    mascara: '-.--'
+    frase: 湖に(小)舟が浮かんでいます。
+    traduccion: En el lago flota una barca pequeña.
+  - palabra: 小銭
+    lectura: こぜに
+    tipo_lectura: kun
+    significado: Monedas, calderilla
+    mascara: '-.--'
+    frase: 財布に(小)銭がたくさんあります。
+    traduccion: Tengo muchas monedas en la cartera.
+  - palabra: 小雨
+    lectura: こさめ
+    tipo_lectura: kun
+    significado: Lloviznia, lluvia floja
+    mascara: '-.--'
+    frase: 家を出ると(小)雨が降り始めました。
+    traduccion: Al salir de casa empezó a llover flojo.
+  - palabra: 小貝
+    lectura: こがい
+    tipo_lectura: kun
+    significado: Conchita
+    mascara: '-.--'
+    frase: 砂浜に(小)貝がたくさんあります。
+    traduccion: En la arena hay muchas conchitas.
+  - palabra: 小鉢
+    lectura: こばち
+    tipo_lectura: kun
+    significado: Cuenco pequeño
+    mascara: '-.--'
+    frase: (小)鉢に小菜を盛りました。
+    traduccion: Puse una guarnición en el cuenco pequeño.

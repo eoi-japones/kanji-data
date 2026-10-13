@@ -1,0 +1,23 @@
+id: 砕
+palabras:
+  - palabra: 砕く
+    lectura: くだく
+    tipo_lectura: kun
+    significado: Triturar, romper
+    mascara: '--.-'
+    frase: 大きな石を(砕)きました。
+    traduccion: Trituré una piedra grande.
+  - palabra: 砕ける
+    lectura: くだける
+    tipo_lectura: kun
+    significado: Hacerse pedazos
+    mascara: '--.-.-'
+    frase: 波が岩で(砕)けました。
+    traduccion: La ola se hizo pedazos contra la roca.
+  - palabra: 砕石
+    lectura: さいせき
+    tipo_lectura: 'on'
+    significado: Piedra machacada
+    mascara: '--.--'
+    frase: 道路の工事で(砕)石を敷きました。
+    traduccion: En la obra del camino echamos piedra machacada.

@@ -1,0 +1,16 @@
+id: 舟
+palabras:
+  - palabra: 小舟
+    lectura: こぶね
+    tipo_lectura: kun
+    significado: Barca pequeña
+    mascara: '-.--'
+    frase: 湖に小(舟)が浮かんでいます。
+    traduccion: En el lago flota una barca pequeña.
+  - palabra: 舟行
+    lectura: しゅうこう
+    tipo_lectura: 'on'
+    significado: Paseo en barca
+    mascara: '---.--'
+    frase: 川の(舟)行を楽しみました。
+    traduccion: Disfruté de un paseo en barca por el río.

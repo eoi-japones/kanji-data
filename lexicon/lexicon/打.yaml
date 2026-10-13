@@ -1,0 +1,23 @@
+id: 打
+palabras:
+  - palabra: 値打ち
+    lectura: ねうち
+    tipo_lectura: kun
+    significado: Valor, mérito
+    mascara: '-.-.-'
+    frase: この絵には高い値(打)ちがあります。
+    traduccion: Este cuadro tiene un valor alto.
+  - palabra: 打つ
+    lectura: うつ
+    tipo_lectura: kun
+    significado: Golpear, pegar
+    mascara: '-.-'
+    frase: 彼は強くボールを(打)ちました。
+    traduccion: Él golpeó fuerte la pelota.
+  - palabra: 舌打ち
+    lectura: したうち
+    tipo_lectura: kun
+    significado: Chasquido de lengua
+    mascara: '--.-.-'
+    frase: 試合に負けて舌(打)ちをしました。
+    traduccion: Tras perder el partido se chasqueó la lengua.

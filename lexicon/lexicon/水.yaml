@@ -1,0 +1,93 @@
+id: 水
+palabras:
+  - palabra: 水
+    lectura: みず
+    tipo_lectura: kun
+    significado: Agua
+    mascara: '--'
+    frase: (水)をたくさん飲んでください。
+    traduccion: Beba mucha agua, por favor.
+  - palabra: 水中
+    lectura: すいちゅう
+    tipo_lectura: 'on'
+    significado: Debajo del agua, en el agua
+    mascara: '--.---'
+    frase: 海で(水)中写真を撮りました。
+    traduccion: Hice fotos submarinas en el mar.
+  - palabra: 水曜日
+    lectura: すいようび
+    tipo_lectura: 'on'
+    significado: Miércoles
+    mascara: '--.--.-'
+    frase: (水)曜日に試合があります。
+    traduccion: El miércoles hay un partido.
+  - palabra: 水泳
+    lectura: すいえい
+    tipo_lectura: 'on'
+    significado: Natación
+    mascara: '--.--'
+    frase: (水)泳の練習を毎日しています。
+    traduccion: Entreno natación todos los días.
+  - palabra: 水牛
+    lectura: すいぎゅう
+    tipo_lectura: 'on'
+    significado: Búfalo de agua
+    mascara: '--.---'
+    frase: (水)牛が田んぼで働いています。
+    traduccion: El búfalo de agua trabaja en el arrozal.
+  - palabra: 水田
+    lectura: すいでん
+    tipo_lectura: 'on'
+    significado: Arrozal inundado
+    mascara: '--.--'
+    frase: 夏になると(水)田が緑になります。
+    traduccion: En verano los arrozales se ponen verdes.
+  - palabra: 水色
+    lectura: みずいろ
+    tipo_lectura: kun
+    significado: Azul agua
+    mascara: '--.--'
+    frase: (水)色のシャツを買いました。
+    traduccion: Me compré una camisa azul agua.
+  - palabra: 水銀
+    lectura: すいぎん
+    tipo_lectura: 'on'
+    significado: Mercurio
+    mascara: '--.--'
+    frase: 昔の体温計には(水)銀が入っていました。
+    traduccion: Los termómetros de antes llevaban mercurio.
+  - palabra: 泉水
+    lectura: せんすい
+    tipo_lectura: 'on'
+    significado: Fuente (de jardín)
+    mascara: '--.--'
+    frase: 寺の庭には小さな泉(水)があります。
+    traduccion: En el jardín del templo hay una fuente pequeña.
+  - palabra: 海水
+    lectura: かいすい
+    tipo_lectura: 'on'
+    significado: Agua de mar
+    mascara: '--.--'
+    frase: 海(水)で体を洗いました。
+    traduccion: Me lavé el cuerpo con agua de mar.
+  - palabra: 湖水
+    lectura: こすい
+    tipo_lectura: 'on'
+    significado: Agua del lago
+    mascara: '-.--'
+    frase: 山の湖(水)はとても冷たいです。
+    traduccion: El agua del lago de montaña está muy fría.
+  - palabra: 飲み水
+    lectura: のみみず
+    tipo_lectura: kun
+    significado: Agua para beber
+    mascara: '-.-.--'
+    frase: 外では飲み(水)を買ってください。
+    traduccion: Para fuera, compre agua para beber.
+  - palabra: 鼻水
+    lectura: はなみず
+    tipo_lectura: kun
+    significado: Mocos, coriza
+    mascara: '--.--'
+    frase: 寒いので鼻(水)が出ます。
+    traduccion: Con el frío se me echan los mocos.

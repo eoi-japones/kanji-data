@@ -1,0 +1,16 @@
+id: 乾
+palabras:
+  - palabra: 乾かす
+    lectura: かわかす
+    tipo_lectura: kun
+    significado: Secar
+    mascara: '--.-.-'
+    frase: 髪を(乾)かしてください。
+    traduccion: Seca el pelo, por favor.
+  - palabra: 乾く
+    lectura: かわく
+    tipo_lectura: kun
+    significado: Secarse
+    mascara: '--.-'
+    frase: 洗濯物が(乾)きました。
+    traduccion: La ropa ya se ha secado.

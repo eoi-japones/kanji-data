@@ -1,0 +1,23 @@
+id: 移
+palabras:
+  - palabra: 移す
+    lectura: うつす
+    tipo_lectura: kun
+    significado: Trasplantar, mudar (algo)
+    mascara: '--.-'
+    frase: 植物を大きい鉢に(移)しました。
+    traduccion: Trasplanté la planta a una maceta grande.
+  - palabra: 移る
+    lectura: うつる
+    tipo_lectura: kun
+    significado: Mudarse, cambiar (de estado)
+    mascara: '--.-'
+    frase: 季節が春に(移)りました。
+    traduccion: La estación pasó a la primavera.
+  - palabra: 移転
+    lectura: いてん
+    tipo_lectura: 'on'
+    significado: Mudanza, traslado
+    mascara: '-.--'
+    frase: 来月アパートに(移)転します。
+    traduccion: El mes que viene me mudo de piso.

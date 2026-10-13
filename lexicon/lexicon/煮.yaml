@@ -1,0 +1,23 @@
+id: 煮
+palabras:
+  - palabra: 煮える
+    lectura: にえる
+    tipo_lectura: kun
+    significado: Estar hirviendo, cocerse
+    mascara: '-.-.-'
+    frase: 鍋の中が(煮)えてきました。
+    traduccion: La olla ya está hirviendo.
+  - palabra: 煮やす
+    lectura: にやす
+    tipo_lectura: kun
+    significado: Cocer a fuego lento
+    mascara: '-.-.-'
+    frase: 豆は時間をかけて(煮)やすとおいしいです。
+    traduccion: Los frijoles quedan buenos si se cuecen a fuego lento.
+  - palabra: 煮る
+    lectura: にる
+    tipo_lectura: kun
+    significado: Cocer, hervir
+    mascara: '-.-'
+    frase: 野菜を(煮)てスープを作ります。
+    traduccion: Cocino verduras para hacer sopa.

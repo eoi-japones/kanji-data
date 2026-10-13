@@ -1,0 +1,23 @@
+id: 刀
+palabras:
+  - palabra: 刀
+    lectura: かたな
+    tipo_lectura: kun
+    significado: Katana, espada japonesa
+    mascara: '---'
+    frase: 父の部屋に古い(刀)があります。
+    traduccion: En la habitación de mi padre hay una katana antigua.
+  - palabra: 小刀
+    lectura: こがたな
+    tipo_lectura: kun
+    significado: Cuchillo pequeño, navaja
+    mascara: '-.---'
+    frase: 料理に小(刀)を使います。
+    traduccion: Uso un cuchillo pequeño para cocinar.
+  - palabra: 日本刀
+    lectura: にほんとう
+    tipo_lectura: 'on'
+    significado: Espada japonesa
+    mascara: '-----..'
+    frase: 博物館で日本(刀)を見ました。
+    traduccion: Vi una espada japonesa en el museo.

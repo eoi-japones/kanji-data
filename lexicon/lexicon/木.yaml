@@ -1,0 +1,44 @@
+id: 木
+palabras:
+  - palabra: 木
+    lectura: き
+    tipo_lectura: kun
+    significado: Árbol
+    mascara: '-'
+    frase: 公園に大きな(木)があります。
+    traduccion: En el parque hay un árbol grande.
+  - palabra: 木の葉
+    lectura: このは
+    tipo_lectura: kun
+    significado: Hoja de árbol
+    mascara: '-.-.-'
+    frase: 秋になると(木)の葉が赤くなります。
+    traduccion: En otoño las hojas de los árboles se ponen rojas.
+  - palabra: 木曜日
+    lectura: もくようび
+    tipo_lectura: 'on'
+    significado: Jueves
+    mascara: '--.--.-'
+    frase: (木)曜日に先生に会います。
+    traduccion: El jueves me veo con el profesor.
+  - palabra: 木製
+    lectura: もくせい
+    tipo_lectura: 'on'
+    significado: De madera
+    mascara: '--.--'
+    frase: 机は(木)製です。
+    traduccion: El escritorio es de madera.
+  - palabra: 苗木
+    lectura: なえぎ
+    tipo_lectura: kun
+    significado: Árbol joven
+    mascara: '--.-'
+    frase: 庭に苗(木)を植えました。
+    traduccion: Planté un árbol joven en el jardín.
+  - palabra: 堅木
+    lectura: かたぎ
+    tipo_lectura: kun
+    significado: Madera dura
+    mascara: '--.-'
+    frase: 机は堅(木)でできています。
+    traduccion: El escritorio está hecho de madera dura.

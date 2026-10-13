@@ -1,0 +1,16 @@
+id: 己
+palabras:
+  - palabra: 利己
+    lectura: りこ
+    tipo_lectura: 'on'
+    significado: Egoísmo, interés propio
+    mascara: '-.-'
+    frase: 利(己)な考えはやめましょう。
+    traduccion: Dejemos de lado el pensamiento egoísta.
+  - palabra: 自己
+    lectura: じこ
+    tipo_lectura: 'on'
+    significado: Uno mismo, sí mismo
+    mascara: '-.-'
+    frase: 会議の最初に自(己)紹介をしました。
+    traduccion: Al principio de la reunión me presenté.

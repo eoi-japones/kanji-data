@@ -1,0 +1,51 @@
+id: 場
+palabras:
+  - palabra: 冬場
+    lectura: ふゆば
+    tipo_lectura: kun
+    significado: Época de invierno
+    mascara: '--.-'
+    frase: 冬(場)はよくスケートをします。
+    traduccion: En invierno suelo patinar.
+  - palabra: 場
+    lectura: ば
+    tipo_lectura: kun
+    significado: Lugar, ocasión
+    mascara: '-'
+    frase: 会議の(場)でその件を決めました。
+    traduccion: Decidimos ese asunto en la reunión.
+  - palabra: 売り場
+    lectura: うりば
+    tipo_lectura: kun
+    significado: Mostrador, sección de venta
+    mascara: '-.-.-'
+    frase: 靴の売り(場)は二階です。
+    traduccion: El mostrador de zapatos está en la planta primera.
+  - palabra: 市場
+    lectura: いちば
+    tipo_lectura: kun
+    significado: Mercado
+    mascara: '--.-'
+    frase: 駅前の市(場)で野菜を買いました。
+    traduccion: Compré verduras en el mercado que hay delante de la estación.
+  - palabra: 漁場
+    lectura: ぎょじょう
+    tipo_lectura: 'on'
+    significado: Pesquera, caladero
+    mascara: '--.---'
+    frase: この海は有名な漁(場)です。
+    traduccion: Este mar es una pesquera famosa.
+  - palabra: 現場
+    lectura: げんば
+    tipo_lectura: kun
+    significado: Lugar de los hechos
+    mascara: '--.-'
+    frase: 警察がすぐ現(場)に着きました。
+    traduccion: La policía llegó enseguida al lugar.
+  - palabra: 魚市場
+    lectura: うおいちば
+    tipo_lectura: kun
+    significado: Mercado de pescado
+    mascara: '--.--.-'
+    frase: 魚市(場)は朝がとても賑やかです。
+    traduccion: El mercado de pescado bulle por la mañana.

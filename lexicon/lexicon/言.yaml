@@ -1,0 +1,37 @@
+id: 言
+palabras:
+  - palabra: 伝言
+    lectura: でんごん
+    tipo_lectura: 'on'
+    significado: Mensaje
+    mascara: '--.--'
+    frase: 母に伝(言)を残しました。
+    traduccion: Dejé un mensaje para mi madre.
+  - palabra: 書き言葉
+    lectura: かきことば
+    tipo_lectura: kun
+    significado: Lenguaje escrito
+    mascara: '-.-.--.-'
+    frase: メールは書き(言)葉の一種です。
+    traduccion: El correo electrónico es una forma de lenguaje escrito.
+  - palabra: 無言
+    lectura: むごん
+    tipo_lectura: 'on'
+    significado: Silencio, sin hablar
+    mascara: '-.--'
+    frase: 会議は無(言)のまま終わりました。
+    traduccion: La reunión terminó en silencio.
+  - palabra: 言い返す
+    lectura: いいかえす
+    tipo_lectura: kun
+    significado: Replicar, contestar
+    mascara: '-.-.--.-'
+    frase: 先生に(言)い返してはいけません。
+    traduccion: No se le debe replicar al profesor.
+  - palabra: 話し言葉
+    lectura: はなしことば
+    tipo_lectura: kun
+    significado: Lenguaje hablado
+    mascara: '--.-.--.-'
+    frase: 話し(言)葉は書き言葉と違います。
+    traduccion: El lenguaje hablado es distinto del lenguaje escrito.

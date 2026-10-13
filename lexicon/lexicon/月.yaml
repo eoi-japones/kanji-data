@@ -1,0 +1,58 @@
+id: 月
+palabras:
+  - palabra: 三日月
+    lectura: みかづき
+    tipo_lectura: kun
+    significado: Luna creciente, luna nueva
+    mascara: '-.-.--'
+    frase: 夜空に三日(月)が出ました。
+    traduccion: Salió la luna creciente en el cielo nocturno.
+  - palabra: 今月
+    lectura: こんげつ
+    tipo_lectura: 'on'
+    significado: Este mes
+    mascara: '--.--'
+    frase: 今(月)はとても忙しいです。
+    traduccion: Este mes estoy muy ocupado.
+  - palabra: 先月
+    lectura: せんげつ
+    tipo_lectura: 'on'
+    significado: El mes pasado
+    mascara: '--.--'
+    frase: 先(月)、東京へ行きました。
+    traduccion: El mes pasado fui a Tokio.
+  - palabra: 月曜日
+    lectura: げつようび
+    tipo_lectura: 'on'
+    significado: Lunes
+    mascara: '--.--.-'
+    frase: (月)曜日は学校に行きます。
+    traduccion: Los lunes voy a la escuela.
+  - palabra: 来月
+    lectura: らいげつ
+    tipo_lectura: 'on'
+    significado: El mes que viene
+    mascara: '--.--'
+    frase: 来(月)、日本語の試験があります。
+    traduccion: El mes que viene hay un examen de japonés.
+  - palabra: 正月
+    lectura: しょうがつ
+    tipo_lectura: 'on'
+    significado: Año Nuevo
+    mascara: '---.--'
+    frase: 正(月)は実家へ帰ります。
+    traduccion: Para el Año Nuevo vuelvo a casa de mis padres.
+  - palabra: 毎月
+    lectura: まいつき
+    tipo_lectura: kun
+    significado: Todos los meses, cada mes
+    mascara: '--.--'
+    frase: 毎(月)、家賃を払います。
+    traduccion: Pago el alquiler todos los meses.
+  - palabra: 宵月
+    lectura: よいづき
+    tipo_lectura: kun
+    significado: Luna de la noche temprana
+    mascara: '--.--'
+    frase: 西の空に宵(月)が出ました。
+    traduccion: En el cielo del oeste salió la luna de la noche temprana.

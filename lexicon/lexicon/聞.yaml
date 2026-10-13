@@ -1,0 +1,23 @@
+id: 聞
+palabras:
+  - palabra: 聞き手
+    lectura: ききて
+    tipo_lectura: kun
+    significado: Quien escucha, entrevistador
+    mascara: '-.-.-'
+    frase: インタビューでは(聞)き手が大切です。
+    traduccion: En una entrevista quien entrevista es importante.
+  - palabra: 聞く
+    lectura: きく
+    tipo_lectura: kun
+    significado: Escuchar, preguntar
+    mascara: '-.-'
+    frase: 先生の話を(聞)きました。
+    traduccion: Escuché la explicación del profesor.
+  - palabra: 聞こえる
+    lectura: きこえる
+    tipo_lectura: kun
+    significado: Oírse, alcanzar el oído
+    mascara: '-.-.-.-'
+    frase: 隣の部屋から音楽が(聞)こえます。
+    traduccion: Se oye música desde la habitación de al lado.

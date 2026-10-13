@@ -1,0 +1,30 @@
+id: 皇
+palabras:
+  - palabra: 天皇
+    lectura: てんのう
+    tipo_lectura: 'on'
+    significado: Emperador de Japón
+    mascara: '----.'
+    frase: 天(皇)は日本の象徴です。
+    traduccion: El emperador es el símbolo de Japón.
+  - palabra: 皇女
+    lectura: こうじょ
+    tipo_lectura: 'on'
+    significado: Princesa imperial
+    mascara: '--.--'
+    frase: (皇)女が式典に出ました。
+    traduccion: La princesa imperial asistió a la ceremonia.
+  - palabra: 皇帝
+    lectura: こうてい
+    tipo_lectura: 'on'
+    significado: Emperador
+    mascara: '--.--'
+    frase: この映画は(皇)帝の一生を描いています。
+    traduccion: Esta película retrata la vida de un emperador.
+  - palabra: 皇妃
+    lectura: こうひ
+    tipo_lectura: 'on'
+    significado: Emperatriz
+    mascara: '--.-'
+    frase: (皇)妃は式典で静かに微笑みました。
+    traduccion: La emperatriz sonrió con calma en la ceremonia.

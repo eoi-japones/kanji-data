@@ -1,0 +1,23 @@
+id: 堅
+palabras:
+  - palabra: 中堅
+    lectura: ちゅうけん
+    tipo_lectura: 'on'
+    significado: Cuadro medio, base
+    mascara: '---.--'
+    frase: 会社の中(堅)として働いています。
+    traduccion: Trabaja como cuadro medio de la empresa.
+  - palabra: 手堅い
+    lectura: てがたい
+    tipo_lectura: kun
+    significado: Sólido, fiable
+    mascara: '-.--.-'
+    frase: 彼の仕事は手(堅)いです。
+    traduccion: Su trabajo es sólido.
+  - palabra: 堅木
+    lectura: かたぎ
+    tipo_lectura: kun
+    significado: Madera dura
+    mascara: '--.-'
+    frase: 机は(堅)木でできています。
+    traduccion: El escritorio está hecho de madera dura.

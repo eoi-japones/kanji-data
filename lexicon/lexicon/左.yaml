@@ -1,0 +1,23 @@
+id: 左
+palabras:
+  - palabra: 左
+    lectura: ひだり
+    tipo_lectura: kun
+    significado: Izquierda
+    mascara: '---'
+    frase: 交差点を(左)に曲がってください。
+    traduccion: Gire a la izquierda en el cruce.
+  - palabra: 左右
+    lectura: さゆう
+    tipo_lectura: 'on'
+    significado: Izquierda y derecha
+    mascara: '-.--'
+    frase: この建物は(左)右対称です。
+    traduccion: Este edificio es simétrico.
+  - palabra: 左手
+    lectura: ひだりて
+    tipo_lectura: kun
+    significado: Mano izquierda
+    mascara: '---.-'
+    frase: (左)手でペンを持ちます。
+    traduccion: Sostengo el bolígrafo con la mano izquierda.

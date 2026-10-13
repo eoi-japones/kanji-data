@@ -1,0 +1,23 @@
+id: 佐
+palabras:
+  - palabra: 中佐
+    lectura: ちゅうさ
+    tipo_lectura: 'on'
+    significado: Comandante
+    mascara: '---.-'
+    frase: 彼は中(佐)に昇進しました。
+    traduccion: Él ascendió a comandante.
+  - palabra: 大佐
+    lectura: たいさ
+    tipo_lectura: 'on'
+    significado: Coronel
+    mascara: '--.-'
+    frase: 映画に大(佐)が登場します。
+    traduccion: En la película aparece un coronel.
+  - palabra: 少佐
+    lectura: しょうさ
+    tipo_lectura: 'on'
+    significado: Mayor (militar)
+    mascara: '---.-'
+    frase: 少(佐)の制服がよく似合います。
+    traduccion: El uniforme de mayor le queda muy bien.

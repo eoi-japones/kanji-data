@@ -1,0 +1,23 @@
+id: 決
+palabras:
+  - palabra: 判決
+    lectura: はんけつ
+    tipo_lectura: 'on'
+    significado: Sentencia, fallo
+    mascara: '--.--'
+    frase: 裁判の判(決)が下りました。
+    traduccion: Se dictó la sentencia del juicio.
+  - palabra: 決意
+    lectura: けつい
+    tipo_lectura: 'on'
+    significado: Decisión, determinación
+    mascara: '--.-'
+    frase: 留学する(決)意をしました。
+    traduccion: He decidido irme a estudiar al extranjero.
+  - palabra: 決算
+    lectura: けっさん
+    tipo_lectura: 'on'
+    significado: Resultados (de una empresa)
+    mascara: '----.'
+    frase: 会社の(決)算が発表されました。
+    traduccion: Se anunciaron los resultados de la empresa.

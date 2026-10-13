@@ -1,0 +1,23 @@
+id: 耳
+palabras:
+  - palabra: 中耳
+    lectura: ちゅうじ
+    tipo_lectura: 'on'
+    significado: Oído medio
+    mascara: '---.-'
+    frase: 中(耳)炎で耳が痛かったです。
+    traduccion: Me dolía el oído por una otitis.
+  - palabra: 耳
+    lectura: みみ
+    tipo_lectura: kun
+    significado: Oído, oreja
+    mascara: '--'
+    frase: (耳)をすませば、海の音がします。
+    traduccion: Si aguzas el oído, se oye el mar.
+  - palabra: 初耳
+    lectura: はつみみ
+    tipo_lectura: kun
+    significado: Novedad, algo que se oye por primera vez
+    mascara: '--.--'
+    frase: その話は私にとって初(耳)です。
+    traduccion: Esa noticia es novedad para mí.

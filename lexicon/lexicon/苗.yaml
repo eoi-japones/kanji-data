@@ -1,0 +1,23 @@
+id: 苗
+palabras:
+  - palabra: 苗
+    lectura: なえ
+    tipo_lectura: kun
+    significado: Plantón, plántula
+    mascara: '--'
+    frase: 田に(苗)を植えました。
+    traduccion: Planté plántulas en el arrozal.
+  - palabra: 苗字
+    lectura: みょうじ
+    tipo_lectura: 'on'
+    significado: Apellido
+    mascara: '---.-'
+    frase: (苗)字を漢字で書けますか。
+    traduccion: ¿Puede escribir su apellido en kanji?
+  - palabra: 苗木
+    lectura: なえぎ
+    tipo_lectura: kun
+    significado: Árbol joven
+    mascara: '--.-'
+    frase: 庭に(苗)木を植えました。
+    traduccion: Planté un árbol joven en el jardín.

@@ -1,0 +1,16 @@
+id: 蚊
+palabras:
+  - palabra: 蚊
+    lectura: か
+    tipo_lectura: kun
+    significado: Mosquito
+    mascara: '-'
+    frase: 夏は毎晩(蚊)に刺されます。
+    traduccion: En verano me pican los mosquitos todas las noches.
+  - palabra: 蚊よけ
+    lectura: かよけ
+    tipo_lectura: kun
+    significado: Repelente de mosquitos
+    mascara: '-.-.-'
+    frase: (蚊)よけを塗ってから出かけました。
+    traduccion: Me puse repelente de mosquitos antes de salir.

@@ -1,0 +1,58 @@
+id: 地
+palabras:
+  - palabra: 土地
+    lectura: とち
+    tipo_lectura: 'on'
+    significado: Terreno, solar
+    mascara: '-.-'
+    frase: 会社が新しい土(地)を買いました。
+    traduccion: La empresa ha comprado un terreno nuevo.
+  - palabra: 地下鉄
+    lectura: ちかてつ
+    tipo_lectura: 'on'
+    significado: Metro
+    mascara: '-.-.--'
+    frase: 市内は(地)下鉄で行けます。
+    traduccion: Por la ciudad se va en metro.
+  - palabra: 地雷
+    lectura: じらい
+    tipo_lectura: 'on'
+    significado: Mina terrestre
+    mascara: '-.--'
+    frase: 戦争の後も(地)雷が残っています。
+    traduccion: Tras la guerra aún quedan minas terrestres.
+  - palabra: 墓地
+    lectura: ぼち
+    tipo_lectura: 'on'
+    significado: Cementerio
+    mascara: '-.-'
+    frase: 墓(地)は静かな場所です。
+    traduccion: El cementerio es un lugar tranquilo.
+  - palabra: 心地よい
+    lectura: ここちよい
+    tipo_lectura: 'on'
+    significado: Agradable, placentero
+    mascara: '--.-.-.-'
+    frase: 朝の風が心(地)よいです。
+    traduccion: La brisa de la mañana es agradable.
+  - palabra: 沼地
+    lectura: ぬまち
+    tipo_lectura: 'on'
+    significado: Terreno pantanoso
+    mascara: '--.-'
+    frase: 沼(地)は立ち入りが危険です。
+    traduccion: El terreno pantanoso es peligroso de entrar.
+  - palabra: 現地
+    lectura: げんち
+    tipo_lectura: 'on'
+    significado: Lugar, lugar de los hechos
+    mascara: '--.-'
+    frase: 現(地)のガイドに会いました。
+    traduccion: Me encontré con el guía local.
+  - palabra: 地を均す
+    lectura: じをならす
+    tipo_lectura: 'on'
+    significado: Allanar el terreno
+    mascara: '-.-.--.-'
+    frase: 工事で(地)を均しました。
+    traduccion: En la obra allanaron el terreno.

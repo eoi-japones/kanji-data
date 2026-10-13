@@ -1,0 +1,23 @@
+id: 名
+palabras:
+  - palabra: 名画
+    lectura: めいが
+    tipo_lectura: 'on'
+    significado: Obra maestra (pintura o película)
+    mascara: '--.-'
+    frase: この映画は(名)画として知られています。
+    traduccion: Esta película está considerada una obra maestra.
+  - palabra: 名高い
+    lectura: なだかい
+    tipo_lectura: kun
+    significado: Célebre, de renombre
+    mascara: '-.--.-'
+    frase: 彼は世界で(名)高い学者です。
+    traduccion: Él es un erudito de renombre mundial.
+  - palabra: 本名
+    lectura: ほんみょう
+    tipo_lectura: 'on'
+    significado: Nombre real
+    mascara: '--.---'
+    frase: 彼の本(名)はまだ知られていません。
+    traduccion: Su nombre real todavía no se conoce.

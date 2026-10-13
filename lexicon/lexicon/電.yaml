@@ -1,0 +1,51 @@
+id: 電
+palabras:
+  - palabra: 電器
+    lectura: でんき
+    tipo_lectura: 'on'
+    significado: Aparatos eléctricos
+    mascara: '--.-'
+    frase: 駅前の(電)器屋でラジオを買いました。
+    traduccion: Compré una radio en la tienda de electrodomésticos de la estación.
+  - palabra: 電子
+    lectura: でんし
+    tipo_lectura: 'on'
+    significado: Electrónico, electrón
+    mascara: '--.-'
+    frase: (電)子レンジで料理を温めます。
+    traduccion: Caliento la comida en el microondas.
+  - palabra: 電灯
+    lectura: でんとう
+    tipo_lectura: 'on'
+    significado: Luz eléctrica
+    mascara: '--.--'
+    frase: 帰宅して(電)灯をつけました。
+    traduccion: Llegué a casa y encendí la luz.
+  - palabra: 電線
+    lectura: でんせん
+    tipo_lectura: 'on'
+    significado: Cable eléctrico
+    mascara: '--.--'
+    frase: 台風で(電)線が切れました。
+    traduccion: El tifón cortó los cables eléctricos.
+  - palabra: 電話
+    lectura: でんわ
+    tipo_lectura: 'on'
+    significado: Teléfono, llamada
+    mascara: '--.-'
+    frase: 友達に(電)話をかけました。
+    traduccion: Llamé por teléfono a un amigo.
+  - palabra: 電話機
+    lectura: でんわき
+    tipo_lectura: 'on'
+    significado: Aparato de teléfono
+    mascara: '--.-.-'
+    frase: (電)話機の調子が悪いです。
+    traduccion: El teléfono va mal.
+  - palabra: 電車
+    lectura: でんしゃ
+    tipo_lectura: 'on'
+    significado: Tren eléctrico
+    mascara: '--.--'
+    frase: 毎朝、(電)車で会社へ行きます。
+    traduccion: Todos los mañanas voy al trabajo en tren.

@@ -1,0 +1,58 @@
+id: 雨
+palabras:
+  - palabra: 大雨
+    lectura: おおあめ
+    tipo_lectura: kun
+    significado: Lluvia torrencial, aguacero
+    mascara: '--.--'
+    frase: 大(雨)で電車が止まりました。
+    traduccion: Por la lluvia torrencial se pararon los trenes.
+  - palabra: 小雨
+    lectura: こさめ
+    tipo_lectura: kun
+    significado: Lloviznia, lluvia floja
+    mascara: '-.--'
+    frase: 家を出ると小(雨)が降り始めました。
+    traduccion: Al salir de casa empezó a llover flojo.
+  - palabra: 雨
+    lectura: あめ
+    tipo_lectura: kun
+    significado: Lluvia
+    mascara: '--'
+    frase: 朝から(雨)が降っています。
+    traduccion: Llueve desde por la mañana.
+  - palabra: 雨宿り
+    lectura: あまやどり
+    tipo_lectura: kun
+    significado: Refugiarse de la lluvia
+    mascara: '--.--.-'
+    frase: 急な雨で店で(雨)宿りをしました。
+    traduccion: Con la lluvia repentina me refugié en una tienda.
+  - palabra: 雨雲
+    lectura: あまぐも
+    tipo_lectura: kun
+    significado: Nube de lluvia
+    mascara: '--.--'
+    frase: (雨)雲が近づいてきました。
+    traduccion: Se están acercando las nubes de lluvia.
+  - palabra: 雷雨
+    lectura: らいう
+    tipo_lectura: 'on'
+    significado: Tormenta eléctrica
+    mascara: '--.-'
+    frase: 雷(雨)のため電車が止まりました。
+    traduccion: Los trenes se pararon por la tormenta eléctrica.
+  - palabra: 霧雨
+    lectura: きりさめ
+    tipo_lectura: kun
+    significado: Llovizna
+    mascara: '--.--'
+    frase: 外は霧(雨)が降っています。
+    traduccion: Fuera está cayendo una llovizna.
+  - palabra: 雨乞い
+    lectura: あまごい
+    tipo_lectura: kun
+    significado: Petición de lluvia
+    mascara: '--.-.-'
+    frase: 昔は(雨)乞いの祈祷が行われました。
+    traduccion: Antes se celebraban rituales de petición de lluvia.

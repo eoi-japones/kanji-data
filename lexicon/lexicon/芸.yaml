@@ -1,0 +1,23 @@
+id: 芸
+palabras:
+  - palabra: 文芸
+    lectura: ぶんげい
+    tipo_lectura: 'on'
+    significado: Literatura y artes
+    mascara: '--.--'
+    frase: 週末に文(芸)誌を読みました。
+    traduccion: El fin de semana leí una revista literaria.
+  - palabra: 芸人
+    lectura: げいにん
+    tipo_lectura: 'on'
+    significado: Cómico, artista
+    mascara: '--.--'
+    frase: 彼は有名な(芸)人です。
+    traduccion: Él es un famoso cómico.
+  - palabra: 芸術
+    lectura: げいじゅつ
+    tipo_lectura: 'on'
+    significado: Arte
+    mascara: '--.---'
+    frase: この町には(芸)術の場がたくさんあります。
+    traduccion: En esta ciudad hay muchos espacios para el arte.

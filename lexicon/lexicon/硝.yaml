@@ -1,0 +1,16 @@
+id: 硝
+palabras:
+  - palabra: 硝子
+    lectura: ガラス
+    tipo_lectura: kun
+    significado: Cristal, vidrio
+    mascara: '---.'
+    frase: 台風で(硝)子の窓が割れました。
+    traduccion: Con el tifón se rompieron las ventanas de cristal.
+  - palabra: 硝子体
+    lectura: しょうしたい
+    tipo_lectura: 'on'
+    significado: Humor vítreo
+    mascara: '---.-.--'
+    frase: (硝)子体は目の内部にあります。
+    traduccion: El humor vítreo está dentro del ojo.

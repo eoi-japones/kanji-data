@@ -1,0 +1,37 @@
+id: 四
+palabras:
+  - palabra: 四つ
+    lectura: よっつ
+    tipo_lectura: kun
+    significado: Cuatro; cuatro años
+    mascara: '--.-'
+    frase: りんごを(四)つ買いました。
+    traduccion: Compré cuatro manzanas.
+  - palabra: 四人
+    lectura: よにん
+    tipo_lectura: kun
+    significado: Cuatro personas
+    mascara: '-.--'
+    frase: テーブルは(四)人用です。
+    traduccion: La mesa es para cuatro personas.
+  - palabra: 四百
+    lectura: よんひゃく
+    tipo_lectura: kun
+    significado: Cuatrocientos
+    mascara: '--.---'
+    frase: この切手は(四)百円です。
+    traduccion: Este sello cuesta cuatrocientos yenes.
+  - palabra: 四輪車
+    lectura: よんりんしゃ
+    tipo_lectura: kun
+    significado: Automóvil, coche
+    mascara: '--.--.--'
+    frase: 父は(四)輪車を新しく買いました。
+    traduccion: Mi padre ha comprado un coche nuevo.
+  - palabra: 四隅
+    lectura: よすみ
+    tipo_lectura: kun
+    significado: Las cuatro esquinas
+    mascara: '-.--'
+    frase: 箱の(四)隅をテープで留めました。
+    traduccion: Fijé con cinta las cuatro esquinas de la caja.

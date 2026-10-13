@@ -1,0 +1,44 @@
+id: 石
+palabras:
+  - palabra: 墓石
+    lectura: ぼせき
+    tipo_lectura: 'on'
+    significado: Lápida
+    mascara: '-.--'
+    frase: 墓(石)に名前が刻まれています。
+    traduccion: En la lápida está grabado el nombre.
+  - palabra: 小石
+    lectura: こいし
+    tipo_lectura: kun
+    significado: Piedrecita, guijarro
+    mascara: '-.--'
+    frase: 庭に小(石)を敷きました。
+    traduccion: Esparcí piedrecitas por el jardín.
+  - palabra: 石
+    lectura: いし
+    tipo_lectura: kun
+    significado: Piedra
+    mascara: '--'
+    frase: 川辺できれいな(石)を拾いました。
+    traduccion: Recogí piedras bonitas a la orilla del río.
+  - palabra: 石橋
+    lectura: いしばし
+    tipo_lectura: kun
+    significado: Puente de piedra
+    mascara: '--.--'
+    frase: 古い(石)橋が川にかかっています。
+    traduccion: Un viejo puente de piedra cruza el río.
+  - palabra: 石灰
+    lectura: せっかい
+    tipo_lectura: 'on'
+    significado: Cal
+    mascara: '----.'
+    frase: 壁に(石)灰を塗りました。
+    traduccion: Pinté la pared de cal.
+  - palabra: 砕石
+    lectura: さいせき
+    tipo_lectura: 'on'
+    significado: Piedra machacada
+    mascara: '--.--'
+    frase: 道路の工事で砕(石)を敷きました。
+    traduccion: En la obra del camino echamos piedra machacada.

@@ -1,0 +1,16 @@
+id: 汐
+palabras:
+  - palabra: 潮汐
+    lectura: ちょうせき
+    tipo_lectura: 'on'
+    significado: Marea
+    mascara: '---.--'
+    frase: この海岸では潮(汐)の変化が大きいです。
+    traduccion: En esta costa los cambios de marea son grandes.
+  - palabra: 潮汐表
+    lectura: ちょうせきひょう
+    tipo_lectura: 'on'
+    significado: Tabla de mareas
+    mascara: '---.--.---'
+    frase: 船長が潮(汐)表を見て出発しました。
+    traduccion: El capitán zarpó mirando la tabla de mareas.

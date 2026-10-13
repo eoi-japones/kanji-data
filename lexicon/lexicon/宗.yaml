@@ -1,0 +1,30 @@
+id: 宗
+palabras:
+  - palabra: 宗
+    lectura: しゅう
+    tipo_lectura: 'on'
+    significado: Secta, denominación
+    mascara: '---'
+    frase: その(宗)の教えを学んでいます。
+    traduccion: Estoy aprendiendo la doctrina de esa secta.
+  - palabra: 宗家
+    lectura: そうけ
+    tipo_lectura: 'on'
+    significado: Casa principal, familia fundadora
+    mascara: '--.-'
+    frase: その芸能は代々(宗)家に受け継がれています。
+    traduccion: Ese arte se transmite de generación en generación en la casa principal.
+  - palabra: 宗教
+    lectura: しゅうきょう
+    tipo_lectura: 'on'
+    significado: Religión
+    mascara: '---.---'
+    frase: 日本には多くの(宗)教があります。
+    traduccion: En Japón hay muchas religiones.
+  - palabra: 宗祖
+    lectura: しゅうそ
+    tipo_lectura: 'on'
+    significado: Fundador de una secta
+    mascara: '---.-'
+    frase: 寺には(宗)祖の像が祭られています。
+    traduccion: En el templo está venerada la estatua del fundador.

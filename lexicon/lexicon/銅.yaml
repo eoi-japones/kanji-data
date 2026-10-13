@@ -1,0 +1,23 @@
+id: 銅
+palabras:
+  - palabra: 銅
+    lectura: どう
+    tipo_lectura: 'on'
+    significado: Cobre
+    mascara: '--'
+    frase: (銅)は電気を通します。
+    traduccion: El cobre conduce la electricidad.
+  - palabra: 銅山
+    lectura: どうざん
+    tipo_lectura: 'on'
+    significado: Mina de cobre
+    mascara: '--.--'
+    frase: 町は昔、(銅)山で栄えました。
+    traduccion: El pueblo prosperó antaño con la mina de cobre.
+  - palabra: 青銅
+    lectura: せいどう
+    tipo_lectura: 'on'
+    significado: Bronce
+    mascara: '--.--'
+    frase: 古い青(銅)の像があります。
+    traduccion: Hay una estatua antigua de bronce.

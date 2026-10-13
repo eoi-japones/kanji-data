@@ -1,0 +1,44 @@
+id: 別
+palabras:
+  - palabra: 分別
+    lectura: ふんべつ
+    tipo_lectura: 'on'
+    significado: Separación (de la basura)
+    mascara: '--.--'
+    frase: ゴミは分(別)して出してください。
+    traduccion: Saque la basura separada, por favor.
+  - palabra: 別
+    lectura: べつ
+    tipo_lectura: 'on'
+    significado: Otro, distinto
+    mascara: '--'
+    frase: (別)の場所で待ち合わせましょう。
+    traduccion: Quedemos en otro sitio.
+  - palabra: 別々
+    lectura: べつべつ
+    tipo_lectura: kun
+    significado: Por separado, cada uno
+    mascara: '----.'
+    frase: 今日は(別)々の電車で行きます。
+    traduccion: Hoy vamos en trenes distintos.
+  - palabra: 別人
+    lectura: べつじん
+    tipo_lectura: 'on'
+    significado: Otra persona, alguien distinto
+    mascara: '--.--'
+    frase: 一年で(別)人のようになりました。
+    traduccion: En un año me he convertido en otra persona.
+  - palabra: 別冊
+    lectura: べっさつ
+    tipo_lectura: 'on'
+    significado: Suplemento, volumen aparte
+    mascara: '----.'
+    frase: 雑誌に(別)冊が付いています。
+    traduccion: La revista viene con un suplemento aparte.
+  - palabra: 別項
+    lectura: べっこう
+    tipo_lectura: 'on'
+    significado: Apartado aparte
+    mascara: '----.'
+    frase: その件は(別)項に記載しました。
+    traduccion: Ese asunto lo he anotado en un apartado aparte.

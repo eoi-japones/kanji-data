@@ -1,0 +1,86 @@
+id: 下
+palabras:
+  - palabra: 上下
+    lectura: うえした
+    tipo_lectura: kun
+    significado: Parte de arriba y de abajo
+    mascara: '--.--'
+    frase: 服の上(下)を一式買いました。
+    traduccion: Me compré el conjunto de ropa, arriba y abajo.
+  - palabra: 下
+    lectura: した
+    tipo_lectura: kun
+    significado: Abajo, debajo
+    mascara: '--'
+    frase: 猫は椅子の(下)にいます。
+    traduccion: El gato está debajo de la silla.
+  - palabra: 下がる
+    lectura: さがる
+    tipo_lectura: kun
+    significado: Bajar, descender
+    mascara: '-.-.-'
+    frase: 夜になって熱が(下)がりました。
+    traduccion: Al caer la noche la fiebre bajó.
+  - palabra: 下げる
+    lectura: さげる
+    tipo_lectura: kun
+    significado: Bajar, rebajar
+    mascara: '-.-.-'
+    frase: 声を(下)げて話してください。
+    traduccion: Hable con voz más baja, por favor.
+  - palabra: 下書き
+    lectura: したがき
+    tipo_lectura: kun
+    significado: Borrador
+    mascara: '--.-.-'
+    frase: 作文の(下)書きをしました。
+    traduccion: Hice un borrador de la composición.
+  - palabra: 下町
+    lectura: したまち
+    tipo_lectura: kun
+    significado: Barrio bajo, barrio popular
+    mascara: '--.--'
+    frase: (下)町の商店街を散歩しました。
+    traduccion: Paseé por el mercado del barrio bajo.
+  - palabra: 下車
+    lectura: げしゃ
+    tipo_lectura: 'on'
+    significado: Bajarse (del transporte)
+    mascara: '-.--'
+    frase: 次の駅で(下)車してください。
+    traduccion: Baje en la próxima estación, por favor.
+  - palabra: 地下鉄
+    lectura: ちかてつ
+    tipo_lectura: 'on'
+    significado: Metro
+    mascara: '-.-.--'
+    frase: 市内は地(下)鉄で行けます。
+    traduccion: Por la ciudad se va en metro.
+  - palabra: 目下
+    lectura: めした
+    tipo_lectura: kun
+    significado: Subordinado, inferior
+    mascara: '-.--'
+    frase: 彼は私たちの目(下)の者です。
+    traduccion: Él es nuestro subordinado.
+  - palabra: 門下
+    lectura: もんか
+    tipo_lectura: 'on'
+    significado: Discípulo
+    mascara: '--.-'
+    frase: 彼は大先生の門(下)です。
+    traduccion: Él es discípulo del gran maestro.
+  - palabra: 下賜
+    lectura: かし
+    tipo_lectura: 'on'
+    significado: Concesión (de un superior)
+    mascara: '-.-'
+    frase: 天皇から額が(下)賜されました。
+    traduccion: El emperador concedió un pergamino.
+  - palabra: 府下
+    lectura: ふか
+    tipo_lectura: 'on'
+    significado: Distrito metropolitano
+    mascara: '-.-'
+    frase: 府(下)には多くの人口が住んでいます。
+    traduccion: En el distrito metropolitano viven muchos habitantes.

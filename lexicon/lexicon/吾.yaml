@@ -1,0 +1,16 @@
+id: 吾
+palabras:
+  - palabra: 吾子
+    lectura: あこ
+    tipo_lectura: kun
+    significado: Mi hijo
+    mascara: '-.-'
+    frase: (吾)子という言葉は、自分の子供のことを意味します。
+    traduccion: Esta palabra antigua significa «mi hijo».
+  - palabra: 金吾
+    lectura: きんご
+    tipo_lectura: 'on'
+    significado: Juego de cartas parecido al black jack
+    mascara: '--.-'
+    frase: 金(吾)はブラックジャックに似たカードゲームです。
+    traduccion: Es un juego de cartas parecido al black jack.

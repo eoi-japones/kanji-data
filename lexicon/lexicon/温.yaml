@@ -1,0 +1,16 @@
+id: 温
+palabras:
+  - palabra: 体温計
+    lectura: たいおんけい
+    tipo_lectura: 'on'
+    significado: Termómetro
+    mascara: '--.--.--'
+    frase: 体(温)計で熱を測りました。
+    traduccion: Me medí la fiebre con el termómetro.
+  - palabra: 温泉
+    lectura: おんせん
+    tipo_lectura: 'on'
+    significado: Aguas termales, onsen
+    mascara: '--.--'
+    frase: 週末に(温)泉へ行きました。
+    traduccion: El fin de semana fui a unos baños termales.

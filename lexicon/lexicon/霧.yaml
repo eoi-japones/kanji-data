@@ -1,0 +1,23 @@
+id: 霧
+palabras:
+  - palabra: 夕霧
+    lectura: ゆうぎり
+    tipo_lectura: kun
+    significado: Niebla del atardecer
+    mascara: '--.--'
+    frase: 川の上で夕(霧)が漂っています。
+    traduccion: Sobre el río flota la niebla del atardecer.
+  - palabra: 霧
+    lectura: きり
+    tipo_lectura: kun
+    significado: Niebla
+    mascara: '--'
+    frase: 海に(霧)が立ちこめています。
+    traduccion: Hay niebla espesa sobre el mar.
+  - palabra: 霧雨
+    lectura: きりさめ
+    tipo_lectura: kun
+    significado: Llovizna
+    mascara: '--.--'
+    frase: 外は(霧)雨が降っています。
+    traduccion: Fuera está cayendo una llovizna.

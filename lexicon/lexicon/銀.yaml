@@ -1,0 +1,37 @@
+id: 銀
+palabras:
+  - palabra: 水銀
+    lectura: すいぎん
+    tipo_lectura: 'on'
+    significado: Mercurio
+    mascara: '--.--'
+    frase: 昔の体温計には水(銀)が入っていました。
+    traduccion: Los termómetros de antes llevaban mercurio.
+  - palabra: 輸銀
+    lectura: ゆぎん
+    tipo_lectura: 'on'
+    significado: Banco de exportación-importación
+    mascara: '-.--'
+    frase: 輸(銀)は政府系の銀行です。
+    traduccion: El banco de exportación-importación es un banco público.
+  - palabra: 銀河
+    lectura: ぎんが
+    tipo_lectura: 'on'
+    significado: Vía Láctea, galaxia
+    mascara: '--.-'
+    frase: 夜空に(銀)河が見えます。
+    traduccion: En el cielo nocturno se ve la Vía Láctea.
+  - palabra: 銀色
+    lectura: ぎんいろ
+    tipo_lectura: 'on'
+    significado: Color plateado
+    mascara: '--.--'
+    frase: (銀)色の車が好きです。
+    traduccion: Me gustan los coches plateados.
+  - palabra: 銀行
+    lectura: ぎんこう
+    tipo_lectura: 'on'
+    significado: Banco
+    mascara: '--.--'
+    frase: (銀)行でお金を受け取りました。
+    traduccion: Retiré dinero del banco.

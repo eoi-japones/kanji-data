@@ -1,0 +1,219 @@
+id: 日
+palabras:
+  - palabra: 一日中
+    lectura: いちにちじゅう
+    tipo_lectura: kun
+    significado: Todo el día
+    mascara: '-------..'
+    frase: 一(日)中、家にいました。
+    traduccion: Estuve en casa todo el día.
+  - palabra: 一昨日
+    lectura: おととい
+    tipo_lectura: kun
+    significado: Anteayer
+    mascara: '----..'
+    frase: 一昨(日)、友達と会いました。
+    traduccion: Anteayer vi a un amigo.
+  - palabra: 三日月
+    lectura: みかづき
+    tipo_lectura: kun
+    significado: Luna creciente, luna nueva
+    mascara: '-.-.--'
+    frase: 夜空に三(日)月が出ました。
+    traduccion: Salió la luna creciente en el cielo nocturno.
+  - palabra: 今日
+    lectura: きょう
+    tipo_lectura: kun
+    significado: Hoy
+    mascara: '---.'
+    frase: 今(日)は寒いです。
+    traduccion: Hoy hace frío.
+  - palabra: 先日
+    lectura: せんじつ
+    tipo_lectura: 'on'
+    significado: El otro día, hace unos días
+    mascara: '--.--'
+    frase: 先(日)はお世話になりました。
+    traduccion: Gracias por su ayuda el otro día.
+  - palabra: 半日
+    lectura: はんにち
+    tipo_lectura: 'on'
+    significado: Media jornada, medio día
+    mascara: '--.--'
+    frase: 先生に半(日)休みをもらいました。
+    traduccion: El profesor me ha dado media jornada de libre.
+  - palabra: 土曜日
+    lectura: どようび
+    tipo_lectura: kun
+    significado: Sábado
+    mascara: '-.--.-'
+    frase: 土曜(日)は図書館へ行きます。
+    traduccion: Los sábados voy a la biblioteca.
+  - palabra: 夕日
+    lectura: ゆうひ
+    tipo_lectura: kun
+    significado: Sol poniente
+    mascara: '--.-'
+    frase: 海の上で夕(日)が沈みます。
+    traduccion: El sol se pone sobre el mar.
+  - palabra: 数日
+    lectura: すうじつ
+    tipo_lectura: 'on'
+    significado: Unos días
+    mascara: '--.--'
+    frase: 数(日)後にお返事します。
+    traduccion: Respondo en unos días.
+  - palabra: 日光
+    lectura: にっこう
+    tipo_lectura: kun
+    significado: Luz del sol
+    mascara: '----.'
+    frase: (日)光で洗濯物を干します。
+    traduccion: Seco la ropa al sol.
+  - palabra: 日時
+    lectura: にちじ
+    tipo_lectura: 'on'
+    significado: Fecha y hora
+    mascara: '--.-'
+    frase: 出発の(日)時を教えてください。
+    traduccion: Dígame la fecha y la hora de la salida.
+  - palabra: 日本
+    lectura: にほん
+    tipo_lectura: kun
+    significado: Japón
+    mascara: '---.'
+    frase: (日)本は四季がはっきりしています。
+    traduccion: Japón tiene las cuatro estaciones muy marcadas.
+  - palabra: 日本刀
+    lectura: にほんとう
+    tipo_lectura: 'on'
+    significado: Espada japonesa
+    mascara: '-----..'
+    frase: 博物館で(日)本刀を見ました。
+    traduccion: Vi una espada japonesa en el museo.
+  - palabra: 日本史
+    lectura: にほんし
+    tipo_lectura: 'on'
+    significado: Historia de Japón
+    mascara: '----..'
+    frase: 大学で(日)本史を勉強しました。
+    traduccion: Estudié historia de Japón en la universidad.
+  - palabra: 日本製
+    lectura: にほんせい
+    tipo_lectura: 'on'
+    significado: De fabricación japonesa
+    mascara: '-----..'
+    frase: この時計は(日)本製です。
+    traduccion: Este reloj es de fabricación japonesa.
+  - palabra: 日本語
+    lectura: にほんご
+    tipo_lectura: kun
+    significado: Japonés, lengua japonesa
+    mascara: '----..'
+    frase: (日)本語はとても面白いです。
+    traduccion: El japonés es muy interesante.
+  - palabra: 日焼け
+    lectura: ひやけ
+    tipo_lectura: kun
+    significado: Quemadura de sol
+    mascara: '-.-.-'
+    frase: 海で(日)焼けをしました。
+    traduccion: Me quemé el sol en la playa.
+  - palabra: 日記
+    lectura: にっき
+    tipo_lectura: kun
+    significado: Diario
+    mascara: '---.'
+    frase: 毎晩(日)記を書きます。
+    traduccion: Escribo en el diario todas las noches.
+  - palabra: 明日
+    lectura: あした
+    tipo_lectura: kun
+    significado: Mañana
+    mascara: '---.'
+    frase: 明(日)の朝、友達に会います。
+    traduccion: Mañana por la mañana me encuentro con un amigo.
+  - palabra: 昨日
+    lectura: きのう
+    tipo_lectura: kun
+    significado: Ayer
+    mascara: '---.'
+    frase: 昨(日)は学校へ行きませんでした。
+    traduccion: Ayer no fui al colegio.
+  - palabra: 曜日
+    lectura: ようび
+    tipo_lectura: kun
+    significado: Día de la semana
+    mascara: '--.-'
+    frase: 何曜(日)が好きですか。
+    traduccion: ¿Qué día de la semana te gusta?
+  - palabra: 月曜日
+    lectura: げつようび
+    tipo_lectura: kun
+    significado: Lunes
+    mascara: '--.--.-'
+    frase: 月曜(日)は学校に行きます。
+    traduccion: Los lunes voy a la escuela.
+  - palabra: 木曜日
+    lectura: もくようび
+    tipo_lectura: kun
+    significado: Jueves
+    mascara: '--.--.-'
+    frase: 木曜(日)に先生に会います。
+    traduccion: El jueves me veo con el profesor.
+  - palabra: 来日
+    lectura: らいにち
+    tipo_lectura: 'on'
+    significado: Visita a Japón
+    mascara: '--.--'
+    frase: 首相の来(日)が報じられました。
+    traduccion: Se informó de la visita del primer ministro a Japón.
+  - palabra: 毎日
+    lectura: まいにち
+    tipo_lectura: 'on'
+    significado: Todos los días
+    mascara: '--.--'
+    frase: 毎(日)日本語を勉強します。
+    traduccion: Estudio japonés todos los días.
+  - palabra: 水曜日
+    lectura: すいようび
+    tipo_lectura: kun
+    significado: Miércoles
+    mascara: '--.--.-'
+    frase: 水曜(日)に試合があります。
+    traduccion: El miércoles hay un partido.
+  - palabra: 火曜日
+    lectura: かようび
+    tipo_lectura: kun
+    significado: Martes
+    mascara: '-.--.-'
+    frase: 火曜(日)は授業がありません。
+    traduccion: Los martes no tengo clase.
+  - palabra: 祭日
+    lectura: さいじつ
+    tipo_lectura: 'on'
+    significado: Día festivo
+    mascara: '--.--'
+    frase: 次の祭(日)はいつですか。
+    traduccion: ¿Cuándo es el próximo día festivo?
+  - palabra: 西日本
+    lectura: にしにほん
+    tipo_lectura: kun
+    significado: Oeste de Japón
+    mascara: '-----..'
+    frase: 西(日)本は今週雨が多いです。
+    traduccion: Esta semana llueve mucho en el oeste de Japón.
+  - palabra: 近日
+    lectura: きんじつ
+    tipo_lectura: 'on'
+    significado: En unos días, próximamente
+    mascara: '--.--'
+    frase: 近(日)中にご連絡します。
+    traduccion: Me pondré en contacto en unos días.
+  - palabra: 金曜日
+    lectura: きんようび
+    tipo_lectura: kun
+    significado: Viernes
+    mascara: '--.--.-'
+    frase: 金曜(日)は仕事が終わります。
+    traduccion: El viernes termina el trabajo.

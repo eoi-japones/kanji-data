@@ -1,0 +1,23 @@
+id: 測
+palabras:
+  - palabra: 目測
+    lectura: もくそく
+    tipo_lectura: 'on'
+    significado: Medición a ojo
+    mascara: '--.--'
+    frase: 目(測)で長さを決めました。
+    traduccion: Determiné la longitud a ojo.
+  - palabra: 計測
+    lectura: けいそく
+    tipo_lectura: 'on'
+    significado: Medición
+    mascara: '--.--'
+    frase: 実験の前に温度を計(測)しました。
+    traduccion: Antes del experimento medí la temperatura.
+  - palabra: 歩測
+    lectura: ほそく
+    tipo_lectura: 'on'
+    significado: Medir a pasos
+    mascara: '-.--'
+    frase: 距離を歩(測)で確かめました。
+    traduccion: Comprobé la distancia midiendo a pasos.

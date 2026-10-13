@@ -1,0 +1,23 @@
+id: 里
+palabras:
+  - palabra: 千里
+    lectura: せんり
+    tipo_lectura: 'on'
+    significado: Gran distancia
+    mascara: '--.-'
+    frase: 千(里)の友に手紙を書きました。
+    traduccion: Escribí una carta a un amigo lejano.
+  - palabra: 里
+    lectura: り
+    tipo_lectura: 'on'
+    significado: Ri (unidad de distancia)
+    mascara: '-'
+    frase: 昔は距離を(里)で測りました。
+    traduccion: Antes la distancia se medía en ri.
+  - palabra: 里子
+    lectura: さとご
+    tipo_lectura: kun
+    significado: Hijo de acogida
+    mascara: '--.-'
+    frase: 彼は(里)子として育ちました。
+    traduccion: Él fue criado como hijo de acogida.

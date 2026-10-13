@@ -1,0 +1,23 @@
+id: 組
+palabras:
+  - palabra: 組
+    lectura: くみ
+    tipo_lectura: kun
+    significado: Clase, grupo
+    mascara: '--'
+    frase: 私は二(組)の生徒です。
+    traduccion: Soy alumno de la clase dos.
+  - palabra: 組む
+    lectura: くむ
+    tipo_lectura: kun
+    significado: Montar, asociarse
+    mascara: '-.-'
+    frase: 彼と(組)んで仕事をします。
+    traduccion: Trabajo en pareja con él.
+  - palabra: 組成
+    lectura: そせい
+    tipo_lectura: 'on'
+    significado: Formación, composición
+    mascara: '-.--'
+    frase: 内閣の(組)成が発表されました。
+    traduccion: Se anunció la formación del gabinete.

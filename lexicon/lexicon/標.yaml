@@ -1,0 +1,30 @@
+id: 標
+palabras:
+  - palabra: 標本
+    lectura: ひょうほん
+    tipo_lectura: 'on'
+    significado: Ejemplar disecado
+    mascara: '---.--'
+    frase: 山で昆虫の(標)本を集めました。
+    traduccion: En la montaña coleccioné insectos disecados.
+  - palabra: 標語
+    lectura: ひょうご
+    tipo_lectura: 'on'
+    significado: Lema
+    mascara: '---.-'
+    frase: 工場に安全の(標)語が貼ってあります。
+    traduccion: En la fábrica hay un lema de seguridad.
+  - palabra: 標高
+    lectura: ひょうこう
+    tipo_lectura: 'on'
+    significado: Altitud
+    mascara: '---.--'
+    frase: この山の(標)高は三千メートルです。
+    traduccion: La altitud de esta montaña es de tres mil metros.
+  - palabra: 目標
+    lectura: もくひょう
+    tipo_lectura: 'on'
+    significado: Meta, objetivo
+    mascara: '--.---'
+    frase: 今年の目(標)は日本語能力試験です。
+    traduccion: La meta de este año es el examen de japonés.

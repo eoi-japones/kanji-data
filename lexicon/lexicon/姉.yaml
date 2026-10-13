@@ -1,0 +1,23 @@
+id: 姉
+palabras:
+  - palabra: お姉さん
+    lectura: おねえさん
+    tipo_lectura: kun
+    significado: Hermana mayor
+    mascara: '-.--.-.-'
+    frase: お(姉)さんは看護師です。
+    traduccion: Tu hermana mayor es enfermera.
+  - palabra: 姉
+    lectura: あね
+    tipo_lectura: kun
+    significado: Hermana mayor
+    mascara: '--'
+    frase: 私の(姉)は大阪に住んでいます。
+    traduccion: Mi hermana mayor vive en Osaka.
+  - palabra: 姉妹
+    lectura: しまい
+    tipo_lectura: 'on'
+    significado: Hermanas
+    mascara: '-.--'
+    frase: 彼女たちは(姉)妹です。
+    traduccion: Ellas son hermanas.

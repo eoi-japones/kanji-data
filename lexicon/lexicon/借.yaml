@@ -1,0 +1,37 @@
+id: 借
+palabras:
+  - palabra: 借り
+    lectura: かり
+    tipo_lectura: kun
+    significado: Préstamo, deuda
+    mascara: '-.-'
+    frase: 車は友達の(借)りです。
+    traduccion: El coche es prestado por un amigo.
+  - palabra: 借りる
+    lectura: かりる
+    tipo_lectura: kun
+    significado: Pedir prestado
+    mascara: '-.-.-'
+    frase: 図書館で本を(借)ります。
+    traduccion: Pido prestado un libro en la biblioteca.
+  - palabra: 借家
+    lectura: しゃくや
+    tipo_lectura: 'on'
+    significado: Casa alquilada
+    mascara: '---.-'
+    frase: (借)家暮らしは便利です。
+    traduccion: Vivir de alquiler es cómodo.
+  - palabra: 借金
+    lectura: しゃっきん
+    tipo_lectura: kun
+    significado: Deuda
+    mascara: '-----.'
+    frase: 彼はようやく(借)金を返しました。
+    traduccion: Por fin él devolvió la deuda.
+  - palabra: 拝借
+    lectura: はいしゃく
+    tipo_lectura: 'on'
+    significado: Pedir prestado (humilde)
+    mascara: '--.---'
+    frase: そのノートを拝(借)してもいいですか。
+    traduccion: ¿Me presta ese cuaderno?

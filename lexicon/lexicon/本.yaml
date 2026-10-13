@@ -1,0 +1,100 @@
+id: 本
+palabras:
+  - palabra: 手本
+    lectura: てほん
+    tipo_lectura: 'on'
+    significado: Modelo, ejemplo
+    mascara: '-.--'
+    frase: 先生の字を手(本)にしてください。
+    traduccion: Use la letra del profesor como modelo.
+  - palabra: 日本
+    lectura: にほん
+    tipo_lectura: kun
+    significado: Japón
+    mascara: '---.'
+    frase: 日(本)は四季がはっきりしています。
+    traduccion: Japón tiene las cuatro estaciones muy marcadas.
+  - palabra: 日本刀
+    lectura: にほんとう
+    tipo_lectura: 'on'
+    significado: Espada japonesa
+    mascara: '-----..'
+    frase: 博物館で日(本)刀を見ました。
+    traduccion: Vi una espada japonesa en el museo.
+  - palabra: 日本史
+    lectura: にほんし
+    tipo_lectura: 'on'
+    significado: Historia de Japón
+    mascara: '----..'
+    frase: 大学で日(本)史を勉強しました。
+    traduccion: Estudié historia de Japón en la universidad.
+  - palabra: 日本製
+    lectura: にほんせい
+    tipo_lectura: 'on'
+    significado: De fabricación japonesa
+    mascara: '-----..'
+    frase: この時計は日(本)製です。
+    traduccion: Este reloj es de fabricación japonesa.
+  - palabra: 日本語
+    lectura: にほんご
+    tipo_lectura: kun
+    significado: Japonés, lengua japonesa
+    mascara: '----..'
+    frase: 日(本)語はとても面白いです。
+    traduccion: El japonés es muy interesante.
+  - palabra: 本
+    lectura: ほん
+    tipo_lectura: 'on'
+    significado: Libro
+    mascara: '--'
+    frase: この(本)はとても面白いです。
+    traduccion: Este libro es muy interesante.
+  - palabra: 本名
+    lectura: ほんみょう
+    tipo_lectura: 'on'
+    significado: Nombre real
+    mascara: '--.---'
+    frase: 彼の(本)名はまだ知られていません。
+    traduccion: Su nombre real todavía no se conoce.
+  - palabra: 本心
+    lectura: ほんしん
+    tipo_lectura: 'on'
+    significado: Verdadera intención, sentimientos verdaderos
+    mascara: '--.--'
+    frase: 彼の(本)心はまだわかりません。
+    traduccion: Todavía no sé cuáles son sus verdaderas intenciones.
+  - palabra: 本来
+    lectura: ほんらい
+    tipo_lectura: 'on'
+    significado: En esencia, originalmente
+    mascara: '--.--'
+    frase: (本)来の目的に戻りましょう。
+    traduccion: Volvamos al propósito original.
+  - palabra: 標本
+    lectura: ひょうほん
+    tipo_lectura: 'on'
+    significado: Ejemplar disecado
+    mascara: '---.--'
+    frase: 山で昆虫の標(本)を集めました。
+    traduccion: En la montaña coleccioné insectos disecados.
+  - palabra: 絵本
+    lectura: えほん
+    tipo_lectura: 'on'
+    significado: Libro ilustrado
+    mascara: '-.--'
+    frase: 寝る前に子供に絵(本)を読みます。
+    traduccion: Antes de dormir leo un libro ilustrado al niño.
+  - palabra: 西日本
+    lectura: にしにほん
+    tipo_lectura: kun
+    significado: Oeste de Japón
+    mascara: '-----..'
+    frase: 西日(本)は今週雨が多いです。
+    traduccion: Esta semana llueve mucho en el oeste de Japón.
+  - palabra: 本州
+    lectura: ほんしゅう
+    tipo_lectura: 'on'
+    significado: Honshu
+    mascara: '--.---'
+    frase: (本)州と九州は橋でつながっています。
+    traduccion: Honshu y Kyushu están unidos por un puente.

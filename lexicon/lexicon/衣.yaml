@@ -1,0 +1,23 @@
+id: 衣
+palabras:
+  - palabra: 衣
+    lectura: ころも
+    tipo_lectura: kun
+    significado: Ropa, vestido
+    mascara: '---'
+    frase: 寺に古い(衣)が飾ってあります。
+    traduccion: En el templo hay expuesta una prenda antigua.
+  - palabra: 衣装
+    lectura: いしょう
+    tipo_lectura: 'on'
+    significado: Traje, atuendo
+    mascara: '-.---'
+    frase: 役者の(衣)装はとても華やかです。
+    traduccion: El traje del actor es muy vistoso.
+  - palabra: 衣食
+    lectura: いしょく
+    tipo_lectura: 'on'
+    significado: Alimento y vestido, sustento
+    mascara: '-.---'
+    frase: 最近は(衣)食に困っています。
+    traduccion: Últimamente no me llega para el sustento.

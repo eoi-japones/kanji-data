@@ -1,0 +1,16 @@
+id: 茂
+palabras:
+  - palabra: 茂る
+    lectura: しげる
+    tipo_lectura: kun
+    significado: Crecer espeso, cubrirse de vegetación
+    mascara: '--.-'
+    frase: 庭の草が(茂)っています。
+    traduccion: La hierba del jardín crece espesa.
+  - palabra: 茂み
+    lectura: しげみ
+    tipo_lectura: kun
+    significado: Maleza, matorral
+    mascara: '--.-'
+    frase: (茂)みの中で鳥が鳴いています。
+    traduccion: Un pájaro canta entre la maleza.

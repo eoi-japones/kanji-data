@@ -1,0 +1,23 @@
+id: 建
+palabras:
+  - palabra: 建つ
+    lectura: たつ
+    tipo_lectura: kun
+    significado: Erguirse, levantarse (edificio)
+    mascara: '-.-'
+    frase: 駅前に高層ビルが(建)ちました。
+    traduccion: Se han levantado rascacielos delante de la estación.
+  - palabra: 建てる
+    lectura: たてる
+    tipo_lectura: kun
+    significado: Construir, levantar
+    mascara: '-.-.-'
+    frase: 町に新しいビルを(建)てました。
+    traduccion: Construyeron un edificio nuevo en la ciudad.
+  - palabra: 建国
+    lectura: けんこく
+    tipo_lectura: 'on'
+    significado: Fundación de una nación
+    mascara: '--.--'
+    frase: 来年で(建)国百年を迎えます。
+    traduccion: El año que viene se cumplen cien años de fundación del país.
