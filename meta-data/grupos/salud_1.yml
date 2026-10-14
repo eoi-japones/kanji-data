@@ -1,0 +1,30 @@
+id: salud_1
+nombre: "Salud y Enfermedad"
+descripcion: >
+  Enfermedades, síntomas y curación: los kanji que comparten el componente疒
+  (enfermedad), junto al médico y su medicina.
+integrantes:
+  - 医
+  - 薬
+  - 疫
+  - 病
+  - 症
+  - 痒
+  - 痘
+  - 痢
+  - 痴
+  - 療
+  - 癒
+auxiliares:
+  - id: 疒
+    para: 病
+  - id: 匚
+    para: 医
+  - id: 矢
+    para: 医
+  - id: 丙
+    para: 病
+  - id: 知
+    para: 痴
+  - id: 尞
+    para: 療
