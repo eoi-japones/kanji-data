@@ -1,0 +1,19 @@
+id: voz_1
+nombre: "Voz y Sonido"
+descripcion: >
+  El sonido y quien lo produce o lo calla: la voz, el canto y la canción, el
+  oído que escucha y la boca que grita o se calla.
+integrantes:
+  - 声
+  - 唱
+  - 歌
+  - 聴
+  - 黙
+  - 騒
+  - 喝
+  - 喚
+auxiliares:
+  - id: 尸
+    para: 声
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/voz_1.jpg"
