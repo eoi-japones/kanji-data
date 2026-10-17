@@ -1,0 +1,34 @@
+id: bambu_1
+nombre: "Bambú"
+descripcion: >
+  Los kanji que se componen del bambú (竹): desde la planta y sus versiones enanas hasta
+  los kanjis de objetos y actos que de alguna manera se construyen con ella.
+integrantes:
+  - 竹
+  - 笑
+  - 笠
+  - 符
+  - 笹
+  - 筆
+  - 等
+  - 筋
+  - 筒
+  - 答
+  - 策
+  - 管
+  - 箱
+  - 築
+  - 簡
+auxiliares:
+  - id: 付
+    para: 符
+  - id: 如
+    para: 筒
+  - id: 官
+    para: 管
+  - id: エ
+    para: 築
+  - id: 凡
+    para: 築
+
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/bambu_1.jpeg"
