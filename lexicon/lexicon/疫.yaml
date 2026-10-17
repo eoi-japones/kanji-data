@@ -1,0 +1,107 @@
+id: 疫
+palabras:
+  - palabra: 免疫
+    lectura: めんえき
+    tipo_lectura: 'on'
+    significado: Inmunidad
+    mascara: '--.--'
+    frase: ワクチンで免(疫)ができます。
+    traduccion: La vacuna crea inmunidad.
+  - palabra: 検疫
+    lectura: けんえき
+    tipo_lectura: 'on'
+    significado: Cuarentena, control sanitario
+    mascara: '--.--'
+    frase: 空港で検(疫)を受けます。
+    traduccion: En el aeropuerto pasamos el control sanitario.
+  - palabra: 疫病
+    lectura: えきびょう
+    tipo_lectura: 'on'
+    significado: Epidemia, peste
+    mascara: '--.---'
+    frase: 昔、(疫)病で多くの人が亡くなりました。
+    traduccion: Antaño mucha gente murió por la peste.
+  - palabra: 免疫不全
+    lectura: めんえきふぜん
+    tipo_lectura: 'on'
+    significado: Inmunodeficiencia
+    mascara: '--.--.-.--'
+    frase: 免(疫)不全の病気です。
+    traduccion: Es una enfermedad de inmunodeficiencia.
+  - palabra: 免疫力
+    lectura: めんえきりょく
+    tipo_lectura: 'on'
+    significado: Defensas, inmunidad
+    mascara: '--.--.---'
+    frase: 運動すると免(疫)力が上がります。
+    traduccion: Hacer ejercicio aumenta las defensas.
+  - palabra: 免疫学
+    lectura: めんえきがく
+    tipo_lectura: 'on'
+    significado: Inmunología
+    mascara: '--.--.--'
+    frase: 大学で免(疫)学を研究しています。
+    traduccion: Investigo inmunología en la universidad.
+  - palabra: 悪疫
+    lectura: あくえき
+    tipo_lectura: 'on'
+    significado: Epidemia maligna, peste
+    mascara: '--.--'
+    frase: 悪(疫)が村に広がりました。
+    traduccion: La epidemia se extendió por el pueblo.
+  - palabra: 時疫
+    lectura: じえき
+    tipo_lectura: 'on'
+    significado: Epidemia pasajera
+    mascara: '-.--'
+    frase: 時(疫)が流行しています。
+    traduccion: Hay una epidemia en curso.
+  - palabra: 検疫官
+    lectura: けんえきかん
+    tipo_lectura: 'on'
+    significado: Inspector de cuarentena
+    mascara: '--.--.--'
+    frase: 検(疫)官が荷物を調べます。
+    traduccion: El inspector de cuarentena revisa el equipaje.
+  - palabra: 検疫所
+    lectura: けんえきじょ
+    tipo_lectura: 'on'
+    significado: Centro de cuarentena
+    mascara: '--.--.--'
+    frase: 船は検(疫)所にとまりました。
+    traduccion: El barco permaneció en el centro de cuarentena.
+  - palabra: 牛疫
+    lectura: ぎゅうえき
+    tipo_lectura: 'on'
+    significado: Peste bovina
+    mascara: '---.--'
+    frase: 牛(疫)で牛が死にました。
+    traduccion: Las vacas murieron de peste bovina.
+  - palabra: 疫学
+    lectura: えきがく
+    tipo_lectura: 'on'
+    significado: Epidemiología
+    mascara: '--.--'
+    frase: (疫)学の資料を集めます。
+    traduccion: Recogemos datos epidemiológicos.
+  - palabra: 疫痢
+    lectura: えきり
+    tipo_lectura: 'on'
+    significado: Disentería infantil
+    mascara: '--.-'
+    frase: (疫)痢は昔の病気です。
+    traduccion: La disentería infantil es una enfermedad antigua.
+  - palabra: 自己免疫
+    lectura: じこめんえき
+    tipo_lectura: 'on'
+    significado: Autoinmunidad
+    mascara: '-.-.--.--'
+    frase: 自己免(疫)の病気になりました。
+    traduccion: Enfermó de una dolencia autoinmune.
+  - palabra: 集団免疫
+    lectura: しゅうだんめんえき
+    tipo_lectura: 'on'
+    significado: Inmunidad de grupo
+    mascara: '---.--.--.--'
+    frase: 集団免(疫)が大切です。
+    traduccion: La inmunidad de grupo es importante.

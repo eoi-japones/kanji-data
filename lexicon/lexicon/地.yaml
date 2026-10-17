@@ -49,6 +49,13 @@ palabras:
     mascara: '--.-'
     frase: 現(地)のガイドに会いました。
     traduccion: Me encontré con el guía local.
+  - palabra: 築地
+    lectura: ついじ
+    tipo_lectura: kun
+    significado: Muro de barro con tejadillo
+    mascara: '---.'
+    frase: 庭の築(地)を直しました。
+    traduccion: Reparé el muro de barro del jardín.
   - palabra: 地を均す
     lectura: じをならす
     tipo_lectura: 'on'

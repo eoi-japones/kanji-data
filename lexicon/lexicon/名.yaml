@@ -21,3 +21,24 @@ palabras:
     mascara: '--.---'
     frase: 彼の本(名)はまだ知られていません。
     traduccion: Su nombre real todavía no se conoce.
+  - palabra: 病名
+    lectura: びょうめい
+    tipo_lectura: 'on'
+    significado: Nombre de la enfermedad, diagnóstico
+    mascara: '---.--'
+    frase: 医者が病(名)を教えてくれました。
+    traduccion: El médico me dijo el nombre de la enfermedad.
+  - palabra: 筆名
+    lectura: ひつめい
+    tipo_lectura: 'on'
+    significado: Seudónimo, nombre de pluma
+    mascara: '--.--'
+    frase: 小説家は筆(名)で書きます。
+    traduccion: El novelista escribe con seudónimo.
+  - palabra: 名答
+    lectura: めいとう
+    tipo_lectura: 'on'
+    significado: Respuesta excelente
+    mascara: '--.--'
+    frase: それは(名)答です。
+    traduccion: Esa es una respuesta excelente.

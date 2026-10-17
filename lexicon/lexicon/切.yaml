@@ -21,6 +21,13 @@ palabras:
     mascara: '---.'
     frase: 封筒に(切)手を貼りました。
     traduccion: Pegué un sello en el sobre.
+  - palabra: 切符
+    lectura: きっぷ
+    tipo_lectura: kun
+    significado: Billete, entrada
+    mascara: '---.'
+    frase: 駅で(切)符を買います。
+    traduccion: Compro el billete en la estación.
   - palabra: 千切る
     lectura: ちぎる
     tipo_lectura: kun
@@ -56,3 +63,17 @@ palabras:
     mascara: '--.-.-'
     frase: 大(切)な友達を裏切ってしまいました。
     traduccion: Traicioné a un amigo importante.
+  - palabra: 切符代
+    lectura: きっぷだい
+    tipo_lectura: kun
+    significado: Precio del billete
+    mascara: '-----..'
+    frase: (切)符代を払いました。
+    traduccion: Pagué el precio del billete.
+  - palabra: 切符売り場
+    lectura: きっぷうりば
+    tipo_lectura: kun
+    significado: Taquilla, despacho de billetes
+    mascara: '----...-.-'
+    frase: (切)符売り場はどこですか。
+    traduccion: ¿Dónde está la taquilla?

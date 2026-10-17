@@ -42,6 +42,20 @@ palabras:
     mascara: '--.--'
     frase: (下)町の商店街を散歩しました。
     traduccion: Paseé por el mercado del barrio bajo.
+  - palabra: 下痢
+    lectura: げり
+    tipo_lectura: 'on'
+    significado: Diarrea
+    mascara: '-.-'
+    frase: (下)痢が続いています。
+    traduccion: Tengo diarrea desde hace días.
+  - palabra: 下等
+    lectura: かとう
+    tipo_lectura: 'on'
+    significado: Inferior, vulgar
+    mascara: '-.--'
+    frase: (下)等な言葉を使わないでください。
+    traduccion: No uses palabras vulgares.
   - palabra: 下車
     lectura: げしゃ
     tipo_lectura: 'on'
@@ -70,6 +84,20 @@ palabras:
     mascara: '--.-'
     frase: 彼は大先生の門(下)です。
     traduccion: Él es discípulo del gran maestro.
+  - palabra: 下痢止め
+    lectura: げりどめ
+    tipo_lectura: 'on'
+    significado: Medicamento contra la diarrea
+    mascara: '-.-.-.-'
+    frase: (下)痢止めを飲みました。
+    traduccion: Tomé un medicamento contra la diarrea.
+  - palabra: 下痢症
+    lectura: げりしょう
+    tipo_lectura: 'on'
+    significado: Cuadro de diarrea
+    mascara: '-.-.---'
+    frase: 子どもが(下)痢症になりました。
+    traduccion: El niño tiene un cuadro de diarrea.
   - palabra: 下賜
     lectura: かし
     tipo_lectura: 'on'
@@ -84,3 +112,17 @@ palabras:
     mascara: '-.-'
     frase: 府(下)には多くの人口が住んでいます。
     traduccion: En el distrito metropolitano viven muchos habitantes.
+  - palabra: 旅行者下痢
+    lectura: りょこうしゃげり
+    tipo_lectura: 'on'
+    significado: Diarrea del viajero
+    mascara: '--.--.--.-.-'
+    frase: 海外で旅行者(下)痢になりました。
+    traduccion: Tuve diarrea del viajero en el extranjero.
+  - palabra: 水下痢
+    lectura: みずげり
+    tipo_lectura: 'on'
+    significado: Diarrea acuosa
+    mascara: '--.-.-'
+    frase: 水(下)痢でつらいです。
+    traduccion: La diarrea acuosa es muy molesta.

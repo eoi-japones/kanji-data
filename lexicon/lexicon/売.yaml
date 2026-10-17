@@ -21,6 +21,13 @@ palabras:
     mascara: '-.-.-'
     frase: 靴の(売)り場は二階です。
     traduccion: El mostrador de zapatos está en la planta primera.
+  - palabra: 売れ筋
+    lectura: うれすじ
+    tipo_lectura: kun
+    significado: Producto más vendido, línea estrella
+    mascara: '-.-.--'
+    frase: これが(売)れ筋の商品です。
+    traduccion: Este es el producto más vendido.
   - palabra: 売れ行き
     lectura: うれゆき
     tipo_lectura: kun
@@ -35,3 +42,10 @@ palabras:
     mascara: '--.--'
     frase: チケットの転(売)は違法です。
     traduccion: Revender entradas es ilegal.
+  - palabra: 切符売り場
+    lectura: きっぷうりば
+    tipo_lectura: kun
+    significado: Taquilla, despacho de billetes
+    mascara: '----...-.-'
+    frase: 切符(売)り場はどこですか。
+    traduccion: ¿Dónde está la taquilla?

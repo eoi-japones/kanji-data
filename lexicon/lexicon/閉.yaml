@@ -1,5 +1,12 @@
 id: 閉
 palabras:
+  - palabra: 自閉症
+    lectura: じへいしょう
+    tipo_lectura: 'on'
+    significado: Autismo
+    mascara: '-.--.---'
+    frase: 息子は自(閉)症です。
+    traduccion: Mi hijo tiene autismo.
   - palabra: 閉まる
     lectura: しまる
     tipo_lectura: kun

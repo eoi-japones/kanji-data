@@ -35,6 +35,13 @@ palabras:
     mascara: '--.--'
     frase: 古代の(文)明に興味があります。
     traduccion: Me interesa la civilización antigua.
+  - palabra: 文筆
+    lectura: ぶんぴつ
+    tipo_lectura: 'on'
+    significado: Escritura, actividad literaria
+    mascara: '--.--'
+    frase: (文)筆で生計を立てています。
+    traduccion: Vivo de la escritura.
   - palabra: 文芸
     lectura: ぶんげい
     tipo_lectura: 'on'
@@ -49,6 +56,13 @@ palabras:
     mascara: '-----..'
     frase: 名前の頭(文)字は何ですか。
     traduccion: ¿Cuál es la inicial de tu nombre?
+  - palabra: 一文字笠
+    lectura: いちもんじがさ
+    tipo_lectura: 'on'
+    significado: Sombrero plano de paja
+    mascara: '--.--.-.--'
+    frase: 一(文)字笠をかぶった旅人です。
+    traduccion: Es un viajero con sombrero plano de paja.
   - palabra: 文旦
     lectura: ぶんたん
     tipo_lectura: 'on'

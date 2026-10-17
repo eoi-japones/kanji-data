@@ -1,0 +1,121 @@
+id: 筆
+palabras:
+  - palabra: 万年筆
+    lectura: まんねんひつ
+    tipo_lectura: 'on'
+    significado: Pluma estilográfica
+    mascara: '--.--.--'
+    frase: 万年(筆)で手紙を書きます。
+    traduccion: Escribo la carta con la pluma.
+  - palabra: 文筆
+    lectura: ぶんぴつ
+    tipo_lectura: 'on'
+    significado: Escritura, actividad literaria
+    mascara: '--.--'
+    frase: 文(筆)で生計を立てています。
+    traduccion: Vivo de la escritura.
+  - palabra: 毛筆
+    lectura: もうひつ
+    tipo_lectura: 'on'
+    significado: Pincel de pelo
+    mascara: '--.--'
+    frase: 毛(筆)で年賀状を書きます。
+    traduccion: Escribo la felicitación con pincel.
+  - palabra: 特筆
+    lectura: とくひつ
+    tipo_lectura: 'on'
+    significado: Mención especial
+    mascara: '--.--'
+    frase: 特(筆)すべき功績です。
+    traduccion: Es un logro digno de mención especial.
+  - palabra: 筆
+    lectura: ふで
+    tipo_lectura: kun
+    significado: Pincel
+    mascara: '--'
+    frase: (筆)で字を書きます。
+    traduccion: Escribo con el pincel.
+  - palabra: 筆名
+    lectura: ひつめい
+    tipo_lectura: 'on'
+    significado: Seudónimo, nombre de pluma
+    mascara: '--.--'
+    frase: 小説家は(筆)名で書きます。
+    traduccion: El novelista escribe con seudónimo.
+  - palabra: 筆者
+    lectura: ひっしゃ
+    tipo_lectura: 'on'
+    significado: Autor, escritor
+    mascara: '----.'
+    frase: (筆)者の意見を読みます。
+    traduccion: Leo la opinión del autor.
+  - palabra: 筆記
+    lectura: ひっき
+    tipo_lectura: 'on'
+    significado: Escritura, toma de notas
+    mascara: '---.'
+    frase: (筆)記の試験があります。
+    traduccion: Hay un examen escrito.
+  - palabra: 筆記用具
+    lectura: ひっきようぐ
+    tipo_lectura: 'on'
+    significado: Útiles de escritura
+    mascara: '------...'
+    frase: (筆)記用具を忘れました。
+    traduccion: Olvidé los útiles de escritura.
+  - palabra: 筆記試験
+    lectura: ひっきしけん
+    tipo_lectura: 'on'
+    significado: Examen escrito
+    mascara: '------...'
+    frase: (筆)記試験に合格しました。
+    traduccion: Aprobé el examen escrito.
+  - palabra: 筆跡
+    lectura: ひっせき
+    tipo_lectura: 'on'
+    significado: Letra, caligrafía
+    mascara: '----.'
+    frase: 母の(筆)跡はきれいです。
+    traduccion: La letra de mi madre es bonita.
+  - palabra: 筆順
+    lectura: ひつじゅん
+    tipo_lectura: 'on'
+    significado: Orden de los trazos
+    mascara: '--.---'
+    frase: 漢字の(筆)順を覚えます。
+    traduccion: Memorizo el orden de los trazos de los kanji.
+  - palabra: 筆頭
+    lectura: ひっとう
+    tipo_lectura: 'on'
+    significado: Primer lugar de una lista; punta del pincel
+    mascara: '----.'
+    frase: 名前が(筆)頭にあります。
+    traduccion: Su nombre está en primer lugar.
+  - palabra: 自筆
+    lectura: じひつ
+    tipo_lectura: 'on'
+    significado: Escrito de propia mano, autógrafo
+    mascara: '-.--'
+    frase: 自(筆)の手紙をもらいました。
+    traduccion: Recibí una carta escrita de su puño y letra.
+  - palabra: 鉛筆
+    lectura: えんぴつ
+    tipo_lectura: 'on'
+    significado: Lápiz
+    mascara: '--.--'
+    frase: 鉛(筆)で名前を書きました。
+    traduccion: Escribí el nombre con lápiz.
+  - palabra: 一筆
+    lectura: いっぴつ
+    tipo_lectura: 'on'
+    significado: Un trazo; unas líneas, unas letras
+    mascara: '----.'
+    frase: 一(筆)書いて送りました。
+    traduccion: Le escribí unas líneas y se las envié.
+  - palabra: 筆筒
+    lectura: ふでづつ
+    tipo_lectura: kun
+    significado: Portalápices, bote para pinceles
+    mascara: '--.--'
+    frase: 机の上に(筆)筒があります。
+    traduccion: Sobre el escritorio hay un portalápices.

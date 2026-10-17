@@ -1,0 +1,23 @@
+id: 受
+palabras:
+  - palabra: 受け答え
+    lectura: うけこたえ
+    tipo_lectura: kun
+    significado: Réplica, forma de responder
+    mascara: '-.-.--.-'
+    frase: (受)け答えが立派でした。
+    traduccion: Su forma de responder fue excelente.
+  - palabra: 受信箱
+    lectura: じゅしんばこ
+    tipo_lectura: 'on'
+    significado: Buzón de entrada
+    mascara: '--.--.--'
+    frase: (受)信箱を毎日見ます。
+    traduccion: Miro el buzón de entrada todos los días.
+  - palabra: 受療
+    lectura: じゅりょう
+    tipo_lectura: 'on'
+    significado: Recibir tratamiento médico
+    mascara: '--.---'
+    frase: 病院で(受)療しています。
+    traduccion: Recibo tratamiento en el hospital.

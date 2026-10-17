@@ -28,3 +28,10 @@ palabras:
     mascara: '--.-'
     frase: 鉄道は重要な(運)輸手段です。
     traduccion: El ferrocarril es un medio de transporte importante.
+  - palabra: 運痴
+    lectura: うんち
+    tipo_lectura: 'on'
+    significado: Torpe para el deporte
+    mascara: '--.-'
+    frase: 運動が苦手な(運)痴です。
+    traduccion: Soy torpe para el deporte.

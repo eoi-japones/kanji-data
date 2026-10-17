@@ -7,6 +7,13 @@ palabras:
     mascara: '-.--'
     frase: 湖に小(舟)が浮かんでいます。
     traduccion: En el lago flota una barca pequeña.
+  - palabra: 笹舟
+    lectura: ささぶね
+    tipo_lectura: kun
+    significado: Barquito de hoja de bambú
+    mascara: '--.--'
+    frase: 子どもが笹(舟)を作りました。
+    traduccion: El niño hizo un barquito de hoja de bambú.
   - palabra: 舟行
     lectura: しゅうこう
     tipo_lectura: 'on'

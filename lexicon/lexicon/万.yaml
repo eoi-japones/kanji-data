@@ -21,3 +21,10 @@ palabras:
     mascara: '--.--'
     frase: この映画は(万)人に愛されています。
     traduccion: Esta película es querida por todos.
+  - palabra: 万年筆
+    lectura: まんねんひつ
+    tipo_lectura: 'on'
+    significado: Pluma estilográfica
+    mascara: '--.--.--'
+    frase: (万)年筆で手紙を書きます。
+    traduccion: Escribo la carta con la pluma.

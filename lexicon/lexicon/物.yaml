@@ -1,0 +1,23 @@
+id: 物
+palabras:
+  - palabra: 建築物
+    lectura: けんちくぶつ
+    tipo_lectura: 'on'
+    significado: Edificio, construcción
+    mascara: '--.--.--'
+    frase: 古い建築(物)を見に行きます。
+    traduccion: Vamos a ver edificios antiguos.
+  - palabra: 薬物
+    lectura: やくぶつ
+    tipo_lectura: 'on'
+    significado: Droga, fármaco
+    mascara: '--.--'
+    frase: 薬(物)は体に悪いです。
+    traduccion: Las drogas son malas para la salud.
+  - palabra: 物療
+    lectura: ぶつりょう
+    tipo_lectura: 'on'
+    significado: Fisioterapia
+    mascara: '--.---'
+    frase: 病院で(物)療をします。
+    traduccion: Hago fisioterapia en el hospital.

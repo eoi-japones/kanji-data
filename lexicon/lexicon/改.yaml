@@ -1,0 +1,16 @@
+id: 改
+palabras:
+  - palabra: 改築
+    lectura: かいちく
+    tipo_lectura: 'on'
+    significado: Reforma, remodelación
+    mascara: '--.--'
+    frase: 台所を(改)築しました。
+    traduccion: Reformamos la cocina.
+  - palabra: 改善策
+    lectura: かいぜんさく
+    tipo_lectura: 'on'
+    significado: Medida de mejora
+    mascara: '--.--.--'
+    frase: (改)善策を提案しました。
+    traduccion: Propuse una medida de mejora.

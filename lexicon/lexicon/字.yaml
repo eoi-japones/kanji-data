@@ -70,3 +70,24 @@ palabras:
     mascara: '--.-'
     frase: 今年の会社は黒(字)です。
     traduccion: Este año la empresa va con beneficios.
+  - palabra: 一文字笠
+    lectura: いちもんじがさ
+    tipo_lectura: 'on'
+    significado: Sombrero plano de paja
+    mascara: '--.--.-.--'
+    frase: 一文(字)笠をかぶった旅人です。
+    traduccion: Es un viajero con sombrero plano de paja.
+  - palabra: 簡体字
+    lectura: かんたいじ
+    tipo_lectura: 'on'
+    significado: Carácter chino simplificado
+    mascara: '--.--.-'
+    frase: 簡体(字)で書いてあります。
+    traduccion: Está escrito en caracteres simplificados.
+  - palabra: 簡化字
+    lectura: かんかじ
+    tipo_lectura: 'on'
+    significado: Carácter chino simplificado
+    mascara: '--.-.-'
+    frase: 簡化(字)を習いました。
+    traduccion: Aprendí los caracteres simplificados.

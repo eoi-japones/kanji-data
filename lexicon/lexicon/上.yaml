@@ -28,6 +28,13 @@ palabras:
     mascara: '---.--'
     frase: この映画は来月(上)映されます。
     traduccion: Esta película se estrena el mes que viene.
+  - palabra: 上等
+    lectura: じょうとう
+    tipo_lectura: 'on'
+    significado: De primera calidad, superior
+    mascara: '---.--'
+    frase: (上)等なお茶をいただきました。
+    traduccion: Me regalaron un té de primera calidad.
   - palabra: 値上げ
     lectura: ねあげ
     tipo_lectura: kun
@@ -63,6 +70,20 @@ palabras:
     mascara: '-.--'
     frase: 会社で目(上)の人に挨拶しました。
     traduccion: Saludé a mi superior en la empresa.
+  - palabra: 築き上げる
+    lectura: きずきあげる
+    tipo_lectura: kun
+    significado: Levantar, construir poco a poco
+    mascara: '--.-.-.-.-'
+    frase: 長い時間で築き(上)げました。
+    traduccion: Lo levantó con el tiempo.
+  - palabra: 上策
+    lectura: じょうさく
+    tipo_lectura: 'on'
+    significado: Excelente plan, la mejor opción
+    mascara: '---.--'
+    frase: 静かに待つのが(上)策です。
+    traduccion: Lo mejor es esperar en silencio.
   - palabra: 尻上がり
     lectura: しりあがり
     tipo_lectura: kun

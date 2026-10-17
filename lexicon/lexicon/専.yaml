@@ -14,6 +14,13 @@ palabras:
     mascara: '--.--'
     frase: 私の(専)門は歴史です。
     traduccion: Mi especialidad es la historia.
+  - palabra: 専門医
+    lectura: せんもんい
+    tipo_lectura: 'on'
+    significado: Médico especialista
+    mascara: '--.--.-'
+    frase: (専)門医に相談したほうがいいです。
+    traduccion: Es mejor consultar a un especialista.
   - palabra: 専門家
     lectura: せんもんか
     tipo_lectura: 'on'

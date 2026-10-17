@@ -28,6 +28,27 @@ palabras:
     mascara: '--.--'
     frase: 大学の近くに小さな(書)店があります。
     traduccion: Cerca de la universidad hay una librería pequeña.
+  - palabra: 書簡
+    lectura: しょかん
+    tipo_lectura: 'on'
+    significado: Carta, misiva
+    mascara: '--.--'
+    frase: (書)簡を出しました。
+    traduccion: Envié una carta.
+  - palabra: 私書箱
+    lectura: ししょばこ
+    tipo_lectura: 'on'
+    significado: Apartado de correos
+    mascara: '-.--.--'
+    frase: 私(書)箱を借りました。
+    traduccion: Alquilé un apartado de correos.
+  - palabra: 筋書き
+    lectura: すじがき
+    tipo_lectura: kun
+    significado: Guion, argumento
+    mascara: '--.-.-'
+    frase: 映画の筋(書)きを読みました。
+    traduccion: Leí el argumento de la película.
   - palabra: 絵葉書
     lectura: えはがき
     tipo_lectura: kun
@@ -49,3 +70,10 @@ palabras:
     mascara: '--.-.-.-'
     frase: メモを走り(書)きしました。
     traduccion: Hice una nota rápida a mano.
+  - palabra: 書痴
+    lectura: しょち
+    tipo_lectura: 'on'
+    significado: Ratón de biblioteca, bibliómano
+    mascara: '--.-'
+    frase: 兄は(書)痴です。
+    traduccion: Mi hermano es un ratón de biblioteca.

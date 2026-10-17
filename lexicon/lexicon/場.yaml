@@ -49,3 +49,10 @@ palabras:
     mascara: '--.--.-'
     frase: 魚市(場)は朝がとても賑やかです。
     traduccion: El mercado de pescado bulle por la mañana.
+  - palabra: 切符売り場
+    lectura: きっぷうりば
+    tipo_lectura: kun
+    significado: Taquilla, despacho de billetes
+    mascara: '----...-.-'
+    frase: 切符売り(場)はどこですか。
+    traduccion: ¿Dónde está la taquilla?

@@ -49,6 +49,13 @@ palabras:
     mascara: '--.--'
     frase: この車は(国)産です。
     traduccion: Este coche es japonés.
+  - palabra: 国策
+    lectura: こくさく
+    tipo_lectura: 'on'
+    significado: Política nacional
+    mascara: '--.--'
+    frase: (国)策として進めます。
+    traduccion: Se impulsa como política nacional.
   - palabra: 国際人
     lectura: こくさいじん
     tipo_lectura: 'on'

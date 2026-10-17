@@ -21,3 +21,10 @@ palabras:
     mascara: '---'
     frase: この本は(百)ページあります。
     traduccion: Este libro tiene cien páginas.
+  - palabra: 笹百合
+    lectura: ささゆり
+    tipo_lectura: kun
+    significado: Azucena japonesa
+    mascara: '----..'
+    frase: 山に笹(百)合が咲いています。
+    traduccion: En la montaña florece la azucena japonesa.

@@ -1,0 +1,16 @@
+id: 休
+palabras:
+  - palabra: 休止符
+    lectura: きゅうしふ
+    tipo_lectura: 'on'
+    significado: Signo de silencio
+    mascara: '---.-.-'
+    frase: 楽譜に(休)止符があります。
+    traduccion: En la partitura hay un signo de silencio.
+  - palabra: 休符
+    lectura: きゅうふ
+    tipo_lectura: 'on'
+    significado: Silencio (en música)
+    mascara: '---.-'
+    frase: (休)符のところで手を止めます。
+    traduccion: Detengo las manos en el silencio.

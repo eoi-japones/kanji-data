@@ -1,0 +1,23 @@
+id: 所
+palabras:
+  - palabra: 所管
+    lectura: しょかん
+    tipo_lectura: 'on'
+    significado: Competencia, jurisdicción
+    mascara: '--.--'
+    frase: それは(所)管の仕事です。
+    traduccion: Ese es el trabajo de su departamento.
+  - palabra: 検疫所
+    lectura: けんえきじょ
+    tipo_lectura: 'on'
+    significado: Centro de cuarentena
+    mascara: '--.--.--'
+    frase: 船は検疫(所)にとまりました。
+    traduccion: El barco permaneció en el centro de cuarentena.
+  - palabra: 簡易宿所
+    lectura: かんいしゅくしょ
+    tipo_lectura: 'on'
+    significado: Alojamiento sencillo
+    mascara: '--.-.---.--'
+    frase: 駅の近くに簡易宿(所)があります。
+    traduccion: Cerca de la estación hay un alojamiento sencillo.

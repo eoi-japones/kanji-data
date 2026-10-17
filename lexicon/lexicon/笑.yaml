@@ -1,0 +1,100 @@
+id: 笑
+palabras:
+  - palabra: 冷笑
+    lectura: れいしょう
+    tipo_lectura: 'on'
+    significado: Risa burlona, burla
+    mascara: '--.---'
+    frase: 冷(笑)されました。
+    traduccion: Se burlaron de mí con una risa despectiva.
+  - palabra: 可笑しい
+    lectura: おかしい
+    tipo_lectura: kun
+    significado: Gracioso, divertido; raro
+    mascara: '--..-.-'
+    frase: この話は可(笑)しいです。
+    traduccion: Esta historia es divertida.
+  - palabra: 大笑い
+    lectura: おおわらい
+    tipo_lectura: kun
+    significado: Carcajada, gran risa
+    mascara: '--.--.-'
+    frase: 映画を見て大(笑)いしました。
+    traduccion: Nos reímos a carcajadas viendo la película.
+  - palabra: 笑い
+    lectura: わらい
+    tipo_lectura: kun
+    significado: Risa
+    mascara: '--.-'
+    frase: 教室に(笑)いが広がりました。
+    traduccion: La risa se extendió por el aula.
+  - palabra: 笑い声
+    lectura: わらいごえ
+    tipo_lectura: kun
+    significado: Voz de risa, carcajada
+    mascara: '--.-.--'
+    frase: 外から(笑)い声が聞こえます。
+    traduccion: Desde fuera se oyen risas.
+  - palabra: 笑う
+    lectura: わらう
+    tipo_lectura: kun
+    significado: Reír, sonreír
+    mascara: '--.-'
+    frase: みんなで(笑)いました。
+    traduccion: Todos nos reímos.
+  - palabra: 笑み
+    lectura: えみ
+    tipo_lectura: kun
+    significado: Sonrisa
+    mascara: '-.-'
+    frase: 母は(笑)みを浮かべました。
+    traduccion: Mi madre esbozó una sonrisa.
+  - palabra: 談笑
+    lectura: だんしょう
+    tipo_lectura: 'on'
+    significado: Charla amena
+    mascara: '--.---'
+    frase: 客と談(笑)しています。
+    traduccion: Charlo amigablemente con los clientes.
+  - palabra: あざ笑う
+    lectura: あざわらう
+    tipo_lectura: kun
+    significado: Burlarse, reírse de alguien
+    mascara: '-.-.--.-'
+    frase: 人をあざ(笑)ってはいけません。
+    traduccion: No hay que burlarse de los demás.
+  - palabra: くすくす笑う
+    lectura: くすくすわらう
+    tipo_lectura: kun
+    significado: Reír disimuladamente
+    mascara: '-.-.-.-.--.-'
+    frase: 女の子たちがくすくす(笑)っています。
+    traduccion: Las chicas ríen disimuladamente.
+  - palabra: せせら笑う
+    lectura: せせらわらう
+    tipo_lectura: kun
+    significado: Reírse con desprecio
+    mascara: '-.-.-.--.-'
+    frase: 友達の失敗をせせら(笑)いました。
+    traduccion: Se rio con desprecio del fallo de su amigo.
+  - palabra: にっこり笑う
+    lectura: にっこりわらう
+    tipo_lectura: kun
+    significado: Sonreír alegremente
+    mascara: '-.-.-.-.--.-'
+    frase: 子どもがにっこり(笑)いました。
+    traduccion: El niño sonrió alegremente.
+  - palabra: ほくそ笑む
+    lectura: ほくそえむ
+    tipo_lectura: kun
+    significado: Sonreír para sus adentros, regodearse
+    mascara: '-.-.-.-.-'
+    frase: 彼は一人でほくそ(笑)んでいます。
+    traduccion: Él se regodea para sus adentros.
+  - palabra: もらい笑い
+    lectura: もらいわらい
+    tipo_lectura: kun
+    significado: Risa contagiosa
+    mascara: '-.-.-.--.-'
+    frase: つられてもらい(笑)いをしました。
+    traduccion: Me contagié y me reí también.

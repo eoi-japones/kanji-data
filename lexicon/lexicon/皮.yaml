@@ -1,0 +1,16 @@
+id: 皮
+palabras:
+  - palabra: 竹の皮
+    lectura: たけのかわ
+    tipo_lectura: kun
+    significado: Corteza de bambú
+    mascara: '--.-.--'
+    frase: 竹の(皮)で食べ物を包みます。
+    traduccion: Envuelvo la comida con la corteza del bambú.
+  - palabra: 竹皮
+    lectura: たけかわ
+    tipo_lectura: kun
+    significado: Corteza de bambú
+    mascara: '--.--'
+    frase: おにぎりを竹(皮)で包みます。
+    traduccion: Envuelvo la bola de arroz en corteza de bambú.

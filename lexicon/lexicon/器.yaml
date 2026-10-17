@@ -21,3 +21,10 @@ palabras:
     mascara: '----.'
     frase: 食(器)を洗って棚に収めました。
     traduccion: Lavé los trastos y los guardé en el armario.
+  - palabra: 医療器具
+    lectura: いりょうきぐ
+    tipo_lectura: 'on'
+    significado: Instrumental médico
+    mascara: '-.---.-.-'
+    frase: 医療(器)具を消毒します。
+    traduccion: Desinfectamos el instrumental médico.

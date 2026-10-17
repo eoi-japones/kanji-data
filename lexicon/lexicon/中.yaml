@@ -70,6 +70,13 @@ palabras:
     mascara: '---.-'
     frase: 雨で試合が(中)止になりました。
     traduccion: El partido se suspendió por la lluvia.
+  - palabra: 中等
+    lectura: ちゅうとう
+    tipo_lectura: 'on'
+    significado: Medio, de nivel medio
+    mascara: '---.--'
+    frase: (中)等教育を受けました。
+    traduccion: Recibí educación secundaria.
   - palabra: 中耳
     lectura: ちゅうじ
     tipo_lectura: 'on'

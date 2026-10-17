@@ -35,6 +35,13 @@ palabras:
     mascara: '-.--'
     frase: 歩(道)を自転車で走ってはいけません。
     traduccion: No se debe circular en bicicleta por la acera.
+  - palabra: 筋道
+    lectura: すじみち
+    tipo_lectura: kun
+    significado: Lógica, razonamiento
+    mascara: '--.--'
+    frase: 話に筋(道)がありません。
+    traduccion: Su explicación no tiene lógica.
   - palabra: 茶道
     lectura: さどう
     tipo_lectura: 'on'
@@ -56,6 +63,13 @@ palabras:
     mascara: '--'
     frase: 学校までの(道)は暗いです。
     traduccion: El camino hasta la escuela está oscuro.
+  - palabra: 道筋
+    lectura: みちすじ
+    tipo_lectura: kun
+    significado: Ruta, trayecto; razón
+    mascara: '--.--'
+    frase: 駅までの(道)筋を聞きました。
+    traduccion: Pregunté el camino hasta la estación.
   - palabra: 鉄道
     lectura: てつどう
     tipo_lectura: 'on'

@@ -21,3 +21,45 @@ palabras:
     mascara: '--.--'
     frase: 来年で(建)国百年を迎えます。
     traduccion: El año que viene se cumplen cien años de fundación del país.
+  - palabra: 建築
+    lectura: けんちく
+    tipo_lectura: 'on'
+    significado: Construcción, arquitectura
+    mascara: '--.--'
+    frase: (建)築の仕事をしています。
+    traduccion: Trabajo en la construcción.
+  - palabra: 建築士
+    lectura: けんちくし
+    tipo_lectura: 'on'
+    significado: Arquitecto titulado, aparejador
+    mascara: '--.--.-'
+    frase: (建)築士の資格を取ります。
+    traduccion: Voy a obtener el título de arquitecto.
+  - palabra: 建築学
+    lectura: けんちくがく
+    tipo_lectura: 'on'
+    significado: Arquitectura (disciplina)
+    mascara: '--.--.--'
+    frase: 大学で(建)築学を学びました。
+    traduccion: Estudió arquitectura en la universidad.
+  - palabra: 建築家
+    lectura: けんちくか
+    tipo_lectura: 'on'
+    significado: Arquitecto
+    mascara: '--.--.-'
+    frase: 姉は(建)築家です。
+    traduccion: Mi hermana es arquitecta.
+  - palabra: 建築物
+    lectura: けんちくぶつ
+    tipo_lectura: 'on'
+    significado: Edificio, construcción
+    mascara: '--.--.--'
+    frase: 古い(建)築物を見に行きます。
+    traduccion: Vamos a ver edificios antiguos.
+  - palabra: 再建築
+    lectura: さいけんちく
+    tipo_lectura: 'on'
+    significado: Reconstrucción
+    mascara: '--.--.--'
+    frase: 家の再(建)築を考えています。
+    traduccion: Pienso reconstruir la casa.

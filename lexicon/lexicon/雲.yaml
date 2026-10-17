@@ -14,6 +14,13 @@ palabras:
     mascara: '--'
     frase: 空に白い(雲)が浮かんでいます。
     traduccion: En el cielo flotan nubes blancas.
+  - palabra: 笠雲
+    lectura: かさぐも
+    tipo_lectura: kun
+    significado: Nube en forma de sombrero
+    mascara: '--.--'
+    frase: 山の上に笠(雲)が出ました。
+    traduccion: Sobre la montaña apareció una nube con forma de sombrero.
   - palabra: 雲間
     lectura: くもま
     tipo_lectura: kun

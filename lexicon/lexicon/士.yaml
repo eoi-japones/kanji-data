@@ -1,0 +1,16 @@
+id: 士
+palabras:
+  - palabra: 建築士
+    lectura: けんちくし
+    tipo_lectura: 'on'
+    significado: Arquitecto titulado, aparejador
+    mascara: '--.--.-'
+    frase: 建築(士)の資格を取ります。
+    traduccion: Voy a obtener el título de arquitecto.
+  - palabra: 紳士
+    lectura: しんし
+    tipo_lectura: 'on'
+    significado: Caballero
+    mascara: '--.-'
+    frase: 彼はいつも紳(士)のような振る舞いをします。
+    traduccion: Siempre se comporta como un caballero.

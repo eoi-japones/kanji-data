@@ -14,3 +14,10 @@ palabras:
     mascara: '--.-'
     frase: 誕生日に花を(贈)りました。
     traduccion: Envié flores de regalo de cumpleaños.
+  - palabra: 贈答
+    lectura: ぞうとう
+    tipo_lectura: 'on'
+    significado: Intercambio de regalos
+    mascara: '--.--'
+    frase: (贈)答の習慣があります。
+    traduccion: Existe la costumbre de intercambiar regalos.

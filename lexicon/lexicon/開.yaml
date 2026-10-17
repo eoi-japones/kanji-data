@@ -21,6 +21,13 @@ palabras:
     mascara: '--.--'
     frase: 今日は十時に(開)廷しました。
     traduccion: Hoy abrió la audiencia a las diez.
+  - palabra: 開業医
+    lectura: かいぎょうい
+    tipo_lectura: 'on'
+    significado: Médico con consulta propia
+    mascara: '--.---.-'
+    frase: 駅の前に(開)業医があります。
+    traduccion: Delante de la estación hay una consulta médica privada.
   - palabra: 開花
     lectura: かいか
     tipo_lectura: 'on'
@@ -28,3 +35,10 @@ palabras:
     mascara: '--.-'
     frase: 今年は桜が早く(開)花しました。
     traduccion: Este año los cerezos florecieron pronto.
+  - palabra: 打開策
+    lectura: だかいさく
+    tipo_lectura: 'on'
+    significado: Solución, salida a un problema
+    mascara: '-.--.--'
+    frase: 打(開)策を探しています。
+    traduccion: Buscamos una salida al problema.

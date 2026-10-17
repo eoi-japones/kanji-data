@@ -1,0 +1,16 @@
+id: 再
+palabras:
+  - palabra: 再建築
+    lectura: さいけんちく
+    tipo_lectura: 'on'
+    significado: Reconstrucción
+    mascara: '--.--.--'
+    frase: 家の(再)建築を考えています。
+    traduccion: Pienso reconstruir la casa.
+  - palabra: 再生医療
+    lectura: さいせいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina regenerativa
+    mascara: '--.--.-.---'
+    frase: (再)生医療の研究が進んでいます。
+    traduccion: Avanza la investigación en medicina regenerativa.

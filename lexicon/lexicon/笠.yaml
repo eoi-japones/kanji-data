@@ -1,0 +1,100 @@
+id: 笠
+palabras:
+  - palabra: 笠
+    lectura: かさ
+    tipo_lectura: kun
+    significado: Sombrero cónico de paja
+    mascara: '--'
+    frase: 昔の人は(笠)をかぶりました。
+    traduccion: Antaño la gente llevaba sombrero cónico.
+  - palabra: かぶり笠
+    lectura: かぶりがさ
+    tipo_lectura: kun
+    significado: Sombrero cónico
+    mascara: '-.-.-.--'
+    frase: かぶり(笠)で日よけをします。
+    traduccion: Protejo del sol con un sombrero cónico.
+  - palabra: ばっちょう笠
+    lectura: ばっちょうがさ
+    tipo_lectura: kun
+    significado: Sombrero cónico de bambú
+    mascara: '-.-.-.-.-.--'
+    frase: 百姓はばっちょう(笠)をかぶっています。
+    traduccion: El campesino lleva un sombrero cónico de bambú.
+  - palabra: 一文字笠
+    lectura: いちもんじがさ
+    tipo_lectura: kun
+    significado: Sombrero plano de paja
+    mascara: '--.--.-.--'
+    frase: 一文字(笠)をかぶった旅人です。
+    traduccion: Es un viajero con sombrero plano de paja.
+  - palabra: 市女笠
+    lectura: いちめがさ
+    tipo_lectura: kun
+    significado: Sombrero femenino de paja
+    mascara: '--.-.--'
+    frase: 市女(笠)は昔の女性の帽子です。
+    traduccion: El sombrero ichimegasa era el tocado de las mujeres de antaño.
+  - palabra: 竹笠
+    lectura: たけがさ
+    tipo_lectura: kun
+    significado: Sombrero de bambú
+    mascara: '--.--'
+    frase: 竹(笠)をかぶって田植えをします。
+    traduccion: Plantamos el arroz con sombrero de bambú.
+  - palabra: 笠に着る
+    lectura: かさにきる
+    tipo_lectura: kun
+    significado: Ampararse en, escudarse en
+    mascara: '--.-.-.-'
+    frase: 権力を(笠)に着てはいけません。
+    traduccion: No hay que escudarse en el poder.
+  - palabra: 笠木
+    lectura: かさぎ
+    tipo_lectura: kun
+    significado: Remate superior de una valla o puerta
+    mascara: '--.-'
+    frase: 門の(笠)木を直しました。
+    traduccion: Reparé el remate superior de la puerta.
+  - palabra: 笠石
+    lectura: かさいし
+    tipo_lectura: kun
+    significado: Piedra de coronación
+    mascara: '--.--'
+    frase: 壁の上に(笠)石を置きます。
+    traduccion: Colocamos la piedra de coronación sobre el muro.
+  - palabra: 笠貝
+    lectura: かさがい
+    tipo_lectura: kun
+    significado: Lapa
+    mascara: '--.--'
+    frase: 岩に(笠)貝がくっついています。
+    traduccion: Las lapas se pegan a las rocas.
+  - palabra: 笠雲
+    lectura: かさぐも
+    tipo_lectura: kun
+    significado: Nube en forma de sombrero
+    mascara: '--.--'
+    frase: 山の上に(笠)雲が出ました。
+    traduccion: Sobre la montaña apareció una nube con forma de sombrero.
+  - palabra: 編み笠
+    lectura: あみがさ
+    tipo_lectura: kun
+    significado: Sombrero de paja trenzada
+    mascara: '-.-.--'
+    frase: 踊り手は編み(笠)をかぶっています。
+    traduccion: La bailarina lleva un sombrero de paja trenzada.
+  - palabra: 花笠
+    lectura: はながさ
+    tipo_lectura: kun
+    significado: Sombrero decorado con flores
+    mascara: '--.--'
+    frase: 花(笠)をかぶって踊ります。
+    traduccion: Bailamos con sombreros adornados de flores.
+  - palabra: 雨笠
+    lectura: あまがさ
+    tipo_lectura: kun
+    significado: Sombrero para la lluvia
+    mascara: '--.--'
+    frase: 雨の日は雨(笠)を使います。
+    traduccion: Los días de lluvia uso sombrero de lluvia.

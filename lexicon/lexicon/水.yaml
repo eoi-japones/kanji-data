@@ -42,6 +42,13 @@ palabras:
     mascara: '--.--'
     frase: 夏になると(水)田が緑になります。
     traduccion: En verano los arrozales se ponen verdes.
+  - palabra: 水筒
+    lectura: すいとう
+    tipo_lectura: 'on'
+    significado: Cantimplora, botella
+    mascara: '--.--'
+    frase: (水)筒にお茶を入れます。
+    traduccion: Pongo té en la cantimplora.
   - palabra: 水色
     lectura: みずいろ
     tipo_lectura: kun
@@ -91,3 +98,17 @@ palabras:
     mascara: '--.--'
     frase: 寒いので鼻(水)が出ます。
     traduccion: Con el frío se me echan los mocos.
+  - palabra: 水下痢
+    lectura: みずげり
+    tipo_lectura: kun
+    significado: Diarrea acuosa
+    mascara: '--.-.-'
+    frase: (水)下痢でつらいです。
+    traduccion: La diarrea acuosa es muy molesta.
+  - palabra: 水痘
+    lectura: すいとう
+    tipo_lectura: 'on'
+    significado: Varicela
+    mascara: '--.--'
+    frase: 子どもが(水)痘になりました。
+    traduccion: El niño tiene varicela.

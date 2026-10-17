@@ -1,0 +1,107 @@
+id: 簡
+palabras:
+  - palabra: 書簡
+    lectura: しょかん
+    tipo_lectura: 'on'
+    significado: Carta, misiva
+    mascara: '--.--'
+    frase: 書(簡)を出しました。
+    traduccion: Envié una carta.
+  - palabra: 簡単
+    lectura: かんたん
+    tipo_lectura: 'on'
+    significado: Sencillo, fácil
+    mascara: '--.--'
+    frase: この問題は(簡)単です。
+    traduccion: Este problema es fácil.
+  - palabra: 簡易
+    lectura: かんい
+    tipo_lectura: 'on'
+    significado: Simple, simplificado
+    mascara: '--.-'
+    frase: (簡)易な宿に泊まりました。
+    traduccion: Me alojé en un alojamiento sencillo.
+  - palabra: 簡易保険
+    lectura: かんいほけん
+    tipo_lectura: 'on'
+    significado: Seguro de vida postal
+    mascara: '--.-.-.--'
+    frase: (簡)易保険を勧められました。
+    traduccion: Me recomendaron el seguro postal.
+  - palabra: 簡裁
+    lectura: かんさい
+    tipo_lectura: 'on'
+    significado: Tribunal de faltas
+    mascara: '--.--'
+    frase: (簡)裁で裁かれました。
+    traduccion: Fue juzgado en el tribunal de faltas.
+  - palabra: 簡体字
+    lectura: かんたいじ
+    tipo_lectura: 'on'
+    significado: Carácter chino simplificado
+    mascara: '--.--.-'
+    frase: (簡)体字で書いてあります。
+    traduccion: Está escrito en caracteres simplificados.
+  - palabra: 簡保
+    lectura: かんぽ
+    tipo_lectura: 'on'
+    significado: Seguro de vida postal
+    mascara: '--.-'
+    frase: (簡)保に入っています。
+    traduccion: Tengo el seguro de vida postal.
+  - palabra: 簡化字
+    lectura: かんかじ
+    tipo_lectura: 'on'
+    significado: Carácter chino simplificado
+    mascara: '--.-.-'
+    frase: (簡)化字を習いました。
+    traduccion: Aprendí los caracteres simplificados.
+  - palabra: 簡単に言えば
+    lectura: かんたんにいえば
+    tipo_lectura: 'on'
+    significado: En resumen, dicho de forma sencilla
+    mascara: '--.--.-.-.-.-'
+    frase: (簡)単に言えば、参加しません。
+    traduccion: En resumen, no participo.
+  - palabra: 簡明
+    lectura: かんめい
+    tipo_lectura: 'on'
+    significado: Conciso, claro
+    mascara: '--.--'
+    frase: (簡)明に説明してください。
+    traduccion: Explícalo de forma concisa.
+  - palabra: 簡易化
+    lectura: かんいか
+    tipo_lectura: 'on'
+    significado: Simplificación
+    mascara: '--.-.-'
+    frase: 手続きの(簡)易化を進めます。
+    traduccion: Avanzamos en la simplificación de los trámites.
+  - palabra: 簡易宿所
+    lectura: かんいしゅくしょ
+    tipo_lectura: 'on'
+    significado: Alojamiento sencillo
+    mascara: '--.-.---.--'
+    frase: 駅の近くに(簡)易宿所があります。
+    traduccion: Cerca de la estación hay un alojamiento sencillo.
+  - palabra: 簡易的
+    lectura: かんいてき
+    tipo_lectura: 'on'
+    significado: Simple, sencillo
+    mascara: '--.-.--'
+    frase: (簡)易的な方法で作りました。
+    traduccion: Lo hice de una forma sencilla.
+  - palabra: 簡易食堂
+    lectura: かんいしょくどう
+    tipo_lectura: 'on'
+    significado: Comedor sencillo, cantina
+    mascara: '--.-.---.--'
+    frase: 会社の(簡)易食堂で食べます。
+    traduccion: Como en la cantina de la empresa.
+  - palabra: 簡約
+    lectura: かんやく
+    tipo_lectura: 'on'
+    significado: Simplificación, abreviación
+    mascara: '--.--'
+    frase: 説明が(簡)約されています。
+    traduccion: La explicación está simplificada.

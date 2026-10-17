@@ -21,6 +21,27 @@ palabras:
     mascara: '--.--'
     frase: 税(制)の改革が決まりました。
     traduccion: Se decidió la reforma del sistema fiscal.
+  - palabra: 管制
+    lectura: かんせい
+    tipo_lectura: 'on'
+    significado: Control, regulación
+    mascara: '--.--'
+    frase: 交通を管(制)します。
+    traduccion: Se controla el tráfico.
+  - palabra: 管制塔
+    lectura: かんせいとう
+    tipo_lectura: 'on'
+    significado: Torre de control
+    mascara: '--.--.--'
+    frase: 管(制)塔が見えます。
+    traduccion: Se ve la torre de control.
+  - palabra: 管制官
+    lectura: かんせいかん
+    tipo_lectura: 'on'
+    significado: Controlador aéreo
+    mascara: '--.--.--'
+    frase: 管(制)官の指示を聞きます。
+    traduccion: Escucho las instrucciones del controlador.
   - palabra: 規制
     lectura: きせい
     tipo_lectura: 'on'

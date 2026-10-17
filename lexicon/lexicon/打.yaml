@@ -21,3 +21,10 @@ palabras:
     mascara: '--.-.-'
     frase: 試合に負けて舌(打)ちをしました。
     traduccion: Tras perder el partido se chasqueó la lengua.
+  - palabra: 打開策
+    lectura: だかいさく
+    tipo_lectura: 'on'
+    significado: Solución, salida a un problema
+    mascara: '-.--.--'
+    frase: (打)開策を探しています。
+    traduccion: Buscamos una salida al problema.

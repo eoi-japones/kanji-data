@@ -1,0 +1,135 @@
+id: 薬
+palabras:
+  - palabra: 劇薬
+    lectura: げきやく
+    tipo_lectura: 'on'
+    significado: Medicamento de efecto fuerte, veneno
+    mascara: '--.--'
+    frase: 劇(薬)は子どもの手の届かない所に置きます。
+    traduccion: Los fármacos potentes se guardan fuera del alcance de los niños.
+  - palabra: 医薬
+    lectura: いやく
+    tipo_lectura: kun
+    significado: Medicamento, fármaco
+    mascara: '--.-'
+    frase: 医(薬)の研究をしています。
+    traduccion: Investigo medicamentos.
+  - palabra: 医薬品
+    lectura: いやくひん
+    tipo_lectura: kun
+    significado: Medicamentos, productos farmacéuticos
+    mascara: '--.-.--'
+    frase: 薬屋で医(薬)品を買いました。
+    traduccion: Compré medicamentos en la farmacia.
+  - palabra: 弾薬
+    lectura: だんやく
+    tipo_lectura: 'on'
+    significado: Munición
+    mascara: '--.--'
+    frase: 兵士に弾(薬)を運びました。
+    traduccion: Llevé munición a los soldados.
+  - palabra: 投薬
+    lectura: とうやく
+    tipo_lectura: 'on'
+    significado: Administración de medicamentos, medicación
+    mascara: '--.--'
+    frase: 医者に投(薬)を受けました。
+    traduccion: El médico me medicó.
+  - palabra: 新薬
+    lectura: しんやく
+    tipo_lectura: 'on'
+    significado: Medicamento nuevo
+    mascara: '--.--'
+    frase: 新しい(薬)ができました。
+    traduccion: Se ha creado un medicamento nuevo.
+  - palabra: 火薬
+    lectura: かやく
+    tipo_lectura: 'on'
+    significado: Pólvora
+    mascara: '-.--'
+    frase: 花火には火(薬)が入っています。
+    traduccion: Los fuegos artificiales llevan pólvora.
+  - palabra: 目薬
+    lectura: めぐすり
+    tipo_lectura: kun
+    significado: Gotas para los ojos
+    mascara: '-.---'
+    frase: 目が痛いので目(薬)をさします。
+    traduccion: Como me duelen los ojos, me echo gotas.
+  - palabra: 薬
+    lectura: くすり
+    tipo_lectura: kun
+    significado: Medicina, medicamento
+    mascara: '---'
+    frase: 毎食後に(薬)を飲みます。
+    traduccion: Tomo la medicina después de cada comida.
+  - palabra: 薬品
+    lectura: やくひん
+    tipo_lectura: 'on'
+    significado: Medicamento, producto químico
+    mascara: '--.--'
+    frase: この(薬)品は水に溶けます。
+    traduccion: Este producto químico se disuelve en agua.
+  - palabra: 薬学
+    lectura: やくがく
+    tipo_lectura: 'on'
+    significado: Farmacia, ciencia farmacéutica
+    mascara: '--.--'
+    frase: 大学で(薬)学を学んでいます。
+    traduccion: Estudio farmacia en la universidad.
+  - palabra: 薬指
+    lectura: くすりゆび
+    tipo_lectura: kun
+    significado: Dedo anular
+    mascara: '---.--'
+    frase: 左手の(薬)指に指輪をはめます。
+    traduccion: Me pongo el anillo en el dedo anular de la mano izquierda.
+  - palabra: 薬物
+    lectura: やくぶつ
+    tipo_lectura: 'on'
+    significado: Droga, fármaco
+    mascara: '--.--'
+    frase: (薬)物は体に悪いです。
+    traduccion: Las drogas son malas para la salud.
+  - palabra: 製薬
+    lectura: せいやく
+    tipo_lectura: 'on'
+    significado: Fabricación de medicamentos, industria farmacéutica
+    mascara: '--.--'
+    frase: 製(薬)の会社で働いています。
+    traduccion: Trabajo en una empresa farmacéutica.
+  - palabra: 試薬
+    lectura: しやく
+    tipo_lectura: 'on'
+    significado: Reactivo
+    mascara: '-.--'
+    frase: 実験で試(薬)を使います。
+    traduccion: Uso reactivos en el experimento.
+  - palabra: 農薬
+    lectura: のうやく
+    tipo_lectura: 'on'
+    significado: Pesticida agrícola
+    mascara: '--.--'
+    frase: この野菜は農(薬)を使っていません。
+    traduccion: Estas verduras no llevan pesticidas.
+  - palabra: 麻薬
+    lectura: まやく
+    tipo_lectura: 'on'
+    significado: Narcótico, droga
+    mascara: '-.--'
+    frase: 麻(薬)を売ってはいけません。
+    traduccion: No se pueden vender drogas.
+  - palabra: 止痒薬
+    lectura: しようやく
+    tipo_lectura: 'on'
+    significado: Medicamento contra el picor
+    mascara: '-.--.--'
+    frase: 止痒(薬)を塗りました。
+    traduccion: Me puse un medicamento contra el picor.
+  - palabra: 鎮痒薬
+    lectura: ちんようやく
+    tipo_lectura: 'on'
+    significado: Antipruriginoso
+    mascara: '--.--.--'
+    frase: 医者に鎮痒(薬)をもらいました。
+    traduccion: El médico me dio un antipruriginoso.

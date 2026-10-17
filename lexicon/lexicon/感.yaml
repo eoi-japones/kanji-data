@@ -7,6 +7,13 @@ palabras:
     mascara: '-.--'
     frase: 五(感)を使って料理を味わいます。
     traduccion: Pruebo el plato usando los cinco sentidos.
+  - palabra: 劣等感
+    lectura: れっとうかん
+    tipo_lectura: 'on'
+    significado: Complejo de inferioridad
+    mascara: '------..'
+    frase: 劣等(感)を持っています。
+    traduccion: Tengo complejo de inferioridad.
   - palabra: 感じ
     lectura: かんじ
     tipo_lectura: 'on'

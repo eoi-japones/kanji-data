@@ -130,3 +130,118 @@ excepciones:
     mascara: '-----...'
     tipo_lectura: 'on'
     motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: アメーバ赤痢
+    lectura: アメーバせきり
+    mascara: '-------.....'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: ダウン症
+    lectura: ダウンしょう
+    mascara: '------...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: パニック症
+    lectura: パニックしょう
+    mascara: '-------....'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: ブラウン管
+    lectura: ブラウンかん
+    mascara: '------....'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: モールス符号
+    lectura: モールスふごう
+    mascara: '-------.....'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一問一答
+    lectura: いちもんいっとう
+    mascara: '--------...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一筆
+    lectura: いっぴつ
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一等
+    lectura: いっとう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 劣等感
+    lectura: れっとうかん
+    mascara: '------..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 失策
+    lectura: しっさく
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 発症
+    lectura: はっしょう
+    mascara: '-----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 発痘
+    lectura: はっとう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 白血病
+    lectura: はっけつびょう
+    mascara: '-------..'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 筆者
+    lectura: ひっしゃ
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 筆記
+    lectura: ひっき
+    mascara: '---.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 筆記用具
+    lectura: ひっきようぐ
+    mascara: '------...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 筆記試験
+    lectura: ひっきしけん
+    mascara: '------...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 筆跡
+    lectura: ひっせき
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 筆頭
+    lectura: ひっとう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 等々
+    lectura: とうとう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 血管
+    lectura: けっかん
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 鉄筋
+    lectura: てっきん
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 高等学校
+    lectura: こうとうがっこう
+    mascara: '--------...'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'

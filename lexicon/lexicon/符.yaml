@@ -1,0 +1,107 @@
+id: 符
+palabras:
+  - palabra: 八分音符
+    lectura: はちぶおんぷ
+    tipo_lectura: 'on'
+    significado: Corchea
+    mascara: '--.-.--.-'
+    frase: 八分音(符)を二つつなげます。
+    traduccion: Uno dos corcheas.
+  - palabra: 切符
+    lectura: きっぷ
+    tipo_lectura: kun
+    significado: Billete, entrada
+    mascara: '---.'
+    frase: 駅で切(符)を買います。
+    traduccion: Compro el billete en la estación.
+  - palabra: 疑問符
+    lectura: ぎもんふ
+    tipo_lectura: 'on'
+    significado: Signo de interrogación
+    mascara: '-.--.-'
+    frase: 文の終わりに疑問(符)を付けます。
+    traduccion: Ponemos signo de interrogación al final de la frase.
+  - palabra: 符号
+    lectura: ふごう
+    tipo_lectura: 'on'
+    significado: Signo, código, señal
+    mascara: '-.--'
+    frase: (符)号の意味を調べます。
+    traduccion: Busco el significado del símbolo.
+  - palabra: 符合
+    lectura: ふごう
+    tipo_lectura: 'on'
+    significado: Coincidencia, conformidad
+    mascara: '-.--'
+    frase: 事実と(符)合しています。
+    traduccion: Coincide con los hechos.
+  - palabra: 音符
+    lectura: おんぷ
+    tipo_lectura: 'on'
+    significado: Nota musical
+    mascara: '--.-'
+    frase: 音(符)を読む練習をします。
+    traduccion: Practico la lectura de notas musicales.
+  - palabra: モールス符号
+    lectura: モールスふごう
+    tipo_lectura: 'on'
+    significado: Código Morse
+    mascara: '-------.....'
+    frase: モールス(符)号で通信します。
+    traduccion: Se comunica con código Morse.
+  - palabra: 三連符
+    lectura: さんれんぷ
+    tipo_lectura: 'on'
+    significado: Tresillo
+    mascara: '--.--.-'
+    frase: 三連(符)の練習をします。
+    traduccion: Practico los tresillos.
+  - palabra: 二分音符
+    lectura: にぶおんぷ
+    tipo_lectura: 'on'
+    significado: Blanca (nota musical)
+    mascara: '-.-.--.-'
+    frase: 二分音(符)は二拍です。
+    traduccion: La blanca dura dos tiempos.
+  - palabra: 休止符
+    lectura: きゅうしふ
+    tipo_lectura: 'on'
+    significado: Signo de silencio
+    mascara: '---.-.-'
+    frase: 楽譜に休止(符)があります。
+    traduccion: En la partitura hay un signo de silencio.
+  - palabra: 休符
+    lectura: きゅうふ
+    tipo_lectura: 'on'
+    significado: Silencio (en música)
+    mascara: '---.-'
+    frase: 休(符)のところで手を止めます。
+    traduccion: Detengo las manos en el silencio.
+  - palabra: 全音符
+    lectura: ぜんおんぷ
+    tipo_lectura: 'on'
+    significado: Redonda (nota musical)
+    mascara: '--.--.-'
+    frase: 全音(符)は四拍です。
+    traduccion: La redonda dura cuatro tiempos.
+  - palabra: 切符代
+    lectura: きっぷだい
+    tipo_lectura: kun
+    significado: Precio del billete
+    mascara: '-----..'
+    frase: 切(符)代を払いました。
+    traduccion: Pagué el precio del billete.
+  - palabra: 切符売り場
+    lectura: きっぷうりば
+    tipo_lectura: kun
+    significado: Taquilla, despacho de billetes
+    mascara: '----...-.-'
+    frase: 切(符)売り場はどこですか。
+    traduccion: ¿Dónde está la taquilla?
+  - palabra: 四分音符
+    lectura: しぶおんぷ
+    tipo_lectura: 'on'
+    significado: Negra (nota musical)
+    mascara: '-.-.--.-'
+    frase: 四分音(符)の長さを数えます。
+    traduccion: Cuento la duración de la negra.

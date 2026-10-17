@@ -21,3 +21,10 @@ palabras:
     mascara: '-.--'
     frase: (五)感を使って料理を味わいます。
     traduccion: Pruebo el plato usando los cinco sentidos.
+  - palabra: 笹五位
+    lectura: ささごい
+    tipo_lectura: 'on'
+    significado: Garcilla striada
+    mascara: '--.-.-'
+    frase: 川で笹(五)位を見ました。
+    traduccion: Vi una garcilla striada en el río.

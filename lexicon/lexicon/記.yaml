@@ -21,6 +21,27 @@ palabras:
     mascara: '--.-'
     frase: 試験のために漢字を暗(記)しました。
     traduccion: Memoricé los kanji para el examen.
+  - palabra: 筆記
+    lectura: ひっき
+    tipo_lectura: 'on'
+    significado: Escritura, toma de notas
+    mascara: '---.'
+    frase: 筆(記)の試験があります。
+    traduccion: Hay un examen escrito.
+  - palabra: 筆記用具
+    lectura: ひっきようぐ
+    tipo_lectura: 'on'
+    significado: Útiles de escritura
+    mascara: '------...'
+    frase: 筆(記)用具を忘れました。
+    traduccion: Olvidé los útiles de escritura.
+  - palabra: 筆記試験
+    lectura: ひっきしけん
+    tipo_lectura: 'on'
+    significado: Examen escrito
+    mascara: '------...'
+    frase: 筆(記)試験に合格しました。
+    traduccion: Aprobé el examen escrito.
   - palabra: 記す
     lectura: しるす
     tipo_lectura: kun

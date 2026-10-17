@@ -21,3 +21,10 @@ palabras:
     mascara: '--.---'
     frase: 僧侶は山で(修)行をしました。
     traduccion: El monje hizo austeridades en la montaña.
+  - palabra: 修築
+    lectura: しゅうちく
+    tipo_lectura: 'on'
+    significado: Reparación, restauración
+    mascara: '---.--'
+    frase: 橋の(修)築が始まりました。
+    traduccion: Han empezado las obras de reparación del puente.

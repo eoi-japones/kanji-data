@@ -1,0 +1,72 @@
+id: 癒
+palabras:
+  - palabra: 癒着
+    lectura: ゆちゃく
+    tipo_lectura: 'on'
+    significado: Adherencia; colusión
+    mascara: '-.---'
+    frase: 手術のあと(癒)着しました。
+    traduccion: Tras la operación se produjo una adherencia.
+  - palabra: 全癒
+    lectura: ぜんゆ
+    tipo_lectura: 'on'
+    significado: Curación completa
+    mascara: '--.-'
+    frase: 医者に全(癒)と言われました。
+    traduccion: El médico me dijo que estoy curado del todo.
+  - palabra: 心を癒す
+    lectura: こころをいやす
+    tipo_lectura: kun
+    significado: Consolar el alma, reconfortar
+    mascara: '---.-.--.-'
+    frase: 温泉は心を(癒)します。
+    traduccion: Las aguas termales reconfortan el alma.
+  - palabra: 渇を癒やす
+    lectura: かつをいやす
+    tipo_lectura: kun
+    significado: Saciar la sed
+    mascara: '--.-.-.-.-'
+    frase: 冷たい水で渇を(癒)やす。
+    traduccion: Sacio la sed con agua fría.
+  - palabra: 病を癒す
+    lectura: やまいをいやす
+    tipo_lectura: kun
+    significado: Curar la enfermedad
+    mascara: '---.-.--.-'
+    frase: この薬は病を(癒)します。
+    traduccion: Esta medicina cura la enfermedad.
+  - palabra: 癒える
+    lectura: いえる
+    tipo_lectura: kun
+    significado: Curarse, sanar
+    mascara: '-.-.-'
+    frase: 傷が(癒)えました。
+    traduccion: La herida se curó.
+  - palabra: 癒し
+    lectura: いやし
+    tipo_lectura: kun
+    significado: Alivio, bálsamo, consuelo
+    mascara: '--.-'
+    frase: 音楽は私の(癒)しです。
+    traduccion: La música es mi consuelo.
+  - palabra: 癒し犬
+    lectura: いやしけん
+    tipo_lectura: kun
+    significado: Perro de terapia
+    mascara: '--.-.--'
+    frase: 病院に(癒)し犬が来ました。
+    traduccion: Vino un perro de terapia al hospital.
+  - palabra: 癒す
+    lectura: いやす
+    tipo_lectura: kun
+    significado: Curar, sanar
+    mascara: '--.-'
+    frase: 風呂は心を(癒)すと言われます。
+    traduccion: Dicen que el baño cura el alma.
+  - palabra: 癒合
+    lectura: ゆごう
+    tipo_lectura: 'on'
+    significado: Cicatrización, consolidación
+    mascara: '-.--'
+    frase: 骨はゆっくり(癒)合します。
+    traduccion: El hueso se consolida poco a poco.

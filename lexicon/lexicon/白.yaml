@@ -1,0 +1,16 @@
+id: 白
+palabras:
+  - palabra: 白血病
+    lectura: はっけつびょう
+    tipo_lectura: 'on'
+    significado: Leucemia
+    mascara: '-------..'
+    frase: (白)血病の治療を受けています。
+    traduccion: Estoy en tratamiento contra la leucemia.
+  - palabra: 余白頁
+    lectura: よはくページ
+    tipo_lectura: kun
+    significado: Página en blanco
+    mascara: '------..'
+    frase: 余(白)頁にメモを書きました。
+    traduccion: Escribí un apunte en la página en blanco.

@@ -1,0 +1,16 @@
+id: 品
+palabras:
+  - palabra: 医薬品
+    lectura: いやくひん
+    tipo_lectura: 'on'
+    significado: Medicamentos, productos farmacéuticos
+    mascara: '--.-.--'
+    frase: 薬屋で医薬(品)を買いました。
+    traduccion: Compré medicamentos en la farmacia.
+  - palabra: 薬品
+    lectura: やくひん
+    tipo_lectura: 'on'
+    significado: Medicamento, producto químico
+    mascara: '--.--'
+    frase: この薬(品)は水に溶けます。
+    traduccion: Este producto químico se disuelve en agua.

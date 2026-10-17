@@ -14,6 +14,13 @@ palabras:
     mascara: '--'
     frase: この本は千(円)です。
     traduccion: Este libro cuesta mil yenes.
+  - palabra: 円筒
+    lectura: えんとう
+    tipo_lectura: 'on'
+    significado: Cilindro
+    mascara: '--.--'
+    frase: (円)筒の形をしています。
+    traduccion: Tiene forma de cilindro.
   - palabra: 円高
     lectura: えんだか
     tipo_lectura: 'on'

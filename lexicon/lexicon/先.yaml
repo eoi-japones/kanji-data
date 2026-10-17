@@ -77,3 +77,10 @@ palabras:
     mascara: '--.--'
     frase: 外は寒くて鼻(先)が赤くなりました。
     traduccion: Hace frío fuera y se me puso roja la punta de la nariz.
+  - palabra: 筒先
+    lectura: つつさき
+    tipo_lectura: kun
+    significado: Boquilla, boca de un tubo
+    mascara: '--.--'
+    frase: 筒(先)を水で洗います。
+    traduccion: Lavo la boquilla con agua.

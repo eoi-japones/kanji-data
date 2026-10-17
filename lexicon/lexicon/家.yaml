@@ -49,6 +49,13 @@ palabras:
     mascara: '--.--.-'
     frase: この問題は専門(家)に聞いてください。
     traduccion: Consulte este problema a un especialista.
+  - palabra: 建築家
+    lectura: けんちくか
+    tipo_lectura: 'on'
+    significado: Arquitecto
+    mascara: '--.--.-'
+    frase: 姉は建築(家)です。
+    traduccion: Mi hermana es arquitecta.
   - palabra: 画家
     lectura: がか
     tipo_lectura: 'on'

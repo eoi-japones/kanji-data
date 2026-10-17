@@ -1,0 +1,44 @@
+id: 理
+palabras:
+  - palabra: 管理
+    lectura: かんり
+    tipo_lectura: 'on'
+    significado: Gestión, administración, control
+    mascara: '--.-'
+    frase: お金を管(理)します。
+    traduccion: Administro el dinero.
+  - palabra: 管理人
+    lectura: かんりにん
+    tipo_lectura: 'on'
+    significado: Administrador, conserje
+    mascara: '--.-.--'
+    frase: 管(理)人が鍵を開けました。
+    traduccion: El conserje abrió la puerta.
+  - palabra: 管理者
+    lectura: かんりしゃ
+    tipo_lectura: 'on'
+    significado: Administrador, gestor
+    mascara: '--.-.--'
+    frase: システムの管(理)者に話します。
+    traduccion: Hablo con el administrador del sistema.
+  - palabra: 管理職
+    lectura: かんりしょく
+    tipo_lectura: 'on'
+    significado: Puesto directivo
+    mascara: '--.-.---'
+    frase: 父は管(理)職です。
+    traduccion: Mi padre es directivo.
+  - palabra: 自己管理
+    lectura: じこかんり
+    tipo_lectura: 'on'
+    significado: Autocontrol, cuidado de uno mismo
+    mascara: '-.-.--.-'
+    frase: 健康のため自己管(理)をします。
+    traduccion: Me cuido por mi salud.
+  - palabra: 管理医療
+    lectura: かんりいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica gestionada
+    mascara: '--.-.-.---'
+    frase: 管(理)医療の制度を調べます。
+    traduccion: Estudio el sistema de asistencia médica gestionada.

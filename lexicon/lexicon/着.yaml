@@ -1,0 +1,16 @@
+id: 着
+palabras:
+  - palabra: 癒着
+    lectura: ゆちゃく
+    tipo_lectura: 'on'
+    significado: Adherencia; colusión
+    mascara: '-.---'
+    frase: 手術のあと癒(着)しました。
+    traduccion: Tras la operación se produjo una adherencia.
+  - palabra: 笠に着る
+    lectura: かさにきる
+    tipo_lectura: kun
+    significado: Ampararse en, escudarse en
+    mascara: '--.-.-.-'
+    frase: 権力を笠に(着)てはいけません。
+    traduccion: No hay que escudarse en el poder.

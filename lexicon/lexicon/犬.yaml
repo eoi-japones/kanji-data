@@ -21,3 +21,10 @@ palabras:
     mascara: '--.-.-'
     frase: (犬)の子はとてもかわいいです。
     traduccion: Los cachorros son muy monos.
+  - palabra: 癒し犬
+    lectura: いやしけん
+    tipo_lectura: 'on'
+    significado: Perro de terapia
+    mascara: '--.-.--'
+    frase: 病院に癒し(犬)が来ました。
+    traduccion: Vino un perro de terapia al hospital.

@@ -1,0 +1,30 @@
+id: 封
+palabras:
+  - palabra: 封筒
+    lectura: ふうとう
+    tipo_lectura: 'on'
+    significado: Sobre, envoltorio de carta
+    mascara: '--.--'
+    frase: 手紙を(封)筒に入れました。
+    traduccion: Metí la carta en el sobre.
+  - palabra: 和封筒
+    lectura: わふうとう
+    tipo_lectura: 'on'
+    significado: Sobre japonés de apertura lateral
+    mascara: '-.--.--'
+    frase: 年賀状は和(封)筒で送ります。
+    traduccion: Las felicitaciones se envían con sobre japonés.
+  - palabra: 茶封筒
+    lectura: ちゃぶうとう
+    tipo_lectura: 'on'
+    significado: Sobre marrón, sobre de papel kraft
+    mascara: '--.--.--'
+    frase: 書類は茶(封)筒に入れます。
+    traduccion: Meto los documentos en un sobre marrón.
+  - palabra: 角封筒
+    lectura: かくふうとう
+    tipo_lectura: 'on'
+    significado: Sobre rectangular
+    mascara: '--.--.--'
+    frase: 角(封)筒を百枚買いました。
+    traduccion: Compré cien sobres rectangulares.

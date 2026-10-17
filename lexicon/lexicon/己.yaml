@@ -14,3 +14,17 @@ palabras:
     mascara: '-.-'
     frase: 会議の最初に自(己)紹介をしました。
     traduccion: Al principio de la reunión me presenté.
+  - palabra: 自己管理
+    lectura: じこかんり
+    tipo_lectura: 'on'
+    significado: Autocontrol, cuidado de uno mismo
+    mascara: '-.-.--.-'
+    frase: 健康のため自(己)管理をします。
+    traduccion: Me cuido por mi salud.
+  - palabra: 自己免疫
+    lectura: じこめんえき
+    tipo_lectura: 'on'
+    significado: Autoinmunidad
+    mascara: '-.-.--.--'
+    frase: 自(己)免疫の病気になりました。
+    traduccion: Enfermó de una dolencia autoinmune.

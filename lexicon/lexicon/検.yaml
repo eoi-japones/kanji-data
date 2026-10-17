@@ -1,0 +1,23 @@
+id: 検
+palabras:
+  - palabra: 検疫
+    lectura: けんえき
+    tipo_lectura: 'on'
+    significado: Cuarentena, control sanitario
+    mascara: '--.--'
+    frase: 空港で(検)疫を受けます。
+    traduccion: En el aeropuerto pasamos el control sanitario.
+  - palabra: 検疫官
+    lectura: けんえきかん
+    tipo_lectura: 'on'
+    significado: Inspector de cuarentena
+    mascara: '--.--.--'
+    frase: (検)疫官が荷物を調べます。
+    traduccion: El inspector de cuarentena revisa el equipaje.
+  - palabra: 検疫所
+    lectura: けんえきじょ
+    tipo_lectura: 'on'
+    significado: Centro de cuarentena
+    mascara: '--.--.--'
+    frase: 船は(検)疫所にとまりました。
+    traduccion: El barco permaneció en el centro de cuarentena.

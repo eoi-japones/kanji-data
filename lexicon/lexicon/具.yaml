@@ -1,0 +1,23 @@
+id: 具
+palabras:
+  - palabra: 筆記用具
+    lectura: ひっきようぐ
+    tipo_lectura: 'on'
+    significado: Útiles de escritura
+    mascara: '------...'
+    frase: 筆記用(具)を忘れました。
+    traduccion: Olvidé los útiles de escritura.
+  - palabra: 具体策
+    lectura: ぐたいさく
+    tipo_lectura: 'on'
+    significado: Medida concreta
+    mascara: '-.--.--'
+    frase: (具)体策を話し合います。
+    traduccion: Discutimos medidas concretas.
+  - palabra: 医療器具
+    lectura: いりょうきぐ
+    tipo_lectura: 'on'
+    significado: Instrumental médico
+    mascara: '-.---.-.-'
+    frase: 医療器(具)を消毒します。
+    traduccion: Desinfectamos el instrumental médico.

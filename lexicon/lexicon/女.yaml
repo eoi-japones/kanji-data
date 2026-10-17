@@ -14,6 +14,13 @@ palabras:
     mascara: '---.-.-'
     frase: 公園で(女)の子と遊びました。
     traduccion: Jugué con una niña en el parque.
+  - palabra: 女医
+    lectura: じょい
+    tipo_lectura: 'on'
+    significado: Médica
+    mascara: '--.-'
+    frase: (女)医が診察してくれました。
+    traduccion: Me atendió una médica.
   - palabra: 女子
     lectura: じょし
     tipo_lectura: 'on'
@@ -42,3 +49,10 @@ palabras:
     mascara: '--.-.---'
     frase: 乙(女)心は複雑です。
     traduccion: El corazón de una joven es complejo.
+  - palabra: 市女笠
+    lectura: いちめがさ
+    tipo_lectura: kun
+    significado: Sombrero femenino de paja
+    mascara: '--.-.--'
+    frase: 市(女)笠は昔の女性の帽子です。
+    traduccion: El sombrero ichimegasa era el tocado de las mujeres de antaño.

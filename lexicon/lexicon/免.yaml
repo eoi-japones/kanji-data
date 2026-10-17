@@ -1,0 +1,44 @@
+id: 免
+palabras:
+  - palabra: 免疫
+    lectura: めんえき
+    tipo_lectura: 'on'
+    significado: Inmunidad
+    mascara: '--.--'
+    frase: ワクチンで(免)疫ができます。
+    traduccion: La vacuna crea inmunidad.
+  - palabra: 免疫不全
+    lectura: めんえきふぜん
+    tipo_lectura: 'on'
+    significado: Inmunodeficiencia
+    mascara: '--.--.-.--'
+    frase: (免)疫不全の病気です。
+    traduccion: Es una enfermedad de inmunodeficiencia.
+  - palabra: 免疫力
+    lectura: めんえきりょく
+    tipo_lectura: 'on'
+    significado: Defensas, inmunidad
+    mascara: '--.--.---'
+    frase: 運動すると(免)疫力が上がります。
+    traduccion: Hacer ejercicio aumenta las defensas.
+  - palabra: 免疫学
+    lectura: めんえきがく
+    tipo_lectura: 'on'
+    significado: Inmunología
+    mascara: '--.--.--'
+    frase: 大学で(免)疫学を研究しています。
+    traduccion: Investigo inmunología en la universidad.
+  - palabra: 自己免疫
+    lectura: じこめんえき
+    tipo_lectura: 'on'
+    significado: Autoinmunidad
+    mascara: '-.-.--.--'
+    frase: 自己(免)疫の病気になりました。
+    traduccion: Enfermó de una dolencia autoinmune.
+  - palabra: 集団免疫
+    lectura: しゅうだんめんえき
+    tipo_lectura: 'on'
+    significado: Inmunidad de grupo
+    mascara: '---.--.--.--'
+    frase: 集団(免)疫が大切です。
+    traduccion: La inmunidad de grupo es importante.

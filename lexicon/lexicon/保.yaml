@@ -1,0 +1,30 @@
+id: 保
+palabras:
+  - palabra: 保管
+    lectura: ほかん
+    tipo_lectura: 'on'
+    significado: Custodia, guarda
+    mascara: '-.--'
+    frase: 荷物を(保)管してもらいます。
+    traduccion: Les pido que me guarden el equipaje.
+  - palabra: 簡易保険
+    lectura: かんいほけん
+    tipo_lectura: 'on'
+    significado: Seguro de vida postal
+    mascara: '--.-.-.--'
+    frase: 簡易(保)険を勧められました。
+    traduccion: Me recomendaron el seguro postal.
+  - palabra: 医療保険
+    lectura: いりょうほけん
+    tipo_lectura: 'on'
+    significado: Seguro médico
+    mascara: '-.---.-.--'
+    frase: 医療(保)険に入っています。
+    traduccion: Tengo un seguro médico.
+  - palabra: 簡保
+    lectura: かんぽ
+    tipo_lectura: 'on'
+    significado: Seguro de vida postal
+    mascara: '--.-'
+    frase: 簡(保)に入っています。
+    traduccion: Tengo el seguro de vida postal.

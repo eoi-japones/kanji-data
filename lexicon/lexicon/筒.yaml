@@ -1,0 +1,114 @@
+id: 筒
+palabras:
+  - palabra: 円筒
+    lectura: えんとう
+    tipo_lectura: 'on'
+    significado: Cilindro
+    mascara: '--.--'
+    frase: 円(筒)の形をしています。
+    traduccion: Tiene forma de cilindro.
+  - palabra: 封筒
+    lectura: ふうとう
+    tipo_lectura: 'on'
+    significado: Sobre, envoltorio de carta
+    mascara: '--.--'
+    frase: 手紙を封(筒)に入れました。
+    traduccion: Metí la carta en el sobre.
+  - palabra: 気筒
+    lectura: きとう
+    tipo_lectura: 'on'
+    significado: Cilindro de motor
+    mascara: '-.--'
+    frase: この車は四気(筒)です。
+    traduccion: Este coche tiene cuatro cilindros.
+  - palabra: 水筒
+    lectura: すいとう
+    tipo_lectura: 'on'
+    significado: Cantimplora, botella
+    mascara: '--.--'
+    frase: 水(筒)にお茶を入れます。
+    traduccion: Pongo té en la cantimplora.
+  - palabra: 筒
+    lectura: つつ
+    tipo_lectura: kun
+    significado: Tubo, cilindro
+    mascara: '--'
+    frase: (筒)の中に水が入っています。
+    traduccion: Dentro del tubo hay agua.
+  - palabra: 筒井
+    lectura: つつい
+    tipo_lectura: kun
+    significado: Pozo redondo
+    mascara: '--.-'
+    frase: 村の(筒)井で水をくみます。
+    traduccion: Saco agua del pozo redondo del pueblo.
+  - palabra: 和封筒
+    lectura: わふうとう
+    tipo_lectura: 'on'
+    significado: Sobre japonés de apertura lateral
+    mascara: '-.--.--'
+    frase: 年賀状は和封(筒)で送ります。
+    traduccion: Las felicitaciones se envían con sobre japonés.
+  - palabra: 発炎筒
+    lectura: はつえんとう
+    tipo_lectura: 'on'
+    significado: Bengala de señalización
+    mascara: '--.--.--'
+    frase: 車に発炎(筒)を積んでいます。
+    traduccion: Llevo una bengala en el coche.
+  - palabra: 矢筒
+    lectura: やづつ
+    tipo_lectura: kun
+    significado: Carcaj
+    mascara: '-.--'
+    frase: 弓の人は矢(筒)を持っています。
+    traduccion: El arquero lleva el carcaj.
+  - palabra: 竹筒
+    lectura: たけづつ
+    tipo_lectura: kun
+    significado: Tubo de bambú
+    mascara: '--.--'
+    frase: 竹(筒)に水を入れます。
+    traduccion: Pongo agua en el tubo de bambú.
+  - palabra: 筆筒
+    lectura: ふでづつ
+    tipo_lectura: kun
+    significado: Portalápices, bote para pinceles
+    mascara: '--.--'
+    frase: 机の上に筆(筒)があります。
+    traduccion: Sobre el escritorio hay un portalápices.
+  - palabra: 筒先
+    lectura: つつさき
+    tipo_lectura: kun
+    significado: Boquilla, boca de un tubo
+    mascara: '--.--'
+    frase: (筒)先を水で洗います。
+    traduccion: Lavo la boquilla con agua.
+  - palabra: 筒状
+    lectura: つつじょう
+    tipo_lectura: kun
+    significado: Cilíndrico, tubular
+    mascara: '--.---'
+    frase: (筒)状の形をしています。
+    traduccion: Tiene forma tubular.
+  - palabra: 茶封筒
+    lectura: ちゃぶうとう
+    tipo_lectura: 'on'
+    significado: Sobre marrón, sobre de papel kraft
+    mascara: '--.--.--'
+    frase: 書類は茶封(筒)に入れます。
+    traduccion: Meto los documentos en un sobre marrón.
+  - palabra: 茶筒
+    lectura: ちゃづつ
+    tipo_lectura: kun
+    significado: Bote de té
+    mascara: '--.--'
+    frase: 茶(筒)に茶葉を入れます。
+    traduccion: Pongo las hojas de té en el bote.
+  - palabra: 角封筒
+    lectura: かくふうとう
+    tipo_lectura: 'on'
+    significado: Sobre rectangular
+    mascara: '--.--.--'
+    frase: 角封(筒)を百枚買いました。
+    traduccion: Compré cien sobres rectangulares.

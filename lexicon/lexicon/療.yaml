@@ -1,0 +1,107 @@
+id: 療
+palabras:
+  - palabra: 医療
+    lectura: いりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica, tratamiento médico
+    mascara: '-.---'
+    frase: この村は医(療)が進んでいます。
+    traduccion: La asistencia médica de este pueblo está muy avanzada.
+  - palabra: 救急医療
+    lectura: きゅうきゅういりょう
+    tipo_lectura: 'on'
+    significado: Medicina de urgencias
+    mascara: '---.---.-.---'
+    frase: 救急医(療)の仕事をしています。
+    traduccion: Trabajo en medicina de urgencias.
+  - palabra: 再生医療
+    lectura: さいせいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina regenerativa
+    mascara: '--.--.-.---'
+    frase: 再生医(療)の研究が進んでいます。
+    traduccion: Avanza la investigación en medicina regenerativa.
+  - palabra: 加療
+    lectura: かりょう
+    tipo_lectura: 'on'
+    significado: Tratamiento médico
+    mascara: '-.---'
+    frase: 一か月の加(療)が必要です。
+    traduccion: Hace falta un mes de tratamiento.
+  - palabra: 化療
+    lectura: かりょう
+    tipo_lectura: 'on'
+    significado: Quimioterapia
+    mascara: '-.---'
+    frase: 化(療)を受けています。
+    traduccion: Estoy recibiendo quimioterapia.
+  - palabra: 医療保険
+    lectura: いりょうほけん
+    tipo_lectura: 'on'
+    significado: Seguro médico
+    mascara: '-.---.-.--'
+    frase: 医(療)保険に入っています。
+    traduccion: Tengo un seguro médico.
+  - palabra: 医療器具
+    lectura: いりょうきぐ
+    tipo_lectura: 'on'
+    significado: Instrumental médico
+    mascara: '-.---.-.-'
+    frase: 医(療)器具を消毒します。
+    traduccion: Desinfectamos el instrumental médico.
+  - palabra: 医療費
+    lectura: いりょうひ
+    tipo_lectura: 'on'
+    significado: Gastos médicos
+    mascara: '-.---.-'
+    frase: 医(療)費が高くなりました。
+    traduccion: Los gastos médicos han subido.
+  - palabra: 受療
+    lectura: じゅりょう
+    tipo_lectura: 'on'
+    significado: Recibir tratamiento médico
+    mascara: '--.---'
+    frase: 病院で受(療)しています。
+    traduccion: Recibo tratamiento en el hospital.
+  - palabra: 施療
+    lectura: せりょう
+    tipo_lectura: 'on'
+    significado: Tratamiento médico gratuito
+    mascara: '-.---'
+    frase: 昔は施(療)の病院がありました。
+    traduccion: Antaño había hospitales de tratamiento gratuito.
+  - palabra: 物療
+    lectura: ぶつりょう
+    tipo_lectura: 'on'
+    significado: Fisioterapia
+    mascara: '--.---'
+    frase: 病院で物(療)をします。
+    traduccion: Hago fisioterapia en el hospital.
+  - palabra: 現代医療
+    lectura: げんだいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina moderna
+    mascara: '--.--.-.---'
+    frase: 現代医(療)の発達は速いです。
+    traduccion: El desarrollo de la medicina moderna es rápido.
+  - palabra: 療病
+    lectura: りょうびょう
+    tipo_lectura: 'on'
+    significado: Curación, tratamiento de la enfermedad
+    mascara: '---.---'
+    frase: (療)病に専念しています。
+    traduccion: Me dedico por entero a curarme.
+  - palabra: 管理医療
+    lectura: かんりいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica gestionada
+    mascara: '--.-.-.---'
+    frase: 管理医(療)の制度を調べます。
+    traduccion: Estudio el sistema de asistencia médica gestionada.
+  - palabra: 老人医療
+    lectura: ろうじんいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica a los mayores
+    mascara: '--.--.-.---'
+    frase: 老人医(療)を支える制度です。
+    traduccion: Es un sistema que sostiene la asistencia a los mayores.

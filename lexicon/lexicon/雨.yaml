@@ -56,3 +56,10 @@ palabras:
     mascara: '--.-.-'
     frase: 昔は(雨)乞いの祈祷が行われました。
     traduccion: Antes se celebraban rituales de petición de lluvia.
+  - palabra: 雨笠
+    lectura: あまがさ
+    tipo_lectura: kun
+    significado: Sombrero para la lluvia
+    mascara: '--.--'
+    frase: 雨の日は(雨)笠を使います。
+    traduccion: Los días de lluvia uso sombrero de lluvia.

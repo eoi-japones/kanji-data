@@ -70,6 +70,13 @@ palabras:
     mascara: '-.--'
     frase: 家を出ると(小)雨が降り始めました。
     traduccion: Al salir de casa empezó a llover flojo.
+  - palabra: 小箱
+    lectura: こばこ
+    tipo_lectura: kun
+    significado: Caja pequeña
+    mascara: '-.--'
+    frase: (小)箱に指輪を入れます。
+    traduccion: Pongo el anillo en la cajita.
   - palabra: 小貝
     lectura: こがい
     tipo_lectura: kun

@@ -63,6 +63,13 @@ palabras:
     mascara: '--.--'
     frase: 銀(行)でお金を受け取りました。
     traduccion: Retiré dinero del banco.
+  - palabra: 旅行者下痢
+    lectura: りょこうしゃげり
+    tipo_lectura: 'on'
+    significado: Diarrea del viajero
+    mascara: '--.--.--.-.-'
+    frase: 海外で旅(行)者下痢になりました。
+    traduccion: Tuve diarrea del viajero en el extranjero.
   - palabra: 舟行
     lectura: しゅうこう
     tipo_lectura: 'on'

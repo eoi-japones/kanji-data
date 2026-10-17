@@ -1,0 +1,51 @@
+id: 痘
+palabras:
+  - palabra: サル痘
+    lectura: さるとう
+    tipo_lectura: 'on'
+    significado: Viruela del mono
+    mascara: '-.-.--'
+    frase: サル(痘)が広がっています。
+    traduccion: La viruela del mono se está extendiendo.
+  - palabra: 仮痘
+    lectura: かとう
+    tipo_lectura: 'on'
+    significado: Varioloide
+    mascara: '-.--'
+    frase: 仮(痘)は軽い病気です。
+    traduccion: La varioloide es una enfermedad leve.
+  - palabra: 水痘
+    lectura: すいとう
+    tipo_lectura: 'on'
+    significado: Varicela
+    mascara: '--.--'
+    frase: 子どもが水(痘)になりました。
+    traduccion: El niño tiene varicela.
+  - palabra: 牛痘
+    lectura: ぎゅうとう
+    tipo_lectura: 'on'
+    significado: Vacuna, viruela bovina
+    mascara: '---.--'
+    frase: 牛(痘)で病気を防ぎます。
+    traduccion: La vacuna bovina previene la enfermedad.
+  - palabra: 痘苗
+    lectura: とうびょう
+    tipo_lectura: 'on'
+    significado: Vacuna contra la viruela
+    mascara: '--.---'
+    frase: (痘)苗をうつ人が減りました。
+    traduccion: Cada vez menos gente se pone la vacuna contra la viruela.
+  - palabra: 発痘
+    lectura: はっとう
+    tipo_lectura: 'on'
+    significado: Erupción de la viruela
+    mascara: '----.'
+    frase: 発(痘)が全身に広がりました。
+    traduccion: La erupción se extendió por todo el cuerpo.
+  - palabra: 羊痘
+    lectura: ひつじとう
+    tipo_lectura: 'on'
+    significado: Ectima contagioso
+    mascara: '---.--'
+    frase: 羊(痘)は羊の病気です。
+    traduccion: El ectima contagioso es una enfermedad de las ovejas.

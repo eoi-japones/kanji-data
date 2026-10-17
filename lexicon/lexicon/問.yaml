@@ -14,6 +14,13 @@ palabras:
     mascara: '-.-'
     frase: その(問)いに答えられませんでした。
     traduccion: No pude responder a esa pregunta.
+  - palabra: 問答
+    lectura: もんどう
+    tipo_lectura: 'on'
+    significado: Preguntas y respuestas, diálogo
+    mascara: '--.--'
+    frase: 先生と(問)答をしました。
+    traduccion: Mantuve un diálogo de preguntas y respuestas con el profesor.
   - palabra: 学問
     lectura: がくもん
     tipo_lectura: 'on'
@@ -21,3 +28,24 @@ palabras:
     mascara: '--.--'
     frase: 彼は学(問)に励んでいます。
     traduccion: Él se dedica con ahínco al estudio.
+  - palabra: 疑問符
+    lectura: ぎもんふ
+    tipo_lectura: 'on'
+    significado: Signo de interrogación
+    mascara: '-.--.-'
+    frase: 文の終わりに疑(問)符を付けます。
+    traduccion: Ponemos signo de interrogación al final de la frase.
+  - palabra: 一問一答
+    lectura: いちもんいっとう
+    tipo_lectura: 'on'
+    significado: Preguntas y respuestas una a una
+    mascara: '--------...'
+    frase: 一(問)一答の形式で練習します。
+    traduccion: Practicamos en formato de pregunta y respuesta.
+  - palabra: 問答無用
+    lectura: もんどうむよう
+    tipo_lectura: 'on'
+    significado: Sin discusión, no hay nada que hablar
+    mascara: '--.--.-.--'
+    frase: (問)答無用で決まりました。
+    traduccion: Se decidió sin más discusión.

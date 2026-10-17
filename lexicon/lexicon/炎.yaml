@@ -21,3 +21,17 @@ palabras:
     mascara: '--.--'
     frase: (炎)天下で運動会を行いました。
     traduccion: Hicimos el día del deporte bajo el sol abrasador.
+  - palabra: 炎症
+    lectura: えんしょう
+    tipo_lectura: 'on'
+    significado: Inflamación
+    mascara: '--.---'
+    frase: 喉に(炎)症があります。
+    traduccion: Tengo inflamación de garganta.
+  - palabra: 発炎筒
+    lectura: はつえんとう
+    tipo_lectura: 'on'
+    significado: Bengala de señalización
+    mascara: '--.--.--'
+    frase: 車に発(炎)筒を積んでいます。
+    traduccion: Llevo una bengala en el coche.

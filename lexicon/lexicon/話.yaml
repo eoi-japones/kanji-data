@@ -63,3 +63,10 @@ palabras:
     mascara: '--.-.-'
     frase: 電(話)機の調子が悪いです。
     traduccion: El teléfono va mal.
+  - palabra: 痴話
+    lectura: ちわ
+    tipo_lectura: 'on'
+    significado: Dulces palabras de amor
+    mascara: '-.-'
+    frase: 二人は痴(話)を語り合っています。
+    traduccion: Los dos se susurran dulces palabras de amor.

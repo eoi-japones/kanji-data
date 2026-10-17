@@ -7,6 +7,13 @@ palabras:
     mascara: '--.--'
     frase: 列の先(頭)に並びました。
     traduccion: Me puse al frente de la cola.
+  - palabra: 筆頭
+    lectura: ひっとう
+    tipo_lectura: 'on'
+    significado: Primer lugar de una lista; punta del pincel
+    mascara: '----.'
+    frase: 名前が筆(頭)にあります。
+    traduccion: Su nombre está en primer lugar.
   - palabra: 頭
     lectura: あたま
     tipo_lectura: kun
@@ -21,3 +28,17 @@ palabras:
     mascara: '-----..'
     frase: 名前の(頭)文字は何ですか。
     traduccion: ¿Cuál es la inicial de tu nombre?
+  - palabra: 三頭筋
+    lectura: さんとうきん
+    tipo_lectura: 'on'
+    significado: Tríceps
+    mascara: '--.--.--'
+    frase: 三(頭)筋が痛いです。
+    traduccion: Me duele el tríceps.
+  - palabra: 二頭筋
+    lectura: にとうきん
+    tipo_lectura: 'on'
+    significado: Bíceps
+    mascara: '-.--.--'
+    frase: 二(頭)筋を鍛えます。
+    traduccion: Entreno el bíceps.

@@ -1,0 +1,37 @@
+id: 気
+palabras:
+  - palabra: 気筒
+    lectura: きとう
+    tipo_lectura: 'on'
+    significado: Cilindro de motor
+    mascara: '-.--'
+    frase: この車は四(気)筒です。
+    traduccion: Este coche tiene cuatro cilindros.
+  - palabra: 気管
+    lectura: きかん
+    tipo_lectura: 'on'
+    significado: Tráquea
+    mascara: '-.--'
+    frase: (気)管が痛いです。
+    traduccion: Me duele la tráquea.
+  - palabra: 気管支
+    lectura: きかんし
+    tipo_lectura: 'on'
+    significado: Bronquio
+    mascara: '-.--.-'
+    frase: (気)管支の病気です。
+    traduccion: Es una enfermedad de los bronquios.
+  - palabra: 病気
+    lectura: びょうき
+    tipo_lectura: 'on'
+    significado: Enfermedad, dolencia
+    mascara: '---.-'
+    frase: 病(気)で学校を休みました。
+    traduccion: Falté a la escuela por enfermedad.
+  - palabra: 乱痴気騒ぎ
+    lectura: らんちきさわぎ
+    tipo_lectura: 'on'
+    significado: Jaleo, bullicio desenfrenado
+    mascara: '--.-.-.--.-'
+    frase: 祭りは乱痴(気)騒ぎでした。
+    traduccion: La fiesta fue un jaleo desenfrenado.

@@ -21,3 +21,10 @@ palabras:
     mascara: '--.--.-'
     frase: 急な雨で店で雨(宿)りをしました。
     traduccion: Con la lluvia repentina me refugié en una tienda.
+  - palabra: 簡易宿所
+    lectura: かんいしゅくしょ
+    tipo_lectura: 'on'
+    significado: Alojamiento sencillo
+    mascara: '--.-.---.--'
+    frase: 駅の近くに簡易(宿)所があります。
+    traduccion: Cerca de la estación hay un alojamiento sencillo.

@@ -1,0 +1,100 @@
+id: 築
+palabras:
+  - palabra: 建築
+    lectura: けんちく
+    tipo_lectura: 'on'
+    significado: Construcción, arquitectura
+    mascara: '--.--'
+    frase: 建(築)の仕事をしています。
+    traduccion: Trabajo en la construcción.
+  - palabra: 建築士
+    lectura: けんちくし
+    tipo_lectura: 'on'
+    significado: Arquitecto titulado, aparejador
+    mascara: '--.--.-'
+    frase: 建(築)士の資格を取ります。
+    traduccion: Voy a obtener el título de arquitecto.
+  - palabra: 建築学
+    lectura: けんちくがく
+    tipo_lectura: 'on'
+    significado: Arquitectura (disciplina)
+    mascara: '--.--.--'
+    frase: 大学で建(築)学を学びました。
+    traduccion: Estudió arquitectura en la universidad.
+  - palabra: 建築家
+    lectura: けんちくか
+    tipo_lectura: 'on'
+    significado: Arquitecto
+    mascara: '--.--.-'
+    frase: 姉は建(築)家です。
+    traduccion: Mi hermana es arquitecta.
+  - palabra: 建築物
+    lectura: けんちくぶつ
+    tipo_lectura: 'on'
+    significado: Edificio, construcción
+    mascara: '--.--.--'
+    frase: 古い建(築)物を見に行きます。
+    traduccion: Vamos a ver edificios antiguos.
+  - palabra: 改築
+    lectura: かいちく
+    tipo_lectura: 'on'
+    significado: Reforma, remodelación
+    mascara: '--.--'
+    frase: 台所を改(築)しました。
+    traduccion: Reformamos la cocina.
+  - palabra: 新築
+    lectura: しんちく
+    tipo_lectura: 'on'
+    significado: Obra nueva, recién construido
+    mascara: '--.--'
+    frase: 新(築)の家に住んでいます。
+    traduccion: Vivo en una casa nueva.
+  - palabra: 構築
+    lectura: こうちく
+    tipo_lectura: 'on'
+    significado: Edificación, creación
+    mascara: '--.--'
+    frase: 新しい関係を構(築)します。
+    traduccion: Construimos una nueva relación.
+  - palabra: 築き上げる
+    lectura: きずきあげる
+    tipo_lectura: kun
+    significado: Levantar, construir poco a poco
+    mascara: '--.-.-.-.-'
+    frase: 長い時間で(築)き上げました。
+    traduccion: Lo levantó con el tiempo.
+  - palabra: 築く
+    lectura: きずく
+    tipo_lectura: kun
+    significado: Construir, edificar
+    mascara: '--.-'
+    frase: 家を(築)くのは大変です。
+    traduccion: Construir una casa es duro.
+  - palabra: 築地
+    lectura: ついじ
+    tipo_lectura: kun
+    significado: Muro de barro con tejadillo
+    mascara: '---.'
+    frase: 庭の(築)地を直しました。
+    traduccion: Reparé el muro de barro del jardín.
+  - palabra: 築山
+    lectura: つきやま
+    tipo_lectura: kun
+    significado: Colina artificial de jardín
+    mascara: '----.'
+    frase: 庭に(築)山を作りました。
+    traduccion: Hicimos una colina artificial en el jardín.
+  - palabra: 修築
+    lectura: しゅうちく
+    tipo_lectura: 'on'
+    significado: Reparación, restauración
+    mascara: '---.--'
+    frase: 橋の修(築)が始まりました。
+    traduccion: Han empezado las obras de reparación del puente.
+  - palabra: 再建築
+    lectura: さいけんちく
+    tipo_lectura: 'on'
+    significado: Reconstrucción
+    mascara: '--.--.--'
+    frase: 家の再建(築)を考えています。
+    traduccion: Pienso reconstruir la casa.

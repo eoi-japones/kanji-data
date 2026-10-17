@@ -7,6 +7,13 @@ palabras:
     mascara: '-.---'
     frase: 作業の手(順)を丁寧に説明しました。
     traduccion: Expliqué con detalle el procedimiento del trabajo.
+  - palabra: 筆順
+    lectura: ひつじゅん
+    tipo_lectura: 'on'
+    significado: Orden de los trazos
+    mascara: '--.---'
+    frase: 漢字の筆(順)を覚えます。
+    traduccion: Memorizo el orden de los trazos de los kanji.
   - palabra: 順
     lectura: じゅん
     tipo_lectura: 'on'

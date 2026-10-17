@@ -14,6 +14,13 @@ palabras:
     mascara: '--.-'
     frase: (八)つ葉のクローバーを見つけました。
     traduccion: Encontré un trébol de ocho hojas.
+  - palabra: 八分音符
+    lectura: はちぶおんぷ
+    tipo_lectura: 'on'
+    significado: Corchea
+    mascara: '--.-.--.-'
+    frase: (八)分音符を二つつなげます。
+    traduccion: Uno dos corcheas.
   - palabra: 十八
     lectura: じゅうはち
     tipo_lectura: 'on'

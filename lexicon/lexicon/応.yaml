@@ -21,3 +21,17 @@ palabras:
     mascara: '--.-.-'
     frase: 申し込みに(応)じました。
     traduccion: Atendí la solicitud.
+  - palabra: 応答
+    lectura: おうとう
+    tipo_lectura: 'on'
+    significado: Respuesta, réplica
+    mascara: '--.--'
+    frase: 声をかけても(応)答がありません。
+    traduccion: Aunque le llamo, no hay respuesta.
+  - palabra: 応急策
+    lectura: おうきゅうさく
+    tipo_lectura: 'on'
+    significado: Medida de emergencia
+    mascara: '--.---.--'
+    frase: (応)急策を考えます。
+    traduccion: Pensamos una medida de emergencia.

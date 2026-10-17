@@ -21,6 +21,13 @@ palabras:
     mascara: '--.---'
     frase: 選挙で投(票)をしました。
     traduccion: Voté en las elecciones.
+  - palabra: 投票箱
+    lectura: とうひょうばこ
+    tipo_lectura: 'on'
+    significado: Urna electoral
+    mascara: '--.---.--'
+    frase: 投(票)箱に紙を入れます。
+    traduccion: Introduzco el papel en la urna.
   - palabra: 票
     lectura: ひょう
     tipo_lectura: 'on'

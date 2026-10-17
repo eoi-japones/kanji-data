@@ -70,6 +70,13 @@ palabras:
     mascara: '--.--'
     frase: (本)来の目的に戻りましょう。
     traduccion: Volvamos al propósito original.
+  - palabra: 本箱
+    lectura: ほんばこ
+    tipo_lectura: 'on'
+    significado: Estantería para libros, librería
+    mascara: '--.--'
+    frase: (本)箱に本を並べます。
+    traduccion: Coloco los libros en la estantería.
   - palabra: 標本
     lectura: ひょうほん
     tipo_lectura: 'on'

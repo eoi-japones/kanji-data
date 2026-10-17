@@ -7,6 +7,13 @@ palabras:
     mascara: '--.-'
     frase: 夏の夜に(花)火を見ました。
     traduccion: Vi fuegos artificiales en una noche de verano.
+  - palabra: 花粉症
+    lectura: かふんしょう
+    tipo_lectura: 'on'
+    significado: Alergia al polen
+    mascara: '-.--.---'
+    frase: 春は(花)粉症がつらいです。
+    traduccion: En primavera la alergia al polen es dura.
   - palabra: 開花
     lectura: かいか
     tipo_lectura: 'on'
@@ -14,3 +21,10 @@ palabras:
     mascara: '--.-'
     frase: 今年は桜が早く開(花)しました。
     traduccion: Este año los cerezos florecieron pronto.
+  - palabra: 花笠
+    lectura: はながさ
+    tipo_lectura: kun
+    significado: Sombrero decorado con flores
+    mascara: '--.--'
+    frase: (花)笠をかぶって踊ります。
+    traduccion: Bailamos con sombreros adornados de flores.

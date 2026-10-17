@@ -21,6 +21,13 @@ palabras:
     mascara: '-----.'
     frase: 電車は(鉄)橋を渡ります。
     traduccion: El tren cruza un puente de hierro.
+  - palabra: 鉄筋
+    lectura: てっきん
+    tipo_lectura: 'on'
+    significado: Barra de hierro para hormigón, armadura
+    mascara: '----.'
+    frase: 建物に(鉄)筋を使います。
+    traduccion: En los edificios se usa la ferralla.
   - palabra: 鉄道
     lectura: てつどう
     tipo_lectura: 'on'

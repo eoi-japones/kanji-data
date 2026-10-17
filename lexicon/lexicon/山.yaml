@@ -42,6 +42,13 @@ palabras:
     mascara: '---.--'
     frase: 氷(山)が海を漂っています。
     traduccion: Un iceberg flota por el mar.
+  - palabra: 築山
+    lectura: つきやま
+    tipo_lectura: kun
+    significado: Colina artificial de jardín
+    mascara: '----.'
+    frase: 庭に築(山)を作りました。
+    traduccion: Hicimos una colina artificial en el jardín.
   - palabra: 銅山
     lectura: どうざん
     tipo_lectura: 'on'

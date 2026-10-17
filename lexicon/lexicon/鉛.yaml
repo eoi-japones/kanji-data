@@ -7,6 +7,13 @@ palabras:
     mascara: '---'
     frase: (鉛)筆の芯は純粋な鉛ではありません。
     traduccion: La mina del lápiz no es plomo puro.
+  - palabra: 鉛筆
+    lectura: えんぴつ
+    tipo_lectura: 'on'
+    significado: Lápiz
+    mascara: '--.--'
+    frase: (鉛)筆で名前を書きました。
+    traduccion: Escribí el nombre con lápiz.
   - palabra: 黒鉛
     lectura: こくえん
     tipo_lectura: 'on'

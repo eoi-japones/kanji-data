@@ -21,3 +21,10 @@ palabras:
     mascara: '--.-'
     frase: 庭に(苗)木を植えました。
     traduccion: Planté un árbol joven en el jardín.
+  - palabra: 痘苗
+    lectura: とうびょう
+    tipo_lectura: 'on'
+    significado: Vacuna contra la viruela
+    mascara: '--.---'
+    frase: 痘(苗)をうつ人が減りました。
+    traduccion: Cada vez menos gente se pone la vacuna contra la viruela.

@@ -35,6 +35,13 @@ palabras:
     mascara: '--.--'
     frase: 昨日のメールに(返)信しました。
     traduccion: Respondí al correo de ayer.
+  - palabra: 返答
+    lectura: へんとう
+    tipo_lectura: 'on'
+    significado: Réplica, respuesta
+    mascara: '--.--'
+    frase: (返)答が遅れました。
+    traduccion: Mi respuesta se retrasó.
   - palabra: 返金
     lectura: へんきん
     tipo_lectura: 'on'

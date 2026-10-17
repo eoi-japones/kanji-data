@@ -1,0 +1,156 @@
+id: 医
+palabras:
+  - palabra: お医者さん
+    lectura: おいしゃさん
+    tipo_lectura: 'on'
+    significado: Médico (trato cariñoso)
+    mascara: '-.-.--.-.-'
+    frase: お(医)者さんに行きます。
+    traduccion: Voy al médico.
+  - palabra: 医大
+    lectura: いだい
+    tipo_lectura: 'on'
+    significado: Universidad de medicina
+    mascara: '-.--'
+    frase: 兄は(医)大に通っています。
+    traduccion: Mi hermano mayor estudia en la universidad de medicina.
+  - palabra: 医学
+    lectura: いがく
+    tipo_lectura: 'on'
+    significado: Medicina, ciencia médica
+    mascara: '-.--'
+    frase: 大学で(医)学を勉強しています。
+    traduccion: Estudio medicina en la universidad.
+  - palabra: 医学部
+    lectura: いがくぶ
+    tipo_lectura: 'on'
+    significado: Facultad de medicina
+    mascara: '-.--.-'
+    frase: 妹は(医)学部に入りました。
+    traduccion: Mi hermana entró en la facultad de medicina.
+  - palabra: 医師
+    lectura: いし
+    tipo_lectura: 'on'
+    significado: Médico, facultativo
+    mascara: '-.-'
+    frase: 父は(医)師になりました。
+    traduccion: Mi padre se hizo médico.
+  - palabra: 医師会
+    lectura: いしかい
+    tipo_lectura: 'on'
+    significado: Colegio de médicos
+    mascara: '-.-.--'
+    frase: (医)師会の会合に行きます。
+    traduccion: Voy a la reunión del colegio de médicos.
+  - palabra: 医療
+    lectura: いりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica, tratamiento médico
+    mascara: '-.---'
+    frase: この村は(医)療が進んでいます。
+    traduccion: La asistencia médica de este pueblo está muy avanzada.
+  - palabra: 医者
+    lectura: いしゃ
+    tipo_lectura: 'on'
+    significado: Médico, doctor
+    mascara: '-.--'
+    frase: 母は(医)者です。
+    traduccion: Mi madre es médica.
+  - palabra: 医薬
+    lectura: いやく
+    tipo_lectura: kun
+    significado: Medicamento, fármaco
+    mascara: '--.-'
+    frase: (医)薬の研究をしています。
+    traduccion: Investigo medicamentos.
+  - palabra: 医薬品
+    lectura: いやくひん
+    tipo_lectura: kun
+    significado: Medicamentos, productos farmacéuticos
+    mascara: '--.-.--'
+    frase: 薬屋で(医)薬品を買いました。
+    traduccion: Compré medicamentos en la farmacia.
+  - palabra: 女医
+    lectura: じょい
+    tipo_lectura: 'on'
+    significado: Médica
+    mascara: '--.-'
+    frase: 女(医)が診察してくれました。
+    traduccion: Me atendió una médica.
+  - palabra: 専門医
+    lectura: せんもんい
+    tipo_lectura: 'on'
+    significado: Médico especialista
+    mascara: '--.--.-'
+    frase: 専門(医)に相談したほうがいいです。
+    traduccion: Es mejor consultar a un especialista.
+  - palabra: 救急医療
+    lectura: きゅうきゅういりょう
+    tipo_lectura: 'on'
+    significado: Medicina de urgencias
+    mascara: '---.---.-.---'
+    frase: 救急(医)療の仕事をしています。
+    traduccion: Trabajo en medicina de urgencias.
+  - palabra: 軍医
+    lectura: ぐんい
+    tipo_lectura: 'on'
+    significado: Médico militar
+    mascara: '--.-'
+    frase: 祖父は昔、軍(医)でした。
+    traduccion: Mi abuelo fue médico militar.
+  - palabra: 開業医
+    lectura: かいぎょうい
+    tipo_lectura: 'on'
+    significado: Médico con consulta propia
+    mascara: '--.---.-'
+    frase: 駅の前に開業(医)があります。
+    traduccion: Delante de la estación hay una consulta médica privada.
+  - palabra: 再生医療
+    lectura: さいせいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina regenerativa
+    mascara: '--.--.-.---'
+    frase: 再生(医)療の研究が進んでいます。
+    traduccion: Avanza la investigación en medicina regenerativa.
+  - palabra: 医療保険
+    lectura: いりょうほけん
+    tipo_lectura: 'on'
+    significado: Seguro médico
+    mascara: '-.---.-.--'
+    frase: (医)療保険に入っています。
+    traduccion: Tengo un seguro médico.
+  - palabra: 医療器具
+    lectura: いりょうきぐ
+    tipo_lectura: 'on'
+    significado: Instrumental médico
+    mascara: '-.---.-.-'
+    frase: (医)療器具を消毒します。
+    traduccion: Desinfectamos el instrumental médico.
+  - palabra: 医療費
+    lectura: いりょうひ
+    tipo_lectura: 'on'
+    significado: Gastos médicos
+    mascara: '-.---.-'
+    frase: (医)療費が高くなりました。
+    traduccion: Los gastos médicos han subido.
+  - palabra: 現代医療
+    lectura: げんだいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina moderna
+    mascara: '--.--.-.---'
+    frase: 現代(医)療の発達は速いです。
+    traduccion: El desarrollo de la medicina moderna es rápido.
+  - palabra: 管理医療
+    lectura: かんりいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica gestionada
+    mascara: '--.-.-.---'
+    frase: 管理(医)療の制度を調べます。
+    traduccion: Estudio el sistema de asistencia médica gestionada.
+  - palabra: 老人医療
+    lectura: ろうじんいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica a los mayores
+    mascara: '--.--.-.---'
+    frase: 老人(医)療を支える制度です。
+    traduccion: Es un sistema que sostiene la asistencia a los mayores.

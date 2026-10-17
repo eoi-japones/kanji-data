@@ -56,3 +56,10 @@ palabras:
     mascara: '--.--'
     frase: 雨上がりの空が鮮(明)に見えます。
     traduccion: El cielo tras la lluvia se ve nítido.
+  - palabra: 簡明
+    lectura: かんめい
+    tipo_lectura: 'on'
+    significado: Conciso, claro
+    mascara: '--.--'
+    frase: 簡(明)に説明してください。
+    traduccion: Explícalo de forma concisa.

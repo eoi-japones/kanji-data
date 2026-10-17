@@ -1,0 +1,16 @@
+id: 力
+palabras:
+  - palabra: 筋力
+    lectura: きんりょく
+    tipo_lectura: 'on'
+    significado: Fuerza muscular
+    mascara: '--.---'
+    frase: 筋(力)が落ちました。
+    traduccion: He perdido fuerza muscular.
+  - palabra: 免疫力
+    lectura: めんえきりょく
+    tipo_lectura: 'on'
+    significado: Defensas, inmunidad
+    mascara: '--.--.---'
+    frase: 運動すると免疫(力)が上がります。
+    traduccion: Hacer ejercicio aumenta las defensas.

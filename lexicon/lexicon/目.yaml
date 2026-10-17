@@ -42,6 +42,13 @@ palabras:
     mascara: '--.--'
     frase: (目)測で長さを決めました。
     traduccion: Determiné la longitud a ojo.
+  - palabra: 目薬
+    lectura: めぐすり
+    tipo_lectura: kun
+    significado: Gotas para los ojos
+    mascara: '-.---'
+    frase: 目が痛いので(目)薬をさします。
+    traduccion: Como me duelen los ojos, me echo gotas.
   - palabra: 目覚まし時計
     lectura: めざましどけい
     tipo_lectura: kun

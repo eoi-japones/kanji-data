@@ -1,0 +1,30 @@
+id: 不
+palabras:
+  - palabra: 不眠症
+    lectura: ふみんしょう
+    tipo_lectura: 'on'
+    significado: Insomnio
+    mascara: '-.--.---'
+    frase: (不)眠症で困っています。
+    traduccion: Sufro insomnio.
+  - palabra: 不妊症
+    lectura: ふにんしょう
+    tipo_lectura: 'on'
+    significado: Infertilidad
+    mascara: '-.--.---'
+    frase: (不)妊症の相談に行きます。
+    traduccion: Voy a consulta por infertilidad.
+  - palabra: 不安症
+    lectura: ふあんしょう
+    tipo_lectura: 'on'
+    significado: Trastorno de ansiedad
+    mascara: '-.--.---'
+    frase: (不)安症で眠れません。
+    traduccion: No puedo dormir por el trastorno de ansiedad.
+  - palabra: 免疫不全
+    lectura: めんえきふぜん
+    tipo_lectura: 'on'
+    significado: Inmunodeficiencia
+    mascara: '--.--.-.--'
+    frase: 免疫(不)全の病気です。
+    traduccion: Es una enfermedad de inmunodeficiencia.
