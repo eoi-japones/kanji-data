@@ -1,0 +1,44 @@
+id: 痒
+palabras:
+  - palabra: 痒い
+    lectura: かゆい
+    tipo_lectura: kun
+    significado: Picar, escocer
+    mascara: '--.-'
+    frase: 背中が(痒)いです。
+    traduccion: Me pica la espalda.
+  - palabra: むず痒い
+    lectura: むずがゆい
+    tipo_lectura: kun
+    significado: Picar, producir comezón
+    mascara: '-.-.--.-'
+    frase: セーターを着るとむず(痒)いです。
+    traduccion: Cuando me pongo el jersey me pica todo.
+  - palabra: 止痒薬
+    lectura: しようやく
+    tipo_lectura: 'on'
+    significado: Medicamento contra el picor
+    mascara: '-.--.--'
+    frase: 止(痒)薬を塗りました。
+    traduccion: Me puse un medicamento contra el picor.
+  - palabra: 痒がる
+    lectura: かゆがる
+    tipo_lectura: kun
+    significado: Quejarse del picor
+    mascara: '--.-.-'
+    frase: 犬が体中を(痒)がっています。
+    traduccion: El perro se queja del picor por todo el cuerpo.
+  - palabra: 痒み
+    lectura: かゆみ
+    tipo_lectura: kun
+    significado: Picor, comezón
+    mascara: '--.-'
+    frase: 虫に刺されて(痒)みが出ました。
+    traduccion: Me picó un insecto y me salió comezón.
+  - palabra: 鎮痒薬
+    lectura: ちんようやく
+    tipo_lectura: 'on'
+    significado: Antipruriginoso
+    mascara: '--.--.--'
+    frase: 医者に鎮(痒)薬をもらいました。
+    traduccion: El médico me dio un antipruriginoso.

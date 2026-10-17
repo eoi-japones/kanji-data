@@ -1,0 +1,156 @@
+id: 管
+palabras:
+  - palabra: ブラウン管
+    lectura: ブラウンかん
+    tipo_lectura: 'on'
+    significado: Tubo de rayos catódicos
+    mascara: '------....'
+    frase: 昔のテレビはブラウン(管)でした。
+    traduccion: Los televisores antiguos llevaban tubo de rayos catódicos.
+  - palabra: 主管
+    lectura: しゅかん
+    tipo_lectura: 'on'
+    significado: Supervisión, departamento responsable
+    mascara: '--.--'
+    frase: 主(管)の課に聞きます。
+    traduccion: Pregunto al departamento responsable.
+  - palabra: 保管
+    lectura: ほかん
+    tipo_lectura: 'on'
+    significado: Custodia, guarda
+    mascara: '-.--'
+    frase: 荷物を保(管)してもらいます。
+    traduccion: Les pido que me guarden el equipaje.
+  - palabra: 卵管
+    lectura: らんかん
+    tipo_lectura: 'on'
+    significado: Trompa de Falopio
+    mascara: '--.--'
+    frase: 卵(管)の検査をします。
+    traduccion: Le hacen una revisión de las trompas.
+  - palabra: 只管
+    lectura: ひたすら
+    tipo_lectura: kun
+    significado: Insistentemente, con ahínco
+    mascara: '----.'
+    frase: 只(管)働いています。
+    traduccion: Trabaja con ahínco.
+  - palabra: 所管
+    lectura: しょかん
+    tipo_lectura: 'on'
+    significado: Competencia, jurisdicción
+    mascara: '--.--'
+    frase: それは所(管)の仕事です。
+    traduccion: Ese es el trabajo de su departamento.
+  - palabra: 気管
+    lectura: きかん
+    tipo_lectura: 'on'
+    significado: Tráquea
+    mascara: '-.--'
+    frase: 気(管)が痛いです。
+    traduccion: Me duele la tráquea.
+  - palabra: 気管支
+    lectura: きかんし
+    tipo_lectura: 'on'
+    significado: Bronquio
+    mascara: '-.--.-'
+    frase: 気(管)支の病気です。
+    traduccion: Es una enfermedad de los bronquios.
+  - palabra: 移管
+    lectura: いかん
+    tipo_lectura: 'on'
+    significado: Traspaso de competencias
+    mascara: '-.--'
+    frase: 業務を本社に移(管)します。
+    traduccion: Traspasamos la tarea a la central.
+  - palabra: 管
+    lectura: かん
+    tipo_lectura: 'on'
+    significado: Tubo, cañería
+    mascara: '--'
+    frase: 水は(管)を通って来ます。
+    traduccion: El agua llega por el tubo.
+  - palabra: 管制
+    lectura: かんせい
+    tipo_lectura: 'on'
+    significado: Control, regulación
+    mascara: '--.--'
+    frase: 交通を(管)制します。
+    traduccion: Se controla el tráfico.
+  - palabra: 管制塔
+    lectura: かんせいとう
+    tipo_lectura: 'on'
+    significado: Torre de control
+    mascara: '--.--.--'
+    frase: (管)制塔が見えます。
+    traduccion: Se ve la torre de control.
+  - palabra: 管制官
+    lectura: かんせいかん
+    tipo_lectura: 'on'
+    significado: Controlador aéreo
+    mascara: '--.--.--'
+    frase: (管)制官の指示を聞きます。
+    traduccion: Escucho las instrucciones del controlador.
+  - palabra: 管区
+    lectura: かんく
+    tipo_lectura: 'on'
+    significado: Jurisdicción, distrito administrativo
+    mascara: '--.-'
+    frase: (管)区ごとに集まります。
+    traduccion: Se reúnen por distritos.
+  - palabra: 管理
+    lectura: かんり
+    tipo_lectura: 'on'
+    significado: Gestión, administración, control
+    mascara: '--.-'
+    frase: お金を(管)理します。
+    traduccion: Administro el dinero.
+  - palabra: 管理人
+    lectura: かんりにん
+    tipo_lectura: 'on'
+    significado: Administrador, conserje
+    mascara: '--.-.--'
+    frase: (管)理人が鍵を開けました。
+    traduccion: El conserje abrió la puerta.
+  - palabra: 管理者
+    lectura: かんりしゃ
+    tipo_lectura: 'on'
+    significado: Administrador, gestor
+    mascara: '--.-.--'
+    frase: システムの(管)理者に話します。
+    traduccion: Hablo con el administrador del sistema.
+  - palabra: 管理職
+    lectura: かんりしょく
+    tipo_lectura: 'on'
+    significado: Puesto directivo
+    mascara: '--.-.---'
+    frase: 父は(管)理職です。
+    traduccion: Mi padre es directivo.
+  - palabra: 管長
+    lectura: かんちょう
+    tipo_lectura: 'on'
+    significado: Abad principal
+    mascara: '--.---'
+    frase: 寺の(管)長さんに会いました。
+    traduccion: Me reuní con el abad principal del templo.
+  - palabra: 自己管理
+    lectura: じこかんり
+    tipo_lectura: 'on'
+    significado: Autocontrol, cuidado de uno mismo
+    mascara: '-.-.--.-'
+    frase: 健康のため自己(管)理をします。
+    traduccion: Me cuido por mi salud.
+  - palabra: 血管
+    lectura: けっかん
+    tipo_lectura: 'on'
+    significado: Vaso sanguíneo
+    mascara: '----.'
+    frase: 血(管)が細くなっています。
+    traduccion: Los vasos sanguíneos se han estrechado.
+  - palabra: 管理医療
+    lectura: かんりいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica gestionada
+    mascara: '--.-.-.---'
+    frase: (管)理医療の制度を調べます。
+    traduccion: Estudio el sistema de asistencia médica gestionada.

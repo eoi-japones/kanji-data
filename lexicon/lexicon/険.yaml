@@ -1,5 +1,12 @@
 id: 険
 palabras:
+  - palabra: 簡易保険
+    lectura: かんいほけん
+    tipo_lectura: 'on'
+    significado: Seguro de vida postal
+    mascara: '--.-.-.--'
+    frase: 簡易保(険)を勧められました。
+    traduccion: Me recomendaron el seguro postal.
   - palabra: 険しい
     lectura: けわしい
     tipo_lectura: kun
@@ -7,6 +14,13 @@ palabras:
     mascara: '--.-.-'
     frase: この山道は(険)しいです。
     traduccion: Este camino de montaña es escarpado.
+  - palabra: 医療保険
+    lectura: いりょうほけん
+    tipo_lectura: 'on'
+    significado: Seguro médico
+    mascara: '-.---.-.--'
+    frase: 医療保(険)に入っています。
+    traduccion: Tengo un seguro médico.
   - palabra: 天険
     lectura: てんけん
     tipo_lectura: 'on'

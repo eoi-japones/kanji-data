@@ -1,0 +1,16 @@
+id: 号
+palabras:
+  - palabra: 符号
+    lectura: ふごう
+    tipo_lectura: 'on'
+    significado: Signo, código, señal
+    mascara: '-.--'
+    frase: 符(号)の意味を調べます。
+    traduccion: Busco el significado del símbolo.
+  - palabra: モールス符号
+    lectura: モールスふごう
+    tipo_lectura: 'on'
+    significado: Código Morse
+    mascara: '-------.....'
+    frase: モールス符(号)で通信します。
+    traduccion: Se comunica con código Morse.

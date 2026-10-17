@@ -1,0 +1,65 @@
+id: 痴
+palabras:
+  - palabra: 音痴
+    lectura: おんち
+    tipo_lectura: 'on'
+    significado: No tener oído musical
+    mascara: '--.-'
+    frase: 私は音(痴)です。
+    traduccion: No tengo oído musical.
+  - palabra: 乱痴気騒ぎ
+    lectura: らんちきさわぎ
+    tipo_lectura: 'on'
+    significado: Jaleo, bullicio desenfrenado
+    mascara: '--.-.-.--.-'
+    frase: 祭りは乱(痴)気騒ぎでした。
+    traduccion: La fiesta fue un jaleo desenfrenado.
+  - palabra: 情痴
+    lectura: じょうち
+    tipo_lectura: 'on'
+    significado: Pasión ciega, amor loco
+    mascara: '---.-'
+    frase: 情(痴)のあまり失敗しました。
+    traduccion: Fracasó por una pasión ciega.
+  - palabra: 書痴
+    lectura: しょち
+    tipo_lectura: 'on'
+    significado: Ratón de biblioteca, bibliómano
+    mascara: '--.-'
+    frase: 兄は書(痴)です。
+    traduccion: Mi hermano es un ratón de biblioteca.
+  - palabra: 痴れ者
+    lectura: しれもの
+    tipo_lectura: kun
+    significado: Necio, tonto
+    mascara: '-.-.--'
+    frase: (痴)れ者と呼ばれました。
+    traduccion: Me llamaron necio.
+  - palabra: 痴れ言
+    lectura: しれごと
+    tipo_lectura: kun
+    significado: Desatino, necedad
+    mascara: '-.-.--'
+    frase: (痴)れ言を言わないでください。
+    traduccion: No digas desatinos.
+  - palabra: 痴人
+    lectura: ちじん
+    tipo_lectura: 'on'
+    significado: Necio, insensato
+    mascara: '-.--'
+    frase: (痴)人のような話です。
+    traduccion: Es una historia de necios.
+  - palabra: 痴話
+    lectura: ちわ
+    tipo_lectura: 'on'
+    significado: Dulces palabras de amor
+    mascara: '-.-'
+    frase: 二人は(痴)話を語り合っています。
+    traduccion: Los dos se susurran dulces palabras de amor.
+  - palabra: 運痴
+    lectura: うんち
+    tipo_lectura: 'on'
+    significado: Torpe para el deporte
+    mascara: '--.-'
+    frase: 運動が苦手な運(痴)です。
+    traduccion: Soy torpe para el deporte.

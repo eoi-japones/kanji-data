@@ -1,0 +1,23 @@
+id: 化
+palabras:
+  - palabra: 化療
+    lectura: かりょう
+    tipo_lectura: 'on'
+    significado: Quimioterapia
+    mascara: '-.---'
+    frase: (化)療を受けています。
+    traduccion: Estoy recibiendo quimioterapia.
+  - palabra: 簡化字
+    lectura: かんかじ
+    tipo_lectura: 'on'
+    significado: Carácter chino simplificado
+    mascara: '--.-.-'
+    frase: 簡(化)字を習いました。
+    traduccion: Aprendí los caracteres simplificados.
+  - palabra: 簡易化
+    lectura: かんいか
+    tipo_lectura: 'on'
+    significado: Simplificación
+    mascara: '--.-.-'
+    frase: 手続きの簡易(化)を進めます。
+    traduccion: Avanzamos en la simplificación de los trámites.

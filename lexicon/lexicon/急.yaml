@@ -14,6 +14,13 @@ palabras:
     mascara: '--.-.-'
     frase: (急)いで家を出ました。
     traduccion: Salí de casa de prisa.
+  - palabra: 急病
+    lectura: きゅうびょう
+    tipo_lectura: 'on'
+    significado: Enfermedad repentina
+    mascara: '---.---'
+    frase: (急)病で病院に行きました。
+    traduccion: Fui al hospital por una enfermedad repentina.
   - palabra: 急行
     lectura: きゅうこう
     tipo_lectura: 'on'
@@ -21,3 +28,24 @@ palabras:
     mascara: '---.--'
     frase: 電車は(急)行で東京へ向かいます。
     traduccion: El tren express va hacia Tokio.
+  - palabra: 救急医療
+    lectura: きゅうきゅういりょう
+    tipo_lectura: 'on'
+    significado: Medicina de urgencias
+    mascara: '---.---.-.---'
+    frase: 救(急)医療の仕事をしています。
+    traduccion: Trabajo en medicina de urgencias.
+  - palabra: 救急箱
+    lectura: きゅうきゅうばこ
+    tipo_lectura: 'on'
+    significado: Botiquín
+    mascara: '---.---.--'
+    frase: 救(急)箱にばんそうこうがあります。
+    traduccion: En el botiquín hay tiritas.
+  - palabra: 応急策
+    lectura: おうきゅうさく
+    tipo_lectura: 'on'
+    significado: Medida de emergencia
+    mascara: '--.---.--'
+    frase: 応(急)策を考えます。
+    traduccion: Pensamos una medida de emergencia.

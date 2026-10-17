@@ -84,6 +84,13 @@ palabras:
     mascara: '--.-.--'
     frase: 砂(時)計で三分を測りました。
     traduccion: Medí tres minutos con el reloj de arena.
+  - palabra: 時疫
+    lectura: じえき
+    tipo_lectura: 'on'
+    significado: Epidemia pasajera
+    mascara: '-.--'
+    frase: (時)疫が流行しています。
+    traduccion: Hay una epidemia en curso.
   - palabra: 買い時
     lectura: かいどき
     tipo_lectura: kun

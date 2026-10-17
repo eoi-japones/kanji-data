@@ -14,3 +14,10 @@ palabras:
     mascara: '--.-.-'
     frase: 試合に負けて(舌)打ちをしました。
     traduccion: Tras perder el partido se chasqueó la lengua.
+  - palabra: 笹牛の舌
+    lectura: ささうしのした
+    tipo_lectura: kun
+    significado: Lenguado de bambú
+    mascara: '--.--.-.--'
+    frase: 笹牛の(舌)という魚です。
+    traduccion: Es un pez llamado lenguado de bambú.

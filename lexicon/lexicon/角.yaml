@@ -1,0 +1,16 @@
+id: 角
+palabras:
+  - palabra: 三角筋
+    lectura: さんかくきん
+    tipo_lectura: 'on'
+    significado: Músculo deltoides
+    mascara: '--.--.--'
+    frase: 三(角)筋を鍛えます。
+    traduccion: Entreno el deltoides.
+  - palabra: 角封筒
+    lectura: かくふうとう
+    tipo_lectura: 'on'
+    significado: Sobre rectangular
+    mascara: '--.--.--'
+    frase: (角)封筒を百枚買いました。
+    traduccion: Compré cien sobres rectangulares.

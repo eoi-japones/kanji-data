@@ -77,6 +77,13 @@ palabras:
     mascara: '--.---'
     frase: 学校給食には副(食)が付きます。
     traduccion: El almuerzo escolar lleva guarnición.
+  - palabra: 簡易食堂
+    lectura: かんいしょくどう
+    tipo_lectura: 'on'
+    significado: Comedor sencillo, cantina
+    mascara: '--.-.---.--'
+    frase: 会社の簡易(食)堂で食べます。
+    traduccion: Como en la cantina de la empresa.
   - palabra: 虫食い
     lectura: むしくい
     tipo_lectura: kun

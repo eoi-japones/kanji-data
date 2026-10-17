@@ -28,3 +28,10 @@ palabras:
     mascara: '--.--'
     frase: 彼は高(校)でサッカーをしました。
     traduccion: Él jugó al fútbol en el instituto.
+  - palabra: 高等学校
+    lectura: こうとうがっこう
+    tipo_lectura: 'on'
+    significado: Instituto de secundaria
+    mascara: '--------...'
+    frase: 高等学(校)に通っています。
+    traduccion: Voy al instituto.

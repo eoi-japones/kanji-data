@@ -14,3 +14,31 @@ palabras:
     mascara: '--.--'
     frase: 電車は(全)線で止まっています。
     traduccion: Los trenes están parados en todas las líneas.
+  - palabra: 免疫不全
+    lectura: めんえきふぜん
+    tipo_lectura: 'on'
+    significado: Inmunodeficiencia
+    mascara: '--.--.-.--'
+    frase: 免疫不(全)の病気です。
+    traduccion: Es una enfermedad de inmunodeficiencia.
+  - palabra: 全癒
+    lectura: ぜんゆ
+    tipo_lectura: 'on'
+    significado: Curación completa
+    mascara: '--.-'
+    frase: 医者に(全)癒と言われました。
+    traduccion: El médico me dijo que estoy curado del todo.
+  - palabra: 全音符
+    lectura: ぜんおんぷ
+    tipo_lectura: 'on'
+    significado: Redonda (nota musical)
+    mascara: '--.--.-'
+    frase: (全)音符は四拍です。
+    traduccion: La redonda dura cuatro tiempos.
+  - palabra: 安全策
+    lectura: あんぜんさく
+    tipo_lectura: 'on'
+    significado: Opción segura, medida prudente
+    mascara: '--.--.--'
+    frase: 安(全)策を取りましょう。
+    traduccion: Tomemos la opción segura.

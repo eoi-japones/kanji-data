@@ -21,6 +21,20 @@ palabras:
     mascara: '-.-'
     frase: 会議の最初に(自)己紹介をしました。
     traduccion: Al principio de la reunión me presenté.
+  - palabra: 自己管理
+    lectura: じこかんり
+    tipo_lectura: 'on'
+    significado: Autocontrol, cuidado de uno mismo
+    mascara: '-.-.--.-'
+    frase: 健康のため(自)己管理をします。
+    traduccion: Me cuido por mi salud.
+  - palabra: 自筆
+    lectura: じひつ
+    tipo_lectura: 'on'
+    significado: Escrito de propia mano, autógrafo
+    mascara: '-.--'
+    frase: (自)筆の手紙をもらいました。
+    traduccion: Recibí una carta escrita de su puño y letra.
   - palabra: 自習
     lectura: じしゅう
     tipo_lectura: 'on'
@@ -35,3 +49,17 @@ palabras:
     mascara: '-.--.--'
     frase: 学校まで(自)転車で行きます。
     traduccion: Voy al colegio en bicicleta.
+  - palabra: 自閉症
+    lectura: じへいしょう
+    tipo_lectura: 'on'
+    significado: Autismo
+    mascara: '-.--.---'
+    frase: 息子は(自)閉症です。
+    traduccion: Mi hijo tiene autismo.
+  - palabra: 自己免疫
+    lectura: じこめんえき
+    tipo_lectura: 'on'
+    significado: Autoinmunidad
+    mascara: '-.-.--.--'
+    frase: (自)己免疫の病気になりました。
+    traduccion: Enfermó de una dolencia autoinmune.

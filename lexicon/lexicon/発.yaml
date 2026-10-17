@@ -1,0 +1,30 @@
+id: 発
+palabras:
+  - palabra: 発病
+    lectura: はつびょう
+    tipo_lectura: 'on'
+    significado: Aparición de la enfermedad, caer enfermo
+    mascara: '--.---'
+    frase: 三十歳で(発)病しました。
+    traduccion: La enfermedad apareció a los treinta años.
+  - palabra: 発症
+    lectura: はっしょう
+    tipo_lectura: 'on'
+    significado: Aparición de la enfermedad
+    mascara: '-----.'
+    frase: 子どもの時に(発)症しました。
+    traduccion: La enfermedad se manifestó en la infancia.
+  - palabra: 発炎筒
+    lectura: はつえんとう
+    tipo_lectura: 'on'
+    significado: Bengala de señalización
+    mascara: '--.--.--'
+    frase: 車に(発)炎筒を積んでいます。
+    traduccion: Llevo una bengala en el coche.
+  - palabra: 発痘
+    lectura: はっとう
+    tipo_lectura: 'on'
+    significado: Erupción de la viruela
+    mascara: '----.'
+    frase: (発)痘が全身に広がりました。
+    traduccion: La erupción se extendió por todo el cuerpo.

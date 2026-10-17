@@ -1,0 +1,23 @@
+id: 状
+palabras:
+  - palabra: 病状
+    lectura: びょうじょう
+    tipo_lectura: 'on'
+    significado: Estado de la enfermedad
+    mascara: '---.---'
+    frase: 病(状)は良くなっています。
+    traduccion: El estado del enfermo está mejorando.
+  - palabra: 症状
+    lectura: しょうじょう
+    tipo_lectura: 'on'
+    significado: Síntomas
+    mascara: '---.---'
+    frase: 症(状)は昨日より軽いです。
+    traduccion: Los síntomas son más leves que ayer.
+  - palabra: 筒状
+    lectura: つつじょう
+    tipo_lectura: 'on'
+    significado: Cilíndrico, tubular
+    mascara: '--.---'
+    frase: 筒(状)の形をしています。
+    traduccion: Tiene forma tubular.

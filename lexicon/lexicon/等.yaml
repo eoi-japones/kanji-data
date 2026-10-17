@@ -1,0 +1,100 @@
+id: 等
+palabras:
+  - palabra: 一等
+    lectura: いっとう
+    tipo_lectura: 'on'
+    significado: Primer premio, primera clase
+    mascara: '----.'
+    frase: 一(等)を取るつもりです。
+    traduccion: Pienso ganar el primer premio.
+  - palabra: 上等
+    lectura: じょうとう
+    tipo_lectura: 'on'
+    significado: De primera calidad, superior
+    mascara: '---.--'
+    frase: 上(等)なお茶をいただきました。
+    traduccion: Me regalaron un té de primera calidad.
+  - palabra: 下等
+    lectura: かとう
+    tipo_lectura: 'on'
+    significado: Inferior, vulgar
+    mascara: '-.--'
+    frase: 下(等)な言葉を使わないでください。
+    traduccion: No uses palabras vulgares.
+  - palabra: 中等
+    lectura: ちゅうとう
+    tipo_lectura: 'on'
+    significado: Medio, de nivel medio
+    mascara: '---.--'
+    frase: 中(等)教育を受けました。
+    traduccion: Recibí educación secundaria.
+  - palabra: 劣等感
+    lectura: れっとうかん
+    tipo_lectura: 'on'
+    significado: Complejo de inferioridad
+    mascara: '------..'
+    frase: 劣(等)感を持っています。
+    traduccion: Tengo complejo de inferioridad.
+  - palabra: 同等
+    lectura: どうとう
+    tipo_lectura: 'on'
+    significado: Igualdad, equivalencia
+    mascara: '--.--'
+    frase: 二人は同(等)の力があります。
+    traduccion: Los dos tienen la misma fuerza.
+  - palabra: 均等
+    lectura: きんとう
+    tipo_lectura: 'on'
+    significado: Equitativo, uniforme
+    mascara: '--.--'
+    frase: お金を均(等)に分けます。
+    traduccion: Reparto el dinero a partes iguales.
+  - palabra: 等
+    lectura: など
+    tipo_lectura: kun
+    significado: Etcétera; igual, clase
+    mascara: '--'
+    frase: りんごやみかん(等)を買います。
+    traduccion: Compro manzanas, mandarinas y demás.
+  - palabra: 等々
+    lectura: とうとう
+    tipo_lectura: 'on'
+    significado: Etcétera, y así sucesivamente
+    mascara: '----.'
+    frase: 本、ノート、鉛筆(等)々を買いました。
+    traduccion: Compré libros, cuadernos, lápices y demás.
+  - palabra: 等しい
+    lectura: ひとしい
+    tipo_lectura: kun
+    significado: Igual, equivalente
+    mascara: '--.-.-'
+    frase: 二つの長さは(等)しいです。
+    traduccion: Las dos longitudes son iguales.
+  - palabra: 等分
+    lectura: とうぶん
+    tipo_lectura: 'on'
+    significado: División en partes iguales
+    mascara: '--.--'
+    frase: ケーキを四(等)分します。
+    traduccion: Divido el pastel en cuatro partes iguales.
+  - palabra: 等級
+    lectura: とうきゅう
+    tipo_lectura: 'on'
+    significado: Grado, categoría
+    mascara: '--.---'
+    frase: 商品の(等)級を確かめます。
+    traduccion: Compruebo la categoría del producto.
+  - palabra: 高等
+    lectura: こうとう
+    tipo_lectura: 'on'
+    significado: Superior, de alto nivel
+    mascara: '--.--'
+    frase: 高(等)な技術が必要です。
+    traduccion: Se necesita una técnica superior.
+  - palabra: 高等学校
+    lectura: こうとうがっこう
+    tipo_lectura: 'on'
+    significado: Instituto de secundaria
+    mascara: '--------...'
+    frase: 高(等)学校に通っています。
+    traduccion: Voy al instituto.

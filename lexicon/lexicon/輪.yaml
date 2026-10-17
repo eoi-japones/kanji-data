@@ -35,3 +35,10 @@ palabras:
     mascara: '---..'
     frase: 紙束を(輪)ゴムで止めました。
     traduccion: Uní el fajo de papeles con una goma.
+  - palabra: 竹輪
+    lectura: ちくわ
+    tipo_lectura: kun
+    significado: Chikuwa, pastel de pescado con forma de tubo
+    mascara: '--.-'
+    frase: おでんに竹(輪)を入れます。
+    traduccion: Echo chikuwa al oden.

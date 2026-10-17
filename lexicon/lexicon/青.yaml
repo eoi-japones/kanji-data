@@ -28,3 +28,10 @@ palabras:
     mascara: '--.--'
     frase: 古い(青)銅の像があります。
     traduccion: Hay una estatua antigua de bronce.
+  - palabra: 青竹
+    lectura: あおだけ
+    tipo_lectura: kun
+    significado: Bambú verde
+    mascara: '--.--'
+    frase: (青)竹を切って使います。
+    traduccion: Cortamos bambú verde para usarlo.

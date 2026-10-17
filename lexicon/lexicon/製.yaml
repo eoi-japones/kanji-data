@@ -21,3 +21,10 @@ palabras:
     mascara: '--.--'
     frase: 今日は特(製)のカレーを作りました。
     traduccion: Hoy he hecho un curry especial de la casa.
+  - palabra: 製薬
+    lectura: せいやく
+    tipo_lectura: 'on'
+    significado: Fabricación de medicamentos, industria farmacéutica
+    mascara: '--.--'
+    frase: (製)薬の会社で働いています。
+    traduccion: Trabajo en una empresa farmacéutica.

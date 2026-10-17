@@ -1,0 +1,100 @@
+id: 答
+palabras:
+  - palabra: 口答え
+    lectura: くちごたえ
+    tipo_lectura: kun
+    significado: Replicar, contestar con impertinencia
+    mascara: '--.--.-'
+    frase: 親に口(答)えをしました。
+    traduccion: Le repliqué a mis padres.
+  - palabra: 問答
+    lectura: もんどう
+    tipo_lectura: 'on'
+    significado: Preguntas y respuestas, diálogo
+    mascara: '--.--'
+    frase: 先生と問(答)をしました。
+    traduccion: Mantuve un diálogo de preguntas y respuestas con el profesor.
+  - palabra: 回答
+    lectura: かいとう
+    tipo_lectura: 'on'
+    significado: Respuesta, contestación
+    mascara: '--.--'
+    frase: アンケートに回(答)します。
+    traduccion: Respondo a la encuesta.
+  - palabra: 応答
+    lectura: おうとう
+    tipo_lectura: 'on'
+    significado: Respuesta, réplica
+    mascara: '--.--'
+    frase: 声をかけても応(答)がありません。
+    traduccion: Aunque le llamo, no hay respuesta.
+  - palabra: 答え
+    lectura: こたえ
+    tipo_lectura: kun
+    significado: Respuesta, solución
+    mascara: '--.-'
+    frase: この(答)えは正しいですか。
+    traduccion: ¿Es correcta esta respuesta?
+  - palabra: 答える
+    lectura: こたえる
+    tipo_lectura: kun
+    significado: Responder, contestar
+    mascara: '--.-.-'
+    frase: 質問に(答)えました。
+    traduccion: Respondí a la pregunta.
+  - palabra: 答案
+    lectura: とうあん
+    tipo_lectura: 'on'
+    significado: Examen escrito, hoja de respuestas
+    mascara: '--.--'
+    frase: (答)案を出しました。
+    traduccion: Entregué el examen.
+  - palabra: 答申
+    lectura: とうしん
+    tipo_lectura: 'on'
+    significado: Informe, dictamen
+    mascara: '--.--'
+    frase: 委員会が(答)申を出しました。
+    traduccion: El comité emitió su dictamen.
+  - palabra: 贈答
+    lectura: ぞうとう
+    tipo_lectura: 'on'
+    significado: Intercambio de regalos
+    mascara: '--.--'
+    frase: 贈(答)の習慣があります。
+    traduccion: Existe la costumbre de intercambiar regalos.
+  - palabra: 返答
+    lectura: へんとう
+    tipo_lectura: 'on'
+    significado: Réplica, respuesta
+    mascara: '--.--'
+    frase: 返(答)が遅れました。
+    traduccion: Mi respuesta se retrasó.
+  - palabra: 一問一答
+    lectura: いちもんいっとう
+    tipo_lectura: 'on'
+    significado: Preguntas y respuestas una a una
+    mascara: '--------...'
+    frase: 一問一(答)の形式で練習します。
+    traduccion: Practicamos en formato de pregunta y respuesta.
+  - palabra: 受け答え
+    lectura: うけこたえ
+    tipo_lectura: kun
+    significado: Réplica, forma de responder
+    mascara: '-.-.--.-'
+    frase: 受け(答)えが立派でした。
+    traduccion: Su forma de responder fue excelente.
+  - palabra: 名答
+    lectura: めいとう
+    tipo_lectura: 'on'
+    significado: Respuesta excelente
+    mascara: '--.--'
+    frase: それは名(答)です。
+    traduccion: Esa es una respuesta excelente.
+  - palabra: 問答無用
+    lectura: もんどうむよう
+    tipo_lectura: 'on'
+    significado: Sin discusión, no hay nada que hablar
+    mascara: '--.--.-.--'
+    frase: 問(答)無用で決まりました。
+    traduccion: Se decidió sin más discusión.

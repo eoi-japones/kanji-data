@@ -1,0 +1,16 @@
+id: 試
+palabras:
+  - palabra: 筆記試験
+    lectura: ひっきしけん
+    tipo_lectura: 'on'
+    significado: Examen escrito
+    mascara: '------...'
+    frase: 筆記(試)験に合格しました。
+    traduccion: Aprobé el examen escrito.
+  - palabra: 試薬
+    lectura: しやく
+    tipo_lectura: 'on'
+    significado: Reactivo
+    mascara: '-.--'
+    frase: 実験で(試)薬を使います。
+    traduccion: Uso reactivos en el experimento.

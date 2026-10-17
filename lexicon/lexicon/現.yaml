@@ -28,3 +28,10 @@ palabras:
     mascara: '--.--'
     frase: この店は(現)金しか受け付けません。
     traduccion: Esta tienda solo acepta efectivo.
+  - palabra: 現代医療
+    lectura: げんだいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina moderna
+    mascara: '--.--.-.---'
+    frase: (現)代医療の発達は速いです。
+    traduccion: El desarrollo de la medicina moderna es rápido.

@@ -1,0 +1,114 @@
+id: 竹
+palabras:
+  - palabra: 竹
+    lectura: たけ
+    tipo_lectura: kun
+    significado: Bambú
+    mascara: '--'
+    frase: 庭に(竹)が生えています。
+    traduccion: En el jardín crece bambú.
+  - palabra: 竹刀
+    lectura: しない
+    tipo_lectura: kun
+    significado: Espada de bambú (kendo)
+    mascara: '---.'
+    frase: (竹)刀で練習します。
+    traduccion: Practico con la espada de bambú.
+  - palabra: 竹林
+    lectura: ちくりん
+    tipo_lectura: 'on'
+    significado: Bambudal, bosque de bambú
+    mascara: '--.--'
+    frase: (竹)林を歩きました。
+    traduccion: Caminé por el bambudal.
+  - palabra: 破竹
+    lectura: はちく
+    tipo_lectura: 'on'
+    significado: Imparable, incontenible
+    mascara: '-.--'
+    frase: 破(竹)の勢いで勝ちました。
+    traduccion: Ganó con un impulso imparable.
+  - palabra: 竹かご
+    lectura: たけかご
+    tipo_lectura: kun
+    significado: Cesta de bambú
+    mascara: '--.-.-'
+    frase: (竹)かごに卵を入れました。
+    traduccion: Puse los huevos en la cesta de bambú.
+  - palabra: 竹とんぼ
+    lectura: たけとんぼ
+    tipo_lectura: kun
+    significado: Juguete de bambú que vuela girando
+    mascara: '--.-.-.-'
+    frase: 子どもが(竹)とんぼで遊びます。
+    traduccion: Los niños juegan con el molinillo de bambú.
+  - palabra: 竹の皮
+    lectura: たけのかわ
+    tipo_lectura: kun
+    significado: Corteza de bambú
+    mascara: '--.-.--'
+    frase: (竹)の皮で食べ物を包みます。
+    traduccion: Envuelvo la comida con la corteza del bambú.
+  - palabra: 竹ぼうき
+    lectura: たけぼうき
+    tipo_lectura: kun
+    significado: Escoba de bambú
+    mascara: '--.-.-.-'
+    frase: (竹)ぼうきで庭を掃きます。
+    traduccion: Barro el jardín con la escoba de bambú.
+  - palabra: 竹やぶ
+    lectura: たけやぶ
+    tipo_lectura: kun
+    significado: Bambudal espeso
+    mascara: '--.-.-'
+    frase: (竹)やぶで鳥が鳴いています。
+    traduccion: En el bambudal cantan los pájaros.
+  - palabra: 竹垣
+    lectura: たけがき
+    tipo_lectura: kun
+    significado: Cerca de bambú
+    mascara: '--.--'
+    frase: 家の周りに(竹)垣を作りました。
+    traduccion: Hicimos una cerca de bambú alrededor de la casa.
+  - palabra: 竹皮
+    lectura: たけかわ
+    tipo_lectura: kun
+    significado: Corteza de bambú
+    mascara: '--.--'
+    frase: おにぎりを(竹)皮で包みます。
+    traduccion: Envuelvo la bola de arroz en corteza de bambú.
+  - palabra: 竹笠
+    lectura: たけがさ
+    tipo_lectura: kun
+    significado: Sombrero de bambú
+    mascara: '--.--'
+    frase: (竹)笠をかぶって田植えをします。
+    traduccion: Plantamos el arroz con sombrero de bambú.
+  - palabra: 竹筒
+    lectura: たけづつ
+    tipo_lectura: kun
+    significado: Tubo de bambú
+    mascara: '--.--'
+    frase: (竹)筒に水を入れます。
+    traduccion: Pongo agua en el tubo de bambú.
+  - palabra: 竹輪
+    lectura: ちくわ
+    tipo_lectura: 'on'
+    significado: Chikuwa, pastel de pescado con forma de tubo
+    mascara: '--.-'
+    frase: おでんに(竹)輪を入れます。
+    traduccion: Echo chikuwa al oden.
+  - palabra: 笹竹
+    lectura: ささたけ
+    tipo_lectura: kun
+    significado: Bambú pequeño
+    mascara: '--.--'
+    frase: 笹(竹)を切って柵を作ります。
+    traduccion: Cortamos bambú pequeño para hacer una valla.
+  - palabra: 青竹
+    lectura: あおだけ
+    tipo_lectura: kun
+    significado: Bambú verde
+    mascara: '--.--'
+    frase: 青(竹)を切って使います。
+    traduccion: Cortamos bambú verde para usarlo.

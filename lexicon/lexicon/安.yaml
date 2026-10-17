@@ -1,0 +1,16 @@
+id: 安
+palabras:
+  - palabra: 不安症
+    lectura: ふあんしょう
+    tipo_lectura: 'on'
+    significado: Trastorno de ansiedad
+    mascara: '-.--.---'
+    frase: 不(安)症で眠れません。
+    traduccion: No puedo dormir por el trastorno de ansiedad.
+  - palabra: 安全策
+    lectura: あんぜんさく
+    tipo_lectura: 'on'
+    significado: Opción segura, medida prudente
+    mascara: '--.--.--'
+    frase: (安)全策を取りましょう。
+    traduccion: Tomemos la opción segura.

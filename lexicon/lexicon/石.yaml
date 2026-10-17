@@ -42,3 +42,10 @@ palabras:
     mascara: '--.--'
     frase: 道路の工事で砕(石)を敷きました。
     traduccion: En la obra del camino echamos piedra machacada.
+  - palabra: 笠石
+    lectura: かさいし
+    tipo_lectura: kun
+    significado: Piedra de coronación
+    mascara: '--.--'
+    frase: 壁の上に笠(石)を置きます。
+    traduccion: Colocamos la piedra de coronación sobre el muro.

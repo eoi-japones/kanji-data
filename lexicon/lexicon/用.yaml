@@ -1,0 +1,16 @@
+id: 用
+palabras:
+  - palabra: 筆記用具
+    lectura: ひっきようぐ
+    tipo_lectura: 'on'
+    significado: Útiles de escritura
+    mascara: '------...'
+    frase: 筆記(用)具を忘れました。
+    traduccion: Olvidé los útiles de escritura.
+  - palabra: 問答無用
+    lectura: もんどうむよう
+    tipo_lectura: 'on'
+    significado: Sin discusión, no hay nada que hablar
+    mascara: '--.--.-.--'
+    frase: 問答無(用)で決まりました。
+    traduccion: Se decidió sin más discusión.

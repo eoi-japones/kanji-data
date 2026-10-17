@@ -7,6 +7,13 @@ palabras:
     mascara: '-.-'
     frase: 今のところ、勝負は五(分)五分です。
     traduccion: De momento, el partido está completamente igualado.
+  - palabra: 八分音符
+    lectura: はちぶおんぷ
+    tipo_lectura: 'on'
+    significado: Corchea
+    mascara: '--.-.--.-'
+    frase: 八(分)音符を二つつなげます。
+    traduccion: Uno dos corcheas.
   - palabra: 分別
     lectura: ふんべつ
     tipo_lectura: 'on'
@@ -49,6 +56,13 @@ palabras:
     mascara: '-.--'
     frase: 多(分)、彼は今日は来ません。
     traduccion: Probablemente él no venga hoy.
+  - palabra: 等分
+    lectura: とうぶん
+    tipo_lectura: 'on'
+    significado: División en partes iguales
+    mascara: '--.--'
+    frase: ケーキを四等(分)します。
+    traduccion: Divido el pastel en cuatro partes iguales.
   - palabra: 自分で
     lectura: じぶんで
     tipo_lectura: 'on'
@@ -63,3 +77,17 @@ palabras:
     mascara: '-.-.-.--'
     frase: 九(分)九厘の確率で成功します。
     traduccion: Hay un 99% de probabilidad de éxito.
+  - palabra: 二分音符
+    lectura: にぶおんぷ
+    tipo_lectura: 'on'
+    significado: Blanca (nota musical)
+    mascara: '-.-.--.-'
+    frase: 二(分)音符は二拍です。
+    traduccion: La blanca dura dos tiempos.
+  - palabra: 四分音符
+    lectura: しぶおんぷ
+    tipo_lectura: 'on'
+    significado: Negra (nota musical)
+    mascara: '-.-.--.-'
+    frase: 四(分)音符の長さを数えます。
+    traduccion: Cuento la duración de la negra.

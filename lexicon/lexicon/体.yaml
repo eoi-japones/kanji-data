@@ -56,6 +56,13 @@ palabras:
     mascara: '--.--'
     frase: 船(体)に小さな穴が開いていました。
     traduccion: El casco tenía un agujero pequeño.
+  - palabra: 具体策
+    lectura: ぐたいさく
+    tipo_lectura: 'on'
+    significado: Medida concreta
+    mascara: '-.--.--'
+    frase: 具(体)策を話し合います。
+    traduccion: Discutimos medidas concretas.
   - palabra: 勿体ぶる
     lectura: もったいぶる
     tipo_lectura: kun
@@ -70,3 +77,10 @@ palabras:
     mascara: '---.-.--'
     frase: 硝子(体)は目の内部にあります。
     traduccion: El humor vítreo está dentro del ojo.
+  - palabra: 簡体字
+    lectura: かんたいじ
+    tipo_lectura: 'on'
+    significado: Carácter chino simplificado
+    mascara: '--.--.-'
+    frase: 簡(体)字で書いてあります。
+    traduccion: Está escrito en caracteres simplificados.

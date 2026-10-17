@@ -63,6 +63,13 @@ palabras:
     mascara: '--.--'
     frase: 水槽の中で(金)魚が泳いでいます。
     traduccion: Un pez dorado nada en el acuario.
+  - palabra: 募金箱
+    lectura: ぼきんばこ
+    tipo_lectura: 'on'
+    significado: Hucha para donativos
+    mascara: '-.--.--'
+    frase: 募(金)箱にお金を入れました。
+    traduccion: Eché dinero en la hucha de donativos.
   - palabra: 賜金
     lectura: しきん
     tipo_lectura: 'on'

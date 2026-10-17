@@ -1,0 +1,107 @@
+id: 策
+palabras:
+  - palabra: 国策
+    lectura: こくさく
+    tipo_lectura: 'on'
+    significado: Política nacional
+    mascara: '--.--'
+    frase: 国(策)として進めます。
+    traduccion: Se impulsa como política nacional.
+  - palabra: 失策
+    lectura: しっさく
+    tipo_lectura: 'on'
+    significado: Desliz, error
+    mascara: '----.'
+    frase: 大きな失(策)をしました。
+    traduccion: Cometí un grave desliz.
+  - palabra: 政策
+    lectura: せいさく
+    tipo_lectura: 'on'
+    significado: Política, medidas políticas
+    mascara: '--.--'
+    frase: 政府は新しい政(策)を出しました。
+    traduccion: El gobierno presentó una nueva política.
+  - palabra: 方策
+    lectura: ほうさく
+    tipo_lectura: 'on'
+    significado: Plan, medio, medida
+    mascara: '--.--'
+    frase: 良い方(策)を考えます。
+    traduccion: Pienso un buen plan.
+  - palabra: 施策
+    lectura: しさく
+    tipo_lectura: 'on'
+    significado: Medida, plan de acción
+    mascara: '-.--'
+    frase: 市の施(策)を調べます。
+    traduccion: Consulto las medidas del ayuntamiento.
+  - palabra: 無策
+    lectura: むさく
+    tipo_lectura: 'on'
+    significado: Falta de medidas, improvisación
+    mascara: '-.--'
+    frase: 無(策)のままでは困ります。
+    traduccion: No podemos seguir sin tomar medidas.
+  - palabra: 策
+    lectura: さく
+    tipo_lectura: 'on'
+    significado: Plan, estrategia
+    mascara: '--'
+    frase: いい(策)があります。
+    traduccion: Tengo un buen plan.
+  - palabra: 策定
+    lectura: さくてい
+    tipo_lectura: 'on'
+    significado: Formulación, elaboración de un plan
+    mascara: '--.--'
+    frase: 計画を(策)定します。
+    traduccion: Formulamos el plan.
+  - palabra: 上策
+    lectura: じょうさく
+    tipo_lectura: 'on'
+    significado: Excelente plan, la mejor opción
+    mascara: '---.--'
+    frase: 静かに待つのが上(策)です。
+    traduccion: Lo mejor es esperar en silencio.
+  - palabra: 具体策
+    lectura: ぐたいさく
+    tipo_lectura: 'on'
+    significado: Medida concreta
+    mascara: '-.--.--'
+    frase: 具体(策)を話し合います。
+    traduccion: Discutimos medidas concretas.
+  - palabra: 外交政策
+    lectura: がいこうせいさく
+    tipo_lectura: 'on'
+    significado: Política exterior
+    mascara: '--.--.--.--'
+    frase: 国の外交政(策)について話します。
+    traduccion: Hablamos de la política exterior del país.
+  - palabra: 安全策
+    lectura: あんぜんさく
+    tipo_lectura: 'on'
+    significado: Opción segura, medida prudente
+    mascara: '--.--.--'
+    frase: 安全(策)を取りましょう。
+    traduccion: Tomemos la opción segura.
+  - palabra: 応急策
+    lectura: おうきゅうさく
+    tipo_lectura: 'on'
+    significado: Medida de emergencia
+    mascara: '--.---.--'
+    frase: 応急(策)を考えます。
+    traduccion: Pensamos una medida de emergencia.
+  - palabra: 打開策
+    lectura: だかいさく
+    tipo_lectura: 'on'
+    significado: Solución, salida a un problema
+    mascara: '-.--.--'
+    frase: 打開(策)を探しています。
+    traduccion: Buscamos una salida al problema.
+  - palabra: 改善策
+    lectura: かいぜんさく
+    tipo_lectura: 'on'
+    significado: Medida de mejora
+    mascara: '--.--.--'
+    frase: 改善(策)を提案しました。
+    traduccion: Propuse una medida de mejora.

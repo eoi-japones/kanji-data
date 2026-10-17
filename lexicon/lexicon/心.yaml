@@ -21,6 +21,13 @@ palabras:
     mascara: '--.-.-.-'
     frase: 朝の風が(心)地よいです。
     traduccion: La brisa de la mañana es agradable.
+  - palabra: 心筋
+    lectura: しんきん
+    tipo_lectura: 'on'
+    significado: Músculo cardiaco
+    mascara: '--.--'
+    frase: (心)筋の働きを調べます。
+    traduccion: Estudian el funcionamiento del músculo cardiaco.
   - palabra: 恋心
     lectura: こいごころ
     tipo_lectura: kun
@@ -42,6 +49,13 @@ palabras:
     mascara: '--.--'
     frase: 彼の本(心)はまだわかりません。
     traduccion: Todavía no sé cuáles son sus verdaderas intenciones.
+  - palabra: 狭心症
+    lectura: きょうしんしょう
+    tipo_lectura: 'on'
+    significado: Angina de pecho
+    mascara: '---.--.---'
+    frase: 祖母は狭(心)症です。
+    traduccion: Mi abuela tiene angina de pecho.
   - palabra: 乙女心
     lectura: おとめごころ
     tipo_lectura: kun
@@ -56,3 +70,10 @@ palabras:
     mascara: '--.--'
     frase: 孝(心)から母の手伝いをしました。
     traduccion: Por devoción filial ayudé a mi madre.
+  - palabra: 心を癒す
+    lectura: こころをいやす
+    tipo_lectura: kun
+    significado: Consolar el alma, reconfortar
+    mascara: '---.-.--.-'
+    frase: 温泉は(心)を癒します。
+    traduccion: Las aguas termales reconfortan el alma.

@@ -14,6 +14,13 @@ palabras:
     mascara: '-.--.-'
     frase: (火)曜日は授業がありません。
     traduccion: Los martes no tengo clase.
+  - palabra: 火薬
+    lectura: かやく
+    tipo_lectura: 'on'
+    significado: Pólvora
+    mascara: '-.--'
+    frase: 花火には(火)薬が入っています。
+    traduccion: Los fuegos artificiales llevan pólvora.
   - palabra: 火鉢
     lectura: ひばち
     tipo_lectura: kun

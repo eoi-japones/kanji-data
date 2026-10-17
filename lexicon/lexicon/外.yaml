@@ -70,6 +70,13 @@ palabras:
     mascara: '-.--.--'
     frase: 日焼け止めは紫(外)線を防ぎます。
     traduccion: La crema solar protege de los rayos ultravioleta.
+  - palabra: 外交政策
+    lectura: がいこうせいさく
+    tipo_lectura: 'on'
+    significado: Política exterior
+    mascara: '--.--.--.--'
+    frase: 国の(外)交政策について話します。
+    traduccion: Hablamos de la política exterior del país.
   - palabra: 外廷
     lectura: がいてい
     tipo_lectura: 'on'

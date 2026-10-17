@@ -14,3 +14,10 @@ palabras:
     mascara: '---'
     frase: 牧場に(羊)がたくさんいます。
     traduccion: En la granja hay muchas ovejas.
+  - palabra: 羊痘
+    lectura: ひつじとう
+    tipo_lectura: kun
+    significado: Ectima contagioso
+    mascara: '---.--'
+    frase: (羊)痘は羊の病気です。
+    traduccion: El ectima contagioso es una enfermedad de las ovejas.

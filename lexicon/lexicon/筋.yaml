@@ -1,0 +1,107 @@
+id: 筋
+palabras:
+  - palabra: 売れ筋
+    lectura: うれすじ
+    tipo_lectura: kun
+    significado: Producto más vendido, línea estrella
+    mascara: '-.-.--'
+    frase: これが売れ(筋)の商品です。
+    traduccion: Este es el producto más vendido.
+  - palabra: 大筋
+    lectura: おおすじ
+    tipo_lectura: kun
+    significado: Líneas generales, resumen
+    mascara: '--.--'
+    frase: 大(筋)で合意しました。
+    traduccion: Llegamos a un acuerdo en lo esencial.
+  - palabra: 心筋
+    lectura: しんきん
+    tipo_lectura: 'on'
+    significado: Músculo cardiaco
+    mascara: '--.--'
+    frase: 心(筋)の働きを調べます。
+    traduccion: Estudian el funcionamiento del músculo cardiaco.
+  - palabra: 消息筋
+    lectura: しょうそくすじ
+    tipo_lectura: kun
+    significado: Fuentes informadas, círculos próximos
+    mascara: '---.--.--'
+    frase: 消息(筋)によると、知事は辞めるそうです。
+    traduccion: Según fuentes informadas, el gobernador dimitirá.
+  - palabra: 筋力
+    lectura: きんりょく
+    tipo_lectura: 'on'
+    significado: Fuerza muscular
+    mascara: '--.---'
+    frase: (筋)力が落ちました。
+    traduccion: He perdido fuerza muscular.
+  - palabra: 筋書き
+    lectura: すじがき
+    tipo_lectura: kun
+    significado: Guion, argumento
+    mascara: '--.-.-'
+    frase: 映画の(筋)書きを読みました。
+    traduccion: Leí el argumento de la película.
+  - palabra: 筋道
+    lectura: すじみち
+    tipo_lectura: kun
+    significado: Lógica, razonamiento
+    mascara: '--.--'
+    frase: 話に(筋)道がありません。
+    traduccion: Su explicación no tiene lógica.
+  - palabra: 粗筋
+    lectura: あらすじ
+    tipo_lectura: kun
+    significado: Sinopsis, resumen
+    mascara: '--.--'
+    frase: 本の粗(筋)を教えてください。
+    traduccion: Cuéntame la sinopsis del libro.
+  - palabra: 背筋
+    lectura: せすじ
+    tipo_lectura: kun
+    significado: Espalda, columna
+    mascara: '-.--'
+    frase: 背(筋)を伸ばして座ります。
+    traduccion: Me siento con la espalda recta.
+  - palabra: 道筋
+    lectura: みちすじ
+    tipo_lectura: kun
+    significado: Ruta, trayecto; razón
+    mascara: '--.--'
+    frase: 駅までの道(筋)を聞きました。
+    traduccion: Pregunté el camino hasta la estación.
+  - palabra: 鉄筋
+    lectura: てっきん
+    tipo_lectura: 'on'
+    significado: Barra de hierro para hormigón, armadura
+    mascara: '----.'
+    frase: 建物に鉄(筋)を使います。
+    traduccion: En los edificios se usa la ferralla.
+  - palabra: 三角筋
+    lectura: さんかくきん
+    tipo_lectura: 'on'
+    significado: Músculo deltoides
+    mascara: '--.--.--'
+    frase: 三角(筋)を鍛えます。
+    traduccion: Entreno el deltoides.
+  - palabra: 三頭筋
+    lectura: さんとうきん
+    tipo_lectura: 'on'
+    significado: Tríceps
+    mascara: '--.--.--'
+    frase: 三頭(筋)が痛いです。
+    traduccion: Me duele el tríceps.
+  - palabra: 二頭筋
+    lectura: にとうきん
+    tipo_lectura: 'on'
+    significado: Bíceps
+    mascara: '-.--.--'
+    frase: 二頭(筋)を鍛えます。
+    traduccion: Entreno el bíceps.
+  - palabra: 筋
+    lectura: きん
+    tipo_lectura: 'on'
+    significado: Músculo; sentido, lógica
+    mascara: '--'
+    frase: 運動して(筋)を鍛えます。
+    traduccion: Hago ejercicio para entrenar los músculos.

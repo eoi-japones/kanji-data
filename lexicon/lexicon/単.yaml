@@ -1,0 +1,16 @@
+id: 単
+palabras:
+  - palabra: 簡単
+    lectura: かんたん
+    tipo_lectura: 'on'
+    significado: Sencillo, fácil
+    mascara: '--.--'
+    frase: この問題は簡(単)です。
+    traduccion: Este problema es fácil.
+  - palabra: 簡単に言えば
+    lectura: かんたんにいえば
+    tipo_lectura: 'on'
+    significado: En resumen, dicho de forma sencilla
+    mascara: '--.--.-.-.-.-'
+    frase: 簡(単)に言えば、参加しません。
+    traduccion: En resumen, no participo.

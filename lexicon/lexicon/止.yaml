@@ -21,3 +21,24 @@ palabras:
     mascara: '-.-.-'
     frase: ここで車を(止)めてください。
     traduccion: Pare el coche aquí.
+  - palabra: 下痢止め
+    lectura: げりどめ
+    tipo_lectura: kun
+    significado: Medicamento contra la diarrea
+    mascara: '-.-.-.-'
+    frase: 下痢(止)めを飲みました。
+    traduccion: Tomé un medicamento contra la diarrea.
+  - palabra: 休止符
+    lectura: きゅうしふ
+    tipo_lectura: 'on'
+    significado: Signo de silencio
+    mascara: '---.-.-'
+    frase: 楽譜に休(止)符があります。
+    traduccion: En la partitura hay un signo de silencio.
+  - palabra: 止痒薬
+    lectura: しようやく
+    tipo_lectura: 'on'
+    significado: Medicamento contra el picor
+    mascara: '-.--.--'
+    frase: (止)痒薬を塗りました。
+    traduccion: Me puse un medicamento contra el picor.

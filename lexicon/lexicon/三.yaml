@@ -42,3 +42,24 @@ palabras:
     mascara: '--.-'
     frase: かつての(三)府は東京、京都、大阪です。
     traduccion: Las tres ciudades prefecturales eran Tokio, Kioto y Osaka.
+  - palabra: 三角筋
+    lectura: さんかくきん
+    tipo_lectura: 'on'
+    significado: Músculo deltoides
+    mascara: '--.--.--'
+    frase: (三)角筋を鍛えます。
+    traduccion: Entreno el deltoides.
+  - palabra: 三連符
+    lectura: さんれんぷ
+    tipo_lectura: 'on'
+    significado: Tresillo
+    mascara: '--.--.-'
+    frase: (三)連符の練習をします。
+    traduccion: Practico los tresillos.
+  - palabra: 三頭筋
+    lectura: さんとうきん
+    tipo_lectura: 'on'
+    significado: Tríceps
+    mascara: '--.--.--'
+    frase: (三)頭筋が痛いです。
+    traduccion: Me duele el tríceps.

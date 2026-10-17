@@ -7,6 +7,13 @@ palabras:
     mascara: '--.--'
     frase: (主)人は今、家にいません。
     traduccion: Mi marido ahora no está en casa.
+  - palabra: 主管
+    lectura: しゅかん
+    tipo_lectura: 'on'
+    significado: Supervisión, departamento responsable
+    mascara: '--.--'
+    frase: (主)管の課に聞きます。
+    traduccion: Pregunto al departamento responsable.
   - palabra: 主語
     lectura: しゅご
     tipo_lectura: 'on'

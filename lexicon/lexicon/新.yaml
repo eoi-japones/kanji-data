@@ -1,0 +1,16 @@
+id: 新
+palabras:
+  - palabra: 新築
+    lectura: しんちく
+    tipo_lectura: 'on'
+    significado: Obra nueva, recién construido
+    mascara: '--.--'
+    frase: (新)築の家に住んでいます。
+    traduccion: Vivo en una casa nueva.
+  - palabra: 新薬
+    lectura: しんやく
+    tipo_lectura: 'on'
+    significado: Medicamento nuevo
+    mascara: '--.--'
+    frase: (新)しい薬ができました。
+    traduccion: Se ha creado un medicamento nuevo.

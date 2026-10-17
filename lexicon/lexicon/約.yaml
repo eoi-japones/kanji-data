@@ -21,6 +21,13 @@ palabras:
     mascara: '-.--'
     frase: サービスの規(約)を読みました。
     traduccion: Leí las normas del servicio.
+  - palabra: 簡約
+    lectura: かんやく
+    tipo_lectura: 'on'
+    significado: Simplificación, abreviación
+    mascara: '--.--'
+    frase: 説明が簡(約)されています。
+    traduccion: La explicación está simplificada.
   - palabra: 約数
     lectura: やくすう
     tipo_lectura: 'on'

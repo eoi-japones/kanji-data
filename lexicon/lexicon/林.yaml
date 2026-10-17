@@ -21,3 +21,10 @@ palabras:
     mascara: '--.--'
     frase: 森(林)を守ることが大切です。
     traduccion: Es importante proteger los bosques.
+  - palabra: 竹林
+    lectura: ちくりん
+    tipo_lectura: 'on'
+    significado: Bambudal, bosque de bambú
+    mascara: '--.--'
+    frase: 竹(林)を歩きました。
+    traduccion: Caminé por el bambudal.

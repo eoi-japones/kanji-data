@@ -1,0 +1,44 @@
+id: 音
+palabras:
+  - palabra: 八分音符
+    lectura: はちぶおんぷ
+    tipo_lectura: 'on'
+    significado: Corchea
+    mascara: '--.-.--.-'
+    frase: 八分(音)符を二つつなげます。
+    traduccion: Uno dos corcheas.
+  - palabra: 音痴
+    lectura: おんち
+    tipo_lectura: 'on'
+    significado: No tener oído musical
+    mascara: '--.-'
+    frase: 私は(音)痴です。
+    traduccion: No tengo oído musical.
+  - palabra: 音符
+    lectura: おんぷ
+    tipo_lectura: 'on'
+    significado: Nota musical
+    mascara: '--.-'
+    frase: (音)符を読む練習をします。
+    traduccion: Practico la lectura de notas musicales.
+  - palabra: 二分音符
+    lectura: にぶおんぷ
+    tipo_lectura: 'on'
+    significado: Blanca (nota musical)
+    mascara: '-.-.--.-'
+    frase: 二分(音)符は二拍です。
+    traduccion: La blanca dura dos tiempos.
+  - palabra: 全音符
+    lectura: ぜんおんぷ
+    tipo_lectura: 'on'
+    significado: Redonda (nota musical)
+    mascara: '--.--.-'
+    frase: 全(音)符は四拍です。
+    traduccion: La redonda dura cuatro tiempos.
+  - palabra: 四分音符
+    lectura: しぶおんぷ
+    tipo_lectura: 'on'
+    significado: Negra (nota musical)
+    mascara: '-.-.--.-'
+    frase: 四分(音)符の長さを数えます。
+    traduccion: Cuento la duración de la negra.

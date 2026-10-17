@@ -35,6 +35,13 @@ palabras:
     mascara: '-.--'
     frase: 姉は(茶)道を習っています。
     traduccion: Mi hermana estudia la ceremonia del té.
+  - palabra: 茶封筒
+    lectura: ちゃぶうとう
+    tipo_lectura: 'on'
+    significado: Sobre marrón, sobre de papel kraft
+    mascara: '--.--.--'
+    frase: 書類は(茶)封筒に入れます。
+    traduccion: Meto los documentos en un sobre marrón.
   - palabra: 茶畑
     lectura: ちゃばたけ
     tipo_lectura: 'on'
@@ -42,6 +49,13 @@ palabras:
     mascara: '--.---'
     frase: 静岡には広い(茶)畑があります。
     traduccion: En Shizuoka hay extensos campos de té.
+  - palabra: 茶筒
+    lectura: ちゃづつ
+    tipo_lectura: 'on'
+    significado: Bote de té
+    mascara: '--.--'
+    frase: (茶)筒に茶葉を入れます。
+    traduccion: Pongo las hojas de té en el bote.
   - palabra: 茶釜
     lectura: ちゃがま
     tipo_lectura: 'on'

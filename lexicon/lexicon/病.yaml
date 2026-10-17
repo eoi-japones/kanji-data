@@ -1,0 +1,128 @@
+id: 病
+palabras:
+  - palabra: うつ病
+    lectura: うつびょう
+    tipo_lectura: 'on'
+    significado: Depresión
+    mascara: '-.-.---'
+    frase: うつ(病)は誰でもなり得ます。
+    traduccion: Cualquiera puede sufrir depresión.
+  - palabra: 急病
+    lectura: きゅうびょう
+    tipo_lectura: 'on'
+    significado: Enfermedad repentina
+    mascara: '---.---'
+    frase: 急(病)で病院に行きました。
+    traduccion: Fui al hospital por una enfermedad repentina.
+  - palabra: 持病
+    lectura: じびょう
+    tipo_lectura: 'on'
+    significado: Enfermedad crónica
+    mascara: '-.---'
+    frase: 父には持(病)があります。
+    traduccion: Mi padre tiene una enfermedad crónica.
+  - palabra: 疫病
+    lectura: えきびょう
+    tipo_lectura: 'on'
+    significado: Epidemia, peste
+    mascara: '--.---'
+    frase: 昔、疫(病)で多くの人が亡くなりました。
+    traduccion: Antaño mucha gente murió por la peste.
+  - palabra: 病
+    lectura: やまい
+    tipo_lectura: kun
+    significado: Enfermedad, dolencia
+    mascara: '---'
+    frase: (病)は気からです。
+    traduccion: La enfermedad nace de la mente.
+  - palabra: 病む
+    lectura: やむ
+    tipo_lectura: kun
+    significado: Enfermar, caer enfermo
+    mascara: '-.-'
+    frase: 心を(病)む人が増えています。
+    traduccion: Cada vez más gente enferma del alma.
+  - palabra: 病人
+    lectura: びょうにん
+    tipo_lectura: 'on'
+    significado: Enfermo, paciente
+    mascara: '---.--'
+    frase: (病)人の部屋は静かです。
+    traduccion: La habitación del enfermo está tranquila.
+  - palabra: 病名
+    lectura: びょうめい
+    tipo_lectura: 'on'
+    significado: Nombre de la enfermedad, diagnóstico
+    mascara: '---.--'
+    frase: 医者が(病)名を教えてくれました。
+    traduccion: El médico me dijo el nombre de la enfermedad.
+  - palabra: 病室
+    lectura: びょうしつ
+    tipo_lectura: 'on'
+    significado: Habitación de hospital
+    mascara: '---.--'
+    frase: (病)室に花を持って行きました。
+    traduccion: Llevé flores a la habitación del hospital.
+  - palabra: 病棟
+    lectura: びょうとう
+    tipo_lectura: 'on'
+    significado: Planta, ala de hospital
+    mascara: '---.--'
+    frase: この(病)棟は子ども用です。
+    traduccion: Esta planta del hospital es para niños.
+  - palabra: 病気
+    lectura: びょうき
+    tipo_lectura: 'on'
+    significado: Enfermedad, dolencia
+    mascara: '---.-'
+    frase: (病)気で学校を休みました。
+    traduccion: Falté a la escuela por enfermedad.
+  - palabra: 病状
+    lectura: びょうじょう
+    tipo_lectura: 'on'
+    significado: Estado de la enfermedad
+    mascara: '---.---'
+    frase: (病)状は良くなっています。
+    traduccion: El estado del enfermo está mejorando.
+  - palabra: 発病
+    lectura: はつびょう
+    tipo_lectura: 'on'
+    significado: Aparición de la enfermedad, caer enfermo
+    mascara: '--.---'
+    frase: 三十歳で発(病)しました。
+    traduccion: La enfermedad apareció a los treinta años.
+  - palabra: 白血病
+    lectura: はっけつびょう
+    tipo_lectura: 'on'
+    significado: Leucemia
+    mascara: '-------..'
+    frase: 白血(病)の治療を受けています。
+    traduccion: Estoy en tratamiento contra la leucemia.
+  - palabra: 看病
+    lectura: かんびょう
+    tipo_lectura: 'on'
+    significado: Cuidar a un enfermo
+    mascara: '--.---'
+    frase: 母の看(病)をしています。
+    traduccion: Estoy cuidando a mi madre.
+  - palabra: 難病
+    lectura: なんびょう
+    tipo_lectura: 'on'
+    significado: Enfermedad grave e incurable
+    mascara: '--.---'
+    frase: 姉は難(病)と戦っています。
+    traduccion: Mi hermana lucha contra una enfermedad incurable.
+  - palabra: 病を癒す
+    lectura: やまいをいやす
+    tipo_lectura: kun
+    significado: Curar la enfermedad
+    mascara: '---.-.--.-'
+    frase: この薬は(病)を癒します。
+    traduccion: Esta medicina cura la enfermedad.
+  - palabra: 療病
+    lectura: りょうびょう
+    tipo_lectura: 'on'
+    significado: Curación, tratamiento de la enfermedad
+    mascara: '---.---'
+    frase: 療(病)に専念しています。
+    traduccion: Me dedico por entero a curarme.

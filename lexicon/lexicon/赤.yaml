@@ -21,3 +21,17 @@ palabras:
     mascara: '--.-'
     frase: 会社は今年(赤)字になりました。
     traduccion: La empresa ha cerrado el año en números rojos.
+  - palabra: 赤痢
+    lectura: せきり
+    tipo_lectura: 'on'
+    significado: Disentería
+    mascara: '--.-'
+    frase: (赤)痢にかかりました。
+    traduccion: Contrajo disentería.
+  - palabra: アメーバ赤痢
+    lectura: アメーバせきり
+    tipo_lectura: 'on'
+    significado: Disentería amebiana
+    mascara: '-------.....'
+    frase: アメーバ(赤)痢は水からうつります。
+    traduccion: La disentería amebiana se contagia por el agua.

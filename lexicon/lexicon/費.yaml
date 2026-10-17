@@ -21,3 +21,10 @@ palabras:
     mascara: '---.-'
     frase: 毎月の食(費)を記録します。
     traduccion: Registro los gastos de comida de cada mes.
+  - palabra: 医療費
+    lectura: いりょうひ
+    tipo_lectura: 'on'
+    significado: Gastos médicos
+    mascara: '-.---.-'
+    frase: 医療(費)が高くなりました。
+    traduccion: Los gastos médicos han subido.

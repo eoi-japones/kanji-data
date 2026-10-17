@@ -21,3 +21,10 @@ palabras:
     mascara: '--.--'
     frase: 食品は(冷)凍で保存します。
     traduccion: Los alimentos se conservan congelados.
+  - palabra: 冷笑
+    lectura: れいしょう
+    tipo_lectura: 'on'
+    significado: Risa burlona, burla
+    mascara: '--.---'
+    frase: (冷)笑されました。
+    traduccion: Se burlaron de mí con una risa despectiva.

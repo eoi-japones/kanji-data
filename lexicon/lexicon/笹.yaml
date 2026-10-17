@@ -1,0 +1,72 @@
+id: 笹
+palabras:
+  - palabra: 笹
+    lectura: ささ
+    tipo_lectura: kun
+    significado: Bambú enano, caña de bambú pequeña
+    mascara: '--'
+    frase: 庭に(笹)が生えています。
+    traduccion: En el jardín crece bambú enano.
+  - palabra: 笹がき
+    lectura: ささがき
+    tipo_lectura: kun
+    significado: Corte de verdura en tiras finas
+    mascara: '--.-.-'
+    frase: ごぼうを(笹)がきにします。
+    traduccion: Corto la bardana en tiras finas.
+  - palabra: 笹だんご
+    lectura: ささだんご
+    tipo_lectura: kun
+    significado: Dango envuelto en hoja de bambú
+    mascara: '--.-.-.-'
+    frase: (笹)だんごを土産に買いました。
+    traduccion: Compré dango de bambú como recuerdo.
+  - palabra: 笹五位
+    lectura: ささごい
+    tipo_lectura: kun
+    significado: Garcilla striada
+    mascara: '--.-.-'
+    frase: 川で(笹)五位を見ました。
+    traduccion: Vi una garcilla striada en el río.
+  - palabra: 笹原
+    lectura: ささはら
+    tipo_lectura: kun
+    significado: Campo de bambú enano
+    mascara: '--.--'
+    frase: (笹)原を歩きました。
+    traduccion: Caminé por un campo de bambú enano.
+  - palabra: 笹牛の舌
+    lectura: ささうしのした
+    tipo_lectura: kun
+    significado: Lenguado de bambú
+    mascara: '--.--.-.--'
+    frase: (笹)牛の舌という魚です。
+    traduccion: Es un pez llamado lenguado de bambú.
+  - palabra: 笹百合
+    lectura: ささゆり
+    tipo_lectura: kun
+    significado: Azucena japonesa
+    mascara: '----..'
+    frase: 山に(笹)百合が咲いています。
+    traduccion: En la montaña florece la azucena japonesa.
+  - palabra: 笹竹
+    lectura: ささたけ
+    tipo_lectura: kun
+    significado: Bambú pequeño
+    mascara: '--.--'
+    frase: (笹)竹を切って柵を作ります。
+    traduccion: Cortamos bambú pequeño para hacer una valla.
+  - palabra: 笹舟
+    lectura: ささぶね
+    tipo_lectura: kun
+    significado: Barquito de hoja de bambú
+    mascara: '--.--'
+    frase: 子どもが(笹)舟を作りました。
+    traduccion: El niño hizo un barquito de hoja de bambú.
+  - palabra: 雪笹
+    lectura: ゆきざさ
+    tipo_lectura: kun
+    significado: Planta de la familia de las azucenas
+    mascara: '--.--'
+    frase: 森で雪(笹)を見つけました。
+    traduccion: Encontré una yukizasa en el bosque.

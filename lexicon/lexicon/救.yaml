@@ -1,0 +1,16 @@
+id: 救
+palabras:
+  - palabra: 救急医療
+    lectura: きゅうきゅういりょう
+    tipo_lectura: 'on'
+    significado: Medicina de urgencias
+    mascara: '---.---.-.---'
+    frase: (救)急医療の仕事をしています。
+    traduccion: Trabajo en medicina de urgencias.
+  - palabra: 救急箱
+    lectura: きゅうきゅうばこ
+    tipo_lectura: 'on'
+    significado: Botiquín
+    mascara: '---.---.--'
+    frase: (救)急箱にばんそうこうがあります。
+    traduccion: En el botiquín hay tiritas.

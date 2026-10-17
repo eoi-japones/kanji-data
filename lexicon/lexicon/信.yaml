@@ -21,3 +21,10 @@ palabras:
     mascara: '--.--'
     frase: 昨日のメールに返(信)しました。
     traduccion: Respondí al correo de ayer.
+  - palabra: 受信箱
+    lectura: じゅしんばこ
+    tipo_lectura: 'on'
+    significado: Buzón de entrada
+    mascara: '--.--.--'
+    frase: 受(信)箱を毎日見ます。
+    traduccion: Miro el buzón de entrada todos los días.

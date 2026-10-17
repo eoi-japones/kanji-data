@@ -1,0 +1,16 @@
+id: 施
+palabras:
+  - palabra: 施策
+    lectura: しさく
+    tipo_lectura: 'on'
+    significado: Medida, plan de acción
+    mascara: '-.--'
+    frase: 市の(施)策を調べます。
+    traduccion: Consulto las medidas del ayuntamiento.
+  - palabra: 施療
+    lectura: せりょう
+    tipo_lectura: 'on'
+    significado: Tratamiento médico gratuito
+    mascara: '-.---'
+    frase: 昔は(施)療の病院がありました。
+    traduccion: Antaño había hospitales de tratamiento gratuito.

@@ -1,5 +1,19 @@
 id: 学
 palabras:
+  - palabra: 医学
+    lectura: いがく
+    tipo_lectura: 'on'
+    significado: Medicina, ciencia médica
+    mascara: '-.--'
+    frase: 大学で医(学)を勉強しています。
+    traduccion: Estudio medicina en la universidad.
+  - palabra: 医学部
+    lectura: いがくぶ
+    tipo_lectura: 'on'
+    significado: Facultad de medicina
+    mascara: '-.--.-'
+    frase: 妹は医(学)部に入りました。
+    traduccion: Mi hermana entró en la facultad de medicina.
   - palabra: 博学
     lectura: はくがく
     tipo_lectura: 'on'
@@ -49,6 +63,13 @@ palabras:
     mascara: '--.-'
     frase: 大学の(学)費は高いです。
     traduccion: La matrícula de la universidad es cara.
+  - palabra: 建築学
+    lectura: けんちくがく
+    tipo_lectura: 'on'
+    significado: Arquitectura (disciplina)
+    mascara: '--.--.--'
+    frase: 大学で建築(学)を学びました。
+    traduccion: Estudió arquitectura en la universidad.
   - palabra: 数学
     lectura: すうがく
     tipo_lectura: 'on'
@@ -70,6 +91,27 @@ palabras:
     mascara: '-.--'
     frase: 先生は美(学)を研究しています。
     traduccion: El profesor investiga sobre estética.
+  - palabra: 薬学
+    lectura: やくがく
+    tipo_lectura: 'on'
+    significado: Farmacia, ciencia farmacéutica
+    mascara: '--.--'
+    frase: 大学で薬(学)を学んでいます。
+    traduccion: Estudio farmacia en la universidad.
+  - palabra: 高等学校
+    lectura: こうとうがっこう
+    tipo_lectura: 'on'
+    significado: Instituto de secundaria
+    mascara: '--------...'
+    frase: 高等(学)校に通っています。
+    traduccion: Voy al instituto.
+  - palabra: 免疫学
+    lectura: めんえきがく
+    tipo_lectura: 'on'
+    significado: Inmunología
+    mascara: '--.--.--'
+    frase: 大学で免疫(学)を研究しています。
+    traduccion: Investigo inmunología en la universidad.
   - palabra: 学習塾
     lectura: がくしゅうじゅく
     tipo_lectura: 'on'
@@ -77,3 +119,10 @@ palabras:
     mascara: '--.---.---'
     frase: (学)習塾は駅の近くにあります。
     traduccion: La academia está cerca de la estación.
+  - palabra: 疫学
+    lectura: えきがく
+    tipo_lectura: 'on'
+    significado: Epidemiología
+    mascara: '--.--'
+    frase: 疫(学)の資料を集めます。
+    traduccion: Recogemos datos epidemiológicos.

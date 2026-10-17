@@ -1,0 +1,107 @@
+id: 症
+palabras:
+  - palabra: 不眠症
+    lectura: ふみんしょう
+    tipo_lectura: 'on'
+    significado: Insomnio
+    mascara: '-.--.---'
+    frase: 不眠(症)で困っています。
+    traduccion: Sufro insomnio.
+  - palabra: 合併症
+    lectura: がっぺいしょう
+    tipo_lectura: 'on'
+    significado: Complicación
+    mascara: '--.--.---'
+    frase: 手術のあと合併(症)が出ました。
+    traduccion: Tras la operación apareció una complicación.
+  - palabra: 炎症
+    lectura: えんしょう
+    tipo_lectura: 'on'
+    significado: Inflamación
+    mascara: '--.---'
+    frase: 喉に炎(症)があります。
+    traduccion: Tengo inflamación de garganta.
+  - palabra: 狭心症
+    lectura: きょうしんしょう
+    tipo_lectura: 'on'
+    significado: Angina de pecho
+    mascara: '---.--.---'
+    frase: 祖母は狭心(症)です。
+    traduccion: Mi abuela tiene angina de pecho.
+  - palabra: 症
+    lectura: しょう
+    tipo_lectura: 'on'
+    significado: Enfermedad, afección
+    mascara: '---'
+    frase: これは珍しい(症)です。
+    traduccion: Esta es una afección poco común.
+  - palabra: 症例
+    lectura: しょうれい
+    tipo_lectura: 'on'
+    significado: Caso clínico
+    mascara: '---.--'
+    frase: (症)例を集めて研究します。
+    traduccion: Recogemos casos clínicos para investigar.
+  - palabra: 症状
+    lectura: しょうじょう
+    tipo_lectura: 'on'
+    significado: Síntomas
+    mascara: '---.---'
+    frase: (症)状は昨日より軽いです。
+    traduccion: Los síntomas son más leves que ayer.
+  - palabra: 発症
+    lectura: はっしょう
+    tipo_lectura: 'on'
+    significado: Aparición de la enfermedad
+    mascara: '-----.'
+    frase: 子どもの時に発(症)しました。
+    traduccion: La enfermedad se manifestó en la infancia.
+  - palabra: 自閉症
+    lectura: じへいしょう
+    tipo_lectura: 'on'
+    significado: Autismo
+    mascara: '-.--.---'
+    frase: 息子は自閉(症)です。
+    traduccion: Mi hijo tiene autismo.
+  - palabra: 花粉症
+    lectura: かふんしょう
+    tipo_lectura: 'on'
+    significado: Alergia al polen
+    mascara: '-.--.---'
+    frase: 春は花粉(症)がつらいです。
+    traduccion: En primavera la alergia al polen es dura.
+  - palabra: ダウン症
+    lectura: ダウンしょう
+    tipo_lectura: 'on'
+    significado: Síndrome de Down
+    mascara: '------...'
+    frase: ダウン(症)の子を育てています。
+    traduccion: Crío a un niño con síndrome de Down.
+  - palabra: パニック症
+    lectura: パニックしょう
+    tipo_lectura: 'on'
+    significado: Trastorno de pánico
+    mascara: '-------....'
+    frase: パニック(症)の治療を受けています。
+    traduccion: Estoy en tratamiento por trastorno de pánico.
+  - palabra: 下痢症
+    lectura: げりしょう
+    tipo_lectura: 'on'
+    significado: Cuadro de diarrea
+    mascara: '-.-.---'
+    frase: 子どもが下痢(症)になりました。
+    traduccion: El niño tiene un cuadro de diarrea.
+  - palabra: 不妊症
+    lectura: ふにんしょう
+    tipo_lectura: 'on'
+    significado: Infertilidad
+    mascara: '-.--.---'
+    frase: 不妊(症)の相談に行きます。
+    traduccion: Voy a consulta por infertilidad.
+  - palabra: 不安症
+    lectura: ふあんしょう
+    tipo_lectura: 'on'
+    significado: Trastorno de ansiedad
+    mascara: '-.--.---'
+    frase: 不安(症)で眠れません。
+    traduccion: No puedo dormir por el trastorno de ansiedad.

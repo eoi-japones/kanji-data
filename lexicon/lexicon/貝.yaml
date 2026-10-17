@@ -14,3 +14,10 @@ palabras:
     mascara: '-.--'
     frase: 砂浜に小(貝)がたくさんあります。
     traduccion: En la arena hay muchas conchitas.
+  - palabra: 笠貝
+    lectura: かさがい
+    tipo_lectura: kun
+    significado: Lapa
+    mascara: '--.--'
+    frase: 岩に笠(貝)がくっついています。
+    traduccion: Las lapas se pegan a las rocas.

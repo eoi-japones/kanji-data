@@ -126,6 +126,20 @@ palabras:
     mascara: '---.-.--'
     frase: 男の(人)に道を聞きました。
     traduccion: Pregunté el camino a un hombre.
+  - palabra: 病人
+    lectura: びょうにん
+    tipo_lectura: 'on'
+    significado: Enfermo, paciente
+    mascara: '---.--'
+    frase: 病(人)の部屋は静かです。
+    traduccion: La habitación del enfermo está tranquila.
+  - palabra: 管理人
+    lectura: かんりにん
+    tipo_lectura: 'on'
+    significado: Administrador, conserje
+    mascara: '--.-.--'
+    frase: 管理(人)が鍵を開けました。
+    traduccion: El conserje abrió la puerta.
   - palabra: 美人
     lectura: びじん
     tipo_lectura: 'on'
@@ -147,3 +161,17 @@ palabras:
     mascara: '--.--'
     frase: 彼は有名な芸(人)です。
     traduccion: Él es un famoso cómico.
+  - palabra: 痴人
+    lectura: ちじん
+    tipo_lectura: 'on'
+    significado: Necio, insensato
+    mascara: '-.--'
+    frase: 痴(人)のような話です。
+    traduccion: Es una historia de necios.
+  - palabra: 老人医療
+    lectura: ろうじんいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica a los mayores
+    mascara: '--.--.-.---'
+    frase: 老(人)医療を支える制度です。
+    traduccion: Es un sistema que sostiene la asistencia a los mayores.

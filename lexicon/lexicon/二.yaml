@@ -21,3 +21,17 @@ palabras:
     mascara: '---.-'
     frase: 十(二)月に日本に来ました。
     traduccion: Vine a Japón en diciembre.
+  - palabra: 二分音符
+    lectura: にぶおんぷ
+    tipo_lectura: 'on'
+    significado: Blanca (nota musical)
+    mascara: '-.-.--.-'
+    frase: (二)分音符は二拍です。
+    traduccion: La blanca dura dos tiempos.
+  - palabra: 二頭筋
+    lectura: にとうきん
+    tipo_lectura: 'on'
+    significado: Bíceps
+    mascara: '-.--.--'
+    frase: (二)頭筋を鍛えます。
+    traduccion: Entreno el bíceps.

@@ -28,3 +28,10 @@ palabras:
     mascara: '---.'
     frase: この町には(老)舗の菓子屋があります。
     traduccion: En este pueblo hay una confitería centenaria.
+  - palabra: 老人医療
+    lectura: ろうじんいりょう
+    tipo_lectura: 'on'
+    significado: Asistencia médica a los mayores
+    mascara: '--.--.-.---'
+    frase: (老)人医療を支える制度です。
+    traduccion: Es un sistema que sostiene la asistencia a los mayores.

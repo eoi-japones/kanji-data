@@ -42,3 +42,10 @@ palabras:
     mascara: '--.-'
     frase: 机は堅(木)でできています。
     traduccion: El escritorio está hecho de madera dura.
+  - palabra: 笠木
+    lectura: かさぎ
+    tipo_lectura: kun
+    significado: Remate superior de una valla o puerta
+    mascara: '--.-'
+    frase: 門の笠(木)を直しました。
+    traduccion: Reparé el remate superior de la puerta.

@@ -1,5 +1,12 @@
 id: 眠
 palabras:
+  - palabra: 不眠症
+    lectura: ふみんしょう
+    tipo_lectura: 'on'
+    significado: Insomnio
+    mascara: '-.--.---'
+    frase: 不(眠)症で困っています。
+    traduccion: Sufro insomnio.
   - palabra: 冬眠
     lectura: とうみん
     tipo_lectura: 'on'

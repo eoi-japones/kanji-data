@@ -1,0 +1,16 @@
+id: 政
+palabras:
+  - palabra: 政策
+    lectura: せいさく
+    tipo_lectura: 'on'
+    significado: Política, medidas políticas
+    mascara: '--.--'
+    frase: 政府は新しい(政)策を出しました。
+    traduccion: El gobierno presentó una nueva política.
+  - palabra: 外交政策
+    lectura: がいこうせいさく
+    tipo_lectura: 'on'
+    significado: Política exterior
+    mascara: '--.--.--.--'
+    frase: 国の外交(政)策について話します。
+    traduccion: Hablamos de la política exterior del país.

@@ -1,0 +1,16 @@
+id: 師
+palabras:
+  - palabra: 医師
+    lectura: いし
+    tipo_lectura: 'on'
+    significado: Médico, facultativo
+    mascara: '-.-'
+    frase: 父は医(師)になりました。
+    traduccion: Mi padre se hizo médico.
+  - palabra: 医師会
+    lectura: いしかい
+    tipo_lectura: 'on'
+    significado: Colegio de médicos
+    mascara: '-.-.--'
+    frase: 医(師)会の会合に行きます。
+    traduccion: Voy a la reunión del colegio de médicos.

@@ -14,6 +14,13 @@ palabras:
     mascara: '--.--'
     frase: 駅の北(口)で待ち合わせました。
     traduccion: Quedamos en la salida norte de la estación.
+  - palabra: 口答え
+    lectura: くちごたえ
+    tipo_lectura: kun
+    significado: Replicar, contestar con impertinencia
+    mascara: '--.--.-'
+    frase: 親に(口)答えをしました。
+    traduccion: Le repliqué a mis padres.
   - palabra: 口紅
     lectura: くちべに
     tipo_lectura: kun

@@ -21,3 +21,10 @@ palabras:
     mascara: '-----..'
     frase: 博物館で日本(刀)を見ました。
     traduccion: Vi una espada japonesa en el museo.
+  - palabra: 竹刀
+    lectura: しない
+    tipo_lectura: kun
+    significado: Espada de bambú (kendo)
+    mascara: '---.'
+    frase: 竹(刀)で練習します。
+    traduccion: Practico con la espada de bambú.

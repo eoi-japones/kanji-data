@@ -14,6 +14,13 @@ palabras:
     mascara: '--.--'
     frase: すべて(均)一の価格です。
     traduccion: Todo tiene el mismo precio.
+  - palabra: 均等
+    lectura: きんとう
+    tipo_lectura: 'on'
+    significado: Equitativo, uniforme
+    mascara: '--.--'
+    frase: お金を(均)等に分けます。
+    traduccion: Reparto el dinero a partes iguales.
   - palabra: 地を均す
     lectura: じをならす
     tipo_lectura: kun

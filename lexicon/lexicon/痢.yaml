@@ -1,0 +1,58 @@
+id: 痢
+palabras:
+  - palabra: 下痢
+    lectura: げり
+    tipo_lectura: 'on'
+    significado: Diarrea
+    mascara: '-.-'
+    frase: 下(痢)が続いています。
+    traduccion: Tengo diarrea desde hace días.
+  - palabra: 赤痢
+    lectura: せきり
+    tipo_lectura: 'on'
+    significado: Disentería
+    mascara: '--.-'
+    frase: 赤(痢)にかかりました。
+    traduccion: Contrajo disentería.
+  - palabra: アメーバ赤痢
+    lectura: アメーバせきり
+    tipo_lectura: 'on'
+    significado: Disentería amebiana
+    mascara: '-------.....'
+    frase: アメーバ赤(痢)は水からうつります。
+    traduccion: La disentería amebiana se contagia por el agua.
+  - palabra: 下痢止め
+    lectura: げりどめ
+    tipo_lectura: 'on'
+    significado: Medicamento contra la diarrea
+    mascara: '-.-.-.-'
+    frase: 下(痢)止めを飲みました。
+    traduccion: Tomé un medicamento contra la diarrea.
+  - palabra: 下痢症
+    lectura: げりしょう
+    tipo_lectura: 'on'
+    significado: Cuadro de diarrea
+    mascara: '-.-.---'
+    frase: 子どもが下(痢)症になりました。
+    traduccion: El niño tiene un cuadro de diarrea.
+  - palabra: 旅行者下痢
+    lectura: りょこうしゃげり
+    tipo_lectura: 'on'
+    significado: Diarrea del viajero
+    mascara: '--.--.--.-.-'
+    frase: 海外で旅行者下(痢)になりました。
+    traduccion: Tuve diarrea del viajero en el extranjero.
+  - palabra: 水下痢
+    lectura: みずげり
+    tipo_lectura: 'on'
+    significado: Diarrea acuosa
+    mascara: '--.-.-'
+    frase: 水下(痢)でつらいです。
+    traduccion: La diarrea acuosa es muy molesta.
+  - palabra: 疫痢
+    lectura: えきり
+    tipo_lectura: 'on'
+    significado: Disentería infantil
+    mascara: '--.-'
+    frase: 疫(痢)は昔の病気です。
+    traduccion: La disentería infantil es una enfermedad antigua.

@@ -1,0 +1,30 @@
+id: 合
+palabras:
+  - palabra: 合併症
+    lectura: がっぺいしょう
+    tipo_lectura: 'on'
+    significado: Complicación
+    mascara: '--.--.---'
+    frase: 手術のあと(合)併症が出ました。
+    traduccion: Tras la operación apareció una complicación.
+  - palabra: 符合
+    lectura: ふごう
+    tipo_lectura: 'on'
+    significado: Coincidencia, conformidad
+    mascara: '-.--'
+    frase: 事実と符(合)しています。
+    traduccion: Coincide con los hechos.
+  - palabra: 癒合
+    lectura: ゆごう
+    tipo_lectura: 'on'
+    significado: Cicatrización, consolidación
+    mascara: '-.--'
+    frase: 骨はゆっくり癒(合)します。
+    traduccion: El hueso se consolida poco a poco.
+  - palabra: 笹百合
+    lectura: ささゆり
+    tipo_lectura: kun
+    significado: Azucena japonesa
+    mascara: '----..'
+    frase: 山に笹百(合)が咲いています。
+    traduccion: En la montaña florece la azucena japonesa.

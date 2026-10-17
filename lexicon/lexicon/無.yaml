@@ -21,6 +21,13 @@ palabras:
     mascara: '-.--'
     frase: 空港で(無)税の酒を買いました。
     traduccion: Compré alcohol libre de impuestos en el aeropuerto.
+  - palabra: 無策
+    lectura: むさく
+    tipo_lectura: 'on'
+    significado: Falta de medidas, improvisación
+    mascara: '-.--'
+    frase: (無)策のままでは困ります。
+    traduccion: No podemos seguir sin tomar medidas.
   - palabra: 無線
     lectura: むせん
     tipo_lectura: 'on'
@@ -42,3 +49,10 @@ palabras:
     mascara: '-.--'
     frase: 会議は(無)言のまま終わりました。
     traduccion: La reunión terminó en silencio.
+  - palabra: 問答無用
+    lectura: もんどうむよう
+    tipo_lectura: 'on'
+    significado: Sin discusión, no hay nada que hablar
+    mascara: '--.--.-.--'
+    frase: 問答(無)用で決まりました。
+    traduccion: Se decidió sin más discusión.

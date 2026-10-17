@@ -1,0 +1,16 @@
+id: 官
+palabras:
+  - palabra: 管制官
+    lectura: かんせいかん
+    tipo_lectura: 'on'
+    significado: Controlador aéreo
+    mascara: '--.--.--'
+    frase: 管制(官)の指示を聞きます。
+    traduccion: Escucho las instrucciones del controlador.
+  - palabra: 検疫官
+    lectura: けんえきかん
+    tipo_lectura: 'on'
+    significado: Inspector de cuarentena
+    mascara: '--.--.--'
+    frase: 検疫(官)が荷物を調べます。
+    traduccion: El inspector de cuarentena revisa el equipaje.

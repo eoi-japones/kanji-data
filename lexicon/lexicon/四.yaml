@@ -35,3 +35,10 @@ palabras:
     mascara: '-.--'
     frase: 箱の(四)隅をテープで留めました。
     traduccion: Fijé con cinta las cuatro esquinas de la caja.
+  - palabra: 四分音符
+    lectura: しぶおんぷ
+    tipo_lectura: 'on'
+    significado: Negra (nota musical)
+    mascara: '-.-.--.-'
+    frase: (四)分音符の長さを数えます。
+    traduccion: Cuento la duración de la negra.

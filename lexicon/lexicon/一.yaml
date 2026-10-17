@@ -98,6 +98,13 @@ palabras:
     mascara: '-----.'
     frase: (一)票でも大切です。
     traduccion: Cada voto cuenta.
+  - palabra: 一等
+    lectura: いっとう
+    tipo_lectura: 'on'
+    significado: Primer premio, primera clase
+    mascara: '----.'
+    frase: (一)等を取るつもりです。
+    traduccion: Pienso ganar el primer premio.
   - palabra: 一隅
     lectura: いちぐう
     tipo_lectura: 'on'
@@ -133,3 +140,31 @@ palabras:
     mascara: '-----..'
     frase: (一)世紀は百年です。
     traduccion: Un siglo son cien años.
+  - palabra: 一問一答
+    lectura: いちもんいっとう
+    tipo_lectura: 'on'
+    significado: Preguntas y respuestas una a una
+    mascara: '--------...'
+    frase: (一)問一答の形式で練習します。
+    traduccion: Practicamos en formato de pregunta y respuesta.
+  - palabra: 一文字笠
+    lectura: いちもんじがさ
+    tipo_lectura: 'on'
+    significado: Sombrero plano de paja
+    mascara: '--.--.-.--'
+    frase: (一)文字笠をかぶった旅人です。
+    traduccion: Es un viajero con sombrero plano de paja.
+  - palabra: 一筆
+    lectura: いっぴつ
+    tipo_lectura: 'on'
+    significado: Un trazo; unas líneas, unas letras
+    mascara: '----.'
+    frase: (一)筆書いて送りました。
+    traduccion: Le escribí unas líneas y se las envié.
+  - palabra: 一箱
+    lectura: ひとはこ
+    tipo_lectura: kun
+    significado: Una caja
+    mascara: '--.--'
+    frase: みかんを(一)箱もらいました。
+    traduccion: Me regalaron una caja de mandarinas.

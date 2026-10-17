@@ -1,0 +1,44 @@
+id: 易
+palabras:
+  - palabra: 簡易
+    lectura: かんい
+    tipo_lectura: 'on'
+    significado: Simple, simplificado
+    mascara: '--.-'
+    frase: 簡(易)な宿に泊まりました。
+    traduccion: Me alojé en un alojamiento sencillo.
+  - palabra: 簡易保険
+    lectura: かんいほけん
+    tipo_lectura: 'on'
+    significado: Seguro de vida postal
+    mascara: '--.-.-.--'
+    frase: 簡(易)保険を勧められました。
+    traduccion: Me recomendaron el seguro postal.
+  - palabra: 簡易化
+    lectura: かんいか
+    tipo_lectura: 'on'
+    significado: Simplificación
+    mascara: '--.-.-'
+    frase: 手続きの簡(易)化を進めます。
+    traduccion: Avanzamos en la simplificación de los trámites.
+  - palabra: 簡易宿所
+    lectura: かんいしゅくしょ
+    tipo_lectura: 'on'
+    significado: Alojamiento sencillo
+    mascara: '--.-.---.--'
+    frase: 駅の近くに簡(易)宿所があります。
+    traduccion: Cerca de la estación hay un alojamiento sencillo.
+  - palabra: 簡易的
+    lectura: かんいてき
+    tipo_lectura: 'on'
+    significado: Simple, sencillo
+    mascara: '--.-.--'
+    frase: 簡(易)的な方法で作りました。
+    traduccion: Lo hice de una forma sencilla.
+  - palabra: 簡易食堂
+    lectura: かんいしょくどう
+    tipo_lectura: 'on'
+    significado: Comedor sencillo, cantina
+    mascara: '--.-.---.--'
+    frase: 会社の簡(易)食堂で食べます。
+    traduccion: Como en la cantina de la empresa.

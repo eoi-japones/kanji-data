@@ -14,6 +14,13 @@ palabras:
     mascara: '--.-'
     frase: 季節が春に(移)りました。
     traduccion: La estación pasó a la primavera.
+  - palabra: 移管
+    lectura: いかん
+    tipo_lectura: 'on'
+    significado: Traspaso de competencias
+    mascara: '-.--'
+    frase: 業務を本社に(移)管します。
+    traduccion: Traspasamos la tarea a la central.
   - palabra: 移転
     lectura: いてん
     tipo_lectura: 'on'

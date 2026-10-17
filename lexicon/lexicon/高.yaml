@@ -49,3 +49,17 @@ palabras:
     mascara: '--.--'
     frase: 彼は(高)校でサッカーをしました。
     traduccion: Él jugó al fútbol en el instituto.
+  - palabra: 高等
+    lectura: こうとう
+    tipo_lectura: 'on'
+    significado: Superior, de alto nivel
+    mascara: '--.--'
+    frase: (高)等な技術が必要です。
+    traduccion: Se necesita una técnica superior.
+  - palabra: 高等学校
+    lectura: こうとうがっこう
+    tipo_lectura: 'on'
+    significado: Instituto de secundaria
+    mascara: '--------...'
+    frase: (高)等学校に通っています。
+    traduccion: Voy al instituto.

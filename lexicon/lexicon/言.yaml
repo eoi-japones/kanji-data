@@ -35,3 +35,17 @@ palabras:
     mascara: '--.-.--.-'
     frase: 話し(言)葉は書き言葉と違います。
     traduccion: El lenguaje hablado es distinto del lenguaje escrito.
+  - palabra: 痴れ言
+    lectura: しれごと
+    tipo_lectura: kun
+    significado: Desatino, necedad
+    mascara: '-.-.--'
+    frase: 痴れ(言)を言わないでください。
+    traduccion: No digas desatinos.
+  - palabra: 簡単に言えば
+    lectura: かんたんにいえば
+    tipo_lectura: kun
+    significado: En resumen, dicho de forma sencilla
+    mascara: '--.--.-.-.-.-'
+    frase: 簡単に(言)えば、参加しません。
+    traduccion: En resumen, no participo.

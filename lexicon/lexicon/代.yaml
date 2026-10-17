@@ -21,3 +21,17 @@ palabras:
     mascara: '--.--'
     frase: 現(代)の技術は本当にすごいです。
     traduccion: La tecnología actual es de verdad asombrosa.
+  - palabra: 切符代
+    lectura: きっぷだい
+    tipo_lectura: kun
+    significado: Precio del billete
+    mascara: '-----..'
+    frase: 切符(代)を払いました。
+    traduccion: Pagué el precio del billete.
+  - palabra: 現代医療
+    lectura: げんだいいりょう
+    tipo_lectura: 'on'
+    significado: Medicina moderna
+    mascara: '--.--.-.---'
+    frase: 現(代)医療の発達は速いです。
+    traduccion: El desarrollo de la medicina moderna es rápido.

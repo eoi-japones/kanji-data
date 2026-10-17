@@ -1,0 +1,107 @@
+id: 箱
+palabras:
+  - palabra: ゴミ箱
+    lectura: ごみばこ
+    tipo_lectura: kun
+    significado: Papelera, cubo de la basura
+    mascara: '-.-.--'
+    frase: 紙をゴミ(箱)に捨てます。
+    traduccion: Tiro el papel a la papelera.
+  - palabra: 投票箱
+    lectura: とうひょうばこ
+    tipo_lectura: kun
+    significado: Urna electoral
+    mascara: '--.---.--'
+    frase: 投票(箱)に紙を入れます。
+    traduccion: Introduzco el papel en la urna.
+  - palabra: 救急箱
+    lectura: きゅうきゅうばこ
+    tipo_lectura: kun
+    significado: Botiquín
+    mascara: '---.---.--'
+    frase: 救急(箱)にばんそうこうがあります。
+    traduccion: En el botiquín hay tiritas.
+  - palabra: 本箱
+    lectura: ほんばこ
+    tipo_lectura: kun
+    significado: Estantería para libros, librería
+    mascara: '--.--'
+    frase: 本(箱)に本を並べます。
+    traduccion: Coloco los libros en la estantería.
+  - palabra: 私書箱
+    lectura: ししょばこ
+    tipo_lectura: kun
+    significado: Apartado de correos
+    mascara: '-.--.--'
+    frase: 私書(箱)を借りました。
+    traduccion: Alquilé un apartado de correos.
+  - palabra: おもちゃ箱
+    lectura: おもちゃばこ
+    tipo_lectura: kun
+    significado: Caja de los juguetes
+    mascara: '-.-.-.-.--'
+    frase: 子どもがおもちゃ(箱)を探しています。
+    traduccion: El niño busca la caja de los juguetes.
+  - palabra: ダンボール箱
+    lectura: だんボールばこ
+    tipo_lectura: kun
+    significado: Caja de cartón
+    mascara: '-------.....'
+    frase: 引っ越しの荷物をダンボール(箱)に入れます。
+    traduccion: Meto las cosas de la mudanza en cajas de cartón.
+  - palabra: びっくり箱
+    lectura: びっくりばこ
+    tipo_lectura: kun
+    significado: Caja sorpresa
+    mascara: '-.-.-.-.--'
+    frase: びっくり(箱)で驚きました。
+    traduccion: Me asusté con la caja sorpresa.
+  - palabra: マッチ箱
+    lectura: マッチばこ
+    tipo_lectura: kun
+    significado: Caja de cerillas
+    mascara: '-----...'
+    frase: マッチ(箱)を開けました。
+    traduccion: Abrí la caja de cerillas.
+  - palabra: みかん箱
+    lectura: みかんばこ
+    tipo_lectura: kun
+    significado: Caja de mandarinas, caja de cartón
+    mascara: '-.-.-.--'
+    frase: みかん(箱)を台にします。
+    traduccion: Uso la caja de mandarinas como soporte.
+  - palabra: 一箱
+    lectura: ひとはこ
+    tipo_lectura: kun
+    significado: Una caja
+    mascara: '--.--'
+    frase: みかんを一(箱)もらいました。
+    traduccion: Me regalaron una caja de mandarinas.
+  - palabra: 募金箱
+    lectura: ぼきんばこ
+    tipo_lectura: kun
+    significado: Hucha para donativos
+    mascara: '-.--.--'
+    frase: 募金(箱)にお金を入れました。
+    traduccion: Eché dinero en la hucha de donativos.
+  - palabra: 受信箱
+    lectura: じゅしんばこ
+    tipo_lectura: kun
+    significado: Buzón de entrada
+    mascara: '--.--.--'
+    frase: 受信(箱)を毎日見ます。
+    traduccion: Miro el buzón de entrada todos los días.
+  - palabra: 大箱
+    lectura: おおばこ
+    tipo_lectura: kun
+    significado: Caja grande
+    mascara: '--.--'
+    frase: 大(箱)を二つ運びました。
+    traduccion: Transporté dos cajas grandes.
+  - palabra: 小箱
+    lectura: こばこ
+    tipo_lectura: kun
+    significado: Caja pequeña
+    mascara: '-.--'
+    frase: 小(箱)に指輪を入れます。
+    traduccion: Pongo el anillo en la cajita.

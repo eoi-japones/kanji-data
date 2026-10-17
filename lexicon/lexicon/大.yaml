@@ -1,5 +1,12 @@
 id: 大
 palabras:
+  - palabra: 医大
+    lectura: いだい
+    tipo_lectura: 'on'
+    significado: Universidad de medicina
+    mascara: '-.--'
+    frase: 兄は医(大)に通っています。
+    traduccion: Mi hermano mayor estudia en la universidad de medicina.
   - palabra: 大仏
     lectura: だいぶつ
     tipo_lectura: 'on'
@@ -42,6 +49,20 @@ palabras:
     mascara: '--.---'
     frase: (大)昔の写真を見ました。
     traduccion: Ví fotos de tiempos remotos.
+  - palabra: 大笑い
+    lectura: おおわらい
+    tipo_lectura: kun
+    significado: Carcajada, gran risa
+    mascara: '--.--.-'
+    frase: 映画を見て(大)笑いしました。
+    traduccion: Nos reímos a carcajadas viendo la película.
+  - palabra: 大筋
+    lectura: おおすじ
+    tipo_lectura: kun
+    significado: Líneas generales, resumen
+    mascara: '--.--'
+    frase: (大)筋で合意しました。
+    traduccion: Llegamos a un acuerdo en lo esencial.
   - palabra: 大船
     lectura: おおぶね
     tipo_lectura: kun
@@ -63,3 +84,10 @@ palabras:
     mascara: '--.--'
     frase: (大)雨で電車が止まりました。
     traduccion: Por la lluvia torrencial se pararon los trenes.
+  - palabra: 大箱
+    lectura: おおばこ
+    tipo_lectura: kun
+    significado: Caja grande
+    mascara: '--.--'
+    frase: (大)箱を二つ運びました。
+    traduccion: Transporté dos cajas grandes.

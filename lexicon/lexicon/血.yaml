@@ -1,0 +1,16 @@
+id: 血
+palabras:
+  - palabra: 白血病
+    lectura: はっけつびょう
+    tipo_lectura: 'on'
+    significado: Leucemia
+    mascara: '-------..'
+    frase: 白(血)病の治療を受けています。
+    traduccion: Estoy en tratamiento contra la leucemia.
+  - palabra: 血管
+    lectura: けっかん
+    tipo_lectura: 'on'
+    significado: Vaso sanguíneo
+    mascara: '----.'
+    frase: (血)管が細くなっています。
+    traduccion: Los vasos sanguíneos se han estrechado.
