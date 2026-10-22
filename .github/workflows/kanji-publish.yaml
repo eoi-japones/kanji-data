@@ -28,6 +28,8 @@ jobs:
       - run: npm install js-yaml
       - name: Empaquetar kanjis
         run: node .github/merger.js
+      - name: Limpiar assets sin referencia en docs
+        run: node .github/limpiar-docs.js
       - name: Calcular nombre de rama
         id: step-branch
         run: echo "::set-output name=branch::new-release/kanjis"
