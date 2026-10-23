@@ -1,0 +1,45 @@
+name: Limpieza de assets sin referencia en docs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/index.html'
+      - 'docs/404.html'
+      - 'docs/assets/**'
+  workflow_dispatch:
+
+jobs:
+  limpiar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Eliminar assets sin referencia
+        run: node .github/limpiar-docs.js
+
+      - name: 📝 Create Pull Request with the Cleanup 🚀
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'chore(docs): limpiar assets sin referencia'
+          title: '[Automated] Limpiar assets sin referencia en docs'
+          body: |
+            Elimina de `docs/assets` los bundles e imágenes que ninguna versión
+            publicada referencia.
+
+            Cada publicación de la web añade un bundle con hash nuevo
+            (`index-*.js/css`, `mqtt.esm-*.js`) sin borrar el anterior, de modo
+            que los assets acumulados acaban pesando más que la propia web. Este
+            PR retira los que no referencia la versión viva (`docs/index.html` y
+            `docs/404.html`).
+          branch: auto-update/limpiar-docs
+          base: main
+          delete-branch: true
