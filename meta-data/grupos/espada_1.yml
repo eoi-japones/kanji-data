@@ -2,7 +2,7 @@ id: espada_1
 nombre: "Espada y Corte I"
 descripcion: >
   Primer grupo dedicado a los kanjis relacionados con la espada, el filo, el corte y todo lo que implica separar con precisión.
-icono: "https://www.svgrepo.com/download/512112/sword.svg"
+icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/espada_1.jpg"
 integrantes:
   - 刃    
   - 切    # cortar
