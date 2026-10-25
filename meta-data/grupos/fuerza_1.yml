@@ -1,0 +1,29 @@
+id: fuerza_1
+nombre: "Fuerza y Esfuerzo"
+descripcion: >
+  Los kanji que se componen de la fuerza (力): el esfuerzo, la fatiga y la ayuda,
+  y quien logra, ejercita, recluta o convence.
+integrantes:
+  - 功
+  - 加
+  - 劣
+  - 助
+  - 努
+  - 励
+  - 労
+  - 勉
+  - 募
+  - 勢
+  - 勧
+  - 虜
+auxiliares:
+  - id: 且
+    para: 助
+  - id: 棚
+    para: 助
+  - id: 奴
+    para: 努
+  - id: 坴
+    para: 勢
+  - id: 虎
+    para: 虜

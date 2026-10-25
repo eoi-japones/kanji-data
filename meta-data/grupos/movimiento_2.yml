@@ -1,0 +1,37 @@
+id: movimiento_2
+nombre: "Movimiento II"
+descripcion: >
+  Los kanji que se componen del camino (⻌): recorrer, cruzar, escapar, ir deprisa
+  o andar lejos de casa.
+integrantes:
+  - 辺
+  - 辻
+  - 巡
+  - 迫
+  - 逃
+  - 逆
+  - 逐
+  - 速
+  - 連
+  - 週
+  - 遊
+  - 遍
+  - 過
+  - 遠
+  - 適
+  - 遭
+auxiliares:
+  - id: 巛
+    para: 巡
+  - id: "#cabra_montesa"
+    para: 逆
+  - id: 束
+    para: 速
+  - id: 扁
+    para: 遍
+  - id: 咼
+    para: 過
+  - id: 啇
+    para: 適
+  - id: 曹
+    para: 遭
