@@ -1,8 +1,10 @@
 name: Limpieza de assets sin referencia en docs
 
 on:
-  push:
-    branches: [main]
+  pull_request:
+    branches:
+      - main
+    types: [closed]
     paths:
       - 'docs/index.html'
       - 'docs/404.html'
