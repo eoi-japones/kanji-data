@@ -1,0 +1,19 @@
+id: cereales_1
+nombre: "Grano y Campo"
+descripcion: >
+  El grano y el campo que lo da: la harina y sus calidades, el arrozal y su
+  surco, la cebada, el otoño de la cosecha y lo que el campo cuesta y rinde.
+integrantes:
+  - 粉
+  - 粗
+  - 精
+  - 耕
+  - 畔
+  - 畝
+  - 麦
+  - 秋
+  - 租
+  - 稼
+auxiliares:
+  - id: 井
+    para: 耕

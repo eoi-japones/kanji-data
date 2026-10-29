@@ -1,0 +1,18 @@
+id: partes_cuerpo_4
+nombre: "Cuerpo Humano IV: Grasa y Vena"
+descripcion: >
+  El cuerpo por dentro, segunda tanda: la placenta y la obesidad, la grasa, la
+  axila y la vena — la carne que se guarda y la que fluye.
+integrantes:
+  - 胞
+  - 肪
+  - 脂
+  - 脇
+  - 脈
+auxiliares:
+  - id: 包
+    para: 胞
+  - id: 旨
+    para: 脂
+  - id: 𠂢
+    para: 脈

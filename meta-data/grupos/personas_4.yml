@@ -1,0 +1,20 @@
+id: personas_4
+nombre: "Personas IV: Mujer y Matrimonio"
+descripcion: >
+  Los kanji del matrimonio y su familia: la esposa y el matrimonio, el embarazo,
+  el gusto y el gesto ruidoso.
+integrantes:
+  - 好
+  - 妊
+  - 妥
+  - 妻
+  - 姦
+  - 姻
+  - 娠
+auxiliares:
+  - id: "#rastrillo"
+    para: 妻
+  - id: 因
+    para: 姻
+  - id: 辰
+    para: 娠

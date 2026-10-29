@@ -1,0 +1,21 @@
+id: personas_5
+nombre: "Personas V: Novias y Novios"
+descripcion: >
+  El resto del clúster de la mujer: la abuelita y el novio, la novia y la
+  esposa legítima, la atractiva y la muchacha.
+integrantes:
+  - 婆
+  - 婿
+  - 媛
+  - 嫁
+  - 嫡
+  - 嬌
+  - 嬢
+  - 姿
+auxiliares:
+  - id: 波
+    para: 婆
+  - id: 疋
+    para: 婿
+  - id: 爰
+    para: 媛

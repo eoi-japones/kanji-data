@@ -1,0 +1,17 @@
+id: mente_3
+nombre: "Mente y Sentimientos III"
+descripcion: >
+  El sentir hacia fuera: el amor y el placer, la indignación y lo sociable, el
+  bolsillo donde se guarda.
+integrantes:
+  - 愛
+  - 愉
+  - 憤
+  - 懇
+  - 懐
+  - 寧
+auxiliares:
+  - id: 賁
+    para: 憤
+  - id: 豸
+    para: 懇

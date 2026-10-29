@@ -1,0 +1,23 @@
+id: dinero_3
+nombre: "Dinero III: El Mercado"
+descripcion: >
+  El dinero en movimiento del mercado: los bienes y su carga, el soborno y la
+  suscripción, el premio, la recaudación y el fracaso.
+integrantes:
+  - 敗
+  - 貨
+  - 販
+  - 賄
+  - 資
+  - 賦
+  - 賭
+  - 購
+  - 賀
+  - 賞
+auxiliares:
+  - id: 有
+    para: 賄
+  - id: 次
+    para: 資
+  - id: 武
+    para: 賦
