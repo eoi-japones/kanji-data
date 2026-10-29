@@ -1,0 +1,33 @@
+id: flores_y_verduras_2
+nombre: "Flores y Verduras II"
+descripcion: >
+  Los kanji que se componen del vegetal (艹): plantas del curso —zarza, caña,
+  crisantemo, anea, alforfón, leña— y los objetos e ideas que cuelgan de esa pieza.
+integrantes:
+  - 塔
+  - 寛
+  - 満
+  - 若
+  - 茨
+  - 荘
+  - 荷
+  - 荻
+  - 菊
+  - 蒲
+  - 蕎
+  - 薄
+  - 薪
+  - 革
+auxiliares:
+  - id: 見
+    para: 寛
+  - id: 両
+    para: 満
+  - id: 何
+    para: 荷
+  - id: 米
+    para: 菊
+  - id: 浦
+    para: 蒲
+  - id: 新
+    para: 薪
