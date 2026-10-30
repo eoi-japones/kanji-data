@@ -1,7 +1,8 @@
-id: basico-4
-nombre: "Kanjis Básicos 4"
+id: intermedio-1
+nombre: "Kanjis Intermedios 1"
 descripcion: |
-  En este iter vamos a profundizar en algunos grupos ya introducidos y hablar mucho más de acciones. 
+  En este itinerario intermedio profundizamos en grupos ya introducidos y
+  trabajamos mucho más las acciones.
 iter:
   - dinero_2
   - salud_1
