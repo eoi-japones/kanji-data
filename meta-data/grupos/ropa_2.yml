@@ -1,0 +1,21 @@
+id: ropa_2
+nombre: "Ropa y Vestimenta II"
+descripcion: >
+  La tela y lo que se hace con ella: la tela misma y la vela, la faja y el
+  sombrero, el rollo, la cortina y el efectivo.
+integrantes:
+  - 布
+  - 帆
+  - 帯
+  - 帳
+  - 帽
+  - 幅
+  - 幕
+  - 幣
+auxiliares:
+  - id: 丗
+    para: 帯
+  - id: 冒
+    para: 帽
+  - id: 敝
+    para: 幣

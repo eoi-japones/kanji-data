@@ -1,0 +1,19 @@
+id: palabras_2
+nombre: "Palabras II: Decir y Certificar"
+descripcion: >
+  Los actos de decir y de asegurar lo dicho: instruir, visitar, traducir,
+  permitir, certificar, recitar y la sinceridad y el cumpleaños que cierran.
+integrantes:
+  - 訓
+  - 訪
+  - 設
+  - 許
+  - 訳
+  - 証
+  - 詞
+  - 詠
+  - 誠
+  - 誕
+auxiliares:
+  - id: 司
+    para: 詞

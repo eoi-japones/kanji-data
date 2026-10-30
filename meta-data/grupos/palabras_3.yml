@@ -1,0 +1,23 @@
+id: palabras_3
+nombre: "Palabras III: Examinar y Deliberar"
+descripcion: >
+  Los actos que ponen a prueba el lenguaje: el examen y el documento, el error y
+  el rumor, la discusión y el argumento, la consulta y la deliberación.
+integrantes:
+  - 試
+  - 誌
+  - 誤
+  - 説
+  - 談
+  - 請
+  - 論
+  - 諭
+  - 諮
+  - 議
+auxiliares:
+  - id: 式
+    para: 試
+  - id: 呉
+    para: 誤
+  - id: 義
+    para: 議

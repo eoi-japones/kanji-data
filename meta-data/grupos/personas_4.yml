@@ -1,0 +1,22 @@
+id: personas_4
+nombre: "Personas IV: El vínculo y la familia"
+descripcion: >
+  Dos personas se gustan (好) y se tratan con amabilidad (妥). Un día deciden
+  unir sus vidas (姻) y compartir la casa (妻), entre los ruidos y las risas de
+  cada día (姦). Cuando quieren ampliar la familia llegan la espera y el
+  embarazo (妊, 娠). Así crece un vínculo que se convierte en hogar.
+integrantes:
+  - 好
+  - 妊
+  - 妥
+  - 妻
+  - 姦
+  - 姻
+  - 娠
+auxiliares:
+  - id: "#rastrillo"
+    para: 妻
+  - id: 因
+    para: 姻
+  - id: 辰
+    para: 娠

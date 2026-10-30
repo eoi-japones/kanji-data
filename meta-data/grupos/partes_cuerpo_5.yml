@@ -1,0 +1,20 @@
+id: partes_cuerpo_5
+nombre: "Cuerpo Humano V: Sangre y Verbos"
+descripcion: >
+  El cuerpo por dentro, tercera tanda: la membrana, el abdomen y la sangre, y
+  los verbos que el cuerpo hace consigo mismo.
+integrantes:
+  - 脅
+  - 脱
+  - 脹
+  - 腐
+  - 腹
+  - 膜
+  - 血
+auxiliares:
+  - id: 長
+    para: 脹
+  - id: 复
+    para: 腹
+  - id: 皿
+    para: 血

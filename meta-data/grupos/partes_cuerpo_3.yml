@@ -1,0 +1,21 @@
+id: partes_cuerpo_3
+nombre: "Cuerpo Humano III: Entrañas"
+descripcion: >
+  El cuerpo por dentro, primera tanda: la piel y la extremidad, el pulmón y el
+  estómago, la vesícula y el tronco.
+integrantes:
+  - 肌
+  - 肢
+  - 肯
+  - 肺
+  - 胃
+  - 胆
+  - 背
+  - 胴
+auxiliares:
+  - id: 几
+    para: 肌
+  - id: 風
+    para: 肌
+  - id: 支
+    para: 肢

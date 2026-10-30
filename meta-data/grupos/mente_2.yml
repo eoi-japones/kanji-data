@@ -1,0 +1,19 @@
+id: mente_2
+nombre: "Mente y Sentimientos II"
+descripcion: >
+  Los estados del sentir: la resolución y la lealtad, el deseo y la ira, la
+  vergüenza, la iluminación y lo malo.
+integrantes:
+  - 志
+  - 忠
+  - 念
+  - 怒
+  - 恥
+  - 息
+  - 悟
+  - 悠
+  - 悪
+  - 情
+auxiliares:
+  - id: 亜
+    para: 悪

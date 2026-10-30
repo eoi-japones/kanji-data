@@ -1,0 +1,19 @@
+id: palabras_4
+nombre: "Palabras IV: Conferencia y Corte"
+descripcion: >
+  El lenguaje de la institución: la audiencia y la conferencia, la partitura y
+  la amonestación, la deferencia y el consentimiento.
+integrantes:
+  - 謁
+  - 講
+  - 譜
+  - 警
+  - 譲
+  - 諾
+auxiliares:
+  - id: 冓
+    para: 講
+  - id: 普
+    para: 譜
+  - id: 敬
+    para: 警
