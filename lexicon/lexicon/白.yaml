@@ -1,5 +1,12 @@
 id: 白
 palabras:
+  - palabra: 白菊
+    lectura: しらぎく
+    tipo_lectura: kun
+    significado: Crisantemo blanco
+    mascara: '--.--'
+    frase: (白)菊を一輪飾りました。
+    traduccion: Puse un crisantemo blanco de adorno.
   - palabra: 白血病
     lectura: はっけつびょう
     tipo_lectura: 'on'

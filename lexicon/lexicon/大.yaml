@@ -84,6 +84,13 @@ palabras:
     mascara: '--.--'
     frase: (大)雨で電車が止まりました。
     traduccion: Por la lluvia torrencial se pararon los trenes.
+  - palabra: 寛大
+    lectura: かんだい
+    tipo_lectura: 'on'
+    significado: Tolerante, generoso, indulgente
+    mascara: '--.--'
+    frase: 先生はとても寛(大)な人です。
+    traduccion: El profesor es una persona muy tolerante.
   - palabra: 大箱
     lectura: おおばこ
     tipo_lectura: kun

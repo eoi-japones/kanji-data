@@ -49,6 +49,13 @@ palabras:
     mascara: '--.--'
     frase: 毎(月)、家賃を払います。
     traduccion: Pago el alquiler todos los meses.
+  - palabra: 満月
+    lectura: まんげつ
+    tipo_lectura: 'on'
+    significado: Luna llena
+    mascara: '--.--'
+    frase: 今夜は満(月)がとてもきれいです。
+    traduccion: Esta noche la luna llena está muy bonita.
   - palabra: 宵月
     lectura: よいづき
     tipo_lectura: kun

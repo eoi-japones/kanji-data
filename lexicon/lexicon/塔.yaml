@@ -1,0 +1,30 @@
+id: 塔
+palabras:
+  - palabra: 塔
+    lectura: とう
+    tipo_lectura: 'on'
+    significado: Torre, campanario, aguja
+    mascara: '--'
+    frase: 駅の前に古い(塔)があります。
+    traduccion: Hay una torre antigua delante de la estación.
+  - palabra: 管制塔
+    lectura: かんせいとう
+    tipo_lectura: 'on'
+    significado: Torre de control
+    mascara: '--.--.--'
+    frase: 管制(塔)が見えます。
+    traduccion: Se ve la torre de control.
+  - palabra: 時計塔
+    lectura: とけいとう
+    tipo_lectura: 'on'
+    significado: Torre del reloj
+    mascara: '-.--.--'
+    frase: 町の時計(塔)が五時に鳴ります。
+    traduccion: La torre del reloj del pueblo suena a las cinco.
+  - palabra: 鉄塔
+    lectura: てっとう
+    tipo_lectura: kun
+    significado: Torre de acero, torre eléctrica
+    mascara: '----.'
+    frase: 山の上に高い鉄(塔)が見えます。
+    traduccion: En lo alto de la montaña se ve una torre de acero alta.

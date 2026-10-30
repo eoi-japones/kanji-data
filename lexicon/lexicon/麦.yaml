@@ -1,0 +1,23 @@
+id: 麦
+palabras:
+  - palabra: 蕎麦
+    lectura: そば
+    tipo_lectura: kun
+    significado: Soba, trigo sarraceno
+    mascara: '--.'
+    frase: 昼は駅の近くで蕎(麦)を食べます。
+    traduccion: Al mediodía como soba cerca de la estación.
+  - palabra: かけ蕎麦
+    lectura: かけそば
+    tipo_lectura: kun
+    significado: Kake soba, soba en caldo caliente
+    mascara: '-.-.--.'
+    frase: 寒い朝はかけ蕎(麦)を注文します。
+    traduccion: En las mañanas frías pido kake soba.
+  - palabra: ざる蕎麦
+    lectura: ざるそば
+    tipo_lectura: kun
+    significado: Zaru soba, soba fría escurrida
+    mascara: '-.-.--.'
+    frase: 暑い日は冷たいざる蕎(麦)がいいです。
+    traduccion: En los días calurosos, un zaru soba frío es lo mejor.

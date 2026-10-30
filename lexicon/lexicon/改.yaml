@@ -7,6 +7,13 @@ palabras:
     mascara: '--.--'
     frase: 台所を(改)築しました。
     traduccion: Reformamos la cocina.
+  - palabra: 改革
+    lectura: かいかく
+    tipo_lectura: 'on'
+    significado: Reforma, reorganización
+    mascara: '--.--'
+    frase: 会社で新しい(改)革が始まりました。
+    traduccion: Ha comenzado una nueva reforma en la empresa.
   - palabra: 改善策
     lectura: かいぜんさく
     tipo_lectura: 'on'

@@ -14,6 +14,13 @@ palabras:
     mascara: '--.--'
     frase: (山)寺の鐘が聞こえます。
     traduccion: Se oye la campana del templo de la montaña.
+  - palabra: 山荘
+    lectura: さんそう
+    tipo_lectura: 'on'
+    significado: Casa de montaña, refugio
+    mascara: '--.--'
+    frase: 週末は(山)荘で静かに休みます。
+    traduccion: Los fines de semana descanso tranquilamente en la casa de montaña.
   - palabra: 山菜
     lectura: さんさい
     tipo_lectura: 'on'

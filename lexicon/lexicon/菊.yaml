@@ -1,0 +1,23 @@
+id: 菊
+palabras:
+  - palabra: 白菊
+    lectura: しらぎく
+    tipo_lectura: 'on'
+    significado: Crisantemo blanco
+    mascara: '--.--'
+    frase: 白(菊)を一輪飾りました。
+    traduccion: Puse un crisantemo blanco de adorno.
+  - palabra: 菊
+    lectura: きく
+    tipo_lectura: 'on'
+    significado: Crisantemo
+    mascara: '--'
+    frase: 庭に(菊)の花が咲いています。
+    traduccion: En el jardín están floreciendo crisantemos.
+  - palabra: 菊見
+    lectura: きくみ
+    tipo_lectura: 'on'
+    significado: Contemplación de crisantemos
+    mascara: '--.-'
+    frase: 秋に家族で(菊)見に行きます。
+    traduccion: En otoño voy a ver crisantemos con mi familia.

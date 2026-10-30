@@ -1,0 +1,16 @@
+id: 荘
+palabras:
+  - palabra: 別荘
+    lectura: べっそう
+    tipo_lectura: kun
+    significado: Casa de vacaciones, villa
+    mascara: '----.'
+    frase: 夏は海の近くの別(荘)で過ごします。
+    traduccion: En verano paso el tiempo en una villa cerca del mar.
+  - palabra: 山荘
+    lectura: さんそう
+    tipo_lectura: 'on'
+    significado: Casa de montaña, refugio
+    mascara: '--.--'
+    frase: 週末は山(荘)で静かに休みます。
+    traduccion: Los fines de semana descanso tranquilamente en la casa de montaña.

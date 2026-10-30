@@ -84,6 +84,13 @@ palabras:
     mascara: '-.--.-'
     frase: 入館の(手)続きをしてください。
     traduccion: Haga el trámite de acceso.
+  - palabra: 手荷物
+    lectura: てにもつ
+    tipo_lectura: kun
+    significado: Equipaje de mano
+    mascara: '-.-.--'
+    frase: (手)荷物はここに置いてください。
+    traduccion: Deje el equipaje de mano aquí, por favor.
   - palabra: 手話
     lectura: しゅわ
     tipo_lectura: 'on'

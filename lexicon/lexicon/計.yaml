@@ -56,3 +56,10 @@ palabras:
     mascara: '--.--'
     frase: 電車賃を(計)算しました。
     traduccion: Calculé el billete del tren.
+  - palabra: 時計塔
+    lectura: とけいとう
+    tipo_lectura: 'on'
+    significado: Torre del reloj
+    mascara: '-.--.--'
+    frase: 町の時(計)塔が五時に鳴ります。
+    traduccion: La torre del reloj del pueblo suena a las cinco.

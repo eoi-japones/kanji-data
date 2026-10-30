@@ -1,0 +1,23 @@
+id: 革
+palabras:
+  - palabra: 改革
+    lectura: かいかく
+    tipo_lectura: 'on'
+    significado: Reforma, reorganización
+    mascara: '--.--'
+    frase: 会社で新しい改(革)が始まりました。
+    traduccion: Ha comenzado una nueva reforma en la empresa.
+  - palabra: 革
+    lectura: かわ
+    tipo_lectura: kun
+    significado: Cuero, piel
+    mascara: '--'
+    frase: このかばんは本物の(革)です。
+    traduccion: Esta bolsa es de cuero auténtico.
+  - palabra: 革靴
+    lectura: かわぐつ
+    tipo_lectura: kun
+    significado: Zapatos de cuero
+    mascara: '--.--'
+    frase: 父は黒い(革)靴を履いています。
+    traduccion: Mi padre lleva zapatos de cuero negros.

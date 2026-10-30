@@ -7,6 +7,13 @@ palabras:
     mascara: '-.---'
     frase: 手術のあと癒(着)しました。
     traduccion: Tras la operación se produjo una adherencia.
+  - palabra: 薄着
+    lectura: うすぎ
+    tipo_lectura: kun
+    significado: Ir ligero de ropa
+    mascara: '--.-'
+    frase: 春は薄(着)で出かけられます。
+    traduccion: En primavera se puede salir con ropa ligera.
   - palabra: 笠に着る
     lectura: かさにきる
     tipo_lectura: kun

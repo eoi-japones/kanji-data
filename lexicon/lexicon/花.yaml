@@ -28,3 +28,10 @@ palabras:
     mascara: '--.--'
     frase: (花)笠をかぶって踊ります。
     traduccion: Bailamos con sombreros adornados de flores.
+  - palabra: 荻花
+    lectura: てきか
+    tipo_lectura: 'on'
+    significado: Flores del miscanto
+    mascara: '--.-'
+    frase: 秋になると荻(花)が風に揺れます。
+    traduccion: En otoño, las flores del miscanto se mecen con el viento.

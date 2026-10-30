@@ -1,0 +1,23 @@
+id: 薄
+palabras:
+  - palabra: 薄い
+    lectura: うすい
+    tipo_lectura: kun
+    significado: Fino, delgado; pálido; claro
+    mascara: '--.-'
+    frase: この本は(薄)いので軽いです。
+    traduccion: Este libro es fino, así que es ligero.
+  - palabra: 薄暗い
+    lectura: うすぐらい
+    tipo_lectura: kun
+    significado: Oscuro, tenue, sombrío
+    mascara: '--.--.-'
+    frase: 夕方の部屋は(薄)暗いです。
+    traduccion: La habitación está oscura al atardecer.
+  - palabra: 薄着
+    lectura: うすぎ
+    tipo_lectura: kun
+    significado: Ir ligero de ropa
+    mascara: '--.-'
+    frase: 春は(薄)着で出かけられます。
+    traduccion: En primavera se puede salir con ropa ligera.

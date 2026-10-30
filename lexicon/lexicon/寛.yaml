@@ -1,0 +1,16 @@
+id: 寛
+palabras:
+  - palabra: 寛ぐ
+    lectura: くつろぐ
+    tipo_lectura: kun
+    significado: Relajarse, sentirse como en casa
+    mascara: '---.-'
+    frase: 休みの日は家でゆっくり(寛)ぎます。
+    traduccion: Los días libres me relajo tranquilamente en casa.
+  - palabra: 寛大
+    lectura: かんだい
+    tipo_lectura: 'on'
+    significado: Tolerante, generoso, indulgente
+    mascara: '--.--'
+    frase: 先生はとても(寛)大な人です。
+    traduccion: El profesor es una persona muy tolerante.

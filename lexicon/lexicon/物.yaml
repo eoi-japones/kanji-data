@@ -7,6 +7,20 @@ palabras:
     mascara: '--.--.--'
     frase: 古い建築(物)を見に行きます。
     traduccion: Vamos a ver edificios antiguos.
+  - palabra: 手荷物
+    lectura: てにもつ
+    tipo_lectura: 'on'
+    significado: Equipaje de mano
+    mascara: '-.-.--'
+    frase: 手荷(物)はここに置いてください。
+    traduccion: Deje el equipaje de mano aquí, por favor.
+  - palabra: 荷物
+    lectura: にもつ
+    tipo_lectura: 'on'
+    significado: Equipaje, bulto
+    mascara: '-.--'
+    frase: 重い荷(物)を一人で運びました。
+    traduccion: Transporté el equipaje pesado yo solo.
   - palabra: 薬物
     lectura: やくぶつ
     tipo_lectura: 'on'

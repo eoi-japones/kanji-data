@@ -1,0 +1,16 @@
+id: 蒲
+palabras:
+  - palabra: 蒲
+    lectura: かば
+    tipo_lectura: kun
+    significado: Espadaña, anea
+    mascara: '--'
+    frase: 池のそばに(蒲)が生えています。
+    traduccion: Junto al estanque crecen espadañas.
+  - palabra: 蒲焼
+    lectura: かばやき
+    tipo_lectura: kun
+    significado: Kabayaki, anguila asada a la parrilla
+    mascara: '--.--'
+    frase: うなぎの(蒲)焼を初めて食べました。
+    traduccion: Comí anguila a la parrilla por primera vez.

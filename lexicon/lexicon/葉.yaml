@@ -28,6 +28,13 @@ palabras:
     mascara: '-.-.--'
     frase: 旅行先から絵(葉)書を送りました。
     traduccion: Envié una postal desde el lugar de vacaciones.
+  - palabra: 若葉
+    lectura: わかば
+    tipo_lectura: kun
+    significado: Hojas nuevas, brotes
+    mascara: '--.-'
+    frase: 春になると木に若(葉)が出ます。
+    traduccion: Cuando llega la primavera, salen hojas nuevas en los árboles.
   - palabra: 話し言葉
     lectura: はなしことば
     tipo_lectura: kun

@@ -1,0 +1,23 @@
+id: 若
+palabras:
+  - palabra: 若い
+    lectura: わかい
+    tipo_lectura: kun
+    significado: Joven
+    mascara: '--.-'
+    frase: 祖父は八十歳ですが、とても(若)いです。
+    traduccion: Mi abuelo tiene ochenta años, pero es muy joven.
+  - palabra: 若者
+    lectura: わかもの
+    tipo_lectura: kun
+    significado: Joven, persona joven
+    mascara: '--.--'
+    frase: 公園に(若)者がたくさん集まっています。
+    traduccion: Muchos jóvenes se han reunido en el parque.
+  - palabra: 若葉
+    lectura: わかば
+    tipo_lectura: kun
+    significado: Hojas nuevas, brotes
+    mascara: '--.-'
+    frase: 春になると木に(若)葉が出ます。
+    traduccion: Cuando llega la primavera, salen hojas nuevas en los árboles.

@@ -1,0 +1,23 @@
+id: 茨
+palabras:
+  - palabra: 茨
+    lectura: いばら
+    tipo_lectura: kun
+    significado: Zarza, rosal silvestre, espino
+    mascara: '---'
+    frase: 道の横に(茨)が生えています。
+    traduccion: Al lado del camino crecen zarzas.
+  - palabra: 茨の道
+    lectura: いばらのみち
+    tipo_lectura: kun
+    significado: Camino de espinas, camino difícil
+    mascara: '---.-.--'
+    frase: 研究の道は(茨)の道でした。
+    traduccion: El camino de la investigación fue un camino de espinas.
+  - palabra: 茨城
+    lectura: いばらき
+    tipo_lectura: kun
+    significado: Ibaraki (prefectura)
+    mascara: '----.'
+    frase: 友だちは(茨)城に住んでいます。
+    traduccion: Mi amigo vive en Ibaraki.

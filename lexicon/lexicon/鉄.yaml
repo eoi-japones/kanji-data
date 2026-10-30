@@ -35,3 +35,10 @@ palabras:
     mascara: '--.--'
     frase: 父は(鉄)道会社で働いています。
     traduccion: Mi padre trabaja en una compañía de ferrocarriles.
+  - palabra: 鉄塔
+    lectura: てっとう
+    tipo_lectura: kun
+    significado: Torre de acero, torre eléctrica
+    mascara: '----.'
+    frase: 山の上に高い(鉄)塔が見えます。
+    traduccion: En lo alto de la montaña se ve una torre de acero alta.

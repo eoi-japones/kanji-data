@@ -91,6 +91,13 @@ palabras:
     mascara: '-.--'
     frase: (時)疫が流行しています。
     traduccion: Hay una epidemia en curso.
+  - palabra: 時計塔
+    lectura: とけいとう
+    tipo_lectura: kun
+    significado: Torre del reloj
+    mascara: '-.--.--'
+    frase: 町の(時)計塔が五時に鳴ります。
+    traduccion: La torre del reloj del pueblo suena a las cinco.
   - palabra: 買い時
     lectura: かいどき
     tipo_lectura: kun

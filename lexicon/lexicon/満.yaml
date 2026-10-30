@@ -1,0 +1,23 @@
+id: 満
+palabras:
+  - palabra: 満員
+    lectura: まんいん
+    tipo_lectura: 'on'
+    significado: Lleno, completo, sin plazas
+    mascara: '--.--'
+    frase: 朝の電車はいつも(満)員です。
+    traduccion: El tren de la mañana siempre va lleno.
+  - palabra: 満月
+    lectura: まんげつ
+    tipo_lectura: 'on'
+    significado: Luna llena
+    mascara: '--.--'
+    frase: 今夜は(満)月がとてもきれいです。
+    traduccion: Esta noche la luna llena está muy bonita.
+  - palabra: 満足
+    lectura: まんぞく
+    tipo_lectura: 'on'
+    significado: Satisfacción, contento
+    mascara: '--.--'
+    frase: 今の生活に(満)足しています。
+    traduccion: Estoy satisfecho con mi vida actual.

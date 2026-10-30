@@ -28,6 +28,13 @@ palabras:
     mascara: '-.-'
     frase: 毎週パンを(焼)きます。
     traduccion: Horneo pan todas las semanas.
+  - palabra: 蒲焼
+    lectura: かばやき
+    tipo_lectura: kun
+    significado: Kabayaki, anguila asada a la parrilla
+    mascara: '--.--'
+    frase: うなぎの蒲(焼)を初めて食べました。
+    traduccion: Comí anguila a la parrilla por primera vez.
   - palabra: 霜焼け
     lectura: しもやけ
     tipo_lectura: kun

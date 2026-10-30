@@ -1,0 +1,16 @@
+id: 薪
+palabras:
+  - palabra: 薪
+    lectura: まき
+    tipo_lectura: kun
+    significado: Leña
+    mascara: '--'
+    frase: 冬のために(薪)を集めました。
+    traduccion: Recogí leña para el invierno.
+  - palabra: 薪ストーブ
+    lectura: まきストーブ
+    tipo_lectura: kun
+    significado: Estufa de leña
+    mascara: '------....'
+    frase: 山の家には(薪)ストーブがあります。
+    traduccion: La casa de la montaña tiene una estufa de leña.

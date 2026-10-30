@@ -1,0 +1,16 @@
+id: 荻
+palabras:
+  - palabra: 荻
+    lectura: おぎ
+    tipo_lectura: kun
+    significado: Miscanto, hierba plateada
+    mascara: '--'
+    frase: 川の岸に(荻)がたくさん生えています。
+    traduccion: En la orilla del río crece mucho miscanto.
+  - palabra: 荻花
+    lectura: てきか
+    tipo_lectura: 'on'
+    significado: Flores del miscanto
+    mascara: '--.-'
+    frase: 秋になると(荻)花が風に揺れます。
+    traduccion: En otoño, las flores del miscanto se mecen con el viento.

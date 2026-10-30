@@ -35,6 +35,13 @@ palabras:
     mascara: '----.'
     frase: 雑誌に(別)冊が付いています。
     traduccion: La revista viene con un suplemento aparte.
+  - palabra: 別荘
+    lectura: べっそう
+    tipo_lectura: kun
+    significado: Casa de vacaciones, villa
+    mascara: '----.'
+    frase: 夏は海の近くの(別)荘で過ごします。
+    traduccion: En verano paso el tiempo en una villa cerca del mar.
   - palabra: 別項
     lectura: べっこう
     tipo_lectura: 'on'

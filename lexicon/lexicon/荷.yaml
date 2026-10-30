@@ -1,0 +1,23 @@
+id: 荷
+palabras:
+  - palabra: 手荷物
+    lectura: てにもつ
+    tipo_lectura: kun
+    significado: Equipaje de mano
+    mascara: '-.-.--'
+    frase: 手(荷)物はここに置いてください。
+    traduccion: Deje el equipaje de mano aquí, por favor.
+  - palabra: 荷台
+    lectura: にだい
+    tipo_lectura: kun
+    significado: Plataforma de carga, portaequipajes
+    mascara: '-.--'
+    frase: 自転車の(荷)台にかばんを載せます。
+    traduccion: Pongo la bolsa en el portaequipajes de la bicicleta.
+  - palabra: 荷物
+    lectura: にもつ
+    tipo_lectura: kun
+    significado: Equipaje, bulto
+    mascara: '-.--'
+    frase: 重い(荷)物を一人で運びました。
+    traduccion: Transporté el equipaje pesado yo solo.
