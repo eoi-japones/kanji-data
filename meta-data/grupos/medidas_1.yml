@@ -20,6 +20,10 @@ integrantes:
   - 厘
   - 丸
 
-auxiliares: []
+auxiliares:
+  - id: 隹
+    para: 曜
+  - id: 羽
+    para: 曜
 
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/medidas_1.jpg"
