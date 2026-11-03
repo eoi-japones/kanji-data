@@ -1,0 +1,11 @@
+id: 夫
+clave: Marido
+historia: >
+  Vemos el kanji tradicional de marido visto como "el cabeza de familia". 
+  Es el kanji de grande (大) con un trazo más, quiere ser uno (一) y grande (大) para su familia.
+
+componentes:
+  - grande
+  - uno
+como_componente: []
+solo_componente: 0
