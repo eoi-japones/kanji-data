@@ -40,8 +40,8 @@ publica una sola entidad `kanji.eoi/kana` para él. El nombre del fichero declar
 
 ## Consecuencias
 
-- Se elimina `kanas/hiragana/ち.yaml`, que era una copia de `あ.yaml`; la ficha correcta
-  de ち sigue en `kanas/hiragana/ち-hiragana.yaml`.
+- La ficha de ち queda en `kanas/hiragana/ち.yaml`. Ese fichero contenía una copia de `あ.yaml` con `id: あ`; ahora lleva el `id: ち` y su historia correcta.
+- Se retira `kanas/hiragana/ち-hiragana.yaml`, que era el fichero duplicado de la misma ficha. No desaparece ningún kana: ち sigue publicado una sola vez.
 - El bundle deja de publicar dos veces あ y conserva una sola ficha por carácter: pasan
   93 entidades `kanji.eoi/kana` a 92 (46 hiragana + 46 katakana).
 - Se renombra `チ -katakana.yaml` a `チ-katakana.yaml`; el `id` no cambia.
