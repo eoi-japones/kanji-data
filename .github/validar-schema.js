@@ -13,6 +13,8 @@ const {validarLexicones, validarMascarasYomi} = require("./validar-lexicones.js"
 
 const {validarPalabrasKana} = require("./validar-palabras-kana.js")
 
+const {validarKanas} = require("./validar-kanas.js")
+
 const kanaSchema = require("../schemas/kana.schema.json")
 const kanjiSchema = require("../schemas/kanji.schema.json")
 const grupoSchema = require("../schemas/grupo.schema.json")
@@ -58,6 +60,8 @@ const itinerarios = {}
 const lexicones = {}
 
 const palabrasKana = []
+
+const kanas = []
 
 utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
@@ -107,7 +111,7 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
     )
 }).then(() => {
 
-    const errores = validarMascarasYomi(gruposYomi) + validarLexicones(lexicones, kanjisPorId) + validarPalabrasKana(palabrasKana)
+    const errores = validarMascarasYomi(gruposYomi) + validarLexicones(lexicones, kanjisPorId) + validarPalabrasKana(palabrasKana) + validarKanas(kanas)
 
     if(errores != ""){
         throw `\n${errores}`
@@ -220,6 +224,12 @@ function validarFichero(kanjiData, tipo, ruta){
 
       return
   }
+  else if(tipo == "KANA"){
+
+      kanas.push({ ruta, datos: kanjiData })
+
+      return
+  }
   else if(tipo == "GRUPO"){
 
       grupos[kanjiData.id] = kanjiData
@@ -249,7 +259,7 @@ function validarFichero(kanjiData, tipo, ruta){
 
       return
   }
-  else if(tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANA" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
+  else if(tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
 
       return 
   }
