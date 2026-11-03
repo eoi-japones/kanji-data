@@ -11,6 +11,8 @@ const {validarItinerarios} = require("./validar-itinerarios.js")
 
 const {validarLexicones, validarMascarasYomi} = require("./validar-lexicones.js")
 
+const {validarPalabrasKana} = require("./validar-palabras-kana.js")
+
 const kanaSchema = require("../schemas/kana.schema.json")
 const kanjiSchema = require("../schemas/kanji.schema.json")
 const grupoSchema = require("../schemas/grupo.schema.json")
@@ -27,6 +29,10 @@ const lexiconSchema = require("../schemas/lexicon.schema.json")
 
 const lexiconExcepcionesSchema = require("../schemas/lexicon-excepciones.schema.json")
 
+const palabraKanaSchema = require("../schemas/palabra-kana.schema.json")
+
+const PALABRA_KANA_DIR = process.env["PALABRA_KANA_DIR"] || "vocabulario/palabras-kana"
+
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
 const kanjiValidation = Ajv.compile(kanjiSchema)
@@ -38,6 +44,7 @@ const kanjiHintValidation = Ajv.compile(kanjiHintSchema)
 const kanjiAlterValidation = Ajv.compile(KanjiAlterSchema)
 const lexiconValidation = Ajv.compile(lexiconSchema)
 const lexiconExcepcionesValidation = Ajv.compile(lexiconExcepcionesSchema)
+const palabraKanaValidation = Ajv.compile(palabraKanaSchema)
 
 const processors = {
     procesarEntrada,
@@ -50,6 +57,8 @@ const gruposYomi = {}
 const itinerarios = {}
 const lexicones = {}
 
+const palabrasKana = []
+
 utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
     return utiles.walk(process.env["META_DIR"], processors)
@@ -61,6 +70,10 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 }).then(() => {
     
     return utiles.walk(process.env["KANA_DIR"], processors)
+
+}).then(() => {
+
+    return utiles.walk(PALABRA_KANA_DIR, processors)
 
 }).then(() => {
 
@@ -94,7 +107,7 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
     )
 }).then(() => {
 
-    const errores = validarMascarasYomi(gruposYomi) + validarLexicones(lexicones, kanjisPorId)
+    const errores = validarMascarasYomi(gruposYomi) + validarLexicones(lexicones, kanjisPorId) + validarPalabrasKana(palabrasKana)
 
     if(errores != ""){
         throw `\n${errores}`
@@ -107,6 +120,7 @@ function determinarTipo(entrada){
 
     return (dir == "data" || dir == "componentes") ? "KANJI" :
         (dir == "kana" || dir == "hiragana" || dir == "katakana") ? "KANA" :
+        (dir == "palabras-kana") ? "PALABRA-KANA" :
         (dir == "grupos") ? "GRUPO" :
         (dir == "on") ? "GRUPO-ON" :
         (dir == "itinerarios") ? "ITER" : 
@@ -177,6 +191,8 @@ function validarFichero(kanjiData, tipo, ruta){
                       (tipo == "GRUPO-ON") ? grupoOnValidation :
 
                       (tipo == "KANA") ? kanaValidation : 
+
+                      (tipo == "PALABRA-KANA") ? palabraKanaValidation :
                   
                       (tipo == "ITER") ? itinerarioValidation : 
                       
@@ -198,7 +214,13 @@ function validarFichero(kanjiData, tipo, ruta){
     throw JSON.stringify(validador.errors, null, 4)
   }
 
-  if(tipo == "GRUPO"){
+  if(tipo == "PALABRA-KANA"){
+
+      palabrasKana.push({ ruta, datos: kanjiData })
+
+      return
+  }
+  else if(tipo == "GRUPO"){
 
       grupos[kanjiData.id] = kanjiData
 
