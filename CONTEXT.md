@@ -56,6 +56,10 @@ _Evitar_: significado, definición, biografía
 Un signo del silabario, ya sea hiragana o katakana. Comparte la estructura del kanji, incluida su historia.
 _Evitar_: letra, sílaba, carácter
 
+**Palabra de kana**:
+Palabra del matome de vocabulario cuya lectura es íntegramente kana y que se publica como artefacto propio en `vocabulario/palabras-kana/` para el examen de kana.
+_Evitar_: término de kana, palabra sin calificar
+
 ### Grupos de lectura
 
 **Grupo yomi**:

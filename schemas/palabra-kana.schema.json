@@ -1,0 +1,80 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+
+        "type": "string",
+
+        "pattern": "^[^/]+/[^/]+/.+$",
+
+        "description": "Identificador de la palabra: <nivel>/<seccion>/<palabra>, con la palabra en kana. Debe ser único en todo el paquete."
+
+      },
+
+      "palabra": {
+
+        "type": "string",
+
+        "pattern": "^[\\u3040-\\u309f\\u30a0-\\u30ff\\u30fc]+$",
+
+        "description": "La lectura completa de la palabra en kana: hiragana, katakana y prolongación ー."
+
+      },
+
+      "forma_kanji": {
+
+        "type": "string",
+
+        "minLength": 1,
+
+        "description": "La forma escrita de la palabra, con kanji si los tiene. Da nombre al archivo de imagen."
+
+      },
+
+      "significado": {
+
+        "type": "string",
+
+        "minLength": 1,
+
+        "description": "El significado de la palabra, en castellano."
+
+      },
+
+      "imagen": {
+
+        "type": "string",
+
+        "pattern": "^https://guilliman-edu\\.github\\.io/v0-jp-web/",
+
+        "description": "URL pública de la ilustración. Nunca una ruta local."
+
+      },
+
+      "nivel": {
+
+        "type": "string",
+
+        "pattern": "^[a-z0-9.]+$",
+
+        "description": "Nivel del matome del que sale la palabra, por ejemplo a2.2."
+
+      },
+
+      "seccion": {
+
+        "type": "string",
+
+        "pattern": "^s[0-9]+$",
+
+        "description": "Sección del matome, tomada de la carpeta de la imagen, por ejemplo s3."
+
+      }
+
+    },
+
+    "additionalProperties": false,
+
+    "required": ["id", "palabra", "forma_kanji", "significado", "imagen", "nivel", "seccion"]
+}

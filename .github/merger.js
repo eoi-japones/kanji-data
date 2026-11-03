@@ -11,6 +11,7 @@ const output_file = process.env["OUTPUT_FILE"] || './kanji.data'
 const DATA_DIR = process.env["DATA_DIR"] || "data"
 const META_DIR = process.env["META_DIR"] || "meta-data"
 const KANA_DIR = process.env["KANA_DIR"] || "kanas"
+const PALABRA_KANA_DIR = process.env["PALABRA_KANA_DIR"] || "vocabulario/palabras-kana"
 const YOMI_DIR = process.env["YOMI_DIR"] || "yomi"
 const KANJI_HINT_DIR = process.env["KANJI_HINT_DIR"] || "lexicon/hints-kanji"
 const PROFILES_DIR = process.env["PROFILES_DIR"] || "profiles"
@@ -26,6 +27,10 @@ walk(DATA_DIR).then(() => {
 }).then(() => {
 
     return walk(KANA_DIR)
+
+}).then(() => {
+
+    return walk(PALABRA_KANA_DIR)
 
 }).then(() => {
 
@@ -110,6 +115,11 @@ async function acumularParaFichero(datos, tipo, entrada){
           d.version = "v1"
       break
 
+      case "PALABRA-KANA":
+          d.kind = "kanji.eoi/palabra-kana"
+          d.version = "v1"
+      break
+
       case "COLABORADOR":
           d.kind = "kanji.eoi/colaborador"
           d.version = "v1"
@@ -176,6 +186,7 @@ async function walk(dir){
           (dir == "grupos") ? "GRUPO" :
           (dir == "on") ? "GRUPO-ON" :
           (dir == "kanas" || dir == "hiragana" || dir == "katakana") ? "KANA" :
+          (dir == "palabras-kana") ? "PALABRA-KANA" :
           (dir == "itinerarios") ? "ITER" : 
           (dir == "itinerarios-yomi") ? "ITER-YOMI" : 
           (dir == "colaboradores") ? "COLABORADOR" : 
