@@ -138,6 +138,18 @@ escenas:
       - tipo: imagen
         url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/anciana.webp
 
+  - id: dibuja-abuelita
+    nombre: Dibuja la abuelita
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Antes de ayudarla, dibuja el kanji de la abuelita (婆)."
+    actividades:
+      - id: dibujar-abuelita
+        nombre: Dibujar la abuelita
+        tipo: gate
+        kanji: 婆
+
   - id: manzano
     nombre: El manzano
     tipo: slide
@@ -146,3 +158,15 @@ escenas:
         texto: "Entonces la anciana le dijo al pollito que podía ayudarla en su trabajo de cuidar el país, entre manzanos y pollitos."
       - tipo: imagen
         url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/manzano.webp
+
+  - id: dibuja-manzano
+    nombre: Dibuja el manzano
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Para terminar, dibuja el kanji del manzano (檎)."
+    actividades:
+      - id: dibujar-manzano
+        nombre: Dibujar el manzano
+        tipo: gate
+        kanji: 檎
