@@ -76,7 +76,7 @@ escenas:
       - tipo: texto
         texto: "El pollito aterrizó dentro del paraguas negro de un señor."
       - tipo: imagen
-        url: https://eoi-japones.github.io/contenidos/guiones/pollito/paraguas.webpp
+        url: https://eoi-japones.github.io/contenidos/guiones/pollito/paraguas.webp
 
   - id: dibuja-codo
     nombre: Dibuja el codo
