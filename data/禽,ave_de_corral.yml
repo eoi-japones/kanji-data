@@ -1,0 +1,19 @@
+id: 禽
+clave: ave_de_corral
+historia: >-
+  Un *ave* *de* *corral* sueña con la libertad mientras el mago la usa en sus
+  espectáculos: la entierra viva con una pala (凵) y la desentierra entre
+  aplausos, siempre a la sombra de su chistera (亠). Una noche, al salir del
+  hoyo, aprovecha unos haces (乂) de luz, salta hasta el paraguas (𠆢) que
+  cuelga del cinturón (冂) de un señor y se esconde dentro. El ignorante
+  benefactor se lo lleva colgado del codo (厶) sin sospechar que dentro escapa
+  el ave.
+componentes:
+  - paraguas
+  - chistera
+  - pala
+  - haz
+  - cinturón
+  - codo
+como_componente: []
+solo_componente: 0
