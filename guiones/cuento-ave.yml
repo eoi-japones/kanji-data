@@ -212,3 +212,12 @@ escenas:
         texto: "Entonces el jarrón se abrió y de su boca salió una sierpe enorme. Se enroscó en el aire y trepó hacia la luna: era un dragón."
       - tipo: imagen
         url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/dragon.webp
+
+  - id: dragon-manzana
+    nombre: La manzana del dragón
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "La anciana volvió a su manzano y le ofreció una manzana al dragón. La inmensa cabeza asomó entre las ramas, cerró los ojos de gusto y comió de su mano."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/dragon-manzana.webp
