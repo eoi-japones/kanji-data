@@ -21,8 +21,8 @@ contenidos y el guion guarda su URL absoluta (ADR-0018 y ADR-0019 de `kanji-api`
 ## Formato
 
 ```yaml
-id: pollito
-nombre: El pollito
+id: cuento-ave
+nombre: Cuento-ave
 escenas:
   - id: jaula
     nombre: El pollito en la jaula
@@ -31,7 +31,7 @@ escenas:
       - tipo: texto
         texto: "En una jaula de alambre vivía un pollito."
       - tipo: imagen
-        url: https://eoi-japones.github.io/contenidos/guiones/pollito/jaula.webp
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/jaula.webp
     actividades:
       - id: dibujar-chistera
         nombre: Dibujar el componente chistera
