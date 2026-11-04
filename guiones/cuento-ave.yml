@@ -13,11 +13,11 @@ escenas:
         url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/jaula.webp
 
   - id: mago
-    nombre: El mago
+    nombre: El mago cruel
     tipo: slide
     partes:
       - tipo: texto
-        texto: "Un mago de chistera y bigote lo sacó de la jaula con su pala. El pollito no sabía que aquel era el principio de un viaje."
+        texto: "Un mago cruel de chistera y bigote lo usaba en su truco de magia: lo enterraba con su pala y lo sacaba «vivo» de nuevo. Era horrible."
       - tipo: imagen
         url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/mago.webp
 
