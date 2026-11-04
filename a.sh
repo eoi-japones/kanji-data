@@ -5,6 +5,7 @@ export YOMI_DIR=yomi
 export KANJI_HINT_DIR=lexicon/hints-kanji
 export LEXICON_DIR=lexicon/lexicon
 export EXCEPCIONES_DIR=lexicon/excepciones
+export GUION_DIR=guiones
 export PROFILES_DIR=profiles
 
 node .github/validar-schema.js

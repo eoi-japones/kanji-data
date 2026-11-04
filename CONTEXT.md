@@ -165,3 +165,27 @@ _Evitar_: palabra, entrada, vocablo, ítem
 **Excepción de lexicon**:
 El reparto de lectura curado para una palabra cuya lectura no se puede atribuir a sus caracteres, como un 熟字訓, o la clase de lectura que la segmentación no resuelve. Se guarda en `lexicon/excepciones/` y se publica como artefacto propio; no es un campo del lexicon.
 _Evitar_: parche, override, caso especial
+
+### Guiones de la Sesión en clase
+
+**Guion**:
+Secuencia ordenada de escenas que el profesor recorre durante una Sesión en clase. Se
+guarda como un YAML en `guiones/` y se publica como una entrada `kanji.eoi/guion` del
+bundle, con sus escenas y actividades anidadas.
+_Evitar_: itinerario, comando, presentación, script
+
+**Escena**:
+Momento del guion que se muestra como una diapositiva: un nombre, un tipo y una lista
+ordenada de partes. Hoy el único tipo es `slide`. Vive dentro de su guion.
+_Evitar_: diapositiva (sin calificar), pantalla, slide
+
+**Actividad**:
+Acción que una escena pide ejecutar, como abrir un kanji, un grupo, un lexicon o una
+pantalla, o pedir que se escriba un kanji. Es una entidad anidada en la escena, no el
+cursor de ejecución.
+_Evitar_: paso, comando, tarea, ejercicio
+
+**Barrera**:
+Actividad `escribir` que el Host no puede saltarse: el estudiante debe dibujar el kanji
+o componente indicado para que el Paso avance.
+_Evitar_: gate, bloqueo, requisito

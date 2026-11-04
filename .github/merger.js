@@ -17,6 +17,7 @@ const KANJI_HINT_DIR = process.env["KANJI_HINT_DIR"] || "lexicon/hints-kanji"
 const PROFILES_DIR = process.env["PROFILES_DIR"] || "profiles"
 const LEXICON_DIR = process.env["LEXICON_DIR"] || "lexicon/lexicon"
 const EXCEPCIONES_DIR = process.env["EXCEPCIONES_DIR"] || "lexicon/excepciones"
+const GUION_DIR = process.env["GUION_DIR"] || "guiones"
 
 const f = []
 
@@ -50,6 +51,10 @@ walk(DATA_DIR).then(() => {
 }).then(() => {
 
     return walk(EXCEPCIONES_DIR)
+
+}).then(() => {
+
+    return walk(GUION_DIR)
 
 }).then(() => {
 
@@ -146,6 +151,11 @@ async function acumularParaFichero(datos, tipo, entrada){
           d.version = "v1"
       break
 
+      case "GUION":
+          d.kind = "kanji.eoi/guion"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -193,6 +203,7 @@ async function walk(dir){
           (dir == "hints-kanji") ? "KANJI-HINT" : 
           (dir == "lexicon") ? "LEXICON" : 
           (dir == "excepciones") ? "EXCEPCION" : 
+          (dir == "guiones") ? "GUION" : 
           (dir.match(/^profile\-/)) ? "KANJI-ALTER" : 
            "DESCONOCIDO"
 

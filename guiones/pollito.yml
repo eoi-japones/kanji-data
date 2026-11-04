@@ -1,0 +1,105 @@
+id: pollito
+
+nombre: El pollito
+
+escenas:
+  - id: jaula
+    nombre: El pollito en la jaula
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "En una jaula de alambre vivía un pollito. Miraba el mundo entre los barrotes y soñaba con volar."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/pollito/jaula.webp
+
+  - id: mago
+    nombre: El mago
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Un mago de chistera y bigote lo sacó de la jaula con su pala. El pollito no sabía que aquel era el principio de un viaje."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/pollito/mago.webp
+
+  - id: dibuja-chistera
+    nombre: Dibuja la chistera
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Antes de seguir, dibuja en el lienzo el componente de la chistera (亠)."
+    actividades:
+      - id: dibujar-chistera
+        nombre: Dibujar el componente chistera
+        tipo: escribir
+        kanji: 亠
+        barrera: true
+
+  - id: dibuja-pala
+    nombre: Dibuja la pala
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Dibuja ahora el componente de la pala (凵)."
+    actividades:
+      - id: dibujar-pala
+        nombre: Dibujar el componente pala
+        tipo: escribir
+        kanji: 凵
+        barrera: true
+
+  - id: haces-de-luz
+    nombre: Haces de luz
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El pollito escapó volando hacia el público entre haces de luz."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/pollito/haces-de-luz.webp
+
+  - id: dibuja-haz
+    nombre: Dibuja el haz
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Dibuja ahora el componente del haz de luz (乂)."
+    actividades:
+      - id: dibujar-haz
+        nombre: Dibujar el componente haz
+        tipo: escribir
+        kanji: 乂
+        barrera: true
+
+  - id: paraguas
+    nombre: El paraguas
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El pollito aterrizó dentro del paraguas negro de un señor."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/pollito/paraguas.webpp
+
+  - id: dibuja-codo
+    nombre: Dibuja el codo
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Después, dibuja el componente del codo (厶)."
+    actividades:
+      - id: dibujar-codo
+        nombre: Dibujar el componente codo
+        tipo: escribir
+        kanji: 厶
+        barrera: true
+
+  - id: dibuja-paraguas
+    nombre: Dibuja el paraguas
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Y por último, dibuja el componente del paraguas (𠆢)."
+    actividades:
+      - id: dibujar-paraguas
+        nombre: Dibujar el componente paraguas
+        tipo: escribir
+        kanji: 𠆢
+        barrera: true
