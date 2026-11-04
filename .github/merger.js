@@ -17,6 +17,7 @@ const KANJI_HINT_DIR = process.env["KANJI_HINT_DIR"] || "lexicon/hints-kanji"
 const PROFILES_DIR = process.env["PROFILES_DIR"] || "profiles"
 const LEXICON_DIR = process.env["LEXICON_DIR"] || "lexicon/lexicon"
 const EXCEPCIONES_DIR = process.env["EXCEPCIONES_DIR"] || "lexicon/excepciones"
+const GUION_DIR = process.env["GUION_DIR"] || "guiones"
 
 const f = []
 
@@ -53,6 +54,10 @@ walk(DATA_DIR).then(() => {
 
 }).then(() => {
 
+    return walk(GUION_DIR)
+
+}).then(() => {
+
     return escribirEnFichero(f)
 
 }).then(() => {
@@ -68,15 +73,31 @@ async function escribirEnFichero(datos){
 
   return new Promise((ok, ko) => {
 
+    // El recorrido del sistema de ficheros no garantiza un orden estable entre
+    // hosts y contenedores. Se ordena aquí para que el bundle sea reproducible:
+    // sin esto, los kanjis con dos claves (mismo id) cambiaban de ganador.
+    const ordenados = datos.slice().sort(compararEntradas)
+
     // Se sobrescribe: el bundle es la foto completa, no un acumulado. Con
     // appendFile, una segunda ejecución dejaba dos arrays concatenados.
-    fs.writeFile(output_file, JSON.stringify(datos), 'utf-8', (err) => {
+    fs.writeFile(output_file, JSON.stringify(ordenados), 'utf-8', (err) => {
       if(err)
         return ko(err)
       else
         return ok()
     })
   })
+}
+
+function compararEntradas(a, b){
+
+  const clave = (e) => `${e.kind || ""}\u0000${e.id || ""}\u0000${e.clave || ""}\u0000${JSON.stringify(e)}`
+
+  const ca = clave(a)
+
+  const cb = clave(b)
+
+  return ca < cb ? -1 : ca > cb ? 1 : 0
 }
 
 async function acumularParaFichero(datos, tipo, entrada){
@@ -146,6 +167,11 @@ async function acumularParaFichero(datos, tipo, entrada){
           d.version = "v1"
       break
 
+      case "GUION":
+          d.kind = "kanji.eoi/guion"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -193,6 +219,7 @@ async function walk(dir){
           (dir == "hints-kanji") ? "KANJI-HINT" : 
           (dir == "lexicon") ? "LEXICON" : 
           (dir == "excepciones") ? "EXCEPCION" : 
+          (dir == "guiones") ? "GUION" : 
           (dir.match(/^profile\-/)) ? "KANJI-ALTER" : 
            "DESCONOCIDO"
 

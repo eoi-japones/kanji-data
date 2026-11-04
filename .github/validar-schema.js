@@ -33,7 +33,11 @@ const lexiconExcepcionesSchema = require("../schemas/lexicon-excepciones.schema.
 
 const palabraKanaSchema = require("../schemas/palabra-kana.schema.json")
 
+const guionSchema = require("../schemas/guion.schema.json")
+
 const PALABRA_KANA_DIR = process.env["PALABRA_KANA_DIR"] || "vocabulario/palabras-kana"
+
+const GUION_DIR = process.env["GUION_DIR"] || "guiones"
 
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
@@ -47,6 +51,7 @@ const kanjiAlterValidation = Ajv.compile(KanjiAlterSchema)
 const lexiconValidation = Ajv.compile(lexiconSchema)
 const lexiconExcepcionesValidation = Ajv.compile(lexiconExcepcionesSchema)
 const palabraKanaValidation = Ajv.compile(palabraKanaSchema)
+const guionValidation = Ajv.compile(guionSchema)
 
 const processors = {
     procesarEntrada,
@@ -58,6 +63,8 @@ const grupos = {}
 const gruposYomi = {}
 const itinerarios = {}
 const lexicones = {}
+
+const guiones = {}
 
 const palabrasKana = []
 
@@ -99,6 +106,10 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
 }).then(() => {
 
+    return process.env["GUION_DIR"] ? utiles.walk(process.env["GUION_DIR"], processors) : Promise.resolve()
+
+}).then(() => {
+
     return validarGrupos(
         grupos,
         kanjisPorId
@@ -133,6 +144,7 @@ function determinarTipo(entrada){
         (dir == "hints-kanji") ? "KANJI-HINT" : 
         (dir == "lexicon") ? "LEXICON" : 
         (dir == "excepciones") ? "EXCEPCION" : 
+        (dir == "guiones") ? "GUION" :
         (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
          "DESCONOCIDO"
 
@@ -210,6 +222,8 @@ function validarFichero(kanjiData, tipo, ruta){
 
                       (tipo == "EXCEPCION") ? lexiconExcepcionesValidation :
 
+                      (tipo == "GUION") ? guionValidation :
+
                       colaboradorValidation;
 
   if(!validador(kanjiData)){
@@ -259,6 +273,19 @@ function validarFichero(kanjiData, tipo, ruta){
 
       return
   }
+  else if(tipo == "GUION"){
+
+      if(guiones[kanjiData.id]){
+
+          throw `Guion repetido: "${kanjiData.id}"`
+      }
+
+      validarIdsGuion(kanjiData)
+
+      guiones[kanjiData.id] = kanjiData
+
+      return
+  }
   else if(tipo == "ITER-YOMI" || tipo == "COLABORADOR" || tipo == "KANJI-HINT" || tipo == "KANJI-ALTER"){
 
       return 
@@ -282,5 +309,30 @@ function validarFichero(kanjiData, tipo, ruta){
     kanjisPorId[kanjiData.id] = (previo && !previo.solo_componente) ? previo : kanjiData
   }
 
+}
+
+function validarIdsGuion(guion){
+
+    const ids = new Set([guion.id])
+
+    for(const escena of guion.escenas){
+
+        if(ids.has(escena.id)){
+
+            throw `Guion "${guion.id}": id duplicado "${escena.id}"`
+        }
+
+        ids.add(escena.id)
+
+        for(const actividad of escena.actividades || []){
+
+            if(ids.has(actividad.id)){
+
+                throw `Guion "${guion.id}": id duplicado "${actividad.id}"`
+            }
+
+            ids.add(actividad.id)
+        }
+    }
 }
 

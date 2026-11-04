@@ -1,0 +1,172 @@
+id: cuento-ave
+
+nombre: Cuento-ave
+
+escenas:
+  - id: jaula
+    nombre: El pollito en la jaula
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "En una jaula de alambre vivía un pollito. Miraba el mundo entre los barrotes y soñaba con volar."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/jaula.webp
+
+  - id: mago
+    nombre: El mago cruel
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Un mago cruel de chistera y bigote lo usaba en su truco de magia: lo enterraba con su pala y lo sacaba «vivo» de nuevo. Era horrible."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/mago.webp
+
+  - id: dibuja-chistera
+    nombre: Dibuja la chistera
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Antes de seguir, dibuja en el lienzo el componente de la chistera (亠)."
+    actividades:
+      - id: dibujar-chistera
+        nombre: Dibujar el componente chistera
+        tipo: gate
+        kanji: 亠
+
+  - id: dibuja-pala
+    nombre: Dibuja la pala
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Dibuja ahora el componente de la pala (凵)."
+    actividades:
+      - id: dibujar-pala
+        nombre: Dibujar el componente pala
+        tipo: gate
+        kanji: 凵
+
+  - id: haces-de-luz
+    nombre: Haces de luz
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El pollito escapó volando hacia el público entre haces de luz."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/haces-de-luz.webp
+
+  - id: dibuja-haz
+    nombre: Dibuja el haz
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Dibuja ahora el componente del haz de luz (乂)."
+    actividades:
+      - id: dibujar-haz
+        nombre: Dibujar el componente haz
+        tipo: gate
+        kanji: 乂
+
+  - id: paraguas
+    nombre: El paraguas
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El pollito aterrizó dentro del paraguas negro de un señor."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/paraguas.webp
+
+  - id: dibuja-codo
+    nombre: Dibuja el codo
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Después, dibuja el componente del codo (厶)."
+    actividades:
+      - id: dibujar-codo
+        nombre: Dibujar el componente codo
+        tipo: gate
+        kanji: 厶
+
+  - id: dibuja-paraguas
+    nombre: Dibuja el paraguas
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Y por último, dibuja el componente del paraguas (𠆢)."
+    actividades:
+      - id: dibujar-paraguas
+        nombre: Dibujar el componente paraguas
+        tipo: gate
+        kanji: 𠆢
+
+  - id: taberna
+    nombre: La taberna
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El señor del paraguas entró en una taberna y lo dejó colgado de un cinturón clavado en la pared. El pollito aprovechó para huir."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/taberna.webp
+
+  - id: dibuja-ave
+    nombre: Dibuja el ave de corral
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Antes de terminar el viaje, dibuja el kanji completo del ave de corral (禽)."
+    actividades:
+      - id: dibujar-ave
+        nombre: Dibujar el ave de corral
+        tipo: gate
+        kanji: 禽
+
+  - id: faro
+    nombre: El faro
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El pollito llegó hasta el puerto, donde las olas golpeaban con furia contra el faro. Allí se desesperó."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/faro.webp
+
+  - id: anciana
+    nombre: La anciana
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Entonces el pollito se encontró con una anciana que tenía la cara tan abatida por las olas del tiempo como el faro por las olas del mar."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/anciana.webp
+
+  - id: dibuja-abuelita
+    nombre: Dibuja la abuelita
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Antes de ayudarla, dibuja el kanji de la abuelita (婆)."
+    actividades:
+      - id: dibujar-abuelita
+        nombre: Dibujar la abuelita
+        tipo: gate
+        kanji: 婆
+
+  - id: manzano
+    nombre: El manzano
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Entonces la anciana le dijo al pollito que podía ayudarla en su trabajo de cuidar el país, entre manzanos y pollitos."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/manzano.webp
+
+  - id: dibuja-manzano
+    nombre: Dibuja el manzano
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Para terminar, dibuja el kanji del manzano (檎)."
+    actividades:
+      - id: dibujar-manzano
+        nombre: Dibujar el manzano
+        tipo: gate
+        kanji: 檎

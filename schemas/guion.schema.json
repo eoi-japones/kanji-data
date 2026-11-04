@@ -1,0 +1,116 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Identificador del guion (único entre guiones)"
+        },
+        "nombre": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Nombre visible del guion"
+        },
+        "escenas": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "$ref": "#/definitions/escena" }
+        }
+    },
+    "required": ["id", "nombre", "escenas"],
+    "additionalProperties": false,
+    "definitions": {
+        "parte": {
+            "oneOf": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "tipo": { "const": "texto" },
+                        "texto": { "type": "string", "minLength": 1 }
+                    },
+                    "required": ["tipo", "texto"],
+                    "additionalProperties": false
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "tipo": { "const": "imagen" },
+                        "url": {
+                            "type": "string",
+                            "pattern": "^https?://"
+                        }
+                    },
+                    "required": ["tipo", "url"],
+                    "additionalProperties": false
+                }
+            ]
+        },
+        "destino": {
+            "type": "object",
+            "properties": {
+                "tipo": {
+                    "enum": ["kanji", "grupo", "lexicon", "pantalla"]
+                },
+                "id": { "type": "string", "minLength": 1 }
+            },
+            "required": ["tipo", "id"],
+            "additionalProperties": false
+        },
+        "actividad": {
+            "oneOf": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "id": { "type": "string", "minLength": 1 },
+                        "nombre": { "type": "string", "minLength": 1 },
+                        "tipo": { "const": "abrir" },
+                        "destino": { "$ref": "#/definitions/destino" }
+                    },
+                    "required": ["id", "nombre", "tipo", "destino"],
+                    "additionalProperties": false
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "id": { "type": "string", "minLength": 1 },
+                        "nombre": { "type": "string", "minLength": 1 },
+                        "tipo": { "const": "escribir" },
+                        "kanji": { "type": "string", "minLength": 1 }
+                    },
+                    "required": ["id", "nombre", "tipo", "kanji"],
+                    "additionalProperties": false
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "id": { "type": "string", "minLength": 1 },
+                        "nombre": { "type": "string", "minLength": 1 },
+                        "tipo": { "const": "gate" },
+                        "kanji": { "type": "string", "minLength": 1 }
+                    },
+                    "required": ["id", "nombre", "tipo", "kanji"],
+                    "additionalProperties": false
+                }
+            ]
+        },
+        "escena": {
+            "type": "object",
+            "properties": {
+                "id": { "type": "string", "minLength": 1 },
+                "nombre": { "type": "string", "minLength": 1 },
+                "tipo": { "const": "slide" },
+                "partes": {
+                    "type": "array",
+                    "items": { "$ref": "#/definitions/parte" }
+                },
+                "actividades": {
+                    "type": "array",
+                    "items": { "$ref": "#/definitions/actividad" }
+                }
+            },
+            "required": ["id", "nombre", "tipo", "partes"],
+            "additionalProperties": false
+        }
+    }
+}
