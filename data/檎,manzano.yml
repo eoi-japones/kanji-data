@@ -1,0 +1,11 @@
+id: 檎
+clave: manzano
+historia: >-
+  El *manzano* (檎) es el *árbol* (木) que solo crece donde hay *aves de
+  corral* (禽): las aves abonan la tierra y picotean la fruta caída, así que
+  lejos del corral no queda más que leña.
+componentes:
+  - árbol
+  - ave_de_corral
+como_componente: []
+solo_componente: 0
