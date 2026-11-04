@@ -73,15 +73,31 @@ async function escribirEnFichero(datos){
 
   return new Promise((ok, ko) => {
 
+    // El recorrido del sistema de ficheros no garantiza un orden estable entre
+    // hosts y contenedores. Se ordena aquí para que el bundle sea reproducible:
+    // sin esto, los kanjis con dos claves (mismo id) cambiaban de ganador.
+    const ordenados = datos.slice().sort(compararEntradas)
+
     // Se sobrescribe: el bundle es la foto completa, no un acumulado. Con
     // appendFile, una segunda ejecución dejaba dos arrays concatenados.
-    fs.writeFile(output_file, JSON.stringify(datos), 'utf-8', (err) => {
+    fs.writeFile(output_file, JSON.stringify(ordenados), 'utf-8', (err) => {
       if(err)
         return ko(err)
       else
         return ok()
     })
   })
+}
+
+function compararEntradas(a, b){
+
+  const clave = (e) => `${e.kind || ""}\u0000${e.id || ""}\u0000${e.clave || ""}\u0000${JSON.stringify(e)}`
+
+  const ca = clave(a)
+
+  const cb = clave(b)
+
+  return ca < cb ? -1 : ca > cb ? 1 : 0
 }
 
 async function acumularParaFichero(datos, tipo, entrada){
