@@ -30,9 +30,8 @@ escenas:
     actividades:
       - id: dibujar-chistera
         nombre: Dibujar el componente chistera
-        tipo: escribir
+        tipo: gate
         kanji: 亠
-        barrera: true
 
   - id: dibuja-pala
     nombre: Dibuja la pala
@@ -43,9 +42,8 @@ escenas:
     actividades:
       - id: dibujar-pala
         nombre: Dibujar el componente pala
-        tipo: escribir
+        tipo: gate
         kanji: 凵
-        barrera: true
 
   - id: haces-de-luz
     nombre: Haces de luz
@@ -65,9 +63,8 @@ escenas:
     actividades:
       - id: dibujar-haz
         nombre: Dibujar el componente haz
-        tipo: escribir
+        tipo: gate
         kanji: 乂
-        barrera: true
 
   - id: paraguas
     nombre: El paraguas
@@ -87,9 +84,8 @@ escenas:
     actividades:
       - id: dibujar-codo
         nombre: Dibujar el componente codo
-        tipo: escribir
+        tipo: gate
         kanji: 厶
-        barrera: true
 
   - id: dibuja-paraguas
     nombre: Dibuja el paraguas
@@ -100,6 +96,53 @@ escenas:
     actividades:
       - id: dibujar-paraguas
         nombre: Dibujar el componente paraguas
-        tipo: escribir
+        tipo: gate
         kanji: 𠆢
-        barrera: true
+
+  - id: taberna
+    nombre: La taberna
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El señor del paraguas entró en una taberna y lo dejó colgado de un cinturón clavado en la pared. El pollito aprovechó para huir."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/taberna.webp
+
+  - id: dibuja-ave
+    nombre: Dibuja el ave de corral
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Antes de terminar el viaje, dibuja el kanji completo del ave de corral (禽)."
+    actividades:
+      - id: dibujar-ave
+        nombre: Dibujar el ave de corral
+        tipo: gate
+        kanji: 禽
+
+  - id: faro
+    nombre: El faro
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "El pollito llegó hasta el puerto, donde las olas golpeaban con furia contra el faro. Allí se desesperó."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/faro.webp
+
+  - id: anciana
+    nombre: La anciana
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Entonces el pollito se encontró con una anciana que tenía la cara tan abatida por las olas del tiempo como el faro por las olas del mar."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/anciana.webp
+
+  - id: manzano
+    nombre: El manzano
+    tipo: slide
+    partes:
+      - tipo: texto
+        texto: "Entonces la anciana le dijo al pollito que podía ayudarla en su trabajo de cuidar el país, entre manzanos y pollitos."
+      - tipo: imagen
+        url: https://eoi-japones.github.io/contenidos/guiones/cuento-ave/manzano.webp

@@ -76,8 +76,18 @@
                         "id": { "type": "string", "minLength": 1 },
                         "nombre": { "type": "string", "minLength": 1 },
                         "tipo": { "const": "escribir" },
-                        "kanji": { "type": "string", "minLength": 1 },
-                        "barrera": { "type": "boolean" }
+                        "kanji": { "type": "string", "minLength": 1 }
+                    },
+                    "required": ["id", "nombre", "tipo", "kanji"],
+                    "additionalProperties": false
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "id": { "type": "string", "minLength": 1 },
+                        "nombre": { "type": "string", "minLength": 1 },
+                        "tipo": { "const": "gate" },
+                        "kanji": { "type": "string", "minLength": 1 }
                     },
                     "required": ["id", "nombre", "tipo", "kanji"],
                     "additionalProperties": false
