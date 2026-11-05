@@ -189,3 +189,35 @@ _Evitar_: paso, comando, tarea, ejercicio
 Actividad `escribir` que el Host no puede saltarse: el estudiante debe dibujar el kanji
 o componente indicado para que el Paso avance.
 _Evitar_: gate, bloqueo, requisito
+
+### Badges de logro
+
+**Badge-logro**:
+Insignia imprimible que celebra un hito del alumno, con su foto tratada como silueta y un
+QR que abre el visor del logro. Es cosmético: no certifica el hito.
+_Evitar_: medalla, credencial, certificado
+
+**Definición de badge**:
+Entidad `kanji.eoi/badge-logro` del bundle. Se guarda como un YAML en `badges/` y describe
+el `id`, el `mensaje`, el `secreto` y, opcionalmente, la `plantilla` y el `hito`.
+_Evitar_: badge (sin calificar), plantilla
+
+**Secreto del badge**:
+Entero de la definición que entra en el checksum. Se guarda en claro y se ofusca al usarlo;
+es disuasorio, no criptográfico.
+_Evitar_: clave, contraseña, token
+
+**Checksum del badge**:
+Huella de ocho caracteres hexadecimales calculada sobre `id`, nombre recortado y secreto
+transformado. El visor la compara sin distinguir mayúsculas.
+_Evitar_: firma, hash seguro
+
+**Visor de logros**:
+Página que recibe `codigo`, `nombre` y `chk`, valida el checksum y muestra el mensaje del
+badge con la plantilla indicada en su definición.
+_Evitar_: verificador, página de logros
+
+**Silueta del badge**:
+Foto del alumno convertida en una máscara monocromática transparente, tratada en el
+dispositivo y superpuesta al centro del QR.
+_Evitar_: avatar, recorte

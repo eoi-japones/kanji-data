@@ -13,6 +13,7 @@ services:
       LEXICON_DIR: /library/lexicon/lexicon
       EXCEPCIONES_DIR: /library/lexicon/excepciones
       GUION_DIR: /library/guiones
+      BADGE_DIR: /library/badges
       PROFILES_DIR: /library/profiles
       OUTPUT_FILE: /library/docs/kanji.data
     volumes:

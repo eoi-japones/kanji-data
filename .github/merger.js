@@ -18,6 +18,7 @@ const PROFILES_DIR = process.env["PROFILES_DIR"] || "profiles"
 const LEXICON_DIR = process.env["LEXICON_DIR"] || "lexicon/lexicon"
 const EXCEPCIONES_DIR = process.env["EXCEPCIONES_DIR"] || "lexicon/excepciones"
 const GUION_DIR = process.env["GUION_DIR"] || "guiones"
+const BADGE_DIR = process.env["BADGE_DIR"] || "badges"
 
 const f = []
 
@@ -55,6 +56,10 @@ walk(DATA_DIR).then(() => {
 }).then(() => {
 
     return walk(GUION_DIR)
+
+}).then(() => {
+
+    return walk(BADGE_DIR)
 
 }).then(() => {
 
@@ -172,6 +177,11 @@ async function acumularParaFichero(datos, tipo, entrada){
           d.version = "v1"
       break
 
+      case "BADGE":
+          d.kind = "kanji.eoi/badge-logro"
+          d.version = "v1"
+      break
+
   }
 
   f.push(d)
@@ -220,6 +230,7 @@ async function walk(dir){
           (dir == "lexicon") ? "LEXICON" : 
           (dir == "excepciones") ? "EXCEPCION" : 
           (dir == "guiones") ? "GUION" : 
+          (dir == "badges") ? "BADGE" :
           (dir.match(/^profile\-/)) ? "KANJI-ALTER" : 
            "DESCONOCIDO"
 

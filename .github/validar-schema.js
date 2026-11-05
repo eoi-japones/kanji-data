@@ -34,10 +34,12 @@ const lexiconExcepcionesSchema = require("../schemas/lexicon-excepciones.schema.
 const palabraKanaSchema = require("../schemas/palabra-kana.schema.json")
 
 const guionSchema = require("../schemas/guion.schema.json")
+const badgeLogroSchema = require("../schemas/badge-logro.schema.json")
 
 const PALABRA_KANA_DIR = process.env["PALABRA_KANA_DIR"] || "vocabulario/palabras-kana"
 
 const GUION_DIR = process.env["GUION_DIR"] || "guiones"
+const BADGE_DIR = process.env["BADGE_DIR"] || "badges"
 
 const Ajv = new ajv()
 const kanaValidation = Ajv.compile(kanaSchema)
@@ -52,6 +54,7 @@ const lexiconValidation = Ajv.compile(lexiconSchema)
 const lexiconExcepcionesValidation = Ajv.compile(lexiconExcepcionesSchema)
 const palabraKanaValidation = Ajv.compile(palabraKanaSchema)
 const guionValidation = Ajv.compile(guionSchema)
+const badgeLogroValidation = Ajv.compile(badgeLogroSchema)
 
 const processors = {
     procesarEntrada,
@@ -65,6 +68,8 @@ const itinerarios = {}
 const lexicones = {}
 
 const guiones = {}
+
+const badges = {}
 
 const palabrasKana = []
 
@@ -110,6 +115,10 @@ utiles.walk(dir = process.env["DATA_DIR"], processors).then(() => {
 
 }).then(() => {
 
+    return process.env["BADGE_DIR"] ? utiles.walk(process.env["BADGE_DIR"], processors) : Promise.resolve()
+
+}).then(() => {
+
     return validarGrupos(
         grupos,
         kanjisPorId
@@ -145,6 +154,7 @@ function determinarTipo(entrada){
         (dir == "lexicon") ? "LEXICON" : 
         (dir == "excepciones") ? "EXCEPCION" : 
         (dir == "guiones") ? "GUION" :
+        (dir == "badges") ? "BADGE" :
         (dir.match(/^profile\-/)) ? "KANJI-ALTER" :
          "DESCONOCIDO"
 
@@ -224,6 +234,8 @@ function validarFichero(kanjiData, tipo, ruta){
 
                       (tipo == "GUION") ? guionValidation :
 
+                      (tipo == "BADGE") ? badgeLogroValidation :
+
                       colaboradorValidation;
 
   if(!validador(kanjiData)){
@@ -283,6 +295,17 @@ function validarFichero(kanjiData, tipo, ruta){
       validarIdsGuion(kanjiData)
 
       guiones[kanjiData.id] = kanjiData
+
+      return
+  }
+  else if(tipo == "BADGE"){
+
+      if(badges[kanjiData.id]){
+
+          throw `Badge repetido: "${kanjiData.id}"`
+      }
+
+      badges[kanjiData.id] = kanjiData
 
       return
   }

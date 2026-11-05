@@ -1,0 +1,32 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9_-]+$",
+            "description": "Identificador del badge (único entre badges)"
+        },
+        "mensaje": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Texto que muestra el visor del logro"
+        },
+        "secreto": {
+            "type": "integer",
+            "description": "Entero que entra en el checksum del QR"
+        },
+        "plantilla": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Plantilla del visor que renderiza el logro"
+        },
+        "hito": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Hito descriptivo; en este corte no se comprueba"
+        }
+    },
+    "required": ["id", "mensaje", "secreto"],
+    "additionalProperties": false
+}

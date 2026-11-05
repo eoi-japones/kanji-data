@@ -15,7 +15,8 @@ jobs:
       KANJI_HINT_DIR: lexicon/hints-kanji
       LEXICON_DIR: lexicon/lexicon
       EXCEPCIONES_DIR: lexicon/excepciones
-  GUION_DIR: guiones
+      GUION_DIR: guiones
+      BADGE_DIR: badges
       PROFILES_DIR: profiles
       proyecto: kanji-data
       git_user: 'github-actions'

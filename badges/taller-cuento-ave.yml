@@ -1,0 +1,5 @@
+id: taller-cuento-ave
+mensaje: Has completado el taller del cuento del ave. La jaula, el mago y el dragón ya forman parte de tu historia.
+secreto: 42015
+plantilla: TallerCuentoAve
+hito: taller-cuento-ave-completado
