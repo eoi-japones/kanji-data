@@ -1,0 +1,8 @@
+id: "#honda"
+clave: '*honda'
+historia: >-
+  una de las armas más antiguas con un (一) elemento duro y la goma. 
+solo_componente: 1
+componentes:
+  - uno
+como_componente: []

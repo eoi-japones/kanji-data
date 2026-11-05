@@ -1,14 +1,13 @@
 id: 龍
 clave: dragón_ancestral
 historia: >-
-  En la cima del monte, bajo la luna llena (月), un anciano agita su varita de
-  adivino (卜) sobre un jarrón (立) de barro. Del cuello del jarrón escapa el
-  *dragón* *ancestral* entre vapor y gotas: enrosca el cuerpo, alza los cuernos
-  y trepa por el cielo nocturno hasta alcanzar la luna. Desde entonces guarda la
-  montaña y solo despierta cuando la varita vuelve a llamarlo.
+  El *dragón* *ancestral* descansa dentro de un jarrón (立). En las noches de
+  luna (月) llena sale de él y asciende por el cielo nocturno con el cuerpo en
+  forma de honda. Si alcanzas a verlo, te concederá tres (三) deseos.
 componentes:
-  - varita_de_adivino
   - jarrón
   - luna
+  - honda
+  - tres
 como_componente: []
 solo_componente: 0
