@@ -1,9 +1,9 @@
 id: 龍
-clave: dragón_ancestral
+clave: dragon_ancestral
 historia: >-
   El *dragón* *ancestral* descansa dentro de un jarrón (立). En las noches de
   luna (月) llena sale de él y asciende por el cielo nocturno con el cuerpo en
-  forma de honda. Si alcanzas a verlo, te concederá tres (三) deseos.
+  forma de honda (#honda). Si alcanzas a verlo, te concederá tres (三) deseos.
 componentes:
   - jarrón
   - luna
