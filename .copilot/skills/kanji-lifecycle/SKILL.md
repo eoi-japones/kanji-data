@@ -32,6 +32,7 @@ Cualquier agente de IA **debe** seguir este orden exacto:
 
 ### Paso 3 – Aplicar Skill de Validación Previa
 - Ejecutar la skill `validar-kanji` (aunque el archivo aún no exista, validar la estructura propuesta).
+- Con el CLI de `kanji-api`, la comprobación equivalente es `kanji validate <fichero> --tipo kanji --repo <checkout>` (skill `cli-kanji-data`).
 
 ### Paso 4 – Generación / Modificación del Archivo
 - Crear o editar el archivo siguiendo **exactamente**:
@@ -39,9 +40,10 @@ Cualquier agente de IA **debe** seguir este orden exacto:
   - Ubicación: `data/` (o `data/componentes/` si es solo-componente)
   - Cumplimiento estricto del esquema `schemas/kanji.schema.json`
 - No añadir campos extra (Regla 6.2 de CONSTITUCION.md).
+- El CLI `kanji create` / `kanji edit --set campo=valor` (skill `cli-kanji-data`) es la vía recomendada: valida antes de escribir y respeta la nomenclatura.
 
 ### Paso 5 – Validación Completa Post-Generación
-- Ejecutar la skill `validar-kanji` sobre el archivo generado.
+- Ejecutar la skill `validar-kanji` sobre el archivo generado (o `kanji validate`).
 - Comprobar:
   - YAML válido y legible
   - Cumplimiento del JSON Schema
@@ -66,8 +68,16 @@ Cualquier agente de IA **debe** seguir este orden exacto:
 ## 4. Comandos recomendados
 
 ```bash
+# Skill de validación (script del repo)
+.opencode/skills/validar-kanji/validar-kanji.sh ruta/al/archivo.yml
+
+# CLI de producción (recomendado en kanji-api, ver skill `cli-kanji-data`)
+node ../kanji-api/cli/bin/run.js validate data/愛,amor.yml --tipo kanji --repo .
+node ../kanji-api/cli/bin/run.js edit kanji 愛 --set clave=amor --repo .
+
 # Validación previa (estructura)
 .opencode/skills/validar-kanji/validate-kanji.sh "propuesta"
 
 # Validación final del archivo
 .opencode/skills/validar-kanji/validate-kanji.sh data/愛, ai.yml
+```
