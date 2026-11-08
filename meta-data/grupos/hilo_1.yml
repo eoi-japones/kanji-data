@@ -1,7 +1,8 @@
 id: hilo_1
-nombre: "Hilo I"
-descripcion: >
+nombre: Hilo I
+descripcion: |
   Grupo de kanji con el radical hilo (糸), con la noción de hilo como elemento material y como principio de unión o estructura.
+icono: https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/hilo_1.jpg
 integrantes:
   - 細
   - 約
@@ -11,8 +12,7 @@ integrantes:
   - 紅
   - 紳
   - 紀
-auxiliares: 
+  - 線
+auxiliares:
   - id: 吉
     para: 結
-
-icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/hilo_1.jpg"
