@@ -1,0 +1,16 @@
+id: 知
+palabras:
+  - palabra: 予知
+    lectura: よち
+    tipo_lectura: 'on'
+    significado: Predicción, previsión
+    mascara: '-.-'
+    frase: 地震を予(知)するのは難しいです。
+    traduccion: Es difícil predecir terremotos.
+  - palabra: 知らせ
+    lectura: しらせ
+    tipo_lectura: kun
+    significado: Noticia, aviso
+    mascara: '-.-.-'
+    frase: 良い(知)らせがあります。
+    traduccion: Tengo una buena noticia.

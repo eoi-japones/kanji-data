@@ -1,0 +1,23 @@
+id: 欠
+palabras:
+  - palabra: 不可欠
+    lectura: ふかけつ
+    tipo_lectura: 'on'
+    significado: Indispensable
+    mascara: '-.-.--'
+    frase: 水は生活に不可(欠)です。
+    traduccion: El agua es indispensable para la vida.
+  - palabra: 欠如
+    lectura: けつじょ
+    tipo_lectura: 'on'
+    significado: Falta, carencia
+    mascara: '--.--'
+    frase: 睡眠の(欠)如は体に悪いです。
+    traduccion: La falta de sueño es mala para el cuerpo.
+  - palabra: 欠点
+    lectura: けってん
+    tipo_lectura: 'on'
+    significado: Defecto
+    mascara: '----.'
+    frase: 誰にでも(欠)点があります。
+    traduccion: Todo el mundo tiene defectos.

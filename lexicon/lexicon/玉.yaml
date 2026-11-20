@@ -1,0 +1,16 @@
+id: 玉
+palabras:
+  - palabra: 玉
+    lectura: たま
+    tipo_lectura: kun
+    significado: Bola, esfera
+    mascara: '--'
+    frase: 子どもが(玉)で遊んでいます。
+    traduccion: Los niños juegan con una pelota.
+  - palabra: 目玉
+    lectura: めだま
+    tipo_lectura: kun
+    significado: Ojo; atracción principal
+    mascara: '-.--'
+    frase: この店の目(玉)はケーキです。
+    traduccion: La atracción principal de esta tienda es el pastel.

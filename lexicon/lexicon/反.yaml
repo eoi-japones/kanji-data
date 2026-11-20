@@ -1,0 +1,16 @@
+id: 反
+palabras:
+  - palabra: 反則
+    lectura: はんそく
+    tipo_lectura: 'on'
+    significado: Falta (en un juego)
+    mascara: '--.--'
+    frase: サッカーで(反)則をしました。
+    traduccion: Cometí una falta en el fútbol.
+  - palabra: 反応
+    lectura: はんのう
+    tipo_lectura: 'on'
+    significado: Reacción
+    mascara: '----.'
+    frase: 彼の(反)応は早かったです。
+    traduccion: Su reacción fue rápida.

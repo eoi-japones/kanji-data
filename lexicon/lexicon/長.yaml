@@ -1,0 +1,23 @@
+id: 長
+palabras:
+  - palabra: 会長
+    lectura: かいちょう
+    tipo_lectura: 'on'
+    significado: Presidente (de una asociación)
+    mascara: '--.---'
+    frase: 会(長)が挨拶しました。
+    traduccion: El presidente saludó.
+  - palabra: 管長
+    lectura: かんちょう
+    tipo_lectura: 'on'
+    significado: Abad principal
+    mascara: '--.---'
+    frase: 寺の管(長)さんに会いました。
+    traduccion: Me reuní con el abad principal del templo.
+  - palabra: 長い
+    lectura: ながい
+    tipo_lectura: kun
+    significado: Largo
+    mascara: '--.-'
+    frase: この川は(長)いです。
+    traduccion: Este río es largo.

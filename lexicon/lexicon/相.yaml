@@ -1,0 +1,16 @@
+id: 相
+palabras:
+  - palabra: 世相
+    lectura: せそう
+    tipo_lectura: 'on'
+    significado: Situación social, signo de los tiempos
+    mascara: '-.--'
+    frase: この歌は世(相)を表しています。
+    traduccion: Esta canción refleja la situación social.
+  - palabra: 相場
+    lectura: そうば
+    tipo_lectura: 'on'
+    significado: Cotización, precio de mercado
+    mascara: '--.-'
+    frase: 株の(相)場が上がりました。
+    traduccion: La cotización de las acciones subió.

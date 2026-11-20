@@ -1,0 +1,16 @@
+id: 寸
+palabras:
+  - palabra: 一寸
+    lectura: ちょっと
+    tipo_lectura: kun
+    significado: Un poco, un momento
+    mascara: '----.'
+    frase: 一(寸)待ってください。
+    traduccion: Espere un momento, por favor.
+  - palabra: 原寸
+    lectura: げんすん
+    tipo_lectura: 'on'
+    significado: Tamaño real
+    mascara: '--.--'
+    frase: この写真は原(寸)です。
+    traduccion: Esta foto es a tamaño real.

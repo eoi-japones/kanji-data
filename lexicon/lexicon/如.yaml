@@ -1,0 +1,16 @@
+id: 如
+palabras:
+  - palabra: 欠如
+    lectura: けつじょ
+    tipo_lectura: 'on'
+    significado: Falta, carencia
+    mascara: '--.--'
+    frase: 睡眠の欠(如)は体に悪いです。
+    traduccion: La falta de sueño es mala para el cuerpo.
+  - palabra: 一如
+    lectura: いちにょ
+    tipo_lectura: 'on'
+    significado: Unidad, identidad
+    mascara: '--.--'
+    frase: 心身一(如)が大切です。
+    traduccion: La unidad de cuerpo y mente es importante.

@@ -1,0 +1,16 @@
+id: 幾
+palabras:
+  - palabra: 幾ら
+    lectura: いくら
+    tipo_lectura: kun
+    significado: Cuánto
+    mascara: '--.-'
+    frase: これは(幾)らですか。
+    traduccion: ¿Cuánto cuesta esto?
+  - palabra: 幾何
+    lectura: きか
+    tipo_lectura: 'on'
+    significado: Geometría
+    mascara: '-.-'
+    frase: (幾)何を勉強しています。
+    traduccion: Estoy estudiando geometría.

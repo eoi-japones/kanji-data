@@ -1,0 +1,23 @@
+id: 見
+palabras:
+  - palabra: 会見
+    lectura: かいけん
+    tipo_lectura: 'on'
+    significado: Entrevista, rueda de prensa
+    mascara: '--.--'
+    frase: 社長が記者会(見)をしました。
+    traduccion: El presidente dio una rueda de prensa.
+  - palabra: 意見
+    lectura: いけん
+    tipo_lectura: 'on'
+    significado: Opinión
+    mascara: '-.--'
+    frase: あなたの意(見)を聞かせてください。
+    traduccion: Dígame su opinión.
+  - palabra: 菊見
+    lectura: きくみ
+    tipo_lectura: kun
+    significado: Contemplación de crisantemos
+    mascara: '--.-'
+    frase: 秋に家族で菊(見)に行きます。
+    traduccion: En otoño voy a ver crisantemos con mi familia.

@@ -1,0 +1,16 @@
+id: 直
+palabras:
+  - palabra: 書き直す
+    lectura: かきなおす
+    tipo_lectura: kun
+    significado: Reescribir
+    mascara: '-.-.--.-'
+    frase: 作文を書き(直)しました。
+    traduccion: Reescribí la redacción.
+  - palabra: 正直
+    lectura: しょうじき
+    tipo_lectura: 'on'
+    significado: Honesto, sincero
+    mascara: '---.--'
+    frase: 正(直)に話してください。
+    traduccion: Hable con sinceridad.

@@ -15,5 +15,7 @@ integrantes:
 auxiliares: 
   - id: 直
     para: 値
+  - id: 咅
+    para: 賠
 
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/dinero_1.jpg"

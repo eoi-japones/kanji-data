@@ -1,0 +1,16 @@
+id: 呉
+palabras:
+  - palabra: 呉れる
+    lectura: くれる
+    tipo_lectura: kun
+    significado: Dar (a mí)
+    mascara: '-.-.-'
+    frase: 友達が本を(呉)れました。
+    traduccion: Un amigo me dio un libro.
+  - palabra: 呉音
+    lectura: ごおん
+    tipo_lectura: 'on'
+    significado: Lectura go-on
+    mascara: '-.--'
+    frase: この漢字の(呉)音を覚えました。
+    traduccion: Memoricé la lectura go-on de este kanji.

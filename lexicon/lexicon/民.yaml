@@ -1,0 +1,16 @@
+id: 民
+palabras:
+  - palabra: 人民
+    lectura: じんみん
+    tipo_lectura: 'on'
+    significado: Pueblo, ciudadanos
+    mascara: '--.--'
+    frase: 人(民)の声を聞くべきです。
+    traduccion: Debemos escuchar la voz del pueblo.
+  - palabra: 国民
+    lectura: こくみん
+    tipo_lectura: 'on'
+    significado: Ciudadanía, pueblo de un país
+    mascara: '--.--'
+    frase: 国(民)は選挙で投票します。
+    traduccion: Los ciudadanos votan en las elecciones.

@@ -1,0 +1,16 @@
+id: 務
+palabras:
+  - palabra: 勤務
+    lectura: きんむ
+    tipo_lectura: 'on'
+    significado: Trabajo, servicio
+    mascara: '--.-'
+    frase: 父は病院で勤(務)しています。
+    traduccion: Mi padre trabaja en un hospital.
+  - palabra: 国務
+    lectura: こくむ
+    tipo_lectura: 'on'
+    significado: Asuntos de Estado
+    mascara: '--.-'
+    frase: 国(務)長官が会議に出席しました。
+    traduccion: El secretario de Estado asistió a la reunión.

@@ -1,0 +1,16 @@
+id: 浦
+palabras:
+  - palabra: 浦
+    lectura: うら
+    tipo_lectura: kun
+    significado: Ensenada, costa
+    mascara: '--'
+    frase: (浦)で貝を拾いました。
+    traduccion: Recogí conchas en la ensenada.
+  - palabra: 津々浦々
+    lectura: つつうらうら
+    tipo_lectura: kun
+    significado: Por todo el país
+    mascara: '------...'
+    frase: その話は津々(浦)々に広まりました。
+    traduccion: La historia se extendió por todo el país.

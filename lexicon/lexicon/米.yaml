@@ -1,0 +1,16 @@
+id: 米
+palabras:
+  - palabra: 白米
+    lectura: はくまい
+    tipo_lectura: 'on'
+    significado: Arroz blanco
+    mascara: '--.--'
+    frase: 白(米)はおいしいです。
+    traduccion: El arroz blanco está rico.
+  - palabra: 米
+    lectura: こめ
+    tipo_lectura: kun
+    significado: Arroz
+    mascara: '--'
+    frase: 毎日(米)を食べます。
+    traduccion: Como arroz todos los días.

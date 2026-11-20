@@ -1,0 +1,16 @@
+id: 義
+palabras:
+  - palabra: 主義
+    lectura: しゅぎ
+    tipo_lectura: 'on'
+    significado: Doctrina, principio
+    mascara: '--.-'
+    frase: 彼の主(義)は簡単です。
+    traduccion: Su principio es sencillo.
+  - palabra: 定義
+    lectura: ていぎ
+    tipo_lectura: 'on'
+    significado: Definición
+    mascara: '--.-'
+    frase: 言葉の定(義)を確認します。
+    traduccion: Confirmo la definición de la palabra.

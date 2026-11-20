@@ -1,0 +1,16 @@
+id: 凡
+palabras:
+  - palabra: 凡人
+    lectura: ぼんじん
+    tipo_lectura: 'on'
+    significado: Persona corriente
+    mascara: '--.--'
+    frase: 私たちはみんな(凡)人です。
+    traduccion: Todos somos personas corrientes.
+  - palabra: 凡例
+    lectura: はんれい
+    tipo_lectura: 'on'
+    significado: Notas explicativas, leyenda
+    mascara: '--.--'
+    frase: 辞書の(凡)例を読みました。
+    traduccion: Leí las notas de uso del diccionario.

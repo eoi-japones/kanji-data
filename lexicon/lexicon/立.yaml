@@ -1,0 +1,16 @@
+id: 立
+palabras:
+  - palabra: 中立
+    lectura: ちゅうりつ
+    tipo_lectura: 'on'
+    significado: Neutralidad
+    mascara: '---.--'
+    frase: 彼は中(立)の立場を取ります。
+    traduccion: Él adopta una postura neutral.
+  - palabra: 国立
+    lectura: こくりつ
+    tipo_lectura: 'on'
+    significado: Nacional, estatal
+    mascara: '--.--'
+    frase: 国(立)大学に行きたいです。
+    traduccion: Quiero ir a una universidad nacional.

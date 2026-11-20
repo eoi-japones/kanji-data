@@ -1,0 +1,16 @@
+id: 式
+palabras:
+  - palabra: 式
+    lectura: しき
+    tipo_lectura: 'on'
+    significado: Ceremonia, estilo
+    mascara: '--'
+    frase: (式)は十時に始まります。
+    traduccion: La ceremonia empieza a las diez.
+  - palabra: 形式
+    lectura: けいしき
+    tipo_lectura: 'on'
+    significado: Forma, formato
+    mascara: '--.--'
+    frase: 形(式)より内容が大切です。
+    traduccion: El contenido es más importante que la forma.

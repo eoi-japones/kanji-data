@@ -1,0 +1,16 @@
+id: 敬
+palabras:
+  - palabra: 敬意
+    lectura: けいい
+    tipo_lectura: 'on'
+    significado: Respeto
+    mascara: '--.-'
+    frase: 先生に(敬)意を表します。
+    traduccion: Muestro respeto al profesor.
+  - palabra: 敬語
+    lectura: けいご
+    tipo_lectura: 'on'
+    significado: Lenguaje honorífico
+    mascara: '--.-'
+    frase: 日本語の(敬)語は難しいです。
+    traduccion: El lenguaje honorífico japonés es difícil.

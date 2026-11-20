@@ -1,0 +1,16 @@
+id: 旨
+palabras:
+  - palabra: 本旨
+    lectura: ほんし
+    tipo_lectura: 'on'
+    significado: Propósito principal
+    mascara: '--.-'
+    frase: 法律の本(旨)を理解します。
+    traduccion: Entiendo el propósito principal de la ley.
+  - palabra: 論旨
+    lectura: ろんし
+    tipo_lectura: 'on'
+    significado: Hilo del argumento
+    mascara: '--.-'
+    frase: 彼の論(旨)は明確です。
+    traduccion: El hilo de su argumento es claro.

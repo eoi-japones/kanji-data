@@ -1,0 +1,16 @@
+id: 束
+palabras:
+  - palabra: 約束
+    lectura: やくそく
+    tipo_lectura: 'on'
+    significado: Promesa, cita
+    mascara: '--.--'
+    frase: 友達と約(束)をしました。
+    traduccion: Hice una promesa con un amigo.
+  - palabra: 花束
+    lectura: はなたば
+    tipo_lectura: kun
+    significado: Ramo de flores
+    mascara: '--.--'
+    frase: 母に花(束)をあげました。
+    traduccion: Le di un ramo de flores a mi madre.

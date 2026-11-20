@@ -1,0 +1,16 @@
+id: 羽
+palabras:
+  - palabra: 羽
+    lectura: はね
+    tipo_lectura: kun
+    significado: Pluma, ala
+    mascara: '--'
+    frase: 鳥の(羽)が落ちていました。
+    traduccion: Había una pluma de pájaro en el suelo.
+  - palabra: 一羽
+    lectura: いちわ
+    tipo_lectura: kun
+    significado: Un pájaro (contador)
+    mascara: '--.-'
+    frase: 庭に鳥が一(羽)います。
+    traduccion: Hay un pájaro en el jardín.

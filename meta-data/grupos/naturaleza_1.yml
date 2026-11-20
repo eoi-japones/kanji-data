@@ -18,6 +18,8 @@ integrantes:
     - 木
     - 林
     - 森
-auxiliares: []
+auxiliares:
+    - id: 朮
+      para: 木
 
 icono: "https://eoi-japones.github.io/kanji-data/assets/iconos_grupos/naturaleza_1.jpg"

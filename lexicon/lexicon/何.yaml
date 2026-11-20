@@ -1,0 +1,23 @@
+id: 何
+palabras:
+  - palabra: 何でも
+    lectura: なんでも
+    tipo_lectura: kun
+    significado: Cualquier cosa, todo
+    mascara: '--.-.-'
+    frase: (何)でも食べます。
+    traduccion: Como cualquier cosa.
+  - palabra: 何も
+    lectura: なにも
+    tipo_lectura: kun
+    significado: Nada
+    mascara: '--.-'
+    frase: 今日は(何)も食べませんでした。
+    traduccion: Hoy no comí nada.
+  - palabra: 幾何
+    lectura: きか
+    tipo_lectura: 'on'
+    significado: Geometría
+    mascara: '-.-'
+    frase: 幾(何)を勉強しています。
+    traduccion: Estoy estudiando geometría.

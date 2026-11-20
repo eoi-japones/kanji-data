@@ -1,0 +1,23 @@
+id: 支
+palabras:
+  - palabra: 支える
+    lectura: ささえる
+    tipo_lectura: kun
+    significado: Apoyar, sostener
+    mascara: '--.-.-'
+    frase: 家族を(支)えるために働きます。
+    traduccion: Trabajo para mantener a mi familia.
+  - palabra: 支払う
+    lectura: しはらう
+    tipo_lectura: 'on'
+    significado: Pagar
+    mascara: '-.--.-'
+    frase: カードで(支)払います。
+    traduccion: Pago con tarjeta.
+  - palabra: 気管支
+    lectura: きかんし
+    tipo_lectura: 'on'
+    significado: Bronquio
+    mascara: '-.--.-'
+    frase: 気管(支)の病気です。
+    traduccion: Es una enfermedad de los bronquios.

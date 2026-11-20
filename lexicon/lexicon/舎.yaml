@@ -1,0 +1,16 @@
+id: 舎
+palabras:
+  - palabra: 校舎
+    lectura: こうしゃ
+    tipo_lectura: 'on'
+    significado: Edificio escolar
+    mascara: '--.--'
+    frase: 新しい校(舎)ができました。
+    traduccion: Se construyó un nuevo edificio escolar.
+  - palabra: 田舎
+    lectura: いなか
+    tipo_lectura: kun
+    significado: Campo, pueblo
+    mascara: '---.'
+    frase: 夏に田(舎)へ帰ります。
+    traduccion: En verano vuelvo al pueblo.

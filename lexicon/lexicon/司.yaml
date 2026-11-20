@@ -1,0 +1,16 @@
+id: 司
+palabras:
+  - palabra: 上司
+    lectura: じょうし
+    tipo_lectura: 'on'
+    significado: Jefe, superior
+    mascara: '---.-'
+    frase: 上(司)に報告しました。
+    traduccion: Informé a mi jefe.
+  - palabra: 司会
+    lectura: しかい
+    tipo_lectura: 'on'
+    significado: Moderación, presentación de un acto
+    mascara: '-.--'
+    frase: 彼女が(司)会をしました。
+    traduccion: Ella moderó el acto.

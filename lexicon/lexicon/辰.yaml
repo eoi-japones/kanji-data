@@ -1,0 +1,16 @@
+id: 辰
+palabras:
+  - palabra: 誕辰
+    lectura: たんしん
+    tipo_lectura: 'on'
+    significado: Cumpleaños
+    mascara: '--.--'
+    frase: 誕(辰)を祝いました。
+    traduccion: Celebramos el cumpleaños.
+  - palabra: 辰年
+    lectura: たつどし
+    tipo_lectura: kun
+    significado: Año del Dragón
+    mascara: '--.--'
+    frase: 来年は(辰)年です。
+    traduccion: El año que viene es el Año del Dragón.
