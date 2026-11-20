@@ -1,0 +1,16 @@
+id: 奴
+palabras:
+  - palabra: 売国奴
+    lectura: ばいこくど
+    tipo_lectura: 'on'
+    significado: Traidor a la patria
+    mascara: '--.--.-'
+    frase: 彼は売国(奴)と呼ばれました。
+    traduccion: Fue llamado traidor a la patria.
+  - palabra: 冷奴
+    lectura: ひややっこ
+    tipo_lectura: kun
+    significado: Tofu frío
+    mascara: '--.---'
+    frase: 夏は冷(奴)がおいしいです。
+    traduccion: En verano el tofu frío está rico.

@@ -1,0 +1,16 @@
+id: 曹
+palabras:
+  - palabra: 三曹
+    lectura: さんそう
+    tipo_lectura: 'on'
+    significado: Sargento (Fuerzas de Autodefensa)
+    mascara: '--.--'
+    frase: 三(曹)は若い兵士です。
+    traduccion: El sargento es un soldado joven.
+  - palabra: 軍曹
+    lectura: ぐんそう
+    tipo_lectura: 'on'
+    significado: Sargento
+    mascara: '--.--'
+    frase: 軍(曹)が兵士に命令しました。
+    traduccion: El sargento dio una orden a los soldados.

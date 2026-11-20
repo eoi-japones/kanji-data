@@ -1,0 +1,16 @@
+id: 包
+palabras:
+  - palabra: 包み
+    lectura: つつみ
+    tipo_lectura: kun
+    significado: Paquete, envoltorio
+    mascara: '--.-'
+    frase: (包)みを開けました。
+    traduccion: Abrí el paquete.
+  - palabra: 包帯
+    lectura: ほうたい
+    tipo_lectura: 'on'
+    significado: Venda
+    mascara: '--.--'
+    frase: 腕に(包)帯を巻きました。
+    traduccion: Me puse una venda en el brazo.

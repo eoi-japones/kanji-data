@@ -1,0 +1,16 @@
+id: 列
+palabras:
+  - palabra: 列
+    lectura: れつ
+    tipo_lectura: 'on'
+    significado: Fila, hilera
+    mascara: '--'
+    frase: (列)に並んでください。
+    traduccion: Pónganse en fila, por favor.
+  - palabra: 列車
+    lectura: れっしゃ
+    tipo_lectura: 'on'
+    significado: Tren
+    mascara: '----.'
+    frase: (列)車が駅に着きました。
+    traduccion: El tren llegó a la estación.

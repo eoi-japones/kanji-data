@@ -1,0 +1,16 @@
+id: 京
+palabras:
+  - palabra: 京都
+    lectura: きょうと
+    tipo_lectura: 'on'
+    significado: Kioto
+    mascara: '---.-'
+    frase: (京)都でお寺を訪ねました。
+    traduccion: Visité templos en Kioto.
+  - palabra: 東京
+    lectura: とうきょう
+    tipo_lectura: 'on'
+    significado: Tokio
+    mascara: '--.---'
+    frase: 東(京)は人の多い町です。
+    traduccion: Tokio es una ciudad con mucha gente.

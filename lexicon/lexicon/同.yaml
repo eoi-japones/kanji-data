@@ -1,0 +1,23 @@
+id: 同
+palabras:
+  - palabra: 同じ
+    lectura: おなじ
+    tipo_lectura: kun
+    significado: Igual, mismo
+    mascara: '--.-'
+    frase: 私も(同)じ本を持っています。
+    traduccion: Yo también tengo el mismo libro.
+  - palabra: 同僚
+    lectura: どうりょう
+    tipo_lectura: 'on'
+    significado: Colega
+    mascara: '--.---'
+    frase: (同)僚と昼ごはんを食べました。
+    traduccion: Comí con un colega.
+  - palabra: 同等
+    lectura: どうとう
+    tipo_lectura: 'on'
+    significado: Igualdad, equivalencia
+    mascara: '--.--'
+    frase: 二人は(同)等の力があります。
+    traduccion: Los dos tienen la misma fuerza.

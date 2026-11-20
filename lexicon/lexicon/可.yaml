@@ -1,0 +1,30 @@
+id: 可
+palabras:
+  - palabra: 不可
+    lectura: ふか
+    tipo_lectura: 'on'
+    significado: Incorrecto, no permitido
+    mascara: '-.-'
+    frase: ここでの撮影は不(可)です。
+    traduccion: No se permite fotografiar aquí.
+  - palabra: 不可欠
+    lectura: ふかけつ
+    tipo_lectura: 'on'
+    significado: Indispensable
+    mascara: '-.-.--'
+    frase: 水は生活に不(可)欠です。
+    traduccion: El agua es indispensable para la vida.
+  - palabra: 可笑しい
+    lectura: おかしい
+    tipo_lectura: kun
+    significado: Gracioso, divertido; raro
+    mascara: '--..-.-'
+    frase: この話は(可)笑しいです。
+    traduccion: Esta historia es divertida.
+  - palabra: 許可
+    lectura: きょか
+    tipo_lectura: 'on'
+    significado: Permiso, autorización
+    mascara: '--.-'
+    frase: 先生の許(可)をもらいました。
+    traduccion: Obtuve el permiso del profesor.

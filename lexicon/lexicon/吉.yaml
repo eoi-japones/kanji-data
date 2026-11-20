@@ -1,0 +1,16 @@
+id: 吉
+palabras:
+  - palabra: 不吉
+    lectura: ふきつ
+    tipo_lectura: 'on'
+    significado: De mal agüero
+    mascara: '-.--'
+    frase: 黒猫を見るのは不(吉)だと言われます。
+    traduccion: Se dice que ver un gato negro es de mal agüero.
+  - palabra: 吉
+    lectura: きち
+    tipo_lectura: 'on'
+    significado: Buena suerte
+    mascara: '--'
+    frase: おみくじで(吉)が出ました。
+    traduccion: Me salió «suerte» en el omikuji.

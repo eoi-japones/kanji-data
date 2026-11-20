@@ -1,0 +1,16 @@
+id: 矛
+palabras:
+  - palabra: 矛
+    lectura: ほこ
+    tipo_lectura: kun
+    significado: Lanza
+    mascara: '--'
+    frase: 武士は(矛)を持っていました。
+    traduccion: El guerrero llevaba una lanza.
+  - palabra: 矛盾
+    lectura: むじゅん
+    tipo_lectura: 'on'
+    significado: Contradicción
+    mascara: '-.---'
+    frase: 彼の話には(矛)盾があります。
+    traduccion: Su historia tiene contradicciones.

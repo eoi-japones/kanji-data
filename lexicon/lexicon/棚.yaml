@@ -1,0 +1,16 @@
+id: 棚
+palabras:
+  - palabra: 本棚
+    lectura: ほんだな
+    tipo_lectura: kun
+    significado: Estantería de libros
+    mascara: '--.--'
+    frase: 本(棚)に本を並べます。
+    traduccion: Coloco los libros en la estantería.
+  - palabra: 棚
+    lectura: たな
+    tipo_lectura: kun
+    significado: Estante, repisa
+    mascara: '--'
+    frase: (棚)の上に花があります。
+    traduccion: Hay flores sobre el estante.

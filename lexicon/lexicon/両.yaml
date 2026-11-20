@@ -1,0 +1,16 @@
+id: 両
+palabras:
+  - palabra: 両方
+    lectura: りょうほう
+    tipo_lectura: 'on'
+    significado: Ambos, los dos
+    mascara: '---.--'
+    frase: (両)方とも好きです。
+    traduccion: Me gustan ambos.
+  - palabra: 両親
+    lectura: りょうしん
+    tipo_lectura: 'on'
+    significado: Padres
+    mascara: '---.--'
+    frase: (両)親は京都に住んでいます。
+    traduccion: Mis padres viven en Kioto.

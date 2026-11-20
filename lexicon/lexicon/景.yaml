@@ -1,0 +1,16 @@
+id: 景
+palabras:
+  - palabra: 景色
+    lectura: けしき
+    tipo_lectura: kun
+    significado: Paisaje
+    mascara: '---.'
+    frase: 山の(景)色がきれいです。
+    traduccion: El paisaje de la montaña es hermoso.
+  - palabra: 背景
+    lectura: はいけい
+    tipo_lectura: 'on'
+    significado: Fondo, contexto
+    mascara: '--.--'
+    frase: 写真の背(景)が白いです。
+    traduccion: El fondo de la foto es blanco.

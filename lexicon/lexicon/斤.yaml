@@ -1,0 +1,16 @@
+id: 斤
+palabras:
+  - palabra: 一斤
+    lectura: いっきん
+    tipo_lectura: 'on'
+    significado: Una hogaza; unidad de peso
+    mascara: '----.'
+    frase: パンを一(斤)買いました。
+    traduccion: Compré una hogaza de pan.
+  - palabra: 斤量
+    lectura: きんりょう
+    tipo_lectura: 'on'
+    significado: Peso
+    mascara: '--.---'
+    frase: 荷物の(斤)量を量ります。
+    traduccion: Mido el peso del equipaje.

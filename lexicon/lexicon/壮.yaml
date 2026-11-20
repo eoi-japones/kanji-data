@@ -1,0 +1,16 @@
+id: 壮
+palabras:
+  - palabra: 壮大
+    lectura: そうだい
+    tipo_lectura: 'on'
+    significado: Magnífico, grandioso
+    mascara: '--.--'
+    frase: (壮)大な景色を見ました。
+    traduccion: Vi un paisaje grandioso.
+  - palabra: 壮行会
+    lectura: そうこうかい
+    tipo_lectura: 'on'
+    significado: Fiesta de despedida
+    mascara: '--.--.--'
+    frase: 友達の(壮)行会を開きました。
+    traduccion: Hicimos una fiesta de despedida para un amigo.

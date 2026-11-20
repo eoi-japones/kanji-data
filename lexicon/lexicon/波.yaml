@@ -1,0 +1,16 @@
+id: 波
+palabras:
+  - palabra: 波
+    lectura: なみ
+    tipo_lectura: kun
+    significado: Ola
+    mascara: '--'
+    frase: 海の(波)が高いです。
+    traduccion: Las olas del mar son altas.
+  - palabra: 津波
+    lectura: つなみ
+    tipo_lectura: kun
+    significado: Tsunami
+    mascara: '-.--'
+    frase: 津(波)に注意してください。
+    traduccion: Tenga cuidado con el tsunami.

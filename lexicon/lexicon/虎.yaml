@@ -1,0 +1,16 @@
+id: 虎
+palabras:
+  - palabra: 虎
+    lectura: とら
+    tipo_lectura: kun
+    significado: Tigre
+    mascara: '--'
+    frase: 動物園で(虎)を見ました。
+    traduccion: Vi un tigre en el zoológico.
+  - palabra: 張子の虎
+    lectura: はりこのとら
+    tipo_lectura: kun
+    significado: Tigre de papel, fanfarrón
+    mascara: '--.-.-.--'
+    frase: 彼は張子の(虎)です。
+    traduccion: Es un tigre de papel.

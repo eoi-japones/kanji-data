@@ -1,0 +1,16 @@
+id: 朝
+palabras:
+  - palabra: 今朝
+    lectura: けさ
+    tipo_lectura: kun
+    significado: Esta mañana
+    mascara: '--.'
+    frase: 今(朝)は早く起きました。
+    traduccion: Esta mañana me levanté temprano.
+  - palabra: 朝ごはん
+    lectura: あさごはん
+    tipo_lectura: kun
+    significado: Desayuno
+    mascara: '--.-.-.-'
+    frase: (朝)ごはんにパンを食べます。
+    traduccion: Desayuno pan.

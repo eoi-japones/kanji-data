@@ -1,0 +1,16 @@
+id: 丙
+palabras:
+  - palabra: 丙
+    lectura: へい
+    tipo_lectura: 'on'
+    significado: Tercera clase, tercero
+    mascara: '--'
+    frase: 彼は(丙)の評価でした。
+    traduccion: Obtuvo una evaluación de tercer nivel.
+  - palabra: 丙午
+    lectura: ひのえうま
+    tipo_lectura: kun
+    significado: Caballo de Fuego
+    mascara: '---.--'
+    frase: (丙)午の年生まれです。
+    traduccion: Nací en el año del Caballo de Fuego.

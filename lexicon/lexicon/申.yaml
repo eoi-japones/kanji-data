@@ -1,0 +1,23 @@
+id: 申
+palabras:
+  - palabra: 申し訳
+    lectura: もうしわけ
+    tipo_lectura: kun
+    significado: Disculpa
+    mascara: '--.-.--'
+    frase: (申)し訳ありません。
+    traduccion: Lo siento mucho.
+  - palabra: 申請
+    lectura: しんせい
+    tipo_lectura: 'on'
+    significado: Solicitud
+    mascara: '--.--'
+    frase: ビザを(申)請しました。
+    traduccion: Solicité el visado.
+  - palabra: 答申
+    lectura: とうしん
+    tipo_lectura: 'on'
+    significado: Informe, dictamen
+    mascara: '--.--'
+    frase: 委員会が答(申)を出しました。
+    traduccion: El comité emitió su dictamen.

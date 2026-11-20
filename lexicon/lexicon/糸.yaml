@@ -1,0 +1,16 @@
+id: 糸
+palabras:
+  - palabra: 毛糸
+    lectura: けいと
+    tipo_lectura: kun
+    significado: Lana
+    mascara: '-.--'
+    frase: 毛(糸)でセーターを編みます。
+    traduccion: Tejo un jersey con lana.
+  - palabra: 糸
+    lectura: いと
+    tipo_lectura: kun
+    significado: Hilo
+    mascara: '--'
+    frase: 針と(糸)で服を直します。
+    traduccion: Arreglo la ropa con aguja e hilo.

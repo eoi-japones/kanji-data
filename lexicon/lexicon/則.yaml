@@ -1,0 +1,23 @@
+id: 則
+palabras:
+  - palabra: 原則
+    lectura: げんそく
+    tipo_lectura: 'on'
+    significado: Principio, regla general
+    mascara: '--.--'
+    frase: 原(則)として毎日練習します。
+    traduccion: Por norma general, practico todos los días.
+  - palabra: 反則
+    lectura: はんそく
+    tipo_lectura: 'on'
+    significado: Falta (en un juego)
+    mascara: '--.--'
+    frase: サッカーで反(則)をしました。
+    traduccion: Cometí una falta en el fútbol.
+  - palabra: 規則
+    lectura: きそく
+    tipo_lectura: 'on'
+    significado: Regla, norma
+    mascara: '-.--'
+    frase: 学校の規(則)を守ります。
+    traduccion: Respeto las normas del colegio.

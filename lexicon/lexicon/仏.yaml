@@ -1,12 +1,19 @@
 id: 仏
 palabras:
-  - palabra: 仏
-    lectura: ふつ
+  - palabra: 仏像
+    lectura: ぶつぞう
     tipo_lectura: 'on'
-    significado: Francia
-    mascara: '--'
-    frase: いつか(仏)へ旅行したいです。
-    traduccion: Algún día me gustaría viajar a Francia.
+    significado: Estatua de Buda
+    mascara: '--.--'
+    frase: 寺で古い(仏)像を見ました。
+    traduccion: Vi una antigua estatua de Buda en el templo.
+  - palabra: 仏壇
+    lectura: ぶつだん
+    tipo_lectura: 'on'
+    significado: Altar budista
+    mascara: '--.--'
+    frase: 家に小さな(仏)壇があります。
+    traduccion: En casa hay un pequeño altar budista.
   - palabra: 仏教
     lectura: ぶっきょう
     tipo_lectura: 'on'

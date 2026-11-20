@@ -1,0 +1,16 @@
+id: 次
+palabras:
+  - palabra: 次
+    lectura: つぎ
+    tipo_lectura: kun
+    significado: Siguiente
+    mascara: '--'
+    frase: (次)の駅で降ります。
+    traduccion: Bajo en la siguiente estación.
+  - palabra: 次々
+    lectura: つぎつぎ
+    tipo_lectura: kun
+    significado: Uno tras otro
+    mascara: '----.'
+    frase: 問題が(次)々に起こりました。
+    traduccion: Los problemas surgieron uno tras otro.

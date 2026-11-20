@@ -1,0 +1,16 @@
+id: 令
+palabras:
+  - palabra: 令
+    lectura: れい
+    tipo_lectura: 'on'
+    significado: Orden, mandato
+    mascara: '--'
+    frase: 国王の(令)が出ました。
+    traduccion: Salió una orden del rey.
+  - palabra: 令和
+    lectura: れいわ
+    tipo_lectura: 'on'
+    significado: Era Reiwa
+    mascara: '--.-'
+    frase: (令)和は新しい時代です。
+    traduccion: Reiwa es una nueva era.

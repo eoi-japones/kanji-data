@@ -1,0 +1,16 @@
+id: 古
+palabras:
+  - palabra: 中古
+    lectura: ちゅうこ
+    tipo_lectura: 'on'
+    significado: De segunda mano
+    mascara: '---.-'
+    frase: 中(古)の車を買いました。
+    traduccion: Compré un coche de segunda mano.
+  - palabra: 古い
+    lectura: ふるい
+    tipo_lectura: kun
+    significado: Viejo, antiguo
+    mascara: '--.-'
+    frase: この寺はとても(古)いです。
+    traduccion: Este templo es muy antiguo.

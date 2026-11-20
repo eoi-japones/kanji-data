@@ -1,0 +1,16 @@
+id: 示
+palabras:
+  - palabra: 指示
+    lectura: しじ
+    tipo_lectura: 'on'
+    significado: Indicación, instrucción
+    mascara: '-.-'
+    frase: 先生の指(示)に従います。
+    traduccion: Sigo las indicaciones del profesor.
+  - palabra: 示す
+    lectura: しめす
+    tipo_lectura: kun
+    significado: Mostrar, indicar
+    mascara: '--.-'
+    frase: 先生は例を(示)しました。
+    traduccion: El profesor mostró un ejemplo.

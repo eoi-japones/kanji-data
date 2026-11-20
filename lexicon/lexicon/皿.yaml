@@ -1,0 +1,16 @@
+id: 皿
+palabras:
+  - palabra: 灰皿
+    lectura: はいざら
+    tipo_lectura: kun
+    significado: Cenicero
+    mascara: '--.--'
+    frase: テーブルの上に灰(皿)があります。
+    traduccion: Hay un cenicero sobre la mesa.
+  - palabra: 皿
+    lectura: さら
+    tipo_lectura: kun
+    significado: Plato
+    mascara: '--'
+    frase: (皿)を洗います。
+    traduccion: Lavo los platos.

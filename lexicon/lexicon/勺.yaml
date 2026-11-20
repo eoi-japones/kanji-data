@@ -1,0 +1,16 @@
+id: 勺
+palabras:
+  - palabra: 勺
+    lectura: しゃく
+    tipo_lectura: 'on'
+    significado: Shaku (unidad de volumen)
+    mascara: '---'
+    frase: 一(勺)の水を入れます。
+    traduccion: Añado un shaku de agua.
+  - palabra: 勺水
+    lectura: しゃくすい
+    tipo_lectura: 'on'
+    significado: Un poco de agua
+    mascara: '---.--'
+    frase: (勺)水を飲みました。
+    traduccion: Bebí un poco de agua.

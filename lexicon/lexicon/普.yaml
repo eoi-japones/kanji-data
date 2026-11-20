@@ -1,0 +1,16 @@
+id: 普
+palabras:
+  - palabra: 普及
+    lectura: ふきゅう
+    tipo_lectura: 'on'
+    significado: Difusión, popularización
+    mascara: '-.---'
+    frase: インターネットが(普)及しました。
+    traduccion: Internet se ha popularizado.
+  - palabra: 普通
+    lectura: ふつう
+    tipo_lectura: 'on'
+    significado: Normal, ordinario
+    mascara: '-.--'
+    frase: (普)通の日は七時に起きます。
+    traduccion: Los días normales me levanto a las siete.

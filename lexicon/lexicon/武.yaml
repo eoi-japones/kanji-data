@@ -1,0 +1,16 @@
+id: 武
+palabras:
+  - palabra: 武器
+    lectura: ぶき
+    tipo_lectura: 'on'
+    significado: Arma
+    mascara: '-.-'
+    frase: 武士は(武)器を持っていました。
+    traduccion: El samurái llevaba un arma.
+  - palabra: 武士
+    lectura: ぶし
+    tipo_lectura: 'on'
+    significado: Samurái
+    mascara: '-.-'
+    frase: (武)士は刀を持っていました。
+    traduccion: El samurái llevaba una espada.

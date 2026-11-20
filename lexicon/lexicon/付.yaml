@@ -1,0 +1,16 @@
+id: 付
+palabras:
+  - palabra: 付く
+    lectura: つく
+    tipo_lectura: kun
+    significado: Pegarse, adherirse
+    mascara: '-.-'
+    frase: 服に糸が(付)きました。
+    traduccion: Se pegó un hilo a la ropa.
+  - palabra: 付ける
+    lectura: つける
+    tipo_lectura: kun
+    significado: Pegar, adjuntar
+    mascara: '-.-.-'
+    frase: 壁に写真を(付)けました。
+    traduccion: Pegué una foto en la pared.

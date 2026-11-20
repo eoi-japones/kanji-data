@@ -1,0 +1,16 @@
+id: 享
+palabras:
+  - palabra: 享受
+    lectura: きょうじゅ
+    tipo_lectura: 'on'
+    significado: Disfrute, goce
+    mascara: '---.--'
+    frase: 自由を(享)受する権利があります。
+    traduccion: Tenemos derecho a disfrutar de la libertad.
+  - palabra: 享年
+    lectura: きょうねん
+    tipo_lectura: 'on'
+    significado: Edad al morir
+    mascara: '---.--'
+    frase: 彼は(享)年八十歳でした。
+    traduccion: Tenía ochenta años al morir.

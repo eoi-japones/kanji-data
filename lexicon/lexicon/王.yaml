@@ -1,0 +1,16 @@
+id: 王
+palabras:
+  - palabra: 国王
+    lectura: こくおう
+    tipo_lectura: 'on'
+    significado: Rey
+    mascara: '--.--'
+    frase: 国(王)は城に住んでいます。
+    traduccion: El rey vive en el castillo.
+  - palabra: 女王
+    lectura: じょおう
+    tipo_lectura: 'on'
+    significado: Reina
+    mascara: '--.--'
+    frase: 女(王)は美しい庭を持っています。
+    traduccion: La reina tiene un hermoso jardín.

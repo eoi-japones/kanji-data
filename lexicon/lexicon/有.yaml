@@ -1,0 +1,16 @@
+id: 有
+palabras:
+  - palabra: 固有
+    lectura: こゆう
+    tipo_lectura: 'on'
+    significado: Propio, inherente
+    mascara: '-.--'
+    frase: これはこの地域固(有)の習慣です。
+    traduccion: Esta es una costumbre propia de esta región.
+  - palabra: 所有
+    lectura: しょゆう
+    tipo_lectura: 'on'
+    significado: Posesión, propiedad
+    mascara: '--.--'
+    frase: 彼は土地を所(有)しています。
+    traduccion: Él posee tierras.

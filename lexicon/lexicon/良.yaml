@@ -1,0 +1,16 @@
+id: 良
+palabras:
+  - palabra: 改良
+    lectura: かいりょう
+    tipo_lectura: 'on'
+    significado: Mejora
+    mascara: '--.---'
+    frase: この機械は改(良)が必要です。
+    traduccion: Esta máquina necesita una mejora.
+  - palabra: 良い
+    lectura: よい
+    tipo_lectura: kun
+    significado: Bueno
+    mascara: '-.-'
+    frase: 今日は(良)い天気です。
+    traduccion: Hoy hace buen tiempo.

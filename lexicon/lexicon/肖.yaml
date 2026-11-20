@@ -1,0 +1,16 @@
+id: 肖
+palabras:
+  - palabra: 肖像
+    lectura: しょうぞう
+    tipo_lectura: 'on'
+    significado: Retrato
+    mascara: '---.--'
+    frase: 壁に(肖)像が掛けてあります。
+    traduccion: Hay un retrato colgado en la pared.
+  - palabra: 肖像画
+    lectura: しょうぞうが
+    tipo_lectura: 'on'
+    significado: Retrato pintado
+    mascara: '---.--.-'
+    frase: 王の(肖)像画を描きました。
+    traduccion: Pinté un retrato del rey.

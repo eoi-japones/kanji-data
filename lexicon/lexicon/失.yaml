@@ -1,0 +1,23 @@
+id: 失
+palabras:
+  - palabra: 失う
+    lectura: うしなう
+    tipo_lectura: kun
+    significado: Perder
+    mascara: '---.-'
+    frase: 大切な物を(失)いました。
+    traduccion: Perdí algo importante.
+  - palabra: 失敗
+    lectura: しっぱい
+    tipo_lectura: 'on'
+    significado: Fracaso, error
+    mascara: '----.'
+    frase: (失)敗しても大丈夫です。
+    traduccion: No pasa nada si fracasas.
+  - palabra: 失策
+    lectura: しっさく
+    tipo_lectura: 'on'
+    significado: Desliz, error
+    mascara: '----.'
+    frase: 大きな(失)策をしました。
+    traduccion: Cometí un grave desliz.

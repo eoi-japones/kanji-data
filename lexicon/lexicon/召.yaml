@@ -1,0 +1,16 @@
+id: 召
+palabras:
+  - palabra: 召し上がる
+    lectura: めしあがる
+    tipo_lectura: kun
+    significado: Comer o beber (honorífico)
+    mascara: '-.-.-.-.-'
+    frase: どうぞ(召)し上がってください。
+    traduccion: Por favor, sírvase.
+  - palabra: 召喚
+    lectura: しょうかん
+    tipo_lectura: 'on'
+    significado: Citación, convocatoria
+    mascara: '---.--'
+    frase: 裁判所から(召)喚されました。
+    traduccion: Fui citado por el tribunal.

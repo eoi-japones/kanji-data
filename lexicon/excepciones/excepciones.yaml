@@ -245,3 +245,28 @@ excepciones:
     mascara: '--------...'
     tipo_lectura: 'on'
     motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 欠点
+    lectura: けってん
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 一斤
+    lectura: いっきん
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 失敗
+    lectura: しっぱい
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 列車
+    lectura: れっしゃ
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'
+  - palabra: 反応
+    lectura: はんのう
+    mascara: '----.'
+    tipo_lectura: 'on'
+    motivo: 'Reparto aproximado: el retroceso sobre KANJIDIC no casa esta lectura y la aproximación etiquetaba la palabra como kun; todos los kanji de la palabra usan aquí su lectura on.'

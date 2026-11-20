@@ -1,0 +1,16 @@
+id: 風
+palabras:
+  - palabra: 北風
+    lectura: きたかぜ
+    tipo_lectura: kun
+    significado: Viento del norte
+    mascara: '--.--'
+    frase: 北(風)が冷たいです。
+    traduccion: El viento del norte es frío.
+  - palabra: 台風
+    lectura: たいふう
+    tipo_lectura: 'on'
+    significado: Tifón
+    mascara: '--.--'
+    frase: 台(風)が来るそうです。
+    traduccion: Dicen que viene un tifón.

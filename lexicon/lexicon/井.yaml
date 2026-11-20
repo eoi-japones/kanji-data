@@ -1,0 +1,23 @@
+id: 井
+palabras:
+  - palabra: 井戸
+    lectura: いど
+    tipo_lectura: kun
+    significado: Pozo
+    mascara: '-.-'
+    frase: 村には古い(井)戸があります。
+    traduccion: En el pueblo hay un pozo antiguo.
+  - palabra: 天井
+    lectura: てんじょう
+    tipo_lectura: 'on'
+    significado: Techo
+    mascara: '--.---'
+    frase: 部屋の天(井)が高いです。
+    traduccion: El techo de la habitación es alto.
+  - palabra: 筒井
+    lectura: つつい
+    tipo_lectura: kun
+    significado: Pozo redondo
+    mascara: '--.-'
+    frase: 村の筒(井)で水をくみます。
+    traduccion: Saco agua del pozo redondo del pueblo.

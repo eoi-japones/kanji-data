@@ -1,0 +1,16 @@
+id: 豆
+palabras:
+  - palabra: 豆
+    lectura: まめ
+    tipo_lectura: kun
+    significado: Legumbre, judía
+    mascara: '--'
+    frase: (豆)を煮ています。
+    traduccion: Estoy cociendo judías.
+  - palabra: 豆腐
+    lectura: とうふ
+    tipo_lectura: 'on'
+    significado: Tofu
+    mascara: '--.-'
+    frase: (豆)腐は大豆から作ります。
+    traduccion: El tofu se hace de soja.

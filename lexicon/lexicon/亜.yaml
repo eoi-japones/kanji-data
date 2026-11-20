@@ -1,0 +1,16 @@
+id: 亜
+palabras:
+  - palabra: 亜鉛
+    lectura: あえん
+    tipo_lectura: 'on'
+    significado: Zinc
+    mascara: '-.--'
+    frase: (亜)鉛は金属の一つです。
+    traduccion: El zinc es un metal.
+  - palabra: 東亜
+    lectura: とうあ
+    tipo_lectura: 'on'
+    significado: Asia Oriental
+    mascara: '--.-'
+    frase: 東(亜)の国々を訪ねました。
+    traduccion: Visité países de Asia Oriental.

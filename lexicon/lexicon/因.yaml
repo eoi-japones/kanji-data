@@ -1,0 +1,16 @@
+id: 因
+palabras:
+  - palabra: 主因
+    lectura: しゅいん
+    tipo_lectura: 'on'
+    significado: Causa principal
+    mascara: '--.--'
+    frase: 失敗の主(因)は準備不足です。
+    traduccion: La causa principal del fracaso es la falta de preparación.
+  - palabra: 原因
+    lectura: げんいん
+    tipo_lectura: 'on'
+    significado: Causa
+    mascara: '--.--'
+    frase: 事故の原(因)を調べます。
+    traduccion: Investigo la causa del accidente.

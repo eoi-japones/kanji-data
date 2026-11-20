@@ -1,0 +1,16 @@
+id: 冒
+palabras:
+  - palabra: 冒険
+    lectura: ぼうけん
+    tipo_lectura: 'on'
+    significado: Aventura
+    mascara: '--.--'
+    frase: (冒)険に出かけました。
+    traduccion: Salí de aventura.
+  - palabra: 冒頭
+    lectura: ぼうとう
+    tipo_lectura: 'on'
+    significado: Comienzo, principio
+    mascara: '--.--'
+    frase: 本の(冒)頭を読みました。
+    traduccion: Leí el comienzo del libro.
